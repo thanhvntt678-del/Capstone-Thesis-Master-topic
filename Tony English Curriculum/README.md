@@ -27,5 +27,6 @@ Bộ giáo trình tiếng Anh thực chiến cho dân Mua hàng/Chuỗi cung ứ
 
 ## Tình trạng hiện tại
 
-- **Quyển 1** (`Quyen 1 - Thuc Chien/`): Lesson 01–07 đã khóa hoàn chỉnh (49 ngày), tất cả các check đã PASSED.
-- **Lesson tiếp theo cần soạn:** Lesson 08.
+- **Quyển 1** (`Quyen 1 - Thuc Chien/`): Lesson 01–08 đã khóa hoàn chỉnh (56 ngày), tất cả các check đã PASSED — file mới nhất: `QUYEN_1_MASTER_01-08_FINAL_LOCKED.docx`.
+- **Lesson 08:** Contractor Interface Dispute & Liquidated-Damages Recovery (Project Procurement, Wanek 4 — CAPEX Spray-Booth Line). Bản tiếng Anh riêng đạt 18 trang (~7.330 từ), không trùng câu với Lesson 01–07.
+- **Lesson tiếp theo cần soạn:** Lesson 09.
