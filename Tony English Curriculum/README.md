@@ -27,10 +27,11 @@ Bộ giáo trình tiếng Anh thực chiến cho dân Mua hàng/Chuỗi cung ứ
 
 ## Tình trạng hiện tại
 
-- **Quyển 1** (`Quyen 1 - Thuc Chien/`): Lesson 01–12 đã khóa hoàn chỉnh (84 ngày), tất cả các check đã PASSED — file mới nhất: `QUYEN_1_MASTER_01-12_FINAL_LOCKED.docx`.
+- **Quyển 1** (`Quyen 1 - Thuc Chien/`): Lesson 01–13 đã khóa hoàn chỉnh (91 ngày), tất cả các check đã PASSED — file mới nhất: `QUYEN_1_MASTER_01-13_FINAL_LOCKED.docx`.
 - **Lesson 08:** Contractor Interface Dispute & Liquidated-Damages Recovery (Project Procurement, Wanek 4 — CAPEX Spray-Booth Line).
 - **Lesson 09:** Annual Price Negotiation & Integrity Test (Local Purchasing, Vòng 3, Wanek 2 — đàm phán tăng giá hàng năm với nhà cung cấp và phép thử từ chối quà biếu).
 - **Lesson 10:** Sole-Source Price Gouging & Solicited Facilitation Fee (MRO/Maintenance Purchasing, Vòng 3, Wanek 4 — dừng chuyền vì phụ tùng độc quyền, đại lý ép giá gấp ba và đòi phí bôi trơn, dùng đòn bẩy từ hãng sản xuất để giải quyết). Bản tiếng Anh riêng đạt 18 trang (~7.458 từ), không trùng câu với Lesson 01–09.
 - **Lesson 11:** Invoice-Fraud Solicitation & Legitimate Duty Reduction (International Purchasing, Vòng 3, Wanek 2 — nhà cung cấp vải Indonesia đề nghị khai gian giá trị hóa đơn để né thuế, bị từ chối và được chuyển hướng sang thuế suất ưu đãi ATIGA hợp pháp qua chứng nhận xuất xứ mẫu D, khép lại phép thử liêm chính thứ ba trong năm). Bản tiếng Anh riêng đạt 18 trang (~7.350 từ), không trùng câu với Lesson 01–10.
 - **Lesson 12:** Bid-Rigging Solicitation & Defensible Tender Award (Project Procurement, Vòng 3 — mức độ khó nhất, Wanek 3 — nhà thầu giá thấp nhất trong gói thầu CAPEX hệ thống băng tải đề nghị hoa hồng năm phần trăm để thắng thầu, bị loại hồ sơ ngay lập tức và báo cáo trong ngày; nhà thầu dẫn đầu theo bảng chấm điểm trọng số đã khóa từ trước được trao thầu minh bạch, khép lại trọn vẹn chu kỳ liêm chính ba vòng trên cả bốn mảng nghiệp vụ). Bản tiếng Anh riêng đạt 18 trang (~7.264 từ), không trùng câu với Lesson 01–11.
-- **Lesson tiếp theo cần soạn:** Lesson 13.
+- **Lesson 13:** First-Time Mentoring & the Polite-but-Firm Standard (Local Purchasing, Wanek 2 — mở đầu Phần 2 của giáo trình. Tony lần đầu kèm cặp nhân viên thu mua mới giữa một sự cố thiếu hàng thật; học viên gọi điện quá mềm, được huấn luyện phân biệt "lịch sự" và "mềm yếu", rồi áp dụng thành công ngay trong cùng ngày. Đánh dấu bước chuyển từ kỹ năng cá nhân sang kỹ năng phát triển đội ngũ). Bản tiếng Anh riêng đạt 18 trang (~7.682 từ), không trùng câu với Lesson 01–12.
+- **Lesson tiếp theo cần soạn:** Lesson 14.
