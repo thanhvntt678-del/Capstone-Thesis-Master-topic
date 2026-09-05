@@ -1,0 +1,23 @@
+{
+  "lesson_id": "015",
+  "source_code": "DGE0015",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-015",
+  "situation_title_en": "Booking a Vet Appointment for a Pet",
+  "situation_title_vi": "Đặt hẹn khám thú y cho thú cưng",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "A pet owner calls a vet clinic to book a check-up for two pets, a cat and a dog.",
+  "context_note_vi": "Một người chủ gọi điện cho phòng khám thú y để đặt hẹn kiểm tra sức khỏe cho hai con vật cưng, một con mèo và một con chó.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hello, I'd like to book a check-up for my pets, please.", "vietnamese": "Chào chị, tôi muốn đặt hẹn khám sức khỏe cho thú cưng của tôi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Of course. What kind of pets do you have?", "vietnamese": "Dạ được. Anh có nuôi những loại thú cưng nào ạ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "I have a cat and a dog.", "vietnamese": "Tôi có một con mèo và một con chó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Lovely. Could I have their names, please?", "vietnamese": "Dễ thương quá. Anh cho tôi xin tên của hai bé được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Yes, the cat is Milo, M-I-L-O, and the dog is Rex, R-E-X.", "vietnamese": "Được, con mèo tên Milo, M-I-L-O, và con chó tên Rex, R-E-X.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Milo and Rex, thank you. Which day suits you best?", "vietnamese": "Milo và Rex, tôi cảm ơn anh. Anh muốn đến ngày nào thì tiện?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Saturday morning would be great, if possible.", "vietnamese": "Nếu được thì sáng thứ Bảy là tốt nhất.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "That works. See you and your pets on Saturday, then.", "vietnamese": "Được ạ. Vậy hẹn gặp anh và hai bé vào thứ Bảy nhé.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Thank you very much. See you then.", "vietnamese": "Cảm ơn chị nhiều. Hẹn gặp lại.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

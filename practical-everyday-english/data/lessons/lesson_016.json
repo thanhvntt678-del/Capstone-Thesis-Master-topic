@@ -1,0 +1,23 @@
+{
+  "lesson_id": "016",
+  "source_code": "DGE0016",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-016",
+  "situation_title_en": "Fixing a Mistake in an Order Message",
+  "situation_title_vi": "Sửa lỗi trong tin nhắn đặt hàng",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "A customer messages a small stationery shop to order a book and a pen, but autocorrect changed a word.",
+  "context_note_vi": "Một khách hàng nhắn tin cho một cửa hàng văn phòng phẩm nhỏ để đặt một cuốn sách và một cây bút, nhưng tính năng tự sửa lỗi đã làm sai một từ.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, I'd like to order a book and a ten, please.", "vietnamese": "Chào em, chị muốn đặt một cuốn sách và một cái ten.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Sorry, did you mean a pen? We don't have anything called a 'ten'.", "vietnamese": "Xin lỗi chị, chị có ý là cây bút không ạ? Bên em không có món nào tên là 'ten' cả.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Oh, sorry! Yes, a pen. P-E-N. My phone changed the word.", "vietnamese": "À, xin lỗi! Đúng rồi, là cây bút. P-E-N. Điện thoại chị tự sửa chữ đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "No worries, that happens a lot. So, one book and one pen?", "vietnamese": "Không sao ạ, chuyện đó thường xảy ra lắm. Vậy là một cuốn sách và một cây bút phải không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Yes, that's right.", "vietnamese": "Đúng rồi đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Great. Would you like the pen in blue or black?", "vietnamese": "Được rồi. Chị muốn bút màu xanh hay màu đen?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Black, please.", "vietnamese": "Màu đen giúp em nha.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Perfect. Your order will be ready this afternoon.", "vietnamese": "Được rồi. Đơn hàng của chị sẽ xong vào chiều nay.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Thanks for checking. I'll come by later.", "vietnamese": "Cảm ơn em đã kiểm tra lại giúp chị. Chị sẽ ghé lấy sau.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

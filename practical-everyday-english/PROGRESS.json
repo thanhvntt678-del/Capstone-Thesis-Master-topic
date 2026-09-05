@@ -1,10 +1,10 @@
 {
-  "LAST_COMPLETE_LESSON": "010",
-  "LAST_COMPLETE_SITUATION": "SIT-010",
-  "NEXT_LESSON_TO_WRITE": "011",
-  "NEXT_SOURCE_CODE": "DGE0011",
-  "TOTAL_ENGLISH_WORDS": 1037,
-  "ESTIMATED_ENGLISH_A4_PAGES": 2.07,
+  "LAST_COMPLETE_LESSON": "020",
+  "LAST_COMPLETE_SITUATION": "SIT-020",
+  "NEXT_LESSON_TO_WRITE": "021",
+  "NEXT_SOURCE_CODE": "DGE0021",
+  "TOTAL_ENGLISH_WORDS": 1904,
+  "ESTIMATED_ENGLISH_A4_PAGES": 3.81,
   "PLANNING_RANGE_ENGLISH_WORDS": [650000, 800000],
   "MODULES_COMPLETE": [
     {
@@ -14,6 +14,14 @@
       "cefr": "Pre-A1.1",
       "topic_mastery": "PASS",
       "topic_mastery_notes": "Covers: greet, self-introduce, introduce a third party by name, ask/give name, ask follow-up (origin, first day), request (show the way / spell a name), clarify (repeat name), offer/accept, confirm details, close naturally. Sufficient for Pre-A1.1 — negotiation, paraphrase, and unexpected-input handling are not yet in scope at this CEFR stage (see Rule 14)."
+    },
+    {
+      "module": "M02",
+      "major_topic": "Checking and Confirming Information",
+      "lessons": ["011", "012", "013", "014", "015", "016", "017", "018", "019", "020"],
+      "cefr": "Pre-A1.1",
+      "topic_mastery": "PASS",
+      "topic_mastery_notes": "Source DGE0011-0020 was isolated spelling-drill content (spell this name / spell this word) with no real situation. Reframed as genuine information-checking situations across varied real contexts (phone booking, cafe order, voice chat, library sign-up, vet booking, shop order correction, phone-line mishearing, unfamiliar word, email double-check, peer test practice) so spelling/confirming is absorbed through communication rather than taught as an isolated drill (Rule 12). Covers: request, spell/confirm on request, correct a misunderstanding, ask for repetition, clarify, close naturally."
     }
   ],
   "DGE_SOURCE_STATUS": "DGE0001-DGE0401 topic/CEFR sequencing retained from source_reference/DGE_video_index_001_401.csv. Original dialogue text was drill/TTS script (fails naturalness + non-repetition rules) and has been fully rewritten per Rule 2 self-fix instruction, lesson by lesson, as reached.",

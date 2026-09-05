@@ -1,0 +1,23 @@
+{
+  "lesson_id": "014",
+  "source_code": "DGE0014",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-014",
+  "situation_title_en": "Joining the Local Library",
+  "situation_title_vi": "Đăng ký thẻ thư viện",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Lily visits the local library for the first time and applies for a library card.",
+  "context_note_vi": "Lily đến thư viện địa phương lần đầu và đăng ký làm thẻ thư viện.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, I'd like to get a library card, please.", "vietnamese": "Chào anh, em muốn làm một thẻ thư viện.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Sure. What's your first name?", "vietnamese": "Được. Tên của em là gì?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "It's Lily.", "vietnamese": "Tên em là Lily.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Lily... is that L-I-L-Y?", "vietnamese": "Lily... có phải là L-I-L-Y không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Yes, exactly. L-I-L-Y.", "vietnamese": "Đúng rồi ạ. L-I-L-Y.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Thanks. And could I see some ID, please?", "vietnamese": "Em cảm ơn. Anh cho em xem giấy tờ tùy thân được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Yes, here's my student card.", "vietnamese": "Được, đây là thẻ học sinh của em.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Perfect. Your card will be ready in five minutes.", "vietnamese": "Tốt rồi. Thẻ của em sẽ xong trong năm phút nữa.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Great, thank you so much.", "vietnamese": "Tuyệt, em cảm ơn anh nhiều.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": "019",
+  "source_code": "DGE0019",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-019",
+  "situation_title_en": "Double-Checking an Email Address",
+  "situation_title_vi": "Kiểm tra lại địa chỉ email",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Two colleagues are filling in a form together and want to make sure an email address is spelled correctly before sending it.",
+  "context_note_vi": "Hai đồng nghiệp cùng điền một biểu mẫu và muốn chắc chắn địa chỉ email được viết đúng trước khi gửi.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Can you check this email address for me before I send it?", "vietnamese": "Chị xem lại giúp em địa chỉ email này trước khi em gửi được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Sure, let me have a look.", "vietnamese": "Được, để chị xem thử.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "It's h-a-n-a dot lee at mail dot com.", "vietnamese": "Là h-a-n-a chấm lee, a-còng mail chấm com.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Wait, is that hana with one N or two?", "vietnamese": "Khoan, hana là một chữ N hay hai chữ N vậy?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Just one N. H-A-N-A.", "vietnamese": "Chỉ một chữ N thôi. H-A-N-A.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Okay, one N. That looks correct now.", "vietnamese": "Được rồi, một chữ N. Giờ thì đúng rồi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Great, thanks for catching that.", "vietnamese": "Tốt, cảm ơn chị đã phát hiện ra chỗ sai đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "No problem. It's always good to check twice.", "vietnamese": "Không có gì. Kiểm tra lại lần nữa luôn tốt hơn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "You're right. I'll send it now.", "vietnamese": "Chị nói đúng. Em gửi ngay đây.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

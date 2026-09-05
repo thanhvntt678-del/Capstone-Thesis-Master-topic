@@ -1,0 +1,23 @@
+{
+  "lesson_id": "017",
+  "source_code": "DGE0017",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-017",
+  "situation_title_en": "Confirming a Colour on a Phone Order",
+  "situation_title_vi": "Xác nhận màu sắc khi đặt hàng qua điện thoại",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "A customer orders a phone case over the phone, but the line is not very clear.",
+  "context_note_vi": "Một khách hàng đặt mua ốp điện thoại qua điện thoại, nhưng đường truyền không được rõ lắm.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, I'd like to order a phone case, please.", "vietnamese": "Chào anh, tôi muốn đặt một cái ốp điện thoại.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Sure. What colour would you like?", "vietnamese": "Dạ được. Chị muốn màu gì ạ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Red, please.", "vietnamese": "Cho tôi màu đỏ.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Sorry, the line isn't very clear. Did you say red or blue?", "vietnamese": "Xin lỗi chị, đường truyền không rõ lắm. Chị nói màu đỏ hay màu xanh vậy?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Red. R-E-D, like a tomato.", "vietnamese": "Màu đỏ. R-E-D, giống màu cà chua đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Ah, red, got it. Sorry about that.", "vietnamese": "À, màu đỏ, em hiểu rồi. Xin lỗi chị nha.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "No problem at all.", "vietnamese": "Không sao đâu.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "One red phone case. It'll arrive on Friday.", "vietnamese": "Một ốp điện thoại màu đỏ. Hàng sẽ đến vào thứ Sáu.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Perfect, thank you.", "vietnamese": "Tốt rồi, cảm ơn em.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

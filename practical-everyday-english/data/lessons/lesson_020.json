@@ -1,0 +1,23 @@
+{
+  "lesson_id": "020",
+  "source_code": "DGE0020",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-020",
+  "situation_title_en": "Helping a Friend Practise Before a Test",
+  "situation_title_vi": "Giúp bạn ôn bài trước bài kiểm tra",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Before a small spelling test, two friends quiz each other on a few words to see if they remember them well.",
+  "context_note_vi": "Trước một bài kiểm tra đánh vần nhỏ, hai người bạn hỏi nhau vài từ để xem có nhớ tốt không.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Are you ready for the spelling test?", "vietnamese": "Bạn chuẩn bị xong cho bài kiểm tra đánh vần chưa?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Almost. Can you test me on a few words?", "vietnamese": "Gần xong rồi. Bạn hỏi mình vài từ được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Sure. How do you spell 'friend'?", "vietnamese": "Được. 'Friend' đánh vần thế nào?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "F-R-I-E-N-D. Was that right?", "vietnamese": "F-R-I-E-N-D. Đúng không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Yes, perfect! Now, how about 'because'?", "vietnamese": "Đúng, hoàn hảo! Giờ tới 'because' thì sao?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "B-E-C-A-U-S-E. Hmm, I always mix that one up.", "vietnamese": "B-E-C-A-U-S-E. Ừm, từ đó mình hay bị lẫn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Don't worry, you got it right this time.", "vietnamese": "Đừng lo, lần này bạn đúng rồi đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Thanks. I feel a bit more confident now.", "vietnamese": "Cảm ơn bạn. Giờ mình thấy tự tin hơn một chút rồi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Good luck in the test!", "vietnamese": "Chúc bạn may mắn trong bài kiểm tra!", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

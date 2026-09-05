@@ -1,0 +1,22 @@
+{
+  "lesson_id": "018",
+  "source_code": "DGE0018",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-018",
+  "situation_title_en": "Asking How to Spell an Unfamiliar Word",
+  "situation_title_vi": "Hỏi cách đánh vần một từ chưa quen",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "A friend recommends a dish at a new restaurant, but the name is unfamiliar.",
+  "context_note_vi": "Một người bạn giới thiệu một món ăn ở một nhà hàng mới, nhưng tên món ăn nghe chưa quen.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "You should try the new restaurant. The pho there is amazing.", "vietnamese": "Bạn nên thử nhà hàng mới đó. Món phở ở đó ngon tuyệt.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "The what? Sorry, I didn't catch that word.", "vietnamese": "Món gì cơ? Xin lỗi, mình chưa nghe rõ từ đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Pho. It's a Vietnamese noodle soup.", "vietnamese": "Phở. Đó là một món súp mì của Việt Nam.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Pho... how do you spell that?", "vietnamese": "Phở... bạn viết từ đó thế nào?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "P-H-O.", "vietnamese": "P-H-O.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "P-H-O, okay. I'll look it up. It sounds delicious.", "vietnamese": "P-H-O, được rồi. Mình sẽ tìm hiểu thêm. Nghe có vẻ ngon đấy.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "It really is. We should go there together sometime.", "vietnamese": "Ngon thật đó. Lúc nào mình đi cùng nhau nhé.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Definitely. Let's plan for this weekend.", "vietnamese": "Chắc chắn rồi. Mình lên kế hoạch cho cuối tuần này đi.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

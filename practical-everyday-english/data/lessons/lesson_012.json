@@ -1,0 +1,23 @@
+{
+  "lesson_id": "012",
+  "source_code": "DGE0012",
+  "major_topic": "Checking and Confirming Information",
+  "major_topic_vi": "Xác nhận và kiểm tra thông tin",
+  "situation_id": "SIT-012",
+  "situation_title_en": "Giving a Name for a Coffee Order",
+  "situation_title_vi": "Cho tên để gọi cà phê",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Mia orders a coffee at a busy café. The barista asks for her name to call out when it's ready.",
+  "context_note_vi": "Mia gọi một ly cà phê tại một quán đông khách. Nhân viên pha chế hỏi tên để gọi khi cà phê xong.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, can I get a latte, please?", "vietnamese": "Chào em, cho chị một ly latte nha.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Sure. Can I have a name for the order?", "vietnamese": "Dạ được. Chị cho em xin tên để gọi được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "It's Mia.", "vietnamese": "Tên chị là Mia.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Sorry, is that M-I-A?", "vietnamese": "Xin lỗi chị, có phải là M-I-A không ạ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Yes, that's right, M-I-A.", "vietnamese": "Đúng rồi, M-I-A.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Perfect, thank you. That'll be three fifty.", "vietnamese": "Vâng, em cảm ơn chị. Của chị là ba đô năm mươi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Here you go.", "vietnamese": "Đây nha em.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Thanks. It'll be ready in a few minutes, Mia.", "vietnamese": "Em cảm ơn chị. Cà phê sẽ xong sau vài phút nữa, Mia nhé.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "No problem, I'll wait over there.", "vietnamese": "Không sao, chị sẽ ngồi đợi ở đằng kia.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}
