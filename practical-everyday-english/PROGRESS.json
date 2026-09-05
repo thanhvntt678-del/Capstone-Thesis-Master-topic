@@ -1,4 +1,19 @@
 {
+  "MASTER_V3_ACTIVE": true,
+  "MASTER_V3_NOTE": "As of Situation 0001, CLAUDE_BOOK_MASTER_ZERO_TO_B2_2000_SITUATIONS_FINAL_V3.xlsx + its FINAL UPDATE COMMAND supersede the Lesson-based system below (see PROJECT_RULES_V3.md). Active tracking is now book/situations/situation_NNNN.json. Workflow is now ONE Situation at a time with an explicit NEXT-lock: do not write Situation 0002+ until the user sends NEXT.",
+  "LAST_COMPLETE_SITUATION_V3": "0001",
+  "LAST_COMPLETE_SITUATION_V3_SOURCE_CODE": "DGE0001",
+  "NEXT_SITUATION_TO_WRITE": "0002",
+  "NEXT_SITUATION_SOURCE_CODE": "DGE0002",
+  "NEXT_SITUATION_STATUS": "WAITING_FOR_NEXT_COMMAND",
+  "V3_TOTAL_ENGLISH_WORDS": 308,
+  "V3_TOPIC_MASTERY_STATUS": {
+    "major_topic": "Introductions and First Meetings",
+    "status": "CONTINUE_SAME_TOPIC",
+    "situations_written": ["0001"],
+    "notes": "DGE0002-DGE0010 belong to the same source topic grouping and are expected to continue this Major Topic across further Situations before TOPIC_MASTERY = PASS."
+  },
+  "_DEPRECATED_LESSON_SYSTEM_BELOW": "Fields below this line describe the pre-V3 Lesson 001-401 system (data/lessons/, Person A/Person B, contractions allowed). Superseded by Master V3 but kept for audit trail.",
   "LAST_COMPLETE_LESSON": "020",
   "LAST_COMPLETE_SITUATION": "SIT-020",
   "NEXT_LESSON_TO_WRITE": "021",

@@ -1,8 +1,46 @@
-# PRACTICAL EVERYDAY ENGLISH — TIẾNG ANH GIAO TIẾP THỰC CHIẾN
+# PRACTICAL EVERYDAY ENGLISH — SÁCH GIAO TIẾP PHẢN XẠ THỰC TẾ
 
-Zero → A1 → A2 → B1 → B2 communicative English book, bilingual (EN/VI),
-Python/Excel/TTS/MP4 pipeline-ready. Governing spec: `PROJECT_RULES.md`.
-Current status/checkpoint: `PROGRESS.json`.
+Foundation → A1 → A2 → B1 → B1+ → B2 bilingual (EN/VI) communicative
+English book.
+
+## ACTIVE SYSTEM: Master V3 (Situation 0001–2000)
+Governing spec: **`PROJECT_RULES_V3.md`** (supersedes `PROJECT_RULES.md`
+where they conflict). Current scope is **book production only** — no
+Excel/Python/TTS/MP4 at this stage. Workflow is **one Situation at a time**
+with an explicit NEXT-lock: work stops completely after each Situation is
+delivered and QC-reported, and only resumes when the user sends `NEXT`.
+
+- `book/situations/situation_NNNN.json` — one file per Situation (source of
+  truth). Character system: **Ms Lan** (fixed main character) + exactly one
+  other named character per Situation. Full-form English (no contractions).
+- `scripts/build_book_docx.py` — renders `book/manuscript/
+  PRACTICAL_EVERYDAY_ENGLISH_BOOK.docx` (inline bilingual layout: bold name
+  + English + Vietnamese on the same visual row, no labels, no images).
+- `scripts/compute_situation_stats.py <situation_file>` — per-Situation QC:
+  exact English word count, contraction check, exact-duplicate check,
+  speaker check.
+- `PROGRESS.json` — `NEXT_SITUATION_TO_WRITE` / `NEXT_SITUATION_SOURCE_CODE`
+  / `NEXT_SITUATION_STATUS` track exactly where this stands.
+
+### To continue this project in a new session
+1. Read `PROJECT_RULES_V3.md` in full — literal governing spec.
+2. Check `PROGRESS.json` → `NEXT_SITUATION_STATUS`. If it is
+   `WAITING_FOR_NEXT_COMMAND`, **do not write the next Situation** — wait
+   for the user to send `NEXT` (Rule: NEXT LOCK).
+3. Once `NEXT` is received: look up `NEXT_SITUATION_SOURCE_CODE` in
+   `source_reference/DGE_video_index_001_401.csv` for the topic/CEFR (once
+   past DGE0401, write original content per the Foundation→B2 roadmap).
+4. Write `book/situations/situation_NNNN.json`, run
+   `compute_situation_stats.py`, run `build_book_docx.py`, self-QC against
+   every field in the V3 QC report template, fix any failure, re-render,
+   re-QC, then deliver with the exact QC report format and STOP.
+
+## Deprecated (pre-V3) system — kept for audit trail only
+`data/lessons/lesson_001.json`–`lesson_020.json`, `PROJECT_RULES.md`, and
+the Excel/DOCX scripts under the old "Lesson 001–401" numbering used
+Person A/Person B speakers and allowed contractions. Superseded by Master
+V3 (wrong character system, wrong numbering, wrong layout) — not deleted,
+not to be extended further.
 
 ## Layout
 - `data/lessons/lesson_NNN.json` — one file per lesson. Source of truth.
