@@ -1,0 +1,24 @@
+{
+  "lesson_id": "006",
+  "source_code": "DGE0006",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-006",
+  "situation_title_en": "Learning Everyone's Names",
+  "situation_title_vi": "Làm quen tên của mọi người",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Marco arrives a little late to a small study group and meets Sofia, who is already there.",
+  "context_note_vi": "Marco đến muộn một chút tại một nhóm học nhỏ và gặp Sofia, người đã có mặt từ trước.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi everyone, sorry I'm a bit late.", "vietnamese": "Chào mọi người, xin lỗi mình đến trễ một chút.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "No problem. We're just getting started. I'm Sofia.", "vietnamese": "Không sao đâu. Mình vừa mới bắt đầu. Mình là Sofia.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Hi, Sofia. I'm Marco.", "vietnamese": "Chào Sofia. Mình là Marco.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Sorry, what was your name again?", "vietnamese": "Xin lỗi, bạn nhắc lại tên giúp mình được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "It's Marco. M-A-R-C-O.", "vietnamese": "Là Marco. M-A-R-C-O.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Marco, got it. Nice to meet you.", "vietnamese": "Marco, mình nhớ rồi. Rất vui được gặp bạn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Nice to meet you too, Sofia. Is it just the two of us today?", "vietnamese": "Mình cũng vậy, Sofia. Hôm nay chỉ có hai chúng mình thôi sao?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "No, two more people are joining soon.", "vietnamese": "Không, sẽ có thêm hai người nữa tham gia.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Okay, I'll try to remember their names too.", "vietnamese": "Được rồi, mình sẽ cố nhớ tên của họ nữa.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "Don't worry, we all forget names sometimes.", "vietnamese": "Đừng lo, ai cũng có lúc quên tên người khác thôi.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

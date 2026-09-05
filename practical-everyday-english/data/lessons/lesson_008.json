@@ -1,0 +1,24 @@
+{
+  "lesson_id": "008",
+  "source_code": "DGE0008",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-008",
+  "situation_title_en": "Making Introductions at School",
+  "situation_title_vi": "Giới thiệu và làm quen ở trường",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Liam notices Ha, a new student, in the corridor and offers to show her around before introducing her to the teacher.",
+  "context_note_vi": "Liam gặp Ha, một học sinh mới, ở hành lang và đề nghị dẫn Ha đi tham quan trước khi giới thiệu với giáo viên.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, are you the new student? I'm Liam.", "vietnamese": "Chào bạn, bạn là học sinh mới đúng không? Mình là Liam.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Yes, I am. I'm Ha. Nice to meet you.", "vietnamese": "Đúng rồi. Mình là Ha. Rất vui được gặp bạn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Nice to meet you, Ha. Would you like me to show you around?", "vietnamese": "Rất vui được gặp bạn, Ha. Bạn có muốn mình dẫn đi tham quan không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Yes, please. That would be really helpful.", "vietnamese": "Có, cho mình đi theo với. Vậy thì giúp mình nhiều lắm.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "This way. Our classroom is upstairs.", "vietnamese": "Đi hướng này. Lớp mình ở trên tầng.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Thanks, Liam. Is the teacher strict?", "vietnamese": "Cảm ơn Liam. Giáo viên có nghiêm không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Not really. Ms Wells is very kind.", "vietnamese": "Không nghiêm lắm đâu. Cô Wells rất tốt bụng.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "That's good to hear.", "vietnamese": "Vậy thì mình yên tâm rồi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Come on, I'll introduce you to her now.", "vietnamese": "Đi nào, mình sẽ giới thiệu bạn với cô luôn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "Great, thank you so much.", "vietnamese": "Tuyệt, cảm ơn bạn nhiều.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

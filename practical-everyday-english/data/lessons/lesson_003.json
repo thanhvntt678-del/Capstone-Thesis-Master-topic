@@ -1,0 +1,27 @@
+{
+  "lesson_id": "003",
+  "source_code": "DGE0003",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-003",
+  "situation_title_en": "Introducing Friends in a Group",
+  "situation_title_vi": "Giới thiệu bạn bè trong một nhóm",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "At a small house party, Jordan brings a friend, Taylor's flatmate, along. Jordan introduces Taylor to a guest.",
+  "context_note_vi": "Tại một buổi tiệc nhỏ ở nhà, Jordan giới thiệu Taylor, người bạn cùng nhà, với một người khách.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hey, thanks for coming to the party!", "vietnamese": "Này, cảm ơn bạn đã đến dự tiệc nha!", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Thanks for inviting me. I don't know many people here.", "vietnamese": "Cảm ơn bạn đã mời mình. Mình không biết nhiều người ở đây lắm.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "No worries. Come with me, I'll introduce you to some friends.", "vietnamese": "Không sao đâu. Đi cùng mình, mình sẽ giới thiệu bạn với vài người bạn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "That's really kind of you.", "vietnamese": "Bạn tốt bụng quá.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "This is Taylor, my flatmate. Taylor, this is my friend, Jordan.", "vietnamese": "Đây là Taylor, bạn cùng nhà của mình. Taylor này, đây là Jordan, bạn của mình.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Hi, Taylor. Nice to meet you.", "vietnamese": "Chào Taylor. Rất vui được gặp bạn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Taylor works at the same company as me, actually.", "vietnamese": "Thật ra Taylor làm cùng công ty với mình đó.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Oh, that's interesting. What does Taylor do there?", "vietnamese": "Ồ, hay đó. Taylor làm công việc gì ở đó vậy?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Taylor's a designer. Very creative!", "vietnamese": "Taylor là nhà thiết kế. Rất sáng tạo luôn!", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "Nice. I'd love to see some of that work sometime.", "vietnamese": "Hay đó. Lúc nào mình muốn xem thử vài tác phẩm của Taylor.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 11, "speaker": "Person A", "english": "I'm sure Taylor would love to show you.", "vietnamese": "Mình chắc Taylor sẽ rất vui khi cho bạn xem.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 12, "speaker": "Person B", "english": "Great. Thanks again for introducing me to everyone.", "vietnamese": "Tuyệt. Cảm ơn bạn lần nữa vì đã giới thiệu mình với mọi người.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 13, "speaker": "Person A", "english": "Anytime! Come on, let's get you a drink.", "vietnamese": "Lúc nào cũng được! Đi nào, để mình lấy cho bạn ly nước.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

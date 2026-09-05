@@ -1,0 +1,25 @@
+{
+  "lesson_id": "009",
+  "source_code": "DGE0009",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-009",
+  "situation_title_en": "Meeting Someone for the First Time",
+  "situation_title_vi": "Gặp một người lần đầu tiên",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Noah, who has just moved to the area, meets Grace and her dog, Buddy, in the park one morning.",
+  "context_note_vi": "Noah, người vừa chuyển đến khu vực này, gặp Grace và chú chó của cô, Buddy, ở công viên vào một buổi sáng.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Excuse me, is this your dog? He's lovely.", "vietnamese": "Xin lỗi, đây là chó của bạn hả? Nó dễ thương quá.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Thank you! Yes, this is Buddy.", "vietnamese": "Cảm ơn bạn! Đúng vậy, đây là Buddy.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Hi, Buddy! I'm Noah, by the way.", "vietnamese": "Chào Buddy! À, mình là Noah.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Nice to meet you, Noah. I'm Grace.", "vietnamese": "Rất vui được gặp bạn, Noah. Mình là Grace.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Nice to meet you too. Do you come here often?", "vietnamese": "Mình cũng vậy. Bạn có thường đến đây không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Yes, every morning. It's a nice place to walk.", "vietnamese": "Có, sáng nào mình cũng đến. Đây là chỗ đi bộ rất đẹp.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "I just moved to this area, so I'm still exploring.", "vietnamese": "Mình mới chuyển đến khu này nên vẫn đang khám phá dần.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Welcome to the neighbourhood! You'll like it here.", "vietnamese": "Chào mừng bạn đến khu này! Bạn sẽ thích nơi đây thôi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Thanks, Grace. Maybe I'll see you and Buddy again.", "vietnamese": "Cảm ơn Grace. Có khi mình sẽ gặp lại bạn và Buddy lần nữa.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "I'm sure you will. Have a good day!", "vietnamese": "Chắc chắn là vậy. Chúc bạn một ngày tốt lành!", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 11, "speaker": "Person A", "english": "You too. Bye!", "vietnamese": "Bạn cũng vậy nha. Chào bạn!", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "lesson_id": "005",
+  "source_code": "DGE0005",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-005",
+  "situation_title_en": "Greeting New Team Members",
+  "situation_title_vi": "Chào hỏi thành viên mới trong nhóm",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Daniel, a team leader, welcomes Priya, who is starting her first day on the team this morning.",
+  "context_note_vi": "Daniel, trưởng nhóm, chào đón Priya, người bắt đầu ngày làm việc đầu tiên trong nhóm vào sáng nay.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi, you must be our new team member. Welcome!", "vietnamese": "Chào chị, chắc chị là thành viên mới của nhóm mình đúng không? Chào mừng chị!", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Thank you! Yes, I'm Priya. Today's my first day.", "vietnamese": "Em cảm ơn anh! Đúng rồi, em là Priya. Hôm nay là ngày đầu tiên của em.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Great to have you, Priya. I'm Daniel, the team leader.", "vietnamese": "Rất vui khi có em tham gia, Priya. Anh là Daniel, trưởng nhóm.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Nice to meet you, Daniel.", "vietnamese": "Em rất vui được gặp anh, Daniel.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Nice to meet you too. How was your journey here?", "vietnamese": "Anh cũng vậy. Đường đến đây của em thế nào?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "It was fine, thanks. Not too far from home.", "vietnamese": "Cũng ổn ạ, cảm ơn anh. Không xa nhà em lắm.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Good. Let me show you your desk and introduce the team.", "vietnamese": "Tốt. Để anh chỉ bàn làm việc và giới thiệu em với cả nhóm.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "That sounds great, thank you.", "vietnamese": "Vậy thì tốt quá, em cảm ơn anh.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "This way, please. It's just down the hall.", "vietnamese": "Mời em đi hướng này. Chỉ ở cuối hành lang thôi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "Thanks, Daniel. I'm really looking forward to working here.", "vietnamese": "Cảm ơn anh Daniel. Em rất mong được làm việc ở đây.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 11, "speaker": "Person A", "english": "We're glad to have you with us, Priya.", "vietnamese": "Cả nhóm rất vui khi có em tham gia, Priya.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

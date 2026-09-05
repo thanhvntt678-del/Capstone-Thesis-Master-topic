@@ -1,0 +1,24 @@
+{
+  "lesson_id": "004",
+  "source_code": "DGE0004",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-004",
+  "situation_title_en": "Starting a New English Class",
+  "situation_title_vi": "Bắt đầu một lớp tiếng Anh mới",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Minh arrives at a language school for the first time and meets the teacher, Mr Carter, just before class starts.",
+  "context_note_vi": "Minh đến một trường ngoại ngữ lần đầu tiên và gặp giáo viên, thầy Carter, ngay trước giờ học.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Excuse me, is this the English class?", "vietnamese": "Xin lỗi thầy, đây có phải là lớp tiếng Anh không ạ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Yes, it is. Please come in.", "vietnamese": "Đúng rồi. Em vào đi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Thank you. I'm Minh. I'm a new student.", "vietnamese": "Em cảm ơn thầy. Em là Minh. Em là học sinh mới.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Welcome, Minh. I'm your teacher, Mr Carter.", "vietnamese": "Chào mừng em, Minh. Thầy là giáo viên của em, thầy Carter.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Nice to meet you, Mr Carter.", "vietnamese": "Em rất vui được gặp thầy, thầy Carter.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Nice to meet you too. Please take a seat.", "vietnamese": "Thầy cũng rất vui được gặp em. Em ngồi xuống đi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Thank you. Where should I sit?", "vietnamese": "Em cảm ơn thầy. Em nên ngồi ở đâu ạ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Anywhere is fine. How about there, next to the window?", "vietnamese": "Ngồi đâu cũng được. Hay em ngồi kia, cạnh cửa sổ?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Perfect. Thank you very much.", "vietnamese": "Tuyệt ạ. Em cảm ơn thầy nhiều.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "You're welcome. The lesson starts in a few minutes.", "vietnamese": "Không có gì. Vài phút nữa là buổi học sẽ bắt đầu.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

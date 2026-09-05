@@ -1,0 +1,24 @@
+{
+  "lesson_id": "001",
+  "source_code": "DGE0001",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-001",
+  "situation_title_en": "Introducing Yourself and Your Colleagues",
+  "situation_title_vi": "Giới thiệu bản thân và đồng nghiệp",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "It is Alex's first morning at a new office. Alex meets Jamie, who already works there, and mentions a colleague, Sam.",
+  "context_note_vi": "Đây là buổi sáng đầu tiên của Alex tại văn phòng mới. Alex gặp Jamie, người đã làm việc ở đây, và có nhắc đến một đồng nghiệp tên Sam.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Good morning. I'm Alex. I'm new in this office.", "vietnamese": "Chào chị. Tôi là Alex. Tôi mới vào làm ở văn phòng này.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Good morning, Alex. I'm Jamie. Nice to meet you.", "vietnamese": "Chào anh Alex. Tôi là Jamie. Rất vui được gặp anh.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Nice to meet you too, Jamie. This is my colleague, Sam.", "vietnamese": "Tôi cũng rất vui được gặp chị, Jamie. Đây là đồng nghiệp của tôi, Sam.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Hi, Sam. Welcome to the team.", "vietnamese": "Chào Sam. Chào mừng bạn đến với nhóm nhé.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Thank you, Jamie. Sam and I are on the same project.", "vietnamese": "Cảm ơn chị, Jamie. Sam và tôi cùng làm chung một dự án.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "That's great. Do you know where your desk is yet?", "vietnamese": "Vậy tốt quá. Anh đã biết bàn làm việc của mình ở đâu chưa?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Not yet. Could you show us the way, please?", "vietnamese": "Chưa ạ. Chị có thể chỉ đường giúp chúng tôi được không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Of course. Follow me, please. It's just around the corner.", "vietnamese": "Được chứ. Hai anh đi theo tôi. Chỉ ngay góc kia thôi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Thanks so much, Jamie. That's really kind of you.", "vietnamese": "Cảm ơn chị nhiều, Jamie. Chị tốt bụng quá.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "No problem at all. Welcome again, both of you!", "vietnamese": "Không có gì đâu. Chào mừng hai anh một lần nữa nhé!", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

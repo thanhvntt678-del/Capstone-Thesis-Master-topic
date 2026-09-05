@@ -1,0 +1,23 @@
+{
+  "lesson_id": "002",
+  "source_code": "DGE0002",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-002",
+  "situation_title_en": "Meeting New Classmates",
+  "situation_title_vi": "Làm quen với các bạn học mới",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Chris arrives late on the first day of class and sits next to Robin, a classmate they haven't met before.",
+  "context_note_vi": "Chris đến muộn vào ngày đầu tiên của lớp học và ngồi cạnh Robin, một người bạn học mà Chris chưa từng gặp.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi! Is this seat free?", "vietnamese": "Chào bạn! Chỗ này còn trống không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Yes, it is. Please, sit down.", "vietnamese": "Còn trống đó. Bạn ngồi đi.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Thanks. I'm Chris. I'm new in this class.", "vietnamese": "Cảm ơn nha. Mình là Chris. Mình mới vào lớp này.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "Nice to meet you, Chris. I'm Robin.", "vietnamese": "Rất vui được gặp bạn, Chris. Mình là Robin.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Nice to meet you, Robin. Where are you from?", "vietnamese": "Rất vui được gặp bạn, Robin. Bạn từ đâu đến vậy?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "I'm from Leeds. And you?", "vietnamese": "Mình từ Leeds. Còn bạn?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "I'm from Bristol. This is my first English class here.", "vietnamese": "Mình từ Bristol. Đây là buổi học tiếng Anh đầu tiên của mình ở đây.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Don't worry, everyone's really friendly. Welcome to the class, Chris.", "vietnamese": "Đừng lo, mọi người ở đây thân thiện lắm. Chào mừng Chris đến với lớp mình.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Thank you. I'm really happy to be here.", "vietnamese": "Cảm ơn bạn. Mình thấy vui lắm khi được ở đây.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}

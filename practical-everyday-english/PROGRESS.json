@@ -1,0 +1,22 @@
+{
+  "LAST_COMPLETE_LESSON": "010",
+  "LAST_COMPLETE_SITUATION": "SIT-010",
+  "NEXT_LESSON_TO_WRITE": "011",
+  "NEXT_SOURCE_CODE": "DGE0011",
+  "TOTAL_ENGLISH_WORDS": 1037,
+  "ESTIMATED_ENGLISH_A4_PAGES": 2.07,
+  "PLANNING_RANGE_ENGLISH_WORDS": [650000, 800000],
+  "MODULES_COMPLETE": [
+    {
+      "module": "M01",
+      "major_topic": "Introductions and First Meetings",
+      "lessons": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010"],
+      "cefr": "Pre-A1.1",
+      "topic_mastery": "PASS",
+      "topic_mastery_notes": "Covers: greet, self-introduce, introduce a third party by name, ask/give name, ask follow-up (origin, first day), request (show the way / spell a name), clarify (repeat name), offer/accept, confirm details, close naturally. Sufficient for Pre-A1.1 — negotiation, paraphrase, and unexpected-input handling are not yet in scope at this CEFR stage (see Rule 14)."
+    }
+  ],
+  "DGE_SOURCE_STATUS": "DGE0001-DGE0401 topic/CEFR sequencing retained from source_reference/DGE_video_index_001_401.csv. Original dialogue text was drill/TTS script (fails naturalness + non-repetition rules) and has been fully rewritten per Rule 2 self-fix instruction, lesson by lesson, as reached.",
+  "NEXT_STEPS": "Continue rewriting DGE0011-DGE0100 (Modules M02-M10, Pre-A1.1), then DGE0101-0401 (Pre-A1.2 -> A1.1) per source_reference/DGE_video_index_001_401.csv, then original content 402+ up through B2.",
+  "LAST_UPDATED": "session in progress - see git log for exact commit"
+}

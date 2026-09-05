@@ -1,0 +1,24 @@
+{
+  "lesson_id": "007",
+  "source_code": "DGE0007",
+  "major_topic": "Introductions and First Meetings",
+  "major_topic_vi": "Làm quen và gặp gỡ lần đầu",
+  "situation_id": "SIT-007",
+  "situation_title_en": "Welcoming People to a Group",
+  "situation_title_vi": "Chào đón mọi người vào nhóm",
+  "cefr": "Pre-A1.1",
+  "context_note_en": "Hana welcomes Lucas, who is joining the running club for the first time and feels a little nervous.",
+  "context_note_vi": "Hana chào đón Lucas, người tham gia câu lạc bộ chạy bộ lần đầu tiên và có phần hồi hộp.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Person A", "english": "Hi there, welcome to the running club!", "vietnamese": "Chào bạn, chào mừng bạn đến với câu lạc bộ chạy bộ nhé!", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 2, "speaker": "Person B", "english": "Thank you! I'm a bit nervous, it's my first time.", "vietnamese": "Cảm ơn bạn! Mình hơi hồi hộp, đây là lần đầu của mình.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 3, "speaker": "Person A", "english": "Don't worry, everyone here is very friendly.", "vietnamese": "Đừng lo, mọi người ở đây rất thân thiện.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 4, "speaker": "Person B", "english": "That's good to know. I'm Lucas, by the way.", "vietnamese": "Vậy thì tốt quá. À, mình là Lucas.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 5, "speaker": "Person A", "english": "Nice to meet you, Lucas. I'm Hana.", "vietnamese": "Rất vui được gặp bạn, Lucas. Mình là Hana.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 6, "speaker": "Person B", "english": "Nice to meet you, Hana.", "vietnamese": "Rất vui được gặp bạn, Hana.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 7, "speaker": "Person A", "english": "Would you like some water before we start?", "vietnamese": "Bạn có muốn uống nước trước khi bắt đầu không?", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 8, "speaker": "Person B", "english": "Yes, please. Thank you.", "vietnamese": "Có, cho mình xin. Cảm ơn bạn.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 9, "speaker": "Person A", "english": "Here you go. We usually run for about thirty minutes.", "vietnamese": "Đây nè. Nhóm mình thường chạy khoảng ba mươi phút.", "is_learning_text": true, "mp4_part": 1},
+    {"turn_order": 10, "speaker": "Person B", "english": "Sounds good. I'm ready when you are.", "vietnamese": "Nghe hay đó. Mình sẵn sàng khi nào bạn muốn bắt đầu.", "is_learning_text": true, "mp4_part": 1}
+  ]
+}
