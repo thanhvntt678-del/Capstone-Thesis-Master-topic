@@ -1,5 +1,12 @@
 {
-  "MASTER_V3_ACTIVE": true,
+  "RESTART_FINAL_ACTIVE": true,
+  "RESTART_FINAL_NOTE": "CLAUDE_BOOK_MASTER_2000_LESSONS_PREA1_TO_B2_RESTART_FINAL.xlsx + its FINAL ABSOLUTE COMMAND is now the sole governing spec (see PROJECT_RULES_RESTART.md). It supersedes both PROJECT_RULES.md (old Lesson 001-401) and PROJECT_RULES_V3.md (Situation 0001-2000). The four old DGE001-401 source files are dropped entirely per explicit instruction. Curriculum is now driven only by source_reference/MASTER_2000_LESSONS.csv (02_MASTER_2000_LESSONS sheet, 2000 rows). Active tracking: restart/lessons/lesson_NNNN.json. Workflow is ONE Lesson at a time with an explicit NEXT-lock: do not write Lesson 0002+ until the user sends NEXT.",
+  "LAST_COMPLETE_LESSON_RESTART": "0001",
+  "NEXT_LESSON_TO_WRITE_RESTART": "0002",
+  "NEXT_LESSON_STATUS_RESTART": "WAITING_FOR_NEXT_COMMAND",
+  "RESTART_TOTAL_ENGLISH_WORDS": 186,
+  "MASTER_V3_ACTIVE": false,
+  "MASTER_V3_NOTE_SUPERSEDED": "Superseded by RESTART_FINAL above as of this entry. Situation 0001 (book/situations/) is dropped per the restart command's explicit instruction, not carried forward.",
   "MASTER_V3_NOTE": "As of Situation 0001, CLAUDE_BOOK_MASTER_ZERO_TO_B2_2000_SITUATIONS_FINAL_V3.xlsx + its FINAL UPDATE COMMAND supersede the Lesson-based system below (see PROJECT_RULES_V3.md). Active tracking is now book/situations/situation_NNNN.json. Workflow is now ONE Situation at a time with an explicit NEXT-lock: do not write Situation 0002+ until the user sends NEXT.",
   "LAST_COMPLETE_SITUATION_V3": "0001",
   "LAST_COMPLETE_SITUATION_V3_SOURCE_CODE": "DGE0001",
