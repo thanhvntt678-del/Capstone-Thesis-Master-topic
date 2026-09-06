@@ -14,7 +14,7 @@
   "context_note_vi": "Anh David, một người hàng xóm, hỏi lại tên của chị Lan. Một lúc sau, anh gọi tên chị từ bên kia đường.",
   "turns": [
     {"turn_order": 1, "speaker": "Mr David", "english": "Excuse me. Is your name Nan?", "vietnamese": "Xin lỗi chị. Tên chị có phải là Nan không?"},
-    {"turn_order": 2, "speaker": "Ms Lan", "english": "No. My name is Lan.", "vietnamese": "Không phải. Tên tôi là Lan."},
+    {"turn_order": 2, "speaker": "Ms Lan", "english": "No, my name is Lan.", "vietnamese": "Không phải đâu. Tên tôi là Lan."},
     {"turn_order": 3, "speaker": "Mr David", "english": "Oh, sorry. Lan.", "vietnamese": "À, xin lỗi. Lan."},
     {"turn_order": 4, "speaker": "Ms Lan", "english": "Yes, that is right.", "vietnamese": "Vâng, đúng rồi."},
     {"turn_order": 5, "speaker": "Mr David", "english": "Thank you, Lan.", "vietnamese": "Cảm ơn chị Lan."},

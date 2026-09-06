@@ -10,18 +10,14 @@
   "page_target": "2-3",
   "main_character": "Ms Lan",
   "secondary_character": "Ms Emma",
-  "context_note_en": "Ms Lan sees her neighbour, Ms Emma, in the morning, and again a little later the same day.",
-  "context_note_vi": "Chị Lan gặp Emma, hàng xóm của mình, vào buổi sáng, và gặp lại một lúc sau đó trong cùng ngày.",
+  "context_note_en": "Ms Lan sees her neighbour, Ms Emma, in the morning.",
+  "context_note_vi": "Chị Lan gặp Emma, hàng xóm của mình, vào buổi sáng.",
   "turns": [
     {"turn_order": 1, "speaker": "Ms Lan", "english": "Good morning, Emma!", "vietnamese": "Chào buổi sáng, Emma!"},
     {"turn_order": 2, "speaker": "Ms Emma", "english": "Good morning, Lan!", "vietnamese": "Chào buổi sáng, Lan!"},
     {"turn_order": 3, "speaker": "Ms Lan", "english": "How are you?", "vietnamese": "Chị khỏe không?"},
     {"turn_order": 4, "speaker": "Ms Emma", "english": "I am fine, thank you.", "vietnamese": "Tôi khỏe, cảm ơn chị."},
     {"turn_order": 5, "speaker": "Ms Lan", "english": "Good. Goodbye, Emma.", "vietnamese": "Tốt rồi. Tạm biệt Emma."},
-    {"turn_order": 6, "speaker": "Ms Emma", "english": "Goodbye, Lan.", "vietnamese": "Tạm biệt Lan."},
-    {"turn_order": 7, "speaker": "Ms Lan", "english": "Hi, Emma.", "vietnamese": "Chào chị Emma."},
-    {"turn_order": 8, "speaker": "Ms Emma", "english": "Hi, Lan.", "vietnamese": "Chào chị Lan."},
-    {"turn_order": 9, "speaker": "Ms Lan", "english": "Goodbye again.", "vietnamese": "Tạm biệt lần nữa nhé."},
-    {"turn_order": 10, "speaker": "Ms Emma", "english": "Goodbye.", "vietnamese": "Tạm biệt."}
+    {"turn_order": 6, "speaker": "Ms Emma", "english": "Goodbye, Lan.", "vietnamese": "Tạm biệt Lan."}
   ]
 }
