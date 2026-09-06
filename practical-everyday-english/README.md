@@ -4,7 +4,12 @@ A0/Pre-A1 → A1 → A2 → B1 → B1+ → B2 bilingual (EN/VI) communicative
 English book.
 
 ## ACTIVE SYSTEM: RESTART FINAL (Lesson 0001–2000)
-Governing spec: **`PROJECT_RULES_RESTART.md`** — the sole authority now,
+Governing spec: **`PROJECT_RULES_ABSOLUTE_MASTER.md`** — the supreme,
+permanent authority, applying automatically to every future `NEXT`
+without restatement. It supersedes `PROJECT_RULES_RESTART.md` where they
+conflict; `PROJECT_RULES_RESTART.md` remains as supplementary detail
+(e.g. the specific Lesson 0001/0002 correction history) where not
+superseded. `PROJECT_RULES_RESTART.md` was itself the sole authority,
 superseding both `PROJECT_RULES.md` (old Lesson 001–401 / Person A-B) and
 `PROJECT_RULES_V3.md` (Situation 0001–2000 / Ms Lan). The four old
 DGE001–401 source files are dropped entirely; curriculum is driven only by
@@ -28,14 +33,18 @@ and QC-reported, resume only when the user sends `NEXT`.
   `NEXT_LESSON_STATUS_RESTART` track exactly where this stands.
 
 ### To continue this project in a new session
-1. Read `PROJECT_RULES_RESTART.md` in full — literal governing spec.
+1. Read `PROJECT_RULES_ABSOLUTE_MASTER.md` in full — the supreme, literal
+   governing spec (then `PROJECT_RULES_RESTART.md` for supplementary
+   detail/history where not superseded).
 2. Check `PROGRESS.json` → `NEXT_LESSON_STATUS_RESTART`. If it is
    `WAITING_FOR_NEXT_COMMAND`, **do not write the next Lesson** — wait for
    the user to send `NEXT` (NEXT LOCK).
-3. Once `NEXT` is received: look up the next Lesson ID's exact row in
-   `source_reference/MASTER_2000_LESSONS.csv` for its locked CEFR level,
-   Major Domain, Scenario, titles, Communication Goal, and word/page
-   targets — never substitute a different topic.
+3. Once `NEXT` is received: run the full pre-writing gate (Section VIII
+   of the Absolute Master command) against the next Lesson ID's exact row
+   in `source_reference/MASTER_2000_LESSONS.csv` — CEFR level, Major
+   Domain, Scenario, titles, Communication Goal, word/page targets — never
+   substitute a different topic, and review recent prior Lessons first to
+   avoid cross-Lesson duplication.
 4. Write `restart/lessons/lesson_NNNN.json`, run
    `compute_lesson_stats.py`, run `build_restart_docx.py`, self-QC against
    every field in the restart QC report template (`04_QC_REPORT` sheet),
