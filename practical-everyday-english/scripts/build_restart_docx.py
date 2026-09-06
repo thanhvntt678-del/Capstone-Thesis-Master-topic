@@ -179,6 +179,20 @@ def build_lesson_section(doc, lesson, is_first):
 
 
 def main():
+    import sys
+
+    # Optional: python build_restart_docx.py <start_id> <end_id> <out_filename>
+    # Each batch delivery is its own file (Master FINAL LOCKED: every
+    # delivery independently targets 36-38 actual bilingual pages -- a
+    # single ever-growing cumulative file would break that per-delivery
+    # target once more than one batch exists).
+    if len(sys.argv) >= 4:
+        start_id, end_id, out_name = sys.argv[1], sys.argv[2], sys.argv[3]
+        out_path = OUT_PATH.parent / out_name
+    else:
+        start_id, end_id = None, None
+        out_path = OUT_PATH
+
     doc = Document()
     section = doc.sections[0]
     section.page_width = Cm(21.0)
@@ -189,6 +203,11 @@ def main():
     section.bottom_margin = Cm(1.8)
 
     lesson_files = sorted(LESSONS_DIR.glob("lesson_*.json"))
+    if start_id is not None:
+        lesson_files = [
+            p for p in lesson_files
+            if start_id <= p.stem.replace("lesson_", "") <= end_id
+        ]
     lessons = [json.loads(p.read_text(encoding="utf-8")) for p in lesson_files]
 
     if lessons:
@@ -197,9 +216,9 @@ def main():
     for i, lesson in enumerate(lessons):
         build_lesson_section(doc, lesson, is_first=(i == 0))
 
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    doc.save(OUT_PATH)
-    print(f"Wrote {len(lessons)} lesson(s) to {OUT_PATH}")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    doc.save(out_path)
+    print(f"Wrote {len(lessons)} lesson(s) to {out_path}")
 
 
 if __name__ == "__main__":

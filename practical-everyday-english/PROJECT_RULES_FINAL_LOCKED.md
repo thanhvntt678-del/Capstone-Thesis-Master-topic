@@ -43,6 +43,23 @@ affected content). Confirmed for this update: Lessons 0001–0007's master
 row data (Domain, Scenario, Title, Characters) is byte-identical between
 the old and new workbook — no rewrite was needed, and none was made.
 
+## Each batch is its own file, not one ever-growing file
+Discovered while producing Batch 2: since every delivery must
+independently target 36–38 actual bilingual pages, batches cannot all be
+appended into one continuously-growing manuscript (Batch 1 + Batch 2 in
+one file would be ~74 pages, no longer matching "36–38" for that
+delivery). This retires the earlier "cumulative forever-growing single
+book file" instruction from `PROJECT_RULES_ZERO_DEFECT.md` — each batch
+now renders to its own file:
+`restart/manuscript/EVERYDAY_ENGLISH_REFLEX_BOOK_BATCH<NN>_<start>-<end>.docx`.
+`scripts/build_restart_docx.py` takes optional `<start_id> <end_id>
+<out_filename>` arguments to render just one batch's range; called with
+no arguments it still renders every Lesson written so far into
+`EVERYDAY_ENGLISH_REFLEX_BOOK.docx` as a convenience master reference
+copy (not itself a delivery file). All Lesson JSON source files remain
+in one flat `restart/lessons/` directory regardless of batch boundaries —
+only the rendered *delivery* output is split per batch.
+
 ## Structural note on hitting the page target
 Every Lesson already starts on its own forced page break
 (`build_restart_docx.py` calls a new Word section before each Lesson
