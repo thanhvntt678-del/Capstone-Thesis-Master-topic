@@ -1,0 +1,6 @@
+{"lesson_id": "0275", "cefr_level": "A0 / Pre-A1", "major_domain": "Health Services", "scenario": "the first practical exchange about health services & pharmacy", "english_title": "Recognising and Responding to the First Practical Exchange About Health Services and Pharmacy", "vietnamese_title": "Giao tiếp nền tảng: health services & pharmacy — the first practical exchange about health services & pharmacy", "primary_communication_goal": "recognise and respond to the first practical exchange about health services & pharmacy; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr David", "context_note_en": "Ms Lan asks Mr David for headache tablets at a pharmacy.", "context_note_vi": "Chị Lan hỏi anh David mua thuốc đau đầu tại nhà thuốc.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Excuse me, David. Do you have headache tablets?", "vietnamese": "Xin lỗi anh David. Ở đây có thuốc đau đầu không?"},
+{"turn_order": 2, "speaker": "Mr David", "english": "Yes, right here.", "vietnamese": "Có chứ, ngay đây."},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Thank you.", "vietnamese": "Cảm ơn anh."},
+{"turn_order": 4, "speaker": "Mr David", "english": "Feel better soon.", "vietnamese": "Chúc chị mau khỏe."}
+]}
