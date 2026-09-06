@@ -1,0 +1,6 @@
+{"lesson_id": "0129", "cefr_level": "A0 / Pre-A1", "major_domain": "Numbers and Time", "scenario": "a phone number", "english_title": "Recognising and Responding to A Phone Number", "vietnamese_title": "Giao tiếp nền tảng: numbers, dates & time — a phone number", "primary_communication_goal": "recognise and respond to a phone number; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Michael", "context_note_en": "Mr Michael asks Ms Lan for her phone number to arrange a delivery.", "context_note_vi": "Anh Michael hỏi số điện thoại của chị Lan để sắp xếp giao hàng.","turns":[
+{"turn_order": 1, "speaker": "Mr Michael", "english": "Lan, may I have your phone number for the delivery?", "vietnamese": "Lan này, tôi xin số điện thoại của chị để giao hàng được không?"},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "Yes. It is zero, eight, seven, six, four.", "vietnamese": "Vâng. Số của tôi là không, tám, bảy, sáu, bốn."},
+{"turn_order": 3, "speaker": "Mr Michael", "english": "Zero, eight, seven, six, four. I have it.", "vietnamese": "Không, tám, bảy, sáu, bốn. Tôi ghi lại rồi."},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "Perfect, thank you.", "vietnamese": "Tuyệt quá, cảm ơn anh."}
+]}
