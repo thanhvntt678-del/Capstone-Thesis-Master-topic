@@ -1,6 +1,18 @@
-{"lesson_id": "0256", "cefr_level": "A0 / Pre-A1", "major_domain": "Food", "scenario": "asking for water", "english_title": "Recognising and Responding to Asking for Water", "vietnamese_title": "Giao tiếp nền tảng: food & drink — asking for water", "primary_communication_goal": "recognise and respond to asking for water; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Ms Olivia", "context_note_en": "Ms Lan asks Ms Olivia for water because their walk is long.", "context_note_vi": "Chị Lan hỏi xin chị Olivia nước vì quãng đường đi bộ dài.","turns":[
-{"turn_order": 1, "speaker": "Ms Lan", "english": "Olivia, could I have some water? This walk is long.", "vietnamese": "Olivia này, cho tôi xin nước được không? Đoạn đường này dài quá."},
-{"turn_order": 2, "speaker": "Ms Olivia", "english": "Yes, here is my bottle.", "vietnamese": "Được chứ, đây là bình nước của tôi."},
-{"turn_order": 3, "speaker": "Ms Lan", "english": "Thank you so much.", "vietnamese": "Cảm ơn chị rất nhiều."},
-{"turn_order": 4, "speaker": "Ms Olivia", "english": "You are welcome.", "vietnamese": "Không có gì."}
+{"lesson_id": "0256", "cefr_level": "A1", "major_domain": "Food", "scenario": "asking for water", "english_title": "Recognising and Responding to Asking for Water", "vietnamese_title": "Giao tiếp nền tảng: food & drink — asking for water", "primary_communication_goal": "recognise and respond to asking for water; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Ms Olivia", "context_note_en": "Ms Lan asks Ms Olivia for water after walking in the heat.", "context_note_vi": "Chị Lan xin chị Olivia nước sau khi đi bộ ngoài trời nóng.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Olivia, could I have some water, please? I am quite thirsty.", "vietnamese": "Olivia này, cho tôi xin nước được không? Tôi khát lắm."},
+{"turn_order": 2, "speaker": "Ms Olivia", "english": "Of course. Would you like it cold or at room temperature?", "vietnamese": "Được chứ. Chị muốn nước lạnh hay nước thường?"},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Cold, please, if that is possible.", "vietnamese": "Cho tôi nước lạnh nhé, nếu được."},
+{"turn_order": 4, "speaker": "Ms Olivia", "english": "No problem. Here you are.", "vietnamese": "Không sao đâu. Đây chị."},
+{"turn_order": 5, "speaker": "Ms Lan", "english": "Thank you so much. I walked all morning in this heat.", "vietnamese": "Cảm ơn chị nhiều. Tôi đi bộ cả buổi sáng trong trời nóng này."},
+{"turn_order": 6, "speaker": "Ms Olivia", "english": "I understand. It is quite hot outside today.", "vietnamese": "Tôi hiểu mà. Hôm nay ngoài trời nóng thật."},
+{"turn_order": 7, "speaker": "Ms Lan", "english": "Yes, very hot. This water is exactly what I needed.", "vietnamese": "Vâng, nóng lắm. Đúng là ly nước tôi đang cần."},
+{"turn_order": 8, "speaker": "Ms Olivia", "english": "Would you like some ice with it too?", "vietnamese": "Chị có muốn thêm đá không?"},
+{"turn_order": 9, "speaker": "Ms Lan", "english": "Yes, please. That would be even better.", "vietnamese": "Có, cho tôi xin nhé. Vậy càng tốt."},
+{"turn_order": 10, "speaker": "Ms Olivia", "english": "Here you go. Is there anything else you need?", "vietnamese": "Đây chị. Chị còn cần gì nữa không?"},
+{"turn_order": 11, "speaker": "Ms Lan", "english": "Actually, do you have any lemon? I love lemon water.", "vietnamese": "Thật ra thì có chanh không? Tôi thích nước chanh lắm."},
+{"turn_order": 12, "speaker": "Ms Olivia", "english": "Yes, we have some. Let me cut a slice for you.", "vietnamese": "Có chứ. Để tôi cắt một lát cho chị."},
+{"turn_order": 13, "speaker": "Ms Lan", "english": "Thank you, that is very kind of you.", "vietnamese": "Cảm ơn chị, chị tốt bụng quá."},
+{"turn_order": 14, "speaker": "Ms Olivia", "english": "Not a problem at all. I enjoy lemon water too.", "vietnamese": "Không sao đâu. Tôi cũng thích nước chanh mà."},
+{"turn_order": 15, "speaker": "Ms Lan", "english": "It really is refreshing, especially on a hot day like this.", "vietnamese": "Đúng là mát lạnh, nhất là vào ngày nóng thế này."},
+{"turn_order": 16, "speaker": "Ms Olivia", "english": "I completely agree. Let me know if you need anything else.", "vietnamese": "Tôi đồng ý luôn. Chị cần gì nữa cứ nói tôi nhé."}
 ]}

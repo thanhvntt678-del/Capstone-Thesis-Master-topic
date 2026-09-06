@@ -1,6 +1,18 @@
-{"lesson_id": "0257", "cefr_level": "A0 / Pre-A1", "major_domain": "Shopping", "scenario": "the first practical exchange about shopping & payments", "english_title": "Recognising and Responding to the First Practical Exchange About Shopping and Payments", "vietnamese_title": "Giao tiếp nền tảng: shopping & payments — the first practical exchange about shopping & payments", "primary_communication_goal": "recognise and respond to the first practical exchange about shopping & payments; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Thomas", "context_note_en": "Ms Lan buys a small clock from Mr Thomas at a small shop.", "context_note_vi": "Chị Lan mua một cái đồng hồ nhỏ từ anh Thomas tại một cửa hàng nhỏ.","turns":[
-{"turn_order": 1, "speaker": "Ms Lan", "english": "Excuse me, Thomas. How much is this clock?", "vietnamese": "Xin lỗi anh Thomas. Cái đồng hồ này giá bao nhiêu?"},
-{"turn_order": 2, "speaker": "Mr Thomas", "english": "It is twelve dollars.", "vietnamese": "Giá mười hai đô la."},
-{"turn_order": 3, "speaker": "Ms Lan", "english": "All right, I will take it.", "vietnamese": "Được rồi, tôi lấy cái này."},
-{"turn_order": 4, "speaker": "Mr Thomas", "english": "Thank you.", "vietnamese": "Cảm ơn chị."}
+{"lesson_id": "0257", "cefr_level": "A1", "major_domain": "Shopping", "scenario": "the first practical exchange about shopping & payments", "english_title": "Recognising and Responding to the First Practical Exchange About Shopping and Payments", "vietnamese_title": "Giao tiếp nền tảng: shopping & payments — the first practical exchange about shopping & payments", "primary_communication_goal": "recognise and respond to the first practical exchange about shopping & payments; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Mr Thomas", "context_note_en": "Ms Lan buys a notebook and some pens from Mr Thomas at a small shop.", "context_note_vi": "Chị Lan mua một cuốn sổ và vài cây bút từ anh Thomas tại một cửa hàng nhỏ.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Excuse me, Thomas. How much is this notebook?", "vietnamese": "Xin lỗi anh Thomas. Cuốn sổ này giá bao nhiêu?"},
+{"turn_order": 2, "speaker": "Mr Thomas", "english": "It is five dollars. Would you like anything else?", "vietnamese": "Giá năm đô la. Chị cần thêm gì không?"},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Actually, yes. Do you have any pens too?", "vietnamese": "Thật ra thì có. Ở đây có bút không?"},
+{"turn_order": 4, "speaker": "Mr Thomas", "english": "Yes, we have a few kinds. This blue one is very popular.", "vietnamese": "Có chứ, có vài loại. Cây màu xanh này bán chạy lắm."},
+{"turn_order": 5, "speaker": "Ms Lan", "english": "How much does it cost?", "vietnamese": "Cây này giá bao nhiêu vậy?"},
+{"turn_order": 6, "speaker": "Mr Thomas", "english": "Each pen is one dollar fifty.", "vietnamese": "Mỗi cây một đô la rưỡi."},
+{"turn_order": 7, "speaker": "Ms Lan", "english": "I will take the notebook and two of these pens, please.", "vietnamese": "Cho tôi lấy cuốn sổ và hai cây bút này nhé."},
+{"turn_order": 8, "speaker": "Mr Thomas", "english": "Sure. That comes to eight dollars in total.", "vietnamese": "Được ạ. Tổng cộng là tám đô la."},
+{"turn_order": 9, "speaker": "Ms Lan", "english": "Do you accept card payments?", "vietnamese": "Ở đây có nhận thanh toán bằng thẻ không?"},
+{"turn_order": 10, "speaker": "Mr Thomas", "english": "Yes, we do. You can pay by card or cash.", "vietnamese": "Có chứ. Chị có thể trả bằng thẻ hoặc tiền mặt."},
+{"turn_order": 11, "speaker": "Ms Lan", "english": "I will pay by card, then.", "vietnamese": "Vậy tôi trả bằng thẻ nhé."},
+{"turn_order": 12, "speaker": "Mr Thomas", "english": "No problem. Please tap your card here.", "vietnamese": "Được ạ. Chị chạm thẻ vào đây nhé."},
+{"turn_order": 13, "speaker": "Ms Lan", "english": "Here you are. Thank you.", "vietnamese": "Đây anh. Cảm ơn anh."},
+{"turn_order": 14, "speaker": "Mr Thomas", "english": "Thank you, and here is your receipt.", "vietnamese": "Cảm ơn chị, đây là hóa đơn của chị."},
+{"turn_order": 15, "speaker": "Ms Lan", "english": "Perfect. Do you need anything else from me?", "vietnamese": "Tuyệt. Anh còn cần gì từ tôi nữa không?"},
+{"turn_order": 16, "speaker": "Mr Thomas", "english": "No, that is all. Have a great day.", "vietnamese": "Không, vậy là xong rồi. Chúc chị một ngày tốt lành."}
 ]}

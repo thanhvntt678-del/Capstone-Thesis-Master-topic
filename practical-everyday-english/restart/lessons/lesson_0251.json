@@ -1,6 +1,18 @@
-{"lesson_id": "0251", "cefr_level": "A0 / Pre-A1", "major_domain": "Personal Identity", "scenario": "your name", "english_title": "Recognising and Responding to Your Name", "vietnamese_title": "Giao tiếp nền tảng: personal identity & introductions — your name", "primary_communication_goal": "recognise and respond to your name; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr David", "context_note_en": "Mr David asks Ms Lan for her full name to register her at a front desk.", "context_note_vi": "Anh David hỏi họ tên đầy đủ của chị Lan để đăng ký tại quầy lễ tân.","turns":[
-{"turn_order": 1, "speaker": "Mr David", "english": "Excuse me, could I have your full name for our records?", "vietnamese": "Xin lỗi, tôi xin họ tên đầy đủ của chị để ghi vào hồ sơ được không?"},
-{"turn_order": 2, "speaker": "Ms Lan", "english": "Yes, it is Lan.", "vietnamese": "Được chứ, tên tôi là Lan."},
-{"turn_order": 3, "speaker": "Mr David", "english": "Lan. All recorded.", "vietnamese": "Lan à. Đã ghi vào hồ sơ rồi."},
-{"turn_order": 4, "speaker": "Ms Lan", "english": "Thank you.", "vietnamese": "Cảm ơn anh."}
+{"lesson_id": "0251", "cefr_level": "A1", "major_domain": "Personal Identity", "scenario": "your name", "english_title": "Recognising and Responding to Your Name", "vietnamese_title": "Giao tiếp nền tảng: personal identity & introductions — your name", "primary_communication_goal": "recognise and respond to your name; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Mr David", "context_note_en": "Mr David checks Ms Lan in at a clinic reception desk and confirms her personal details.", "context_note_vi": "Anh David làm thủ tục cho chị Lan tại quầy lễ tân phòng khám và xác nhận thông tin cá nhân.","turns":[
+{"turn_order": 1, "speaker": "Mr David", "english": "Good morning. Welcome to the clinic. Can I have your name, please?", "vietnamese": "Chào buổi sáng. Chào mừng chị đến phòng khám. Cho tôi xin tên chị được không?"},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "Good morning. My name is Lan Nguyen.", "vietnamese": "Chào anh. Tên tôi là Lan Nguyễn."},
+{"turn_order": 3, "speaker": "Mr David", "english": "Thank you. Could you spell your family name for me?", "vietnamese": "Cảm ơn chị. Chị đánh vần họ giúp tôi được không?"},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "Yes, of course. N, G, U, Y, E, N.", "vietnamese": "Được chứ. N, G, U, Y, E, N."},
+{"turn_order": 5, "speaker": "Mr David", "english": "Perfect. And can I confirm your date of birth?", "vietnamese": "Tuyệt. Tôi xác nhận ngày sinh của chị được không?"},
+{"turn_order": 6, "speaker": "Ms Lan", "english": "Yes, it is the third of May, nineteen ninety-five.", "vietnamese": "Vâng, là ngày mùng ba tháng Năm, năm một chín chín lăm."},
+{"turn_order": 7, "speaker": "Mr David", "english": "Thank you. Is this your first visit to our clinic?", "vietnamese": "Cảm ơn chị. Đây có phải lần đầu chị đến phòng khám không?"},
+{"turn_order": 8, "speaker": "Ms Lan", "english": "No, I came here last year for a check-up.", "vietnamese": "Không, tôi đến đây khám sức khỏe năm ngoái rồi."},
+{"turn_order": 9, "speaker": "Mr David", "english": "I see your file now. Could I also confirm your phone number?", "vietnamese": "Tôi thấy hồ sơ của chị rồi. Tôi xác nhận số điện thoại được không?"},
+{"turn_order": 10, "speaker": "Ms Lan", "english": "Yes, it is zero nine one two three four five.", "vietnamese": "Vâng, số của tôi là không chín một hai ba bốn năm."},
+{"turn_order": 11, "speaker": "Mr David", "english": "Thank you very much. And what is the reason for your visit today?", "vietnamese": "Cảm ơn chị nhiều. Hôm nay chị đến khám vì lý do gì vậy?"},
+{"turn_order": 12, "speaker": "Ms Lan", "english": "I have a small cough, and I would like the doctor to check it.", "vietnamese": "Tôi bị ho nhẹ, và tôi muốn bác sĩ khám giúp."},
+{"turn_order": 13, "speaker": "Mr David", "english": "I understand. Please take a seat, and the doctor will call you shortly.", "vietnamese": "Tôi hiểu rồi. Mời chị ngồi chờ, bác sĩ sẽ gọi chị sớm thôi."},
+{"turn_order": 14, "speaker": "Ms Lan", "english": "Thank you. How long is the wait usually?", "vietnamese": "Cảm ơn anh. Thường phải chờ bao lâu vậy?"},
+{"turn_order": 15, "speaker": "Mr David", "english": "Usually about fifteen minutes, but it depends on how busy we are today.", "vietnamese": "Thường khoảng mười lăm phút, nhưng tùy hôm nay đông hay không."},
+{"turn_order": 16, "speaker": "Ms Lan", "english": "That is fine. I will wait here.", "vietnamese": "Không sao đâu. Tôi sẽ ngồi chờ ở đây."}
 ]}

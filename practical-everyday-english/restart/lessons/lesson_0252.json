@@ -1,6 +1,18 @@
-{"lesson_id": "0252", "cefr_level": "A0 / Pre-A1", "major_domain": "Social Basics", "scenario": "saying hello", "english_title": "Recognising and Responding to Saying Hello", "vietnamese_title": "Giao tiếp nền tảng: greetings & basic social contact — saying hello", "primary_communication_goal": "recognise and respond to saying hello; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Ms Emma", "context_note_en": "Ms Emma greets Ms Lan at the gym.", "context_note_vi": "Chị Emma chào chị Lan tại phòng tập gym.","turns":[
-{"turn_order": 1, "speaker": "Ms Emma", "english": "Hello, Lan! Good to see you at the gym.", "vietnamese": "Chào Lan! Gặp chị ở phòng gym vui quá."},
-{"turn_order": 2, "speaker": "Ms Lan", "english": "Hello, Emma! Good to see you too.", "vietnamese": "Chào chị Emma! Gặp chị tôi cũng vui lắm."},
-{"turn_order": 3, "speaker": "Ms Emma", "english": "Do you come here often?", "vietnamese": "Chị có hay đến đây không?"},
-{"turn_order": 4, "speaker": "Ms Lan", "english": "Yes, quite often.", "vietnamese": "Có, tôi đến khá thường xuyên."}
+{"lesson_id": "0252", "cefr_level": "A1", "major_domain": "Social Basics", "scenario": "saying hello", "english_title": "Recognising and Responding to Saying Hello", "vietnamese_title": "Giao tiếp nền tảng: greetings & basic social contact — saying hello", "primary_communication_goal": "recognise and respond to saying hello; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Ms Emma", "context_note_en": "Ms Emma greets Ms Lan warmly and they catch up about their weekends.", "context_note_vi": "Chị Emma chào chị Lan thân mật và họ trò chuyện về cuối tuần của mình.","turns":[
+{"turn_order": 1, "speaker": "Ms Emma", "english": "Hi, Lan! It is so nice to see you again.", "vietnamese": "Chào Lan! Gặp lại chị vui quá."},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "Hi, Emma! It is lovely to see you too.", "vietnamese": "Chào chị Emma! Gặp chị tôi cũng vui lắm."},
+{"turn_order": 3, "speaker": "Ms Emma", "english": "How was your weekend?", "vietnamese": "Cuối tuần của chị thế nào?"},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "It was quite relaxing. I stayed at home and read a book.", "vietnamese": "Khá thư giãn. Tôi ở nhà và đọc sách."},
+{"turn_order": 5, "speaker": "Ms Emma", "english": "That sounds nice. What book did you read?", "vietnamese": "Nghe hay đấy. Chị đọc quyển gì vậy?"},
+{"turn_order": 6, "speaker": "Ms Lan", "english": "I read a new novel about a small village in Vietnam.", "vietnamese": "Tôi đọc một cuốn tiểu thuyết mới về một làng nhỏ ở Việt Nam."},
+{"turn_order": 7, "speaker": "Ms Emma", "english": "That sounds interesting. Did you enjoy it?", "vietnamese": "Nghe thú vị đấy. Chị có thích không?"},
+{"turn_order": 8, "speaker": "Ms Lan", "english": "Yes, I really enjoyed it. I finished it in two days.", "vietnamese": "Có, tôi thích lắm. Tôi đọc xong trong hai ngày."},
+{"turn_order": 9, "speaker": "Ms Emma", "english": "Wow, that is fast! I visited my parents this weekend instead.", "vietnamese": "Ồ, nhanh vậy! Còn tôi thì đi thăm bố mẹ cuối tuần này."},
+{"turn_order": 10, "speaker": "Ms Lan", "english": "Oh, that is lovely. How are they doing?", "vietnamese": "Ồ, hay quá. Bố mẹ chị vẫn khỏe chứ?"},
+{"turn_order": 11, "speaker": "Ms Emma", "english": "They are doing well, thank you for asking. My father just retired.", "vietnamese": "Vẫn khỏe, cảm ơn chị đã hỏi. Bố tôi vừa mới nghỉ hưu."},
+{"turn_order": 12, "speaker": "Ms Lan", "english": "That is wonderful news. Is he enjoying his free time?", "vietnamese": "Tin vui quá. Bố chị có thích thời gian rảnh không?"},
+{"turn_order": 13, "speaker": "Ms Emma", "english": "Yes, he is. He started gardening every morning now.", "vietnamese": "Có chứ. Bây giờ sáng nào bố cũng làm vườn."},
+{"turn_order": 14, "speaker": "Ms Lan", "english": "That sounds like a peaceful hobby. I am glad to hear that.", "vietnamese": "Nghe như một sở thích yên bình. Tôi mừng khi nghe vậy."},
+{"turn_order": 15, "speaker": "Ms Emma", "english": "Thank you, Lan. It was nice talking with you.", "vietnamese": "Cảm ơn Lan. Nói chuyện với chị vui thật."},
+{"turn_order": 16, "speaker": "Ms Lan", "english": "You too, Emma. Let us catch up again soon.", "vietnamese": "Tôi cũng vậy, Emma. Mình nói chuyện tiếp lần sau nhé."}
 ]}

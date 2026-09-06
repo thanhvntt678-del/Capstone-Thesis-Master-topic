@@ -1,6 +1,18 @@
-{"lesson_id": "0253", "cefr_level": "A0 / Pre-A1", "major_domain": "Numbers and Time", "scenario": "numbers 0-20", "english_title": "Recognising and Responding to Numbers 0-20", "vietnamese_title": "Giao tiếp nền tảng: numbers, dates & time — numbers 0-20", "primary_communication_goal": "recognise and respond to numbers 0-20; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr James", "context_note_en": "Mr James asks Ms Lan how many chairs are in the room.", "context_note_vi": "Anh James hỏi chị Lan trong phòng có bao nhiêu cái ghế.","turns":[
-{"turn_order": 1, "speaker": "Mr James", "english": "Lan, how many chairs are in this room?", "vietnamese": "Lan này, trong phòng này có bao nhiêu cái ghế?"},
-{"turn_order": 2, "speaker": "Ms Lan", "english": "There are twelve chairs.", "vietnamese": "Có mười hai cái ghế."},
-{"turn_order": 3, "speaker": "Mr James", "english": "Twelve chairs. Thank you.", "vietnamese": "Mười hai cái à. Cảm ơn chị."},
-{"turn_order": 4, "speaker": "Ms Lan", "english": "You are welcome.", "vietnamese": "Không có gì."}
+{"lesson_id": "0253", "cefr_level": "A1", "major_domain": "Numbers and Time", "scenario": "numbers 0-20", "english_title": "Recognising and Responding to Numbers 0-20", "vietnamese_title": "Giao tiếp nền tảng: numbers, dates & time — numbers 0-20", "primary_communication_goal": "recognise and respond to numbers 0-20; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Mr James", "context_note_en": "Mr James and Ms Lan work out how many chairs they need for a meeting.", "context_note_vi": "Anh James và chị Lan tính xem cần bao nhiêu ghế cho buổi họp.","turns":[
+{"turn_order": 1, "speaker": "Mr James", "english": "Lan, how many chairs do we need for the meeting tomorrow?", "vietnamese": "Lan này, mình cần bao nhiêu ghế cho buổi họp ngày mai nhỉ?"},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "Let me check the list. There are fourteen people coming.", "vietnamese": "Để tôi xem danh sách. Có mười bốn người sẽ đến."},
+{"turn_order": 3, "speaker": "Mr James", "english": "Fourteen people. So we need fourteen chairs, then.", "vietnamese": "Mười bốn người à. Vậy mình cần mười bốn cái ghế."},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "Yes, but let us bring two extra, just in case someone else joins.", "vietnamese": "Vâng, nhưng mình mang thêm hai cái phòng khi có người khác đến."},
+{"turn_order": 5, "speaker": "Mr James", "english": "Good thinking. That makes sixteen chairs in total.", "vietnamese": "Nghĩ hay đấy. Vậy tổng cộng mười sáu cái."},
+{"turn_order": 6, "speaker": "Ms Lan", "english": "Exactly. Do we have enough chairs in the storage room?", "vietnamese": "Đúng vậy. Phòng kho có đủ ghế không nhỉ?"},
+{"turn_order": 7, "speaker": "Mr James", "english": "I am not sure. Let me go and check now.", "vietnamese": "Tôi không chắc. Để tôi đi xem thử."},
+{"turn_order": 8, "speaker": "Ms Lan", "english": "Thank you. I will start setting up the tables in the meantime.", "vietnamese": "Cảm ơn anh. Trong lúc đó tôi sẽ sắp bàn."},
+{"turn_order": 9, "speaker": "Mr James", "english": "I checked, and we only have twelve chairs there.", "vietnamese": "Tôi xem rồi, ở đó chỉ có mười hai cái thôi."},
+{"turn_order": 10, "speaker": "Ms Lan", "english": "In that case, we need four more from the next room.", "vietnamese": "Vậy thì mình cần thêm bốn cái từ phòng bên cạnh."},
+{"turn_order": 11, "speaker": "Mr James", "english": "I will ask Michael to help us carry them over.", "vietnamese": "Tôi sẽ nhờ Michael giúp khiêng qua."},
+{"turn_order": 12, "speaker": "Ms Lan", "english": "Great idea. He is usually free around this time.", "vietnamese": "Ý hay đấy. Giờ này anh ấy thường rảnh."},
+{"turn_order": 13, "speaker": "Mr James", "english": "Perfect. I will go and find him right now.", "vietnamese": "Tuyệt. Tôi đi tìm anh ấy ngay đây."},
+{"turn_order": 14, "speaker": "Ms Lan", "english": "Thank you for organising this, James. I really appreciate it.", "vietnamese": "Cảm ơn anh đã sắp xếp việc này. Tôi cảm kích lắm."},
+{"turn_order": 15, "speaker": "Mr James", "english": "You are welcome. It is no trouble at all.", "vietnamese": "Không có gì đâu. Chuyện nhỏ mà."},
+{"turn_order": 16, "speaker": "Ms Lan", "english": "Everything should be ready well before the meeting starts.", "vietnamese": "Mọi thứ sẽ sẵn sàng trước khi buổi họp bắt đầu."}
 ]}

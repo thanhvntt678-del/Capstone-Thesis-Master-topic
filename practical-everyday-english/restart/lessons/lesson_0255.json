@@ -1,6 +1,18 @@
-{"lesson_id": "0255", "cefr_level": "A0 / Pre-A1", "major_domain": "Family", "scenario": "who a family member is", "english_title": "Recognising and Responding to Who a Family Member Is", "vietnamese_title": "Giao tiếp nền tảng: family & relationships — who a family member is", "primary_communication_goal": "recognise and respond to who a family member is; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Daniel", "context_note_en": "Mr Daniel sees a woman waving during a video call and asks Ms Lan who she is.", "context_note_vi": "Anh Daniel thấy một người phụ nữ vẫy tay trong cuộc gọi video và hỏi chị Lan đó là ai.","turns":[
-{"turn_order": 1, "speaker": "Mr Daniel", "english": "Lan, who is the woman waving in this video call?", "vietnamese": "Lan này, người phụ nữ đang vẫy tay trong cuộc gọi video này là ai vậy?"},
-{"turn_order": 2, "speaker": "Ms Lan", "english": "That is my aunt.", "vietnamese": "Đó là dì của tôi."},
-{"turn_order": 3, "speaker": "Mr Daniel", "english": "Your aunt. She seems very friendly.", "vietnamese": "Dì của chị à. Trông dì thân thiện quá."},
-{"turn_order": 4, "speaker": "Ms Lan", "english": "Yes, she really is.", "vietnamese": "Vâng, đúng là vậy đấy."}
+{"lesson_id": "0255", "cefr_level": "A1", "major_domain": "Family", "scenario": "who a family member is", "english_title": "Recognising and Responding to Who a Family Member Is", "vietnamese_title": "Giao tiếp nền tảng: family & relationships — who a family member is", "primary_communication_goal": "recognise and respond to who a family member is; complete the exchange naturally at A1.", "en_word_target": "260-380", "page_target": "3", "main_character": "Ms Lan", "secondary_character": "Mr Daniel", "context_note_en": "Mr Daniel notices a photo on Ms Lan's desk and asks about her brother.", "context_note_vi": "Anh Daniel để ý tấm ảnh trên bàn chị Lan và hỏi về em trai chị.","turns":[
+{"turn_order": 1, "speaker": "Mr Daniel", "english": "Lan, I noticed this photo on your desk. Who is this?", "vietnamese": "Lan này, tôi thấy tấm ảnh trên bàn chị. Đây là ai vậy?"},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "That is my younger brother, Tuan.", "vietnamese": "Đó là em trai tôi, Tuấn."},
+{"turn_order": 3, "speaker": "Mr Daniel", "english": "He looks like you. Does he live nearby?", "vietnamese": "Trông giống chị đấy. Em ấy có ở gần đây không?"},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "No, he lives in Da Nang now. He moved there for work last year.", "vietnamese": "Không, giờ em ấy sống ở Đà Nẵng. Em chuyển đến đó làm việc năm ngoái."},
+{"turn_order": 5, "speaker": "Mr Daniel", "english": "That is quite far. What does he do there?", "vietnamese": "Vậy khá xa nhỉ. Em ấy làm công việc gì ở đó?"},
+{"turn_order": 6, "speaker": "Ms Lan", "english": "He works as an engineer for a construction company.", "vietnamese": "Em ấy làm kỹ sư cho một công ty xây dựng."},
+{"turn_order": 7, "speaker": "Mr Daniel", "english": "That sounds like interesting work. Do you see him often?", "vietnamese": "Nghe công việc thú vị đấy. Chị có hay gặp em không?"},
+{"turn_order": 8, "speaker": "Ms Lan", "english": "Not very often, but we call each other every weekend.", "vietnamese": "Không thường xuyên lắm, nhưng cuối tuần nào chúng tôi cũng gọi điện."},
+{"turn_order": 9, "speaker": "Mr Daniel", "english": "That is nice. Does he ever come back to visit?", "vietnamese": "Hay đấy. Em ấy có hay về thăm không?"},
+{"turn_order": 10, "speaker": "Ms Lan", "english": "Yes, he usually visits during the holidays, twice a year.", "vietnamese": "Có chứ, em ấy thường về vào dịp lễ, hai lần một năm."},
+{"turn_order": 11, "speaker": "Mr Daniel", "english": "I am sure you look forward to those visits.", "vietnamese": "Chắc chị mong những lần đó lắm."},
+{"turn_order": 12, "speaker": "Ms Lan", "english": "Very much. We always cook a big meal together when he comes.", "vietnamese": "Rất mong. Mỗi lần em về, chúng tôi luôn nấu một bữa lớn cùng nhau."},
+{"turn_order": 13, "speaker": "Mr Daniel", "english": "That sounds like a wonderful tradition.", "vietnamese": "Nghe như một truyền thống tuyệt vời đấy."},
+{"turn_order": 14, "speaker": "Ms Lan", "english": "It really is. Family time is very important to me.", "vietnamese": "Đúng vậy thật. Thời gian bên gia đình rất quan trọng với tôi."},
+{"turn_order": 15, "speaker": "Mr Daniel", "english": "I feel the same way. My sister lives abroad too.", "vietnamese": "Tôi cũng cảm thấy vậy. Em gái tôi cũng sống ở nước ngoài."},
+{"turn_order": 16, "speaker": "Ms Lan", "english": "Then you understand exactly how I feel.", "vietnamese": "Vậy thì anh hiểu chính xác cảm giác của tôi rồi."}
 ]}
