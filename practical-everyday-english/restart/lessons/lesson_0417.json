@@ -1,0 +1,6 @@
+{"lesson_id": "0417", "cefr_level": "A0 / Pre-A1", "major_domain": "Communication", "scenario": "a misunderstanding or problem involving phone calls", "english_title": "Recognising and Responding to a Misunderstanding or Problem Involving Phone Calls", "vietnamese_title": "Giao tiếp nền tảng: phone calls — a misunderstanding or problem involving phone calls", "primary_communication_goal": "recognise and respond to a misunderstanding or problem involving phone calls; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Henry", "context_note_en": "Mr Henry tells Ms Lan the call keeps dropping.", "context_note_vi": "Anh Henry nói với chị Lan cuộc gọi cứ bị rớt mạng.","turns":[
+{"turn_order": 1, "speaker": "Mr Henry", "english": "Lan, sorry, the call keeps dropping.", "vietnamese": "Lan này, xin lỗi, cuộc gọi cứ bị rớt mạng."},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "I am having the same problem.", "vietnamese": "Tôi cũng gặp vấn đề y vậy."},
+{"turn_order": 3, "speaker": "Mr Henry", "english": "Let me try a different network.", "vietnamese": "Để tôi thử mạng khác xem."},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "Good idea.", "vietnamese": "Ý hay đấy."}
+]}
