@@ -1,0 +1,6 @@
+{"lesson_id": "0217", "cefr_level": "A0 / Pre-A1", "major_domain": "Personal Identity", "scenario": "your name", "english_title": "Recognising and Responding to Your Name", "vietnamese_title": "Giao tiếp nền tảng: personal identity & introductions — your name", "primary_communication_goal": "recognise and respond to your name; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr David", "context_note_en": "Mr David asks Ms Lan for her name to make a reservation.", "context_note_vi": "Anh David hỏi tên chị Lan để đặt chỗ.","turns":[
+{"turn_order": 1, "speaker": "Mr David", "english": "Excuse me, may I have your name for the reservation?", "vietnamese": "Xin lỗi, tôi xin tên chị để đặt chỗ được không?"},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "Yes, my name is Lan.", "vietnamese": "Được chứ, tên tôi là Lan."},
+{"turn_order": 3, "speaker": "Mr David", "english": "Lan. Thank you.", "vietnamese": "Lan à. Cảm ơn chị."},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "You are welcome.", "vietnamese": "Không có gì."}
+]}

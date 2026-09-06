@@ -1,0 +1,6 @@
+{"lesson_id": "0215", "cefr_level": "A0 / Pre-A1", "major_domain": "Communication", "scenario": "a misunderstanding or problem involving phone calls", "english_title": "Recognising and Responding to a Misunderstanding or Problem Involving Phone Calls", "vietnamese_title": "Giao tiếp nền tảng: phone calls — a misunderstanding or problem involving phone calls", "primary_communication_goal": "recognise and respond to a misunderstanding or problem involving phone calls; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Henry", "context_note_en": "Mr Henry tells Ms Lan the phone signal is bad.", "context_note_vi": "Anh Henry nói với chị Lan tín hiệu điện thoại không tốt.","turns":[
+{"turn_order": 1, "speaker": "Mr Henry", "english": "Lan, sorry, the signal is bad.", "vietnamese": "Lan này, xin lỗi, tín hiệu không tốt lắm."},
+{"turn_order": 2, "speaker": "Ms Lan", "english": "I am having trouble hearing you too.", "vietnamese": "Tôi cũng nghe anh không rõ lắm."},
+{"turn_order": 3, "speaker": "Mr Henry", "english": "I will try calling again.", "vietnamese": "Tôi sẽ gọi lại nhé."},
+{"turn_order": 4, "speaker": "Ms Lan", "english": "Okay, I will wait.", "vietnamese": "Được rồi, tôi đợi nhé."}
+]}
