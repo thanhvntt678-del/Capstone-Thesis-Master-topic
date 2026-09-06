@@ -4,14 +4,19 @@ A0/Pre-A1 → A1 → A2 → B1 → B1+ → B2 bilingual (EN/VI) communicative
 English book.
 
 ## ACTIVE SYSTEM: RESTART FINAL (Lesson 0001–2000)
-Governing spec: **`PROJECT_RULES_ZERO_DEFECT.md`** — the supreme,
+Governing spec: **`PROJECT_RULES_FINAL_LOCKED.md`** — the supreme,
 permanent authority, applying automatically to every future `NEXT`
-without restatement. It supersedes `PROJECT_RULES_ABSOLUTE_MASTER.md`
-where they conflict (that file remains the fuller detail for everything
-not changed — read both). `PROJECT_RULES_RESTART.md` remains as
-supplementary detail (e.g. the specific Lesson 0001/0002 correction
-history) where not superseded. `PROJECT_RULES_RESTART.md` was itself the
-sole authority,
+without restatement. It supersedes `PROJECT_RULES_ZERO_DEFECT.md` and
+`PROJECT_RULES_ABSOLUTE_MASTER.md` on the delivery/batching model only
+(per-Lesson content-quality rules from those files still apply in full —
+read all three). Key change: delivery is now **batched**, not one Lesson
+at a time — A0/Pre-A1 defaults to ~37 Lessons per delivery file, adjusted
+by actual rendered page count to land at 36–38 bilingual A4 pages; A1
+defaults to ~12 Lessons/file same way; A2–B2 is one Lesson = one file,
+each hard-locked to exactly 16 English-only pages before Vietnamese is
+added. `PROJECT_RULES_RESTART.md` remains as supplementary detail (e.g.
+the specific Lesson 0001/0002 correction history) where not superseded.
+`PROJECT_RULES_RESTART.md` was itself the sole authority,
 superseding both `PROJECT_RULES.md` (old Lesson 001–401 / Person A-B) and
 `PROJECT_RULES_V3.md` (Situation 0001–2000 / Ms Lan). The four old
 DGE001–401 source files are dropped entirely; curriculum is driven only by
@@ -35,24 +40,26 @@ and QC-reported, resume only when the user sends `NEXT`.
   `NEXT_LESSON_STATUS_RESTART` track exactly where this stands.
 
 ### To continue this project in a new session
-1. Read `PROJECT_RULES_ZERO_DEFECT.md` in full first (supreme), then
-   `PROJECT_RULES_ABSOLUTE_MASTER.md` for full detail on everything it
-   doesn't override, then `PROJECT_RULES_RESTART.md` for supplementary
-   history where not superseded.
+1. Read `PROJECT_RULES_FINAL_LOCKED.md` in full first (supreme, delivery/
+   batching model), then `PROJECT_RULES_ZERO_DEFECT.md` and
+   `PROJECT_RULES_ABSOLUTE_MASTER.md` for full detail on per-Lesson
+   content-quality rules (still in force), then `PROJECT_RULES_RESTART.md`
+   for supplementary history where not superseded.
 2. Check `PROGRESS.json` → `NEXT_LESSON_STATUS_RESTART`. If it is
-   `WAITING_FOR_NEXT_COMMAND`, **do not write the next Lesson** — wait for
+   `WAITING_FOR_NEXT_COMMAND`, **do not write the next batch** — wait for
    the user to send `NEXT` (NEXT LOCK).
-3. Once `NEXT` is received: run the full pre-writing gate (Section VIII
-   of the Absolute Master command) against the next Lesson ID's exact row
-   in `source_reference/MASTER_2000_LESSONS.csv` — CEFR level, Major
-   Domain, Scenario, titles, Communication Goal, word/page targets — never
-   substitute a different topic, and review recent prior Lessons first to
-   avoid cross-Lesson duplication.
-4. Write `restart/lessons/lesson_NNNN.json`, run
-   `compute_lesson_stats.py`, run `build_restart_docx.py`, self-QC against
-   every field in the restart QC report template (`04_QC_REPORT` sheet),
-   fix any failure, re-render, re-QC, then deliver with the exact QC
-   report format and STOP.
+3. Once `NEXT` is received: for A0/Pre-A1 or A1, write complete Lessons in
+   exact master-row order (never substitute a different topic; review
+   recent prior Lessons first to avoid cross-Lesson duplication), running
+   the full pre-writing gate per Lesson, until the actual rendered
+   bilingual file reaches 36–38 pages (default ~37 Lessons for A0/Pre-A1,
+   ~12 for A1) — for A2–B2, write exactly one Lesson to its 16 English-
+   only pages first, then add Vietnamese.
+4. For each Lesson: write `restart/lessons/lesson_NNNN.json`, run
+   `compute_lesson_stats.py`. After the batch: run `build_restart_docx.py`
+   once, self-QC against every field in the QC report template
+   (`04_QC_REPORT` sheet), fix any failure, re-render, re-QC, then deliver
+   ONE file with the exact delivery report format and STOP.
 
 ## Superseded systems — kept for audit trail only, not extended further
 - `data/lessons/lesson_001.json`–`lesson_020.json` + `PROJECT_RULES.md`:
