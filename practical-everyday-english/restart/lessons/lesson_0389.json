@@ -1,0 +1,6 @@
+{"lesson_id": "0389", "cefr_level": "A0 / Pre-A1", "major_domain": "Scheduling", "scenario": "a change or choice involving appointments & schedules", "english_title": "Recognising and Responding to a Change or Choice Involving Appointments and Schedules", "vietnamese_title": "Giao tiếp nền tảng: appointments & schedules — a change or choice involving appointments & schedules", "primary_communication_goal": "recognise and respond to a change or choice involving appointments & schedules; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Thomas", "context_note_en": "Ms Lan asks Mr Thomas to change her appointment to Friday instead.", "context_note_vi": "Chị Lan hỏi anh Thomas có thể đổi lịch hẹn sang thứ Sáu không.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Thomas, can we change my appointment to Friday instead?", "vietnamese": "Thomas này, đổi lịch hẹn của tôi sang thứ Sáu được không?"},
+{"turn_order": 2, "speaker": "Mr Thomas", "english": "Yes, Friday works.", "vietnamese": "Được chứ, thứ Sáu ổn đấy."},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Perfect, thank you.", "vietnamese": "Tuyệt quá, cảm ơn anh."},
+{"turn_order": 4, "speaker": "Mr Thomas", "english": "See you Friday.", "vietnamese": "Hẹn gặp lại chị thứ Sáu nhé."}
+]}
