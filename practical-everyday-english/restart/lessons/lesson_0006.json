@@ -1,0 +1,21 @@
+{
+  "lesson_id": "0006",
+  "cefr_level": "A0 / Pre-A1",
+  "major_domain": "Food",
+  "scenario": "asking for water",
+  "english_title": "Recognising and Responding to Asking for Water",
+  "vietnamese_title": "Giao tiếp nền tảng: food & drink — asking for water",
+  "primary_communication_goal": "recognise and respond to asking for water; complete the exchange naturally at A0 / Pre-A1.",
+  "en_word_target": "180-260",
+  "page_target": "2-3",
+  "main_character": "Ms Lan",
+  "secondary_character": "Ms Olivia",
+  "context_note_en": "Ms Lan is thirsty and asks Ms Olivia for some water.",
+  "context_note_vi": "Chị Lan khát nước và xin chị Olivia một ít nước.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Ms Lan", "english": "Excuse me, Olivia. Can I have some water, please?", "vietnamese": "Xin lỗi chị Olivia. Chị cho tôi xin ít nước được không?"},
+    {"turn_order": 2, "speaker": "Ms Olivia", "english": "Of course. Here you are.", "vietnamese": "Được chứ. Đây, mời chị."},
+    {"turn_order": 3, "speaker": "Ms Lan", "english": "Thank you very much.", "vietnamese": "Cảm ơn chị nhiều."},
+    {"turn_order": 4, "speaker": "Ms Olivia", "english": "My pleasure.", "vietnamese": "Không có gì đâu."}
+  ]
+}

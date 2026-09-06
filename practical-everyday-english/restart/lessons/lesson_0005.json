@@ -1,0 +1,21 @@
+{
+  "lesson_id": "0005",
+  "cefr_level": "A0 / Pre-A1",
+  "major_domain": "Family",
+  "scenario": "who a family member is",
+  "english_title": "Recognising and Responding to Who a Family Member Is",
+  "vietnamese_title": "Giao tiếp nền tảng: family & relationships — who a family member is",
+  "primary_communication_goal": "recognise and respond to who a family member is; complete the exchange naturally at A0 / Pre-A1.",
+  "en_word_target": "180-260",
+  "page_target": "2-3",
+  "main_character": "Ms Lan",
+  "secondary_character": "Mr Daniel",
+  "context_note_en": "Mr Daniel sees a photo at Ms Lan's home and asks who is in it.",
+  "context_note_vi": "Anh Daniel nhìn thấy một tấm ảnh ở nhà chị Lan và hỏi đó là ai.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Mr Daniel", "english": "Excuse me, Lan. Who is this?", "vietnamese": "Xin lỗi chị Lan. Đây là ai vậy?"},
+    {"turn_order": 2, "speaker": "Ms Lan", "english": "This is my brother.", "vietnamese": "Đây là em trai tôi."},
+    {"turn_order": 3, "speaker": "Mr Daniel", "english": "Oh, I see. Thank you.", "vietnamese": "À, ra vậy. Cảm ơn chị."},
+    {"turn_order": 4, "speaker": "Ms Lan", "english": "Not at all.", "vietnamese": "Có gì đâu."}
+  ]
+}
