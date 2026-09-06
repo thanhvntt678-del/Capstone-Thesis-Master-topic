@@ -1,0 +1,6 @@
+{"lesson_id": "0370", "cefr_level": "A0 / Pre-A1", "major_domain": "Services", "scenario": "asking for help with repairs & home services", "english_title": "Recognising and Responding to Asking for Help With Repairs and Home Services", "vietnamese_title": "Giao tiếp nền tảng: repairs & home services — asking for help with repairs & home services", "primary_communication_goal": "recognise and respond to asking for help with repairs & home services; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Ms Anna", "context_note_en": "Ms Lan asks Ms Anna to help her schedule a repair visit.", "context_note_vi": "Chị Lan nhờ chị Anna giúp sắp xếp lịch hẹn sửa chữa.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Anna, can you help me schedule a repair visit?", "vietnamese": "Anna này, chị giúp tôi sắp xếp lịch hẹn sửa chữa được không?"},
+{"turn_order": 2, "speaker": "Ms Anna", "english": "Yes, how about tomorrow?", "vietnamese": "Được chứ, ngày mai được không?"},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Tomorrow works, thank you.", "vietnamese": "Ngày mai được đấy, cảm ơn chị."},
+{"turn_order": 4, "speaker": "Ms Anna", "english": "See you then.", "vietnamese": "Hẹn gặp lại chị nhé."}
+]}
