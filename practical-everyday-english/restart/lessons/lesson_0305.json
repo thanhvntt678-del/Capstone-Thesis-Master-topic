@@ -1,0 +1,6 @@
+{"lesson_id": "0305", "cefr_level": "A0 / Pre-A1", "major_domain": "Health Services", "scenario": "a routine everyday need involving health services & pharmacy", "english_title": "Recognising and Responding to a Routine Everyday Need Involving Health Services and Pharmacy", "vietnamese_title": "Giao tiếp nền tảng: health services & pharmacy — a routine everyday need involving health services & pharmacy", "primary_communication_goal": "recognise and respond to a routine everyday need involving health services & pharmacy; complete the exchange naturally at A0 / Pre-A1.", "en_word_target": "180-260", "page_target": "2-3", "main_character": "Ms Lan", "secondary_character": "Mr Thomas", "context_note_en": "Ms Lan asks Mr Thomas to refill her prescription.", "context_note_vi": "Chị Lan nhờ anh Thomas cấp lại thuốc theo đơn.","turns":[
+{"turn_order": 1, "speaker": "Ms Lan", "english": "Excuse me, Thomas. Can I refill this prescription?", "vietnamese": "Xin lỗi anh Thomas. Tôi lấy lại thuốc theo đơn này được không?"},
+{"turn_order": 2, "speaker": "Mr Thomas", "english": "Yes, one moment, please.", "vietnamese": "Được chứ, chờ tôi một chút."},
+{"turn_order": 3, "speaker": "Ms Lan", "english": "Thank you.", "vietnamese": "Cảm ơn anh."},
+{"turn_order": 4, "speaker": "Mr Thomas", "english": "Here you are.", "vietnamese": "Đây chị."}
+]}
