@@ -10,23 +10,18 @@
   "page_target": "2-3",
   "main_character": "Ms Lan",
   "secondary_character": "Ms Emma",
-  "context_note_en": "Ms Lan sees her neighbour, Ms Emma, twice in one day: once in the morning, and once again, by surprise, later on.",
-  "context_note_vi": "Chị Lan gặp Emma, hàng xóm của mình, hai lần trong một ngày: một lần vào buổi sáng, và một lần nữa, khá bất ngờ, sau đó.",
+  "context_note_en": "Ms Lan sees her neighbour, Ms Emma, in the morning, and again a little later the same day.",
+  "context_note_vi": "Chị Lan gặp Emma, hàng xóm của mình, vào buổi sáng, và gặp lại một lúc sau đó trong cùng ngày.",
   "turns": [
     {"turn_order": 1, "speaker": "Ms Lan", "english": "Good morning, Emma!", "vietnamese": "Chào buổi sáng, Emma!"},
     {"turn_order": 2, "speaker": "Ms Emma", "english": "Good morning, Lan!", "vietnamese": "Chào buổi sáng, Lan!"},
-    {"turn_order": 3, "speaker": "Ms Lan", "english": "How are you today?", "vietnamese": "Hôm nay chị khỏe không?"},
-    {"turn_order": 4, "speaker": "Ms Emma", "english": "I am fine, thank you. And you?", "vietnamese": "Tôi khỏe, cảm ơn chị. Còn chị thì sao?"},
-    {"turn_order": 5, "speaker": "Ms Lan", "english": "I am fine too, thank you.", "vietnamese": "Tôi cũng khỏe, cảm ơn chị."},
-    {"turn_order": 6, "speaker": "Ms Emma", "english": "Good. See you again later, Lan.", "vietnamese": "Tốt rồi. Lát nữa gặp lại chị nhé, Lan."},
-    {"turn_order": 7, "speaker": "Ms Lan", "english": "See you later, Emma.", "vietnamese": "Lát nữa gặp lại, Emma."},
-    {"turn_order": 8, "speaker": "Ms Emma", "english": "Hi, Lan! I did not expect to see you again so soon.", "vietnamese": "Ơ, chào chị! Tôi không ngờ lại gặp chị sớm vậy."},
-    {"turn_order": 9, "speaker": "Ms Lan", "english": "Hi, Emma! Yes, what a nice surprise.", "vietnamese": "Chào chị! Vâng, bất ngờ quá đi."},
-    {"turn_order": 10, "speaker": "Ms Emma", "english": "Hello again. It is good to see you.", "vietnamese": "Lại chào chị lần nữa. Vui vì gặp lại chị."},
-    {"turn_order": 11, "speaker": "Ms Lan", "english": "It is good to see you too.", "vietnamese": "Tôi cũng vậy."},
-    {"turn_order": 12, "speaker": "Ms Emma", "english": "Twice in one day! That does not happen often.", "vietnamese": "Gặp hai lần trong một ngày luôn! Chuyện này đâu có thường xảy ra."},
-    {"turn_order": 13, "speaker": "Ms Lan", "english": "No, it does not. What a lucky day.", "vietnamese": "Đúng vậy đó. Hôm nay may mắn ghê."},
-    {"turn_order": 14, "speaker": "Ms Emma", "english": "It really is. Take care, Lan.", "vietnamese": "Đúng thật. Chị đi cẩn thận nhé, Lan."},
-    {"turn_order": 15, "speaker": "Ms Lan", "english": "You too, Emma.", "vietnamese": "Chị cũng vậy, Emma."}
+    {"turn_order": 3, "speaker": "Ms Lan", "english": "How are you?", "vietnamese": "Chị khỏe không?"},
+    {"turn_order": 4, "speaker": "Ms Emma", "english": "I am fine, thank you.", "vietnamese": "Tôi khỏe, cảm ơn chị."},
+    {"turn_order": 5, "speaker": "Ms Lan", "english": "Good. Goodbye, Emma.", "vietnamese": "Tốt rồi. Tạm biệt Emma."},
+    {"turn_order": 6, "speaker": "Ms Emma", "english": "Goodbye, Lan.", "vietnamese": "Tạm biệt Lan."},
+    {"turn_order": 7, "speaker": "Ms Lan", "english": "Hi, Emma.", "vietnamese": "Chào chị Emma."},
+    {"turn_order": 8, "speaker": "Ms Emma", "english": "Hi, Lan.", "vietnamese": "Chào chị Lan."},
+    {"turn_order": 9, "speaker": "Ms Lan", "english": "Goodbye again.", "vietnamese": "Tạm biệt lần nữa nhé."},
+    {"turn_order": 10, "speaker": "Ms Emma", "english": "Goodbye.", "vietnamese": "Tạm biệt."}
   ]
 }
