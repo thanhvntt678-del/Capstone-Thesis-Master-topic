@@ -90,6 +90,52 @@ FINAL QC; STATUS. **Note: this report format has no "Topic Mastery" field**
 locked row-by-row with no flexible "continue same topic" gating mentioned
 anywhere in the new master.
 
+## LEVEL / CEFR AUTHORITY — ABSOLUTE LOCK (added after Lesson 0001/0002 correction)
+Three sources, three distinct roles — never blur them:
+1. **Council of Europe – CEFR Companion Volume + CEFR Descriptors** = the
+   PRIMARY authority for level (Pre-A1/A0 → A1 → A2 → B1 → B2).
+2. **Cambridge English Pre A1 Starters** = secondary reference only, to
+   calibrate how simple Pre-A1 should read — never copy its child-learner
+   content/characters into this adult book.
+3. **Cambridge Dictionary / English–Vietnamese** = only for checking
+   meaning, usage, collocation, and register, and for verifying Vietnamese
+   sense — never used to decide CEFR level, and its machine-translation
+   output is never copied as the final Vietnamese (see the translation
+   pipeline below).
+
+For Lessons 0001–0250: if content exceeds real Pre-A1 ability per CEFR,
+REWRITE it, even if the English is grammatically correct. **CEFR LEVEL
+ACCURACY > WORD COUNT > PAGE TARGET.** Never raise difficulty just to fill
+2–3 pages.
+
+Reference sources named by the user: CEFR Companion Volume
+(coe.int/en/web/common-european-framework-reference-languages/cefr-companion-volume-and-its-language-versions),
+CEFR Descriptors
+(coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors),
+Cambridge Pre A1 Starters
+(cambridgeenglish.org/exams-and-tests/qualifications/young-learners/paper/starters/format),
+Cambridge Dictionary English–Vietnamese (dictionary.cambridge.org/vi/translate).
+**Environment note:** `coe.int`, `cambridgeenglish.org`, and
+`dictionary.cambridge.org` are all blocked by this sandbox's network
+egress proxy — confirmed by direct fetch attempts, all returning
+`EGRESS_BLOCKED`. Live lookups are not possible from this session; level
+and translation judgement calls rely on trained knowledge of these
+standards instead, applied with the same discipline (err toward simpler,
+narrower scope; never let word/page targets justify raising difficulty).
+
+## Vietnamese translation pipeline (mandatory per turn)
+STEP 1 understand the exact English meaning → STEP 2 identify who is
+speaking to whom → STEP 3 identify the real-life situation → STEP 4
+identify communicative intention → STEP 5 identify politeness/register →
+STEP 6 determine natural Vietnamese pronouns from the relationship and
+situation → STEP 7 write what a Vietnamese person would naturally say in
+the SAME situation. English is written and verified as natural English
+FIRST, independently — never write Vietnamese first and back-translate
+into English. After drafting, apply the **naturalness test**: hide the
+English, read only the Vietnamese, and ask "would a Vietnamese person
+really say this in this exact situation?" If no/awkward/translated-sounding
+→ rewrite.
+
 ## Rendering-environment note (carried over, still true)
 LibreOffice's `--convert-to pdf` fails to load any source file in this
 sandbox (confirmed on a blank test document) — an environment limitation,
