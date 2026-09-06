@@ -4,12 +4,14 @@ A0/Pre-A1 → A1 → A2 → B1 → B1+ → B2 bilingual (EN/VI) communicative
 English book.
 
 ## ACTIVE SYSTEM: RESTART FINAL (Lesson 0001–2000)
-Governing spec: **`PROJECT_RULES_ABSOLUTE_MASTER.md`** — the supreme,
+Governing spec: **`PROJECT_RULES_ZERO_DEFECT.md`** — the supreme,
 permanent authority, applying automatically to every future `NEXT`
-without restatement. It supersedes `PROJECT_RULES_RESTART.md` where they
-conflict; `PROJECT_RULES_RESTART.md` remains as supplementary detail
-(e.g. the specific Lesson 0001/0002 correction history) where not
-superseded. `PROJECT_RULES_RESTART.md` was itself the sole authority,
+without restatement. It supersedes `PROJECT_RULES_ABSOLUTE_MASTER.md`
+where they conflict (that file remains the fuller detail for everything
+not changed — read both). `PROJECT_RULES_RESTART.md` remains as
+supplementary detail (e.g. the specific Lesson 0001/0002 correction
+history) where not superseded. `PROJECT_RULES_RESTART.md` was itself the
+sole authority,
 superseding both `PROJECT_RULES.md` (old Lesson 001–401 / Person A-B) and
 `PROJECT_RULES_V3.md` (Situation 0001–2000 / Ms Lan). The four old
 DGE001–401 source files are dropped entirely; curriculum is driven only by
@@ -33,9 +35,10 @@ and QC-reported, resume only when the user sends `NEXT`.
   `NEXT_LESSON_STATUS_RESTART` track exactly where this stands.
 
 ### To continue this project in a new session
-1. Read `PROJECT_RULES_ABSOLUTE_MASTER.md` in full — the supreme, literal
-   governing spec (then `PROJECT_RULES_RESTART.md` for supplementary
-   detail/history where not superseded).
+1. Read `PROJECT_RULES_ZERO_DEFECT.md` in full first (supreme), then
+   `PROJECT_RULES_ABSOLUTE_MASTER.md` for full detail on everything it
+   doesn't override, then `PROJECT_RULES_RESTART.md` for supplementary
+   history where not superseded.
 2. Check `PROGRESS.json` → `NEXT_LESSON_STATUS_RESTART`. If it is
    `WAITING_FOR_NEXT_COMMAND`, **do not write the next Lesson** — wait for
    the user to send `NEXT` (NEXT LOCK).
