@@ -1,10 +1,10 @@
 {
   "RESTART_FINAL_ACTIVE": true,
   "RESTART_FINAL_NOTE": "CLAUDE_BOOK_MASTER_2000_LESSONS_PREA1_TO_B2_RESTART_FINAL.xlsx + its FINAL ABSOLUTE COMMAND is now the sole governing spec (see PROJECT_RULES_RESTART.md). It supersedes both PROJECT_RULES.md (old Lesson 001-401) and PROJECT_RULES_V3.md (Situation 0001-2000). The four old DGE001-401 source files are dropped entirely per explicit instruction. Curriculum is now driven only by source_reference/MASTER_2000_LESSONS.csv (02_MASTER_2000_LESSONS sheet, 2000 rows). Active tracking: restart/lessons/lesson_NNNN.json. Workflow is ONE Lesson at a time with an explicit NEXT-lock: do not write Lesson 0002+ until the user sends NEXT.",
-  "LAST_COMPLETE_LESSON_RESTART": "0002",
-  "NEXT_LESSON_TO_WRITE_RESTART": "0003",
+  "LAST_COMPLETE_LESSON_RESTART": "0003",
+  "NEXT_LESSON_TO_WRITE_RESTART": "0004",
   "NEXT_LESSON_STATUS_RESTART": "WAITING_FOR_NEXT_COMMAND",
-  "RESTART_TOTAL_ENGLISH_WORDS": 55,
+  "RESTART_TOTAL_ENGLISH_WORDS": 103,
   "RESTART_CORRECTION_NOTE": "Third pass: retroactive application of the permanent ABSOLUTE PRE-WRITING VALIDATION LOCK to already-written Lessons 0001-0002. Gate C (exact-objective check) drew a principled distinction between the two lessons: Lesson 0001's locked objective is explicitly compound (both 'correct a mistake in the name' AND 'respond naturally when called' are named), so its two scenes are both required and were kept (10 turns, 36 EN words), with one naturalness fix (merged 'No. My name is Lan.' into 'No, my name is Lan.', added the Vietnamese softening particle 'dau' in 'Khong phai dau'). Lesson 0002's objective is singular ('saying hello'), so its second 'Hi' scene was a repeat of an already-fully-demonstrated function per the new lock's own wording -- removed, leaving one clean morning greeting exchange (6 turns, 19 EN words). Both now pass the full pre-writing gate set retroactively as well as post-writing Final QC. Word counts remain far under the 180-260 target, deliberately, per the standing priority order.",
   "MASTER_V3_ACTIVE": false,
   "MASTER_V3_NOTE_SUPERSEDED": "Superseded by RESTART_FINAL above as of this entry. Situation 0001 (book/situations/) is dropped per the restart command's explicit instruction, not carried forward.",

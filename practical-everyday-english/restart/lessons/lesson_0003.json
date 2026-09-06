@@ -1,0 +1,23 @@
+{
+  "lesson_id": "0003",
+  "cefr_level": "A0 / Pre-A1",
+  "major_domain": "Numbers and Time",
+  "scenario": "numbers 0-20",
+  "english_title": "Recognising and Responding to Numbers 0-20",
+  "vietnamese_title": "Giao tiếp nền tảng: numbers, dates & time — numbers 0-20",
+  "primary_communication_goal": "recognise and respond to numbers 0-20; complete the exchange naturally at A0 / Pre-A1.",
+  "en_word_target": "180-260",
+  "page_target": "2-3",
+  "main_character": "Ms Lan",
+  "secondary_character": "Mr James",
+  "context_note_en": "Mr James cannot find all his keys. Ms Lan, a neighbour, helps him count them.",
+  "context_note_vi": "Anh James không tìm thấy hết chìa khóa của mình. Chị Lan, hàng xóm của anh, giúp anh đếm lại.",
+  "turns": [
+    {"turn_order": 1, "speaker": "Mr James", "english": "Excuse me, Lan. Can you help me count these keys?", "vietnamese": "Xin lỗi chị Lan. Chị giúp tôi đếm mấy cái chìa khóa này được không?"},
+    {"turn_order": 2, "speaker": "Ms Lan", "english": "Of course. Let me count them. There are nine keys here.", "vietnamese": "Được chứ. Để tôi đếm thử. Có chín cái chìa khóa ở đây."},
+    {"turn_order": 3, "speaker": "Mr James", "english": "Nine keys. And how many keys are in that box?", "vietnamese": "Chín cái. Còn trong cái hộp kia có bao nhiêu cái?"},
+    {"turn_order": 4, "speaker": "Ms Lan", "english": "There are six keys in the box.", "vietnamese": "Có sáu cái chìa khóa trong hộp."},
+    {"turn_order": 5, "speaker": "Mr James", "english": "Nine and six. Thank you for counting.", "vietnamese": "Chín với sáu. Cảm ơn chị đã đếm giúp."},
+    {"turn_order": 6, "speaker": "Ms Lan", "english": "You are welcome.", "vietnamese": "Không có gì."}
+  ]
+}
