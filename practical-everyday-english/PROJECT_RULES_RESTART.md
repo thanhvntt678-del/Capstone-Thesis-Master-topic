@@ -136,6 +136,88 @@ English, read only the Vietnamese, and ask "would a Vietnamese person
 really say this in this exact situation?" If no/awkward/translated-sounding
 → rewrite.
 
+## ABSOLUTE PRE-WRITING VALIDATION LOCK (permanent, Lessons 0001–2000)
+After two correction rounds on Lessons 0001–0002 (scope creep into future
+lessons' domains, then repeated variants/advanced phrasing used just to
+reach the word target), the standing workflow changes permanently:
+**reference and validate BEFORE writing, not write-then-fix.** This
+applies to every remaining Lesson without the user repeating it — each
+`NEXT` triggers the full sequence below automatically.
+
+**Order, never reversed:**
+`MASTER ROW → AUTHORITATIVE REFERENCE CHECK → LEVEL VALIDATION → ENGLISH
+VALIDATION → TRANSLATION VALIDATION → WRITE → SELF-QC → RENDER → FINAL QC
+→ DELIVER.`
+
+**Source hierarchy (do not blur roles):**
+1. **CEFR Companion Volume / CEFR Descriptors (Council of Europe)** — the
+   only authority for level. Before writing, state in one sentence what a
+   learner at this exact level can plausibly understand/say, and bound the
+   lesson to that.
+2. **Cambridge English Pre A1 Starters** — simplicity/length calibration
+   only for the 0001–0250 band, never content, characters, or exam-style
+   exercises to copy; this is an adult communication book.
+3. **Cambridge Dictionary** — verify meaning/usage/collocation/register of
+   any English phrase not already certain, before it goes in the
+   manuscript. Never a source of ready-made dialogue.
+4. **Cambridge English–Vietnamese** — cross-check core meaning only. Its
+   output is never pasted as the final Vietnamese line (see translation
+   pipeline below).
+(These sites are blocked by this sandbox's egress proxy — trained
+knowledge of the standards substitutes, applied with the same discipline.)
+
+**Pre-writing gates (internal, before any turn is drafted):**
+- Gate A — Master check: Lesson ID, CEFR, Major Domain, Scenario, English/
+  Vietnamese titles, Primary Communication Goal, word/page target all
+  read and understood. If the exact goal isn't clear, do not write yet.
+- Gate B — CEFR check: bound vocabulary range, sentence complexity,
+  interaction length, and independence to what this exact level supports.
+  Simplify the plan before writing, never write first and cut later.
+- Gate C — exact-objective check: the Lesson's *setting* (e.g. a clinic, a
+  street) is never the same thing as its *objective* (e.g. recognising
+  your name). Nothing gets added just because the setting could plausibly
+  support it (no appointments/directions/waiting-order/explanation unless
+  the objective itself calls for it).
+- Gate D — no-padding check, per turn before it's added: "does this turn
+  introduce a necessary communicative function, response, or variation?"
+  If no, don't add it — including a second/third instance of a function
+  already fully demonstrated once (that's repetition-as-padding, not
+  reinforcement).
+
+**Per-sentence English pre-validation** (before insertion, not after):
+meaning, grammar, syntax, collocation, register, politeness, context,
+CEFR fit, learning value — all must pass, and separately, the
+**native-naturalness test**: "would a natural English speaker reasonably
+say this in this exact situation?" Grammatically correct but nobody-talks-
+like-that fails and gets rewritten before it ever reaches the manuscript.
+Full-form English (Rule unchanged) must still pass this test — if full
+form makes a construction sound artificial, rewrite the whole sentence
+rather than force the contraction back in.
+
+**Translation pre-validation, per turn, before it's written down:**
+English → exact meaning → speaker intention → situation → relationship →
+tone → politeness → natural Vietnamese. Never translate word-by-word.
+Vietnamese owes English nothing in word order, structure, or word count —
+only meaning, intention, tone, politeness, relationship, and communicative
+effect. Before insertion, apply the **three-way test**: MEANING (does it
+carry the English meaning), CONTEXT (does it fit the real situation),
+NATURALNESS (hide the English — would a Vietnamese person really say this
+here?). All three must pass or rewrite. Pronouns are chosen from
+age/context/relationship each time (never a default tôi/bạn mapping) and
+stay consistent within one Lesson unless the relationship genuinely shifts
+mid-scene.
+
+**This does not replace Final QC** — post-writing QC (English, Vietnamese,
+CEFR, turn logic, duplication, page, publication) still runs on every
+Lesson; its job is to catch genuine exceptions, not to do the simplifying
+that pre-writing validation should have already done.
+
+**Priority order, absolute, never reordered:** CEFR accuracy > exact
+Lesson objective > natural English > natural contextual Vietnamese > real
+communicative value > no duplication > word/page target. A Lesson that
+achieves its objective naturally in fewer words than the target is
+delivered exactly as short as that — never padded up.
+
 ## Rendering-environment note (carried over, still true)
 LibreOffice's `--convert-to pdf` fails to load any source file in this
 sandbox (confirmed on a blank test document) — an environment limitation,
