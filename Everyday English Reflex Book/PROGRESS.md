@@ -10,21 +10,32 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0001-0007.docx`. Structural
   page estimate reached **~36 pages** (see calibration note below), landing
   inside the ~36–38 page A0 combined target, so this delivery is done.
-- **Last completed lesson: 0007**
-- **Next lesson to write on NEXT: 0008** (A0/Pre-A1, domain "Clothing",
-  scenario "the first practical exchange about clothing & personal items",
-  secondary character Ms Sophie) — this starts **DELIVERY #2**, a fresh
-  combined file (`EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-00NN.docx`) built the
-  same way: `build_combined.py`'s base becomes Lesson 0008 instead of the
-  approved Lesson 0001 (0008 has no pre-approved source, so it's written and
-  QC'd the same way as 0002-0007, just placed first in the new file's
-  `LESSONS_NEW`-equivalent list). Keep adding lessons one per NEXT until the
-  structural estimate is again inside ~36–38 pages.
+- **DELIVERY #2 OPEN: Lessons 0008-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0008.docx` (filename's
+  lesson range grows as lessons are added — always rename/replace to match
+  the current last lesson, and delete the previous file, same as Delivery
+  #1's pattern). Built with `source/build_delivery2.py`, which starts a
+  **fresh document with no base docx** (unlike `build_combined.py`, which
+  starts from the approved Lesson 0001 file) since 0008+ has no pre-approved
+  source — every lesson from 0008 onward is generated the normal way.
+  `build_delivery2.py`'s `LESSONS_DELIVERY2` list is what to extend each
+  time (append the next lesson's import + list entry), and it already
+  cross-checks duplicates against the WHOLE book (Delivery #1's lessons +
+  Delivery #2 so far), not just Delivery #2 in isolation.
+- **Last completed lesson: 0008.** Structural page estimate for Delivery #2
+  so far: **~4.7 pages** (1 lesson) — a long way from the ~36–38 target, so
+  expect several more NEXT cycles before Delivery #2 closes.
+- **Next lesson to write on NEXT: 0009** (A0/Pre-A1, domain
+  "Neighbourhood", scenario "the first practical exchange about
+  neighbourhood & directions", secondary character Mr Michael).
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
-  writes and QCs one more complete lesson, adds it to the current open
-  delivery file, and reports updated cumulative counts. Never send a partial
-  lesson; never start a second open delivery file while one is still short
-  of the page target.
+  writes and QCs one more complete lesson, adds it to the current OPEN
+  delivery file (`build_delivery2.py` right now), and reports updated
+  cumulative counts. Never send a partial lesson; never start a second open
+  delivery file while one is still short of the page target. Once Delivery
+  #2's estimate lands inside ~36–38 pages, close it (note it CLOSED here,
+  same as Delivery #1) and start Delivery #3 the same way Delivery #2
+  started — a new `build_deliveryN.py` with no base docx.
 
 ## Per-lesson QC record (English learning words, excl. Vietnamese) — DELIVERY #1 (CLOSED)
 
@@ -51,6 +62,21 @@ the 0006 build and 2 more on the 0007 build (all against lines already used
 earlier in the book) — all fixed by rewording. **Always run the full
 `build_combined.py` (not a partial manual check) before calling a lesson
 done.** Current result for the full 7-lesson book: **0 duplicates.**
+
+## Per-lesson QC record — DELIVERY #2 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0008 | Clothing | Ms Sophie | 987 | 124 | 0 |
+
+Total English learning words, Delivery #2 so far: **987**.
+Structural page estimate: **~4.7 pages** — still far below the ~36–38
+target; keep adding lessons.
+
+Cross-lesson check for 0008 ran against the **entire book so far**
+(0001-0007 + 0008) via `build_delivery2.py`'s `WHOLE_BOOK` list — caught 3
+real duplicates on the first pass (against Lessons 0006 and 0007), fixed by
+rewording. Result: **0 duplicates across the whole book, 0001-0008.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132

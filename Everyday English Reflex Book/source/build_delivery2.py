@@ -1,0 +1,75 @@
+# -*- coding: utf-8 -*-
+"""Builds Delivery #2 (Lessons 0008 onward) — no pre-approved base docx,
+so every lesson (0008+) is generated fresh with lesson_builder, unlike
+build_combined.py which starts from the approved Lesson 0001 docx."""
+import sys
+sys.path.insert(0, '.')
+import docx
+from docx.shared import Pt, RGBColor
+from lesson_builder import (
+    add_title_block, add_lesson_header_table, add_blank_spacer,
+    add_intro_paragraph, add_dialogue_line, qc_report, lesson_word_count,
+    new_section_setup, add_page_number_field,
+)
+from build_combined import load_lesson0001_as_dict, cross_lesson_duplicate_check
+from lesson0002 import LESSON_0002
+from lesson0003 import LESSON_0003
+from lesson0004 import LESSON_0004
+from lesson0005 import LESSON_0005
+from lesson0006 import LESSON_0006
+from lesson0007 import LESSON_0007
+from lesson0008 import LESSON_0008
+
+LESSONS_DELIVERY2 = [LESSON_0008]  # append 0009, 0010, ... here as they're written
+
+def main():
+    doc = docx.Document()
+    new_section_setup(doc)
+
+    for idx, lesson in enumerate(LESSONS_DELIVERY2):
+        if idx != 0:
+            doc.add_page_break()
+        add_title_block(doc)
+        add_lesson_header_table(doc, lesson['cefr'], lesson['lesson_id'], lesson['en_title'], lesson['vi_title'])
+        add_blank_spacer(doc)
+        add_intro_paragraph(doc, lesson['intro_en'], lesson['intro_vi'])
+        for speaker, en, vi in lesson['turns']:
+            add_dialogue_line(doc, speaker, en, vi)
+
+    lesson_range = f"{LESSONS_DELIVERY2[0]['lesson_id']}-{LESSONS_DELIVERY2[-1]['lesson_id']}"
+
+    sec = doc.sections[0]
+    ftr = sec.footer
+    p = ftr.paragraphs[0]
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    r = p.add_run(f"EVERYDAY ENGLISH REFLEX  •  Lessons {lesson_range}  •  page ")
+    r.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+    r.font.size = Pt(8)
+    add_page_number_field(p)
+
+    out_path = f"EVERYDAY_ENGLISH_REFLEX_LESSONS_{lesson_range}.docx"
+    doc.save(out_path)
+    print("Saved:", out_path)
+
+    print("\n=== PER-LESSON QC (Delivery #2) ===")
+    for lesson in LESSONS_DELIVERY2:
+        r = qc_report(lesson)
+        print(f"Lesson {r['lesson_id']}: English words={r['english_words']}, turns={r['turns']}, "
+              f"speakers={sorted(r['speakers'])}, duplicate_lines={r['duplicate_lines']}")
+
+    # Cross-check against the ENTIRE book so far (Delivery #1 lessons + this delivery)
+    lesson0001 = load_lesson0001_as_dict("lesson0001_approved.docx")
+    WHOLE_BOOK = [lesson0001, LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005,
+                  LESSON_0006, LESSON_0007] + LESSONS_DELIVERY2
+    dups = cross_lesson_duplicate_check(WHOLE_BOOK)
+    print(f"\nCross-lesson duplicate English lines (whole book, 0001 through {LESSONS_DELIVERY2[-1]['lesson_id']}):", dups)
+
+    total_words = sum(lesson_word_count(l) for l in LESSONS_DELIVERY2)
+    total_turns = sum(len(l['turns']) for l in LESSONS_DELIVERY2) + len(LESSONS_DELIVERY2)
+    est_pages = total_turns / (133 / 5)
+    print(f"\nTotal English learning words, Delivery #2 ({lesson_range}):", total_words)
+    print(f"Structural page estimate for Delivery #2 so far: {est_pages:.1f} pages")
+
+if __name__ == "__main__":
+    main()
