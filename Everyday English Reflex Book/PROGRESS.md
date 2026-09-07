@@ -6,26 +6,27 @@ scenario / title / secondary-character spec for all 2000 lessons.)
 
 ## Status
 
-- **Last completed lesson: 0006**
-- **Next lesson to write on NEXT: 0007** (A0/Pre-A1, domain "Shopping",
-  scenario "the first practical exchange about shopping & payments",
-  secondary character Mr Thomas)
-- Current delivery file: `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0001-0006.docx`
-  (Lesson 0001 preserved verbatim from the approved upload + Lessons 0002-0006
-  newly written and QC-checked. The 0001-0005 delivery file was superseded by
-  this one and removed — always keep exactly ONE current delivery file per
-  batch, named for its full lesson range.)
-- Structural page estimate for this 6-lesson file: **~31 pages** (English-only
-  calibration against the approved Lesson 0001; see "Known environment
-  limitation" below — real rendering was not available to confirm). Still
-  short of the ~36–38 page A0 combined target. **Interpretation adopted for
-  NEXT:** each NEXT adds one more fully QC'd lesson to this same delivery
-  file (never a new file, never a partial lesson) and reports updated
-  cumulative counts; once the estimate is comfortably inside ~36–38 pages,
-  that delivery is closed out and the next NEXT starts a fresh combined file
-  beginning at the following lesson.
+- **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0001-0007.docx`. Structural
+  page estimate reached **~36 pages** (see calibration note below), landing
+  inside the ~36–38 page A0 combined target, so this delivery is done.
+- **Last completed lesson: 0007**
+- **Next lesson to write on NEXT: 0008** (A0/Pre-A1, domain "Clothing",
+  scenario "the first practical exchange about clothing & personal items",
+  secondary character Ms Sophie) — this starts **DELIVERY #2**, a fresh
+  combined file (`EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-00NN.docx`) built the
+  same way: `build_combined.py`'s base becomes Lesson 0008 instead of the
+  approved Lesson 0001 (0008 has no pre-approved source, so it's written and
+  QC'd the same way as 0002-0007, just placed first in the new file's
+  `LESSONS_NEW`-equivalent list). Keep adding lessons one per NEXT until the
+  structural estimate is again inside ~36–38 pages.
+- **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
+  writes and QCs one more complete lesson, adds it to the current open
+  delivery file, and reports updated cumulative counts. Never send a partial
+  lesson; never start a second open delivery file while one is still short
+  of the page target.
 
-## Per-lesson QC record (English learning words, excl. Vietnamese)
+## Per-lesson QC record (English learning words, excl. Vietnamese) — DELIVERY #1 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -35,19 +36,30 @@ scenario / title / secondary-character spec for all 2000 lessons.)
 | 0004 | Home | Ms Sarah | 983 | 139 | 0 |
 | 0005 | Family | Mr Daniel | 950 | 143 | 0 |
 | 0006 | Food | Ms Olivia | 1007 | 127 | 0 |
+| 0007 | Shopping | Mr Thomas | 1006 | 130 | 0 |
 
-Total English learning words, Lessons 0001-0006: **5,780**.
+Total English learning words, Lessons 0001-0007: **6,786**.
+Total turns + intros: 959 → structural page estimate ≈ **36.1 pages**
+(see calibration formula below) — inside the ~36–38 target, so Delivery #1
+is closed here. Do not add Lesson 0008 to this file; it opens Delivery #2.
 
-Cross-lesson exact-duplicate English line check now covers **Lesson 0001
-too** (`build_combined.py`'s `load_lesson0001_as_dict()` parses the approved
-docx into the same shape as every other lesson, and `cross_lesson_duplicate_check()`
+Cross-lesson exact-duplicate English line check covers **Lesson 0001 too**
+(`build_combined.py`'s `load_lesson0001_as_dict()` parses the approved docx
+into the same shape as every other lesson, and `cross_lesson_duplicate_check()`
 runs over `[lesson_0001] + LESSONS_NEW`). This caught 7 real duplicates on
-the 0006 build (e.g. "Good morning, Lan!", "It is my pleasure.", "Thank you
-very much." each already used in Lesson 0001) that a 0002-0005-only check
-had missed — all fixed by rewording the 0002/0004 copies. **Always run the
-full `build_combined.py` (not a partial manual check) before calling a
-lesson done** — it now catches this automatically. Current result: **0
-duplicates across all 6 lessons.**
+the 0006 build and 2 more on the 0007 build (all against lines already used
+earlier in the book) — all fixed by rewording. **Always run the full
+`build_combined.py` (not a partial manual check) before calling a lesson
+done.** Current result for the full 7-lesson book: **0 duplicates.**
+
+**Page-estimate calibration formula** (since real PDF rendering isn't
+available — see "Known environment limitation"): approved Lesson 0001 = 132
+dialogue turns + 1 intro paragraph = 133 paragraph-units, documented as
+satisfying "5 full A4 pages" → **26.6 paragraph-units per page**. For any
+lesson set, `estimated_pages = (sum(turns) + count(lessons)) / 26.6`. This
+is a rough proxy (assumes uniform paragraph length/wrapping across lessons)
+— treat the ~36-38 target as approximate, not exact, and prefer real
+rendering the moment it becomes available in this environment.
 
 ## Tooling (reusable for every future lesson, A0 through B2)
 

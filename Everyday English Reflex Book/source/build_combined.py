@@ -14,8 +14,9 @@ from lesson0003 import LESSON_0003
 from lesson0004 import LESSON_0004
 from lesson0005 import LESSON_0005
 from lesson0006 import LESSON_0006
+from lesson0007 import LESSON_0007
 
-LESSONS_NEW = [LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005, LESSON_0006]
+LESSONS_NEW = [LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005, LESSON_0006, LESSON_0007]
 
 def cross_lesson_duplicate_check(all_lessons):
     seen = {}
