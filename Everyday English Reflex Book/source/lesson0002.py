@@ -30,7 +30,7 @@ LESSON_0002 = {
     ),
     'turns': [
         # 1 office entrance
-        ("Ms Emma", "Good morning, Lan!", "Chào buổi sáng, chị Lan!"),
+        ("Ms Emma", "Good morning to you, Lan!", "Chào buổi sáng chị nhé, chị Lan!"),
         ("Ms Lan", "Good morning, Emma! How are you today?", "Chào buổi sáng, chị Emma! Hôm nay chị khỏe không?"),
         ("Ms Emma", "I am very well, thank you. And you?", "Tôi khỏe lắm, cảm ơn chị. Còn chị thì sao?"),
         ("Ms Lan", "I am fine too, thanks.", "Tôi cũng khỏe, cảm ơn chị."),
@@ -38,7 +38,7 @@ LESSON_0002 = {
         ("Ms Lan", "Hello, Emma. Going up?", "Chào chị Emma. Chị lên tầng trên à?"),
         ("Ms Emma", "Hello, Lan. Yes, I am.", "Chào chị Lan. Vâng, đúng vậy."),
         ("Ms Lan", "Nice to see you this morning.", "Sáng nay gặp chị vui quá."),
-        ("Ms Emma", "Nice to see you too.", "Gặp chị tôi cũng vui."),
+        ("Ms Emma", "It is nice to see you too.", "Gặp chị tôi cũng vui lắm."),
         # 3 video call test
         ("Ms Emma", "Hi, Lan. Can you hear me?", "Chào chị Lan. Chị nghe rõ tôi không?"),
         ("Ms Lan", "Hi, Emma. Yes, I can hear you clearly.", "Chào chị Emma. Vâng, tôi nghe rõ lắm."),
@@ -86,7 +86,7 @@ LESSON_0002 = {
         # 12 answering the door
         ("Ms Lan", "Hello? Oh, hello, Emma! Please come in.", "Ai đó ạ? Ồ, chào chị Emma! Mời chị vào."),
         ("Ms Emma", "Hello, Lan. Thank you for having me.", "Chào chị Lan. Cảm ơn chị đã mời tôi."),
-        ("Ms Lan", "You are very welcome.", "Không có gì đâu ạ."),
+        ("Ms Lan", "You are very welcome, Emma.", "Không có gì đâu, chị Emma."),
         # 13 introduction
         ("Ms Emma", "Hello, I am Emma. Nice to meet you.", "Xin chào, tôi là Emma. Rất vui được gặp chị."),
         ("Ms Lan", "Hello, Emma. I am Lan. Nice to meet you too.", "Xin chào chị Emma. Tôi là Lan. Tôi cũng rất vui được gặp chị."),
@@ -105,7 +105,7 @@ LESSON_0002 = {
         # 16 class start
         ("Ms Lan", "Good morning, class. Hello, Emma.", "Chào buổi sáng cả lớp. Chào chị Emma."),
         ("Ms Emma", "Good morning, Lan. Thank you for organising this.", "Chào buổi sáng chị Lan. Cảm ơn chị đã tổ chức buổi này."),
-        ("Ms Lan", "It is my pleasure.", "Đó là niềm vui của tôi mà."),
+        ("Ms Lan", "The pleasure is all mine.", "Đó là niềm vui của tôi mà."),
         # 17 reception desk
         ("Ms Emma", "Hello! I am here to see Lan.", "Xin chào! Tôi đến để gặp chị Lan."),
         ("Ms Lan", "Hello, Emma! I am right here.", "Chào chị Emma! Tôi ở ngay đây nè."),
@@ -114,7 +114,7 @@ LESSON_0002 = {
         ("Ms Lan", "Hello? Who is it?", "Alo? Ai đó ạ?"),
         ("Ms Emma", "Hello, Lan. It is Emma.", "Chào chị Lan. Emma đây."),
         ("Ms Lan", "Oh, hello, Emma! Come on up.", "Ồ, chào chị Emma! Lên đây đi."),
-        ("Ms Emma", "Thank you, Lan.", "Cảm ơn chị Lan."),
+        ("Ms Emma", "Thank you so much, Lan.", "Cảm ơn chị nhiều lắm, chị Lan."),
         # 19 grocery store
         ("Ms Emma", "Hello, Lan! Fancy meeting you here.", "Chào chị Lan! Không ngờ gặp chị ở đây đấy."),
         ("Ms Lan", "Hello, Emma! I am just finishing my shopping.", "Chào chị Emma! Tôi vừa mua sắm xong thôi."),

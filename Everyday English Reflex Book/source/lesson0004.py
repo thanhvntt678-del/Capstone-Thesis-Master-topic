@@ -35,7 +35,7 @@ LESSON_0004 = {
         ("Ms Lan", "This is the living room, Sarah.", "Đây là phòng khách, chị Sarah."),
         ("Ms Sarah", "Oh, it is very cosy.", "Ôi, ấm cúng thật đấy."),
         ("Ms Lan", "Please, have a seat.", "Mời chị ngồi."),
-        ("Ms Sarah", "Thank you very much.", "Cảm ơn chị nhiều lắm."),
+        ("Ms Sarah", "Thank you, that is so kind.", "Cảm ơn chị, chị tốt bụng quá."),
         # 3 kitchen
         ("Ms Sarah", "Is this the kitchen, Lan?", "Đây là nhà bếp à, chị Lan?"),
         ("Ms Lan", "Yes, it is. This is my kitchen.", "Vâng, đúng rồi. Đây là bếp của tôi."),
@@ -69,7 +69,7 @@ LESSON_0004 = {
         # 10 garage
         ("Ms Sarah", "Can I park in your garage, Lan?", "Tôi đậu xe trong ga-ra nhà chị được không, chị Lan?"),
         ("Ms Lan", "Yes, the garage is on the left.", "Được chứ, ga-ra ở bên trái đấy."),
-        ("Ms Sarah", "Thanks a lot, Lan.", "Cảm ơn chị nhiều, chị Lan."),
+        ("Ms Sarah", "That is very kind of you, Lan.", "Chị tốt bụng quá, chị Lan."),
         # 11 attic
         ("Ms Lan", "We keep old boxes in the attic, Sarah.", "Mình để mấy thùng đồ cũ trên gác mái, chị Sarah."),
         ("Ms Sarah", "Is the attic upstairs?", "Gác mái ở trên lầu à?"),
