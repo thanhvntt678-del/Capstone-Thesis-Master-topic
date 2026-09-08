@@ -19,8 +19,9 @@ from lesson0005 import LESSON_0005
 from lesson0006 import LESSON_0006
 from lesson0007 import LESSON_0007
 from lesson0008 import LESSON_0008
+from lesson0009 import LESSON_0009
 
-LESSONS_DELIVERY2 = [LESSON_0008]  # append 0009, 0010, ... here as they're written
+LESSONS_DELIVERY2 = [LESSON_0008, LESSON_0009]  # append 0010, ... here as they're written
 
 def main():
     doc = docx.Document()
