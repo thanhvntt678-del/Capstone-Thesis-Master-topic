@@ -11,7 +11,7 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   page estimate reached **~36 pages** (see calibration note below), landing
   inside the ~36–38 page A0 combined target, so this delivery is done.
 - **DELIVERY #2 OPEN: Lessons 0008-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0012.docx` (filename's
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0013.docx` (filename's
   lesson range grows as lessons are added — always rename/replace to match
   the current last lesson, and delete the previous file, same as Delivery
   #1's pattern). Built with `source/build_delivery2.py`, which starts a
@@ -22,15 +22,17 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   time (append the next lesson's import + list entry), and it already
   cross-checks duplicates against the WHOLE book (Delivery #1's lessons +
   Delivery #2 so far), not just Delivery #2 in isolation.
-- **Last completed lesson: 0012.** Structural page estimate for Delivery #2
-  so far: **~22.4 pages** (5 lessons) — over halfway to the ~36–38 target.
-- **Next lesson to write on NEXT: 0013** (A0/Pre-A1, domain "Weather",
-  scenario "the first practical exchange about weather & daily plans"). The
-  master workbook suggests "Mr David" as the secondary character, but that
-  name was already used as Lesson 0001's secondary character — **use a
-  different name** (any context-appropriate Mr/Ms name not yet used in the
-  book) to keep the character roster distinct across lessons, and note the
-  substitution here when it's written.
+- **Last completed lesson: 0013** (secondary character Mr Peter, substituted
+  for the master's suggested "Mr David" which is already Lesson 0001's
+  character). Structural page estimate for Delivery #2 so far: **~26.7
+  pages** (6 lessons) — getting close to the ~36–38 target.
+- **Next lesson to write on NEXT: 0014** (A0/Pre-A1, domain "Daily Life",
+  scenario "the first practical exchange about daily routines"). The master
+  workbook suggests "Ms Emma" as the secondary character, but that name is
+  already Lesson 0002's character — **use a different name** (any
+  context-appropriate Mr/Ms name not yet used: so far used are David, Emma,
+  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna,
+  Peter) and note the substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -75,19 +77,20 @@ done.** Current result for the full 7-lesson book: **0 duplicates.**
 | 0010 | Transport | Ms Grace | 946 | 118 | 0 |
 | 0011 | Transport (taxi & ride services) | Mr Henry | 974 | 115 | 0 |
 | 0012 | Mobility (walking & getting around) | Ms Anna | 961 | 115 | 0 |
+| 0013 | Weather (weather & daily plans) | Mr Peter | 945 | 115 | 0 |
 
-Total English learning words, Delivery #2 so far: **4,835**.
-Structural page estimate: **~22.4 pages** — over halfway to the ~36–38
-target; keep adding lessons.
+Total English learning words, Delivery #2 so far: **5,780**.
+Structural page estimate: **~26.7 pages** — getting close to the ~36–38
+target; a few more lessons should close this delivery.
 
 Cross-lesson check ran against the **entire book so far** each time via
 `build_delivery2.py`'s `WHOLE_BOOK` list. Lessons 0008-0011 each caught
 3-12 real duplicates on their first pass (mostly generic closers already
 used earlier in the book). **Lesson learned, applied starting with 0012:**
 vary closing/acknowledgement lines deliberately from the first draft, not
-just topic-specific lines — 0012 caught only 1 duplicate on its first pass
-(down from 3-12), confirming the approach works. Result: **0 duplicates
-across the whole book, 0001-0012.**
+just topic-specific lines — both 0012 and 0013 caught only 1 duplicate
+each on their first pass (down from 3-12), confirming the approach holds.
+Result: **0 duplicates across the whole book, 0001-0013.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
