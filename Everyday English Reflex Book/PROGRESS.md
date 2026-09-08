@@ -10,30 +10,26 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0001-0007.docx`. Structural
   page estimate reached **~36 pages** (see calibration note below), landing
   inside the ~36–38 page A0 combined target, so this delivery is done.
-- **DELIVERY #2 OPEN: Lessons 0008-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0014.docx` (filename's
-  lesson range grows as lessons are added — always rename/replace to match
-  the current last lesson, and delete the previous file, same as Delivery
-  #1's pattern). Built with `source/build_delivery2.py`, which starts a
-  **fresh document with no base docx** (unlike `build_combined.py`, which
-  starts from the approved Lesson 0001 file) since 0008+ has no pre-approved
-  source — every lesson from 0008 onward is generated the normal way.
-  `build_delivery2.py`'s `LESSONS_DELIVERY2` list is what to extend each
-  time (append the next lesson's import + list entry), and it already
-  cross-checks duplicates against the WHOLE book (Delivery #1's lessons +
-  Delivery #2 so far), not just Delivery #2 in isolation.
-- **Last completed lesson: 0014** (secondary character Ms Rachel,
-  substituted for the master's suggested "Ms Emma" which is already Lesson
-  0002's character). Structural page estimate for Delivery #2 so far:
-  **~31.2 pages** (7 lessons) — very close to the ~36–38 target; probably
-  1-2 more lessons will close this delivery.
-- **Next lesson to write on NEXT: 0015** (A0/Pre-A1, domain "Learning",
-  scenario "the first practical exchange about school & learning"). The
-  master workbook suggests "Mr James" as the secondary character, but that
-  name is already Lesson 0003's character — **use a different name** (not
-  yet used: David, Emma, James, Sarah, Daniel, Olivia, Thomas, Sophie,
-  Michael, Grace, Henry, Anna, Peter, Rachel are all taken) and note the
-  substitution here when it's written.
+- **DELIVERY #2 CLOSED: Lessons 0008-0015**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0015.docx`. Structural
+  page estimate reached **~35.6 pages** (8 lessons), inside the ~36–38 page
+  A0 combined target (same closing logic as Delivery #1), so this delivery
+  is done.
+- **DELIVERY #3 OPEN: Lessons 0016-...** — not yet started as a combined
+  file; will use the same `build_deliveryN.py`-with-no-base-docx pattern as
+  `build_delivery2.py` (copy it to `build_delivery3.py`, reset
+  `LESSONS_DELIVERY3` to start empty, keep cross-checking against the WHOLE
+  book including everything already in Deliveries #1 and #2).
+- **Last completed lesson: 0015** (secondary character Mr Kevin, substituted
+  for the master's suggested "Mr James" which is already Lesson 0003's
+  character).
+- **Next lesson to write on NEXT: 0016** (A0/Pre-A1, domain "Work", scenario
+  "the first practical exchange about workplace everyday communication").
+  The master workbook suggests "Ms Sarah" as the secondary character, but
+  that name is already Lesson 0004's character — **use a different name**
+  (not yet used: David, Emma, James, Sarah, Daniel, Olivia, Thomas, Sophie,
+  Michael, Grace, Henry, Anna, Peter, Rachel, Kevin are all taken) and note
+  the substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -80,19 +76,25 @@ done.** Current result for the full 7-lesson book: **0 duplicates.**
 | 0012 | Mobility (walking & getting around) | Ms Anna | 961 | 115 | 0 |
 | 0013 | Weather (weather & daily plans) | Mr Peter | 945 | 115 | 0 |
 | 0014 | Daily Life (daily routines) | Ms Rachel | 896 | 118 | 0 |
+| 0015 | Learning (school & learning) | Mr Kevin | 945 | 115 | 0 |
 
-Total English learning words, Delivery #2 so far: **6,676**.
-Structural page estimate: **~31.2 pages** — very close to the ~36–38
-target; probably 1-2 more lessons will close this delivery.
+Total English learning words, Delivery #2: **7,621**.
+Total turns + intros: 946 → structural page estimate ≈ **35.6 pages**
+(same calibration formula as Delivery #1) — inside the ~36–38 target, so
+Delivery #2 is closed here. Do not add Lesson 0016 to this file; it opens
+Delivery #3.
 
 Cross-lesson check ran against the **entire book so far** each time via
 `build_delivery2.py`'s `WHOLE_BOOK` list. Lessons 0008-0011 each caught
 3-12 real duplicates on their first pass (mostly generic closers already
 used earlier in the book). **Lesson learned, applied starting with 0012:**
 vary closing/acknowledgement lines deliberately from the first draft, not
-just topic-specific lines — 0012, 0013, and 0014 each caught only 0-1
-duplicates on their first pass (down from 3-12), confirming the approach
-holds. Result: **0 duplicates across the whole book, 0001-0014.**
+just topic-specific lines — 0012-0015 each caught only 0-5 duplicates on
+their first pass, confirming the approach reduces but does not eliminate
+the risk as the book grows (0015 caught 5, back up from 0-1, simply
+because there are more prior lines to collide with as the book gets
+longer — always run the full check, never assume a lesson is clean).
+Result: **0 duplicates across the whole book, 0001-0015.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
