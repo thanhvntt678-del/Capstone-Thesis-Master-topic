@@ -27,11 +27,12 @@ from lesson0013 import LESSON_0013
 from lesson0014 import LESSON_0014
 from lesson0015 import LESSON_0015
 from lesson0016 import LESSON_0016
+from lesson0017 import LESSON_0017
 
 DELIVERY1 = [LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005, LESSON_0006, LESSON_0007]
 DELIVERY2 = [LESSON_0008, LESSON_0009, LESSON_0010, LESSON_0011, LESSON_0012, LESSON_0013, LESSON_0014, LESSON_0015]
 
-LESSONS_DELIVERY3 = [LESSON_0016]  # append 0017, ... here as they're written
+LESSONS_DELIVERY3 = [LESSON_0016, LESSON_0017]  # append 0018, ... here as they're written
 
 def main():
     doc = docx.Document()

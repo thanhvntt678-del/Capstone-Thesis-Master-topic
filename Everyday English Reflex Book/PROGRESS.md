@@ -16,23 +16,23 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   A0 combined target (same closing logic as Delivery #1), so this delivery
   is done.
 - **DELIVERY #3 OPEN: Lessons 0016-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0016.docx`. Built with
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0017.docx`. Built with
   `source/build_delivery3.py` (same no-base-docx pattern as
   `build_delivery2.py`, cross-checking against the WHOLE book across all
   deliveries so far via its `DELIVERY1`/`DELIVERY2`/`LESSONS_DELIVERY3`
   lists — extend `LESSONS_DELIVERY3` each time a new lesson is added).
-- **Last completed lesson: 0016** (secondary character Ms Julia, substituted
-  for the master's suggested "Ms Sarah" which is already Lesson 0004's
-  character). Structural page estimate for Delivery #3 so far: **~4.4
-  pages** (1 lesson) — just starting; many more lessons needed.
-- **Next lesson to write on NEXT: 0017** (A0/Pre-A1, domain
-  "Communication", scenario "the first practical exchange about phone
-  calls"). The master workbook suggests "Mr Daniel" as the secondary
-  character, but that name is already Lesson 0005's character — **use a
-  different name** (not yet used: David, Emma, James, Sarah, Daniel,
-  Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter, Rachel,
-  Kevin, Julia are all taken) and note the substitution here when it's
-  written.
+- **Last completed lesson: 0017** (secondary character Mr Robert,
+  substituted for the master's suggested "Mr Daniel" which is already
+  Lesson 0005's character). Structural page estimate for Delivery #3 so
+  far: **~8.7 pages** (2 lessons).
+- **Next lesson to write on NEXT: 0018** (A0/Pre-A1, domain
+  "Communication", scenario "the first practical exchange about messages &
+  everyday digital communication"). The master workbook suggests "Ms
+  Olivia" as the secondary character, but that name is already Lesson
+  0006's character — **use a different name** (not yet used: David, Emma,
+  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry,
+  Anna, Peter, Rachel, Kevin, Julia, Robert are all taken) and note the
+  substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -104,13 +104,15 @@ Result: **0 duplicates across the whole book, 0001-0015.**
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
 | 0016 | Work (workplace everyday communication) | Ms Julia | 943 | 115 | 0 |
+| 0017 | Communication (phone calls) | Mr Robert | 932 | 115 | 0 |
 
-Total English learning words, Delivery #3 so far: **943**.
-Structural page estimate: **~4.4 pages** — just starting; keep adding
-lessons. Cross-lesson check ran against the entire book (0001-0015) via
-`build_delivery3.py`'s `WHOLE_BOOK` list — caught 5 real duplicates on the
-first pass (typical as the book grows), fixed by rewording. Result: **0
-duplicates across the whole book, 0001-0016.**
+Total English learning words, Delivery #3 so far: **1,875**.
+Structural page estimate: **~8.7 pages** — keep adding lessons.
+Cross-lesson check ran against the entire book so far each time via
+`build_delivery3.py`'s `WHOLE_BOOK` list — 0016 caught 5 duplicates and
+0017 caught 3 on their first pass (typical as the book grows, usually
+generic "thank you"/acknowledgement closers), fixed by rewording each
+time. Result: **0 duplicates across the whole book, 0001-0017.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
