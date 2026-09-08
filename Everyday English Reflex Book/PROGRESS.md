@@ -11,7 +11,7 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   page estimate reached **~36 pages** (see calibration note below), landing
   inside the ~36–38 page A0 combined target, so this delivery is done.
 - **DELIVERY #2 OPEN: Lessons 0008-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0013.docx` (filename's
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0008-0014.docx` (filename's
   lesson range grows as lessons are added — always rename/replace to match
   the current last lesson, and delete the previous file, same as Delivery
   #1's pattern). Built with `source/build_delivery2.py`, which starts a
@@ -22,17 +22,18 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   time (append the next lesson's import + list entry), and it already
   cross-checks duplicates against the WHOLE book (Delivery #1's lessons +
   Delivery #2 so far), not just Delivery #2 in isolation.
-- **Last completed lesson: 0013** (secondary character Mr Peter, substituted
-  for the master's suggested "Mr David" which is already Lesson 0001's
-  character). Structural page estimate for Delivery #2 so far: **~26.7
-  pages** (6 lessons) — getting close to the ~36–38 target.
-- **Next lesson to write on NEXT: 0014** (A0/Pre-A1, domain "Daily Life",
-  scenario "the first practical exchange about daily routines"). The master
-  workbook suggests "Ms Emma" as the secondary character, but that name is
-  already Lesson 0002's character — **use a different name** (any
-  context-appropriate Mr/Ms name not yet used: so far used are David, Emma,
-  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna,
-  Peter) and note the substitution here when it's written.
+- **Last completed lesson: 0014** (secondary character Ms Rachel,
+  substituted for the master's suggested "Ms Emma" which is already Lesson
+  0002's character). Structural page estimate for Delivery #2 so far:
+  **~31.2 pages** (7 lessons) — very close to the ~36–38 target; probably
+  1-2 more lessons will close this delivery.
+- **Next lesson to write on NEXT: 0015** (A0/Pre-A1, domain "Learning",
+  scenario "the first practical exchange about school & learning"). The
+  master workbook suggests "Mr James" as the secondary character, but that
+  name is already Lesson 0003's character — **use a different name** (not
+  yet used: David, Emma, James, Sarah, Daniel, Olivia, Thomas, Sophie,
+  Michael, Grace, Henry, Anna, Peter, Rachel are all taken) and note the
+  substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -78,19 +79,20 @@ done.** Current result for the full 7-lesson book: **0 duplicates.**
 | 0011 | Transport (taxi & ride services) | Mr Henry | 974 | 115 | 0 |
 | 0012 | Mobility (walking & getting around) | Ms Anna | 961 | 115 | 0 |
 | 0013 | Weather (weather & daily plans) | Mr Peter | 945 | 115 | 0 |
+| 0014 | Daily Life (daily routines) | Ms Rachel | 896 | 118 | 0 |
 
-Total English learning words, Delivery #2 so far: **5,780**.
-Structural page estimate: **~26.7 pages** — getting close to the ~36–38
-target; a few more lessons should close this delivery.
+Total English learning words, Delivery #2 so far: **6,676**.
+Structural page estimate: **~31.2 pages** — very close to the ~36–38
+target; probably 1-2 more lessons will close this delivery.
 
 Cross-lesson check ran against the **entire book so far** each time via
 `build_delivery2.py`'s `WHOLE_BOOK` list. Lessons 0008-0011 each caught
 3-12 real duplicates on their first pass (mostly generic closers already
 used earlier in the book). **Lesson learned, applied starting with 0012:**
 vary closing/acknowledgement lines deliberately from the first draft, not
-just topic-specific lines — both 0012 and 0013 caught only 1 duplicate
-each on their first pass (down from 3-12), confirming the approach holds.
-Result: **0 duplicates across the whole book, 0001-0013.**
+just topic-specific lines — 0012, 0013, and 0014 each caught only 0-1
+duplicates on their first pass (down from 3-12), confirming the approach
+holds. Result: **0 duplicates across the whole book, 0001-0014.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
