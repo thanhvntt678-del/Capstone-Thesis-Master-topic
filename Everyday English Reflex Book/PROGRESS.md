@@ -16,27 +16,28 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   A0 combined target (same closing logic as Delivery #1), so this delivery
   is done.
 - **DELIVERY #3 OPEN: Lessons 0016-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0020.docx`. Built with
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0021.docx`. Built with
   `source/build_delivery3.py` (same no-base-docx pattern as
   `build_delivery2.py`, cross-checking against the WHOLE book across all
   deliveries so far via its `DELIVERY1`/`DELIVERY2`/`LESSONS_DELIVERY3`
   lists — extend `LESSONS_DELIVERY3` each time a new lesson is added).
-- **Last completed lesson: 0020** (secondary character Ms Diana, substituted
-  for the master's suggested "Ms Sophie" which is already Lesson 0008's
-  character). Domain "Social Basics", scenario "responding to a greeting" —
-  thematically close to Lesson 0002 ("saying hello") but kept genuinely
-  distinct (different setting/register); confirmed zero duplicate lines
-  against the whole book. Structural page estimate for Delivery #3 so far:
-  **~21.9 pages** (5 lessons).
-- **Next lesson to write on NEXT: 0021** (A0/Pre-A1, domain "Numbers and
-  Time", scenario "a phone number", title "Recognising and responding to a
-  phone number"). The master workbook suggests "Mr Michael" as the
-  secondary character, but that name is already Lesson 0009's character —
-  **use a different name** (not yet used: David, Emma, James, Sarah,
-  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
-  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana are all taken — e.g.
-  "Mr George" is a reasonable fresh choice) and note the substitution here
-  when it's written.
+- **Last completed lesson: 0021** (secondary character Mr George, substituted
+  for the master's suggested "Mr Michael" which is already Lesson 0009's
+  character). Domain "Numbers and Time", scenario "a phone number" — 38
+  distinct phone-number situations (asking for/giving a number, reading
+  back to confirm, wrong number, extensions, area/country codes, hotlines,
+  voicemail, etc.); confirmed zero duplicate lines against the whole book
+  after fixing 4 first-pass collisions. Structural page estimate for
+  Delivery #3 so far: **~26.3 pages** (6 lessons).
+- **Next lesson to write on NEXT: 0022** (A0/Pre-A1, domain "Home",
+  scenario "a common household object", title "Recognising and responding
+  to a common household object"). The master workbook suggests "Ms Grace"
+  as the secondary character, but that name is already Lesson 0010's
+  character — **use a different name** (not yet used: David, Emma, James,
+  Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna,
+  Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George are
+  all taken — e.g. "Ms Laura" is a reasonable fresh choice) and note the
+  substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -112,18 +113,21 @@ Result: **0 duplicates across the whole book, 0001-0015.**
 | 0018 | Communication (messages & digital communication) | Ms Natalie | 954 | 115 | 0 |
 | 0019 | Personal Identity (how to spell your name) | Mr Simon | 954 | 109 | 0 |
 | 0020 | Social Basics (responding to a greeting) | Ms Diana | 905 | 124 | 0 |
+| 0021 | Numbers and Time (a phone number) | Mr George | 1219 | 115 | 0 |
 
-Total English learning words, Delivery #3 so far: **4,688**.
-Structural page estimate: **~21.9 pages** — keep adding lessons.
+Total English learning words, Delivery #3 so far: **5,907**.
+Structural page estimate: **~26.3 pages** — keep adding lessons.
 Cross-lesson check ran against the entire book so far each time via
 `build_delivery3.py`'s `WHOLE_BOOK` list — 0016 caught 5, 0017 caught 3,
 0018 caught 5, 0019 caught 1 (against Lesson 0001, expected given the
-topic overlap), 0020 caught 0 duplicates on their first pass (0016-0019
-fixed by rewording). Lesson 0019 additionally needed 9 within-lesson lines
+topic overlap), 0020 caught 0, 0021 caught 4 (generic short
+acknowledgement lines like "Got it, thank you." / "Yes, that is correct."
+already used earlier in the book) duplicates on their first pass — all
+fixed by rewording. Lesson 0019 additionally needed 9 within-lesson lines
 reworded because its "spell the name" content naturally repeats short
 answers like "S-I-M-O-N" — each occurrence had to be wrapped in different
 surrounding words to stay a unique full line. Result: **0 duplicates
-across the whole book, 0001-0020.**
+across the whole book, 0001-0021.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
