@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Builds Delivery #4 (Lessons 0024 onward) — same pattern as build_delivery3.py:
+"""Builds Delivery #5 (Lessons 0032 onward) — same pattern as build_delivery4.py:
 no pre-approved base docx, cross-checks duplicates against the WHOLE book so far
-(Deliveries #1, #2, #3 plus whatever's in this delivery)."""
+(Deliveries #1-#4 plus whatever's in this delivery)."""
 import sys
 sys.path.insert(0, '.')
 import docx
@@ -42,18 +42,27 @@ from lesson0028 import LESSON_0028
 from lesson0029 import LESSON_0029
 from lesson0030 import LESSON_0030
 from lesson0031 import LESSON_0031
+from lesson0032 import LESSON_0032
+from lesson0033 import LESSON_0033
+from lesson0034 import LESSON_0034
+from lesson0035 import LESSON_0035
+from lesson0036 import LESSON_0036
+from lesson0037 import LESSON_0037
+from lesson0038 import LESSON_0038
+from lesson0039 import LESSON_0039
 
 DELIVERY1 = [LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005, LESSON_0006, LESSON_0007]
 DELIVERY2 = [LESSON_0008, LESSON_0009, LESSON_0010, LESSON_0011, LESSON_0012, LESSON_0013, LESSON_0014, LESSON_0015]
 DELIVERY3 = [LESSON_0016, LESSON_0017, LESSON_0018, LESSON_0019, LESSON_0020, LESSON_0021, LESSON_0022, LESSON_0023]
+DELIVERY4 = [LESSON_0024, LESSON_0025, LESSON_0026, LESSON_0027, LESSON_0028, LESSON_0029, LESSON_0030, LESSON_0031]
 
-LESSONS_DELIVERY4 = [LESSON_0024, LESSON_0025, LESSON_0026, LESSON_0027, LESSON_0028, LESSON_0029, LESSON_0030, LESSON_0031]  # closing this delivery at 0031
+LESSONS_DELIVERY5 = [LESSON_0032, LESSON_0033, LESSON_0034, LESSON_0035, LESSON_0036, LESSON_0037, LESSON_0038, LESSON_0039]  # closing this delivery at 0039
 
 def main():
     doc = docx.Document()
     new_section_setup(doc)
 
-    for idx, lesson in enumerate(LESSONS_DELIVERY4):
+    for idx, lesson in enumerate(LESSONS_DELIVERY5):
         if idx != 0:
             doc.add_page_break()
         add_title_block(doc)
@@ -63,7 +72,7 @@ def main():
         for speaker, en, vi in lesson['turns']:
             add_dialogue_line(doc, speaker, en, vi)
 
-    lesson_range = f"{LESSONS_DELIVERY4[0]['lesson_id']}-{LESSONS_DELIVERY4[-1]['lesson_id']}"
+    lesson_range = f"{LESSONS_DELIVERY5[0]['lesson_id']}-{LESSONS_DELIVERY5[-1]['lesson_id']}"
 
     sec = doc.sections[0]
     ftr = sec.footer
@@ -79,22 +88,22 @@ def main():
     doc.save(out_path)
     print("Saved:", out_path)
 
-    print("\n=== PER-LESSON QC (Delivery #4) ===")
-    for lesson in LESSONS_DELIVERY4:
+    print("\n=== PER-LESSON QC (Delivery #5) ===")
+    for lesson in LESSONS_DELIVERY5:
         r = qc_report(lesson)
         print(f"Lesson {r['lesson_id']}: English words={r['english_words']}, turns={r['turns']}, "
               f"speakers={sorted(r['speakers'])}, duplicate_lines={r['duplicate_lines']}")
 
     lesson0001 = load_lesson0001_as_dict("lesson0001_approved.docx")
-    WHOLE_BOOK = [lesson0001] + DELIVERY1 + DELIVERY2 + DELIVERY3 + LESSONS_DELIVERY4
+    WHOLE_BOOK = [lesson0001] + DELIVERY1 + DELIVERY2 + DELIVERY3 + DELIVERY4 + LESSONS_DELIVERY5
     dups = cross_lesson_duplicate_check(WHOLE_BOOK)
-    print(f"\nCross-lesson duplicate English lines (whole book, 0001 through {LESSONS_DELIVERY4[-1]['lesson_id']}):", dups)
+    print(f"\nCross-lesson duplicate English lines (whole book, 0001 through {LESSONS_DELIVERY5[-1]['lesson_id']}):", dups)
 
-    total_words = sum(lesson_word_count(l) for l in LESSONS_DELIVERY4)
-    total_turns = sum(len(l['turns']) for l in LESSONS_DELIVERY4) + len(LESSONS_DELIVERY4)
+    total_words = sum(lesson_word_count(l) for l in LESSONS_DELIVERY5)
+    total_turns = sum(len(l['turns']) for l in LESSONS_DELIVERY5) + len(LESSONS_DELIVERY5)
     est_pages = total_turns / (133 / 5)
-    print(f"\nTotal English learning words, Delivery #4 ({lesson_range}):", total_words)
-    print(f"Structural page estimate for Delivery #4 so far: {est_pages:.1f} pages")
+    print(f"\nTotal English learning words, Delivery #5 ({lesson_range}):", total_words)
+    print(f"Structural page estimate for Delivery #5 so far: {est_pages:.1f} pages")
 
 if __name__ == "__main__":
     main()
