@@ -21,31 +21,32 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Delivery #1 (~36.1) and Delivery #2 (~35.6); adding a 9th lesson would
   have risked exceeding the 38-page ceiling, so this delivery closes here.
 - **DELIVERY #4 OPEN: Lessons 0024-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0024-0028.docx`. Built with
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0024-0029.docx`. Built with
   `source/build_delivery4.py` (same no-base-docx pattern as
   `build_delivery3.py`, cross-checking against the WHOLE book across all
   deliveries so far via its `DELIVERY1`/`DELIVERY2`/`DELIVERY3`/
   `LESSONS_DELIVERY4` lists — extend `LESSONS_DELIVERY4` each time a new
   lesson is added).
-- **Last completed lesson: 0028** (secondary character Ms Helen, substituted
-  for the master's suggested "Ms Sarah" which is already Lesson 0004's
+- **Last completed lesson: 0029** (secondary character Mr Victor, substituted
+  for the master's suggested "Mr Daniel" which is already Lesson 0005's
   character). Domain "Transport", scenario "a routine everyday need
-  involving public transport" — 38 distinct public-transport situations
-  (buses, trains, delays, seats, transfers, monthly passes, fares,
-  wheelchair access, lost items, etc.); confirmed zero duplicate lines
-  against the whole book after fixing 1 first-pass collision. Structural
-  page estimate for Delivery #4 so far: **~21.8 pages** (5 lessons).
-- **Next lesson to write on NEXT: 0029** (A0/Pre-A1, domain "Transport",
-  scenario "a routine everyday need involving taxi & ride services",
+  involving taxi & ride services" — 38 distinct taxi/ride-hailing
+  situations (booking via app, pickup confirmation, fares, tipping,
+  ratings, cancellations, surge pricing, safety checks, etc.); confirmed
+  zero duplicate lines against the whole book on the first pass.
+  Structural page estimate for Delivery #4 so far: **~26.2 pages** (6
+  lessons) — approaching the ~36-38 page closing target.
+- **Next lesson to write on NEXT: 0030** (A0/Pre-A1, domain "Mobility",
+  scenario "a routine everyday need involving walking & getting around",
   title "Recognising and responding to a routine everyday need involving
-  taxi & ride services"). The master workbook suggests "Mr Daniel" as the
-  secondary character, but that name is already Lesson 0005's character —
-  **use a different name** (not yet used: David, Emma, James, Sarah,
-  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
-  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
-  Edward, Claire, Nathan, Karen, Patrick, Helen are all taken — e.g. "Mr
-  Victor" is a reasonable fresh choice) and note the substitution here
-  when it's written.
+  walking & getting around"). The master workbook suggests "Ms Olivia" as
+  the secondary character, but that name is already Lesson 0006's
+  character — **use a different name** (not yet used: David, Emma, James,
+  Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna,
+  Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George,
+  Laura, Edward, Claire, Nathan, Karen, Patrick, Helen, Victor are all
+  taken — e.g. "Ms Susan" is a reasonable fresh choice) and note the
+  substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -152,9 +153,10 @@ unique full line. Result: **0 duplicates across the whole book,
 | 0026 | Clothing (a routine everyday need involving clothing & personal items) | Ms Karen | 1145 | 115 | 0 |
 | 0027 | Neighbourhood (a routine everyday need involving neighbourhood & directions) | Mr Patrick | 1146 | 115 | 0 |
 | 0028 | Transport (a routine everyday need involving public transport) | Ms Helen | 1068 | 115 | 0 |
+| 0029 | Transport (a routine everyday need involving taxi & ride services) | Mr Victor | 1147 | 115 | 0 |
 
-Total English learning words, Delivery #4 so far: **5,485**.
-Structural page estimate: **~21.8 pages** — keep adding lessons.
+Total English learning words, Delivery #4 so far: **6,632**.
+Structural page estimate: **~26.2 pages** — approaching the ~36-38 target.
 Cross-lesson check ran against the entire book so far via
 `build_delivery4.py`'s `WHOLE_BOOK` list — 0024 caught 0, 0025 caught 4
 (generic short acknowledgement lines already used earlier in the book, one
@@ -162,9 +164,9 @@ against Lesson 0007's "No problem, do you have the receipt?" wording),
 0026 caught 1 (against Lesson 0006, needed two reword attempts since the
 first replacement also collided with the same earlier line), 0027 caught
 5 (generic short acknowledgement/relief lines already used earlier in the
-book), 0028 caught 1 (against Lesson 0010) duplicates on their first pass
-— fixed by rewording. Result: **0 duplicates across the whole book,
-0001-0028.**
+book), 0028 caught 1 (against Lesson 0010), 0029 caught 0 duplicates on
+their first pass — fixed by rewording. Result: **0 duplicates across the
+whole book, 0001-0029.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
