@@ -15,29 +15,36 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   page estimate reached **~35.6 pages** (8 lessons), inside the ~36–38 page
   A0 combined target (same closing logic as Delivery #1), so this delivery
   is done.
-- **DELIVERY #3 OPEN: Lessons 0016-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0022.docx`. Built with
-  `source/build_delivery3.py` (same no-base-docx pattern as
-  `build_delivery2.py`, cross-checking against the WHOLE book across all
-  deliveries so far via its `DELIVERY1`/`DELIVERY2`/`LESSONS_DELIVERY3`
-  lists — extend `LESSONS_DELIVERY3` each time a new lesson is added).
-- **Last completed lesson: 0022** (secondary character Ms Laura, substituted
-  for the master's suggested "Ms Grace" which is already Lesson 0010's
-  character). Domain "Home", scenario "a common household object" — 38
-  distinct household-object situations (broom, kettle, remote, light bulb,
-  umbrella, tools, kitchenware, etc.); confirmed zero duplicate lines
-  against the whole book after fixing 1 first-pass collision. Structural
-  page estimate for Delivery #3 so far: **~30.6 pages** (7 lessons) —
-  getting close to the ~36-38 page closing target.
-- **Next lesson to write on NEXT: 0023** (A0/Pre-A1, domain "Family",
-  scenario "a family member's name", title "Recognising and responding to
-  a family member's name"). The master workbook suggests "Mr Henry" as
-  the secondary character, but that name is already Lesson 0011's
-  character — **use a different name** (not yet used: David, Emma, James,
-  Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna,
-  Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George,
-  Laura are all taken — e.g. "Mr Edward" is a reasonable fresh choice) and
-  note the substitution here when it's written.
+- **DELIVERY #3 CLOSED: Lessons 0016-0023**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0016-0023.docx`. Structural
+  page estimate reached **~35.0 pages** (8 lessons), consistent with
+  Delivery #1 (~36.1) and Delivery #2 (~35.6); adding a 9th lesson would
+  have risked exceeding the 38-page ceiling, so this delivery closes here.
+- **DELIVERY #4 OPEN: Lessons 0024-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0024-0024.docx`. Built with
+  `source/build_delivery4.py` (same no-base-docx pattern as
+  `build_delivery3.py`, cross-checking against the WHOLE book across all
+  deliveries so far via its `DELIVERY1`/`DELIVERY2`/`DELIVERY3`/
+  `LESSONS_DELIVERY4` lists — extend `LESSONS_DELIVERY4` each time a new
+  lesson is added).
+- **Last completed lesson: 0024** (secondary character Ms Claire, substituted
+  for the master's suggested "Ms Anna" which is already Lesson 0012's
+  character). Domain "Food", scenario "choosing a drink" — 38 distinct
+  drink-choosing situations (coffee vs tea, hot/iced, smoothies, sugar
+  level, caffeine, seasonal specials, sharing a drink, etc.); confirmed
+  zero duplicate lines against the whole book on the first pass. Structural
+  page estimate for Delivery #4 so far: **~4.4 pages** (1 lesson, just
+  opened).
+- **Next lesson to write on NEXT: 0025** (A0/Pre-A1, domain "Shopping",
+  scenario "a routine everyday need involving shopping & payments", title
+  "Recognising and responding to a routine everyday need involving
+  shopping & payments"). The master workbook suggests "Mr David" as the
+  secondary character, but that name is already Lesson 0001's character —
+  **use a different name** (not yet used: David, Emma, James, Sarah,
+  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
+  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
+  Edward, Claire are all taken — e.g. "Mr Nathan" is a reasonable fresh
+  choice) and note the substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -104,7 +111,7 @@ because there are more prior lines to collide with as the book gets
 longer — always run the full check, never assume a lesson is clean).
 Result: **0 duplicates across the whole book, 0001-0015.**
 
-## Per-lesson QC record — DELIVERY #3 (OPEN)
+## Per-lesson QC record — DELIVERY #3 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -115,20 +122,38 @@ Result: **0 duplicates across the whole book, 0001-0015.**
 | 0020 | Social Basics (responding to a greeting) | Ms Diana | 905 | 124 | 0 |
 | 0021 | Numbers and Time (a phone number) | Mr George | 1219 | 115 | 0 |
 | 0022 | Home (a common household object) | Ms Laura | 1015 | 115 | 0 |
+| 0023 | Family (a family member's name) | Mr Edward | 1150 | 115 | 0 |
 
-Total English learning words, Delivery #3 so far: **6,922**.
-Structural page estimate: **~30.6 pages** — close to the ~36-38 target,
-likely 1-2 more lessons before this delivery closes.
+Total English learning words, Delivery #3: **8,072**.
+Total turns + intros: 915 → structural page estimate ≈ **35.0 pages**
+(same calibration formula as Deliveries #1-#2) — consistent with the
+~36-38 target (a 9th lesson risked exceeding 38 pages), so Delivery #3 is
+closed here. Do not add Lesson 0024 to this table; it opens Delivery #4.
+
 Cross-lesson check ran against the entire book so far each time via
 `build_delivery3.py`'s `WHOLE_BOOK` list — 0016 caught 5, 0017 caught 3,
 0018 caught 5, 0019 caught 1 (against Lesson 0001, expected given the
 topic overlap), 0020 caught 0, 0021 caught 4, 0022 caught 1 (a generic
-acknowledgement line already used in Lesson 0006) duplicates on their
-first pass — all fixed by rewording. Lesson 0019 additionally needed 9
-within-lesson lines reworded because its "spell the name" content
-naturally repeats short answers like "S-I-M-O-N" — each occurrence had to
-be wrapped in different surrounding words to stay a unique full line.
-Result: **0 duplicates across the whole book, 0001-0022.**
+acknowledgement line already used in Lesson 0006), 0023 caught 0
+duplicates on their first pass — all fixed by rewording. Lesson 0019
+additionally needed 9 within-lesson lines reworded because its "spell the
+name" content naturally repeats short answers like "S-I-M-O-N" — each
+occurrence had to be wrapped in different surrounding words to stay a
+unique full line. Result: **0 duplicates across the whole book,
+0001-0023.**
+
+## Per-lesson QC record — DELIVERY #4 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0024 | Food (choosing a drink) | Ms Claire | 1086 | 115 | 0 |
+
+Total English learning words, Delivery #4 so far: **1,086**.
+Structural page estimate: **~4.4 pages** — just opened, keep adding
+lessons.
+Cross-lesson check ran against the entire book so far via
+`build_delivery4.py`'s `WHOLE_BOOK` list — 0024 caught 0 duplicates on its
+first pass. Result: **0 duplicates across the whole book, 0001-0024.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
