@@ -49,11 +49,19 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   against the WHOLE book across Deliveries #1-#7 plus this one).
   Structural page estimate reached **~34.1 pages** (8 lessons), consistent
   with all prior deliveries, so this delivery is closed here.
-- **DELIVERY #9 OPEN: Lessons 0064-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0064-0069.docx`. Built with
+- **DELIVERY #9 CLOSED: Lessons 0064-0072**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0064-0072.docx`. Built with
   `source/build_delivery9.py` (same no-base-docx pattern, cross-checking
   against the WHOLE book across Deliveries #1-#8 plus this one).
-  Structural page estimate so far: **~24.6 pages** (6 lessons) — will
+  Structural page estimate reached **~36.9 pages** (9 lessons — one more
+  than the usual 8 per delivery, since this stretch's turn counts ran
+  slightly shorter), still inside the ~36-38 target, so this delivery is
+  closed here.
+- **DELIVERY #10 OPEN: Lessons 0073-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0073-0079.docx`. Built with
+  `source/build_delivery10.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#9 plus this one).
+  Structural page estimate so far: **~28.5 pages** (7 lessons) — will
   carry over into the next checkpoint block.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
@@ -61,39 +69,42 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   want changes before the next block starts. A block boundary does not
   have to align with a delivery-file boundary — delivery files still
   close whenever the ~36-38 page structural estimate is reached (has been
-  averaging 8 lessons per delivery), independent of the 10-lesson
+  averaging 8-9 lessons per delivery), independent of the 10-lesson
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
   0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
-  **BLOCK 0060-0069 is now COMPLETE** (10/10 lessons, written and QC'd in
-  one pass per the user's "NEXT" authorization at the prior checkpoint, no
-  per-lesson confirmation). This block introduced the "asking for help
-  with X" scenario pattern (0061-0069), the master workbook's own
-  scenario label for this stretch of lessons. Next block: **0070-0079**,
-  to start only after the user responds (any reply, including "NEXT",
-  authorizes it; specific feedback is applied first).
-- **Last completed lesson: 0069** (secondary character Mr Neil, substituted
-  for the master's suggested "Mr Michael" which is already Lesson 0009's
-  character). Domain "Learning", scenario "asking for help with school &
-  learning"; confirmed zero duplicate lines against the whole book after
-  fixing a large batch of first-pass collisions across 0064-0069 (see QC
-  notes below — the "asking for help" scenario type produces frequent
-  generic short acknowledgement collisions, similar to the
-  "checking/confirming a detail" pattern noted at Delivery #6).
-- **Next lesson to write on NEXT: 0070** (A0/Pre-A1, domain "Work",
-  scenario "asking for help with workplace everyday communication", title
-  "Recognising and responding to asking for help with workplace everyday
-  communication"). The master workbook suggests "Ms Grace" as the
-  secondary character, but that name is already Lesson 0010's character —
-  **use a different name** (not yet used: David, Emma, James, Sarah,
-  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
-  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
-  Edward, Claire, Nathan, Karen, Patrick, Helen, Victor, Susan, Frank,
-  Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar, Paula, Martin,
-  Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol, Alan, Joyce, Walter,
-  Cheryl, Roger, Brenda, Steven, Janet, Philip, Denise, Roy, Teresa,
-  Colin, Melissa, Derek, Sharon, Trevor, Yvonne, Barry, Pamela, Neil are
-  all taken — e.g. "Ms Donna" is a reasonable fresh choice) and note the
-  substitution here when it's written.
+  **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 is now
+  COMPLETE** (10/10 lessons, written and QC'd in one pass per the user's
+  "NEXT" authorization at the prior checkpoint, no per-lesson
+  confirmation). This block finished out the "asking for help with X"
+  scenario pattern (0070-0072) and then returned to topic-varied
+  scenarios (0073-0079: age, saying sorry, day of the week, opening/
+  closing something, where a family member is, asking what something is,
+  a shopping change/choice). Next block: **0080-0089**, to start only
+  after the user responds (any reply, including "NEXT", authorizes it;
+  specific feedback is applied first).
+- **Last completed lesson: 0079** (secondary character Mr Clifford,
+  substituted for the master's suggested name already in use elsewhere).
+  Domain "Shopping", scenario "a change or choice involving shopping &
+  payments"; confirmed zero duplicate lines against the whole book after
+  fixing 6 first-pass collisions plus one self-introduced collision on
+  the final whole-book re-run.
+- **Next lesson to write on NEXT: 0080** (A0/Pre-A1, domain "Clothing",
+  scenario "a change or choice involving clothing & personal items",
+  title "Recognising and responding to a change or choice involving
+  clothing & personal items"). The master workbook suggests "Ms Sophie"
+  as the secondary character, but that name is already Lesson 0008's
+  character — **use a different name** (not yet used: David, Emma,
+  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry,
+  Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana,
+  George, Laura, Edward, Claire, Nathan, Karen, Patrick, Helen, Victor,
+  Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar,
+  Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol,
+  Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip,
+  Denise, Roy, Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne,
+  Barry, Pamela, Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley,
+  Doris, Leonard, Yvette, Clifford are all taken — e.g. "Ms Deborah" is a
+  reasonable fresh choice) and note the substitution here when it's
+  written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -339,7 +350,7 @@ across every repetition from the first draft — 0057 needed 6 separate
 within-lesson duplicate patterns reworded (the same date/question
 recurring many times by design) before it passed QC.
 
-## Per-lesson QC record — DELIVERY #9 (OPEN)
+## Per-lesson QC record — DELIVERY #9 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -349,28 +360,57 @@ recurring many times by design) before it passed QC.
 | 0067 | Weather (asking for help with weather & daily plans) | Mr Barry | 1343 | 108 | 0 |
 | 0068 | Daily Life (asking for help with daily routines) | Ms Pamela | 1240 | 108 | 0 |
 | 0069 | Learning (asking for help with school & learning) | Mr Neil | 1217 | 108 | 0 |
+| 0070 | Work (asking for help with workplace everyday communication) | Ms Donna | 1237 | 108 | 0 |
+| 0071 | Communication (asking for help with phone calls) | Mr Harold | 1276 | 108 | 0 |
+| 0072 | Communication (asking for help with messages & everyday digital communication) | Ms Gloria | 1226 | 108 | 0 |
 
-Total English learning words, Delivery #9 so far: **7,634**.
-Structural page estimate: **~24.6 pages** (6 lessons) — keep adding
-lessons.
+Total English learning words, Delivery #9: **11,373**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #9 is closed here. Do not add Lesson 0073 to this table; it
+opens Delivery #10.
 
 Cross-lesson check ran against the entire book so far via
 `build_delivery9.py`'s `WHOLE_BOOK` list — the "asking for help with X"
-scenario pattern that runs from Lesson 0061 through 0069 produced a large
-batch of first-pass collisions each time (25 on the final whole-book pass
-for 0064-0069 alone), almost all generic short acknowledgement lines
-("Thank you, that will help a lot.", "Ah, that makes sense now, thank
-you.", "Thank you, I will head there now.", etc.) reused across many
-"asking for help" lessons in a row — all fixed by rewording, including
-one self-introduced collision caught on a second full-book re-run.
-Result: **0 duplicates across the whole book, 0001-0069.**
+scenario pattern that runs from Lesson 0061 through 0072 produced a large
+batch of first-pass collisions each time (25 on the 0064-0069 pass, 10
+more on the 0070-0072 pass), almost all generic short acknowledgement
+lines ("Thank you, that will help a lot.", "Ah, that makes sense now,
+thank you.", "Thank you, I will head there now.", etc.) reused across
+many "asking for help" lessons in a row — all fixed by rewording,
+including self-introduced collisions caught on follow-up full-book
+re-runs. Result: **0 duplicates across the whole book, 0001-0072.**
 **Lesson learned:** like the "checking/confirming a detail" pattern noted
 at Delivery #6, the "asking for help with X" scenario type is prone to
 noticeably more short-acknowledgement collisions than topic-varied
 lessons — worth extra deliberate variation of "thank you" / "that makes
 sense" style closing lines for any future lesson using this same title
-pattern (it continues through at least Lesson 0069 per the master
-workbook).
+pattern. This pattern ended at Lesson 0072 per the master workbook; 0073
+onward returns to topic-varied scenario titles.
+
+## Per-lesson QC record — DELIVERY #10 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0073 | Personal Identity (your age) | Mr Bernard | 1166 | 105 | 0 |
+| 0074 | Social Basics (saying sorry) | Ms Irene | 1174 | 105 | 0 |
+| 0075 | Numbers and Time (the day of the week) | Mr Stanley | 1130 | 108 | 0 |
+| 0076 | Home (opening or closing something) | Ms Doris | 1208 | 108 | 0 |
+| 0077 | Family (where a family member is) | Mr Leonard | 1161 | 108 | 0 |
+| 0078 | Food (asking what something is) | Ms Yvette | 1142 | 108 | 0 |
+| 0079 | Shopping (a change or choice involving shopping & payments) | Mr Clifford | 1192 | 108 | 0 |
+
+Total English learning words, Delivery #10 so far: **8,173**.
+Structural page estimate: **~28.5 pages** (7 lessons) — keep adding
+lessons.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery10.py`'s `WHOLE_BOOK` list — returning to topic-varied
+scenarios (age, sorry, day of the week, opening/closing, family member
+location, asking what something is, shopping change/choice) produced far
+fewer collisions than the "asking for help" stretch: 6 on the first
+whole-book pass plus 1 self-introduced collision on the follow-up
+re-run, all in Lessons 0074/0078/0079 — fixed by rewording. Result: **0
+duplicates across the whole book, 0001-0079.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
