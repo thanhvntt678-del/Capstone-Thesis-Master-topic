@@ -63,12 +63,19 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   against the WHOLE book across Deliveries #1-#9 plus this one).
   Structural page estimate reached **~36.7 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here.
-- **DELIVERY #11 OPEN: Lessons 0082-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0082-0089.docx`. Built with
+- **DELIVERY #11 CLOSED: Lessons 0082-0090**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0082-0090.docx`. Built with
   `source/build_delivery11.py` (same no-base-docx pattern, cross-checking
   against the WHOLE book across Deliveries #1-#10 plus this one).
-  Structural page estimate so far: **~32.8 pages** (8 lessons) — will
-  carry over into the next checkpoint block.
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here.
+- **DELIVERY #12 OPEN/CLOSED: Lessons 0091-0099**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0091-0099.docx`. Built with
+  `source/build_delivery12.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#11 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here too — closing
+  exactly at the end of Block 0090-0099.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -79,46 +86,51 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
   0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
   **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 completed**
-  (10/10). **BLOCK 0080-0089 is now COMPLETE** (10/10 lessons, written
-  and QC'd in one pass per the user's "NEXT" authorization at the prior
-  checkpoint, no per-lesson confirmation). This entire block used the
-  master workbook's "a change or choice involving X" scenario pattern
-  (0080-0089), which — like the earlier "asking for help with X" and
-  "checking/confirming a detail" patterns — produced a large volume of
-  generic short-acknowledgement collisions ("that is exactly why I...",
-  "good point, let us...", "exactly, better safe than sorry.", etc.)
-  requiring deliberate rewording throughout. Next block: **0090-0099**,
-  to start only after the user responds (any reply, including "NEXT",
-  authorizes it; specific feedback is applied first).
-- **Last completed lesson: 0089** (secondary character Mr Lawrence,
+  (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099 is
+  now COMPLETE** (10/10 lessons, written and QC'd in one pass per the
+  user's "NEXT" authorization at the prior checkpoint, no per-lesson
+  confirmation). This block finished out the "change or choice
+  involving X" scenario pattern at Lesson 0090, then moved through
+  topic-varied lessons (0091-0096: phone number, getting attention
+  politely, current time, household instruction, family plan, meal
+  choice), before starting the master workbook's new "a misunderstanding
+  or problem involving X" scenario pattern (0097-0099: shopping,
+  clothing, neighbourhood). Next block: **0100-0109**, to start only
+  after the user responds (any reply, including "NEXT", authorizes it;
+  specific feedback is applied first).
+- **Last completed lesson: 0099** (secondary character Mr Vernon,
   substituted for the master's suggested name already in use elsewhere).
-  Domain "Communication", scenario "a change or choice involving phone
-  calls"; confirmed zero duplicate lines against the whole book after
-  fixing 22 first-pass collisions on the final whole-book check for
-  0082-0089 (the heaviest collision count of any block so far, driven by
-  the repetitive "change or choice" phrasing patterns).
-- **Next lesson to write on NEXT: 0090** (A0/Pre-A1, domain
-  "Communication", scenario "a change or choice involving messages &
-  everyday digital communication", title "Recognising and responding to
-  a change or choice involving messages & everyday digital
-  communication"). The master workbook suggests "Ms Olivia" as the
-  secondary character, but that name is already Lesson 0006's character
-  — **use a different name** (not yet used: David, Emma, James, Sarah,
-  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
-  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
-  Edward, Claire, Nathan, Karen, Patrick, Helen, Victor, Susan, Frank,
-  Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar, Paula, Martin,
-  Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol, Alan, Joyce,
-  Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip, Denise, Roy,
-  Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne, Barry, Pamela,
-  Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley, Doris, Leonard,
-  Yvette, Clifford, Deborah, Russell, Wanda, Gerald, Beverly, Curtis,
-  Sheila, Duane, Marilyn, Lawrence are all taken — e.g. "Ms Cassandra" is
-  a reasonable fresh choice) and note the substitution here when it's
-  written. **Lesson learned for future "change or choice" lessons:**
-  avoid the generic closer phrases "that is exactly why I...", "good
-  point, let us...", and "exactly, better safe than sorry." from the
-  first draft — they collide constantly across this scenario type.
+  Domain "Neighbourhood", scenario "a misunderstanding or problem
+  involving neighbourhood & directions"; confirmed zero duplicate lines
+  against the whole book after fixing 27 first-pass collisions on the
+  final whole-book check for 0091-0099 (again mostly generic short
+  acknowledgement lines, this time concentrated around Lesson 0092's
+  "getting attention politely" scenario and the new "misunderstanding or
+  problem" pattern at 0097-0099).
+- **Next lesson to write on NEXT: 0100** (A0/Pre-A1, domain "Transport",
+  scenario "a misunderstanding or problem involving public transport",
+  title "Recognising and responding to a misunderstanding or problem
+  involving public transport"). The master workbook suggests "Ms Sarah"
+  as the secondary character, but that name is already Lesson 0004's
+  character — **use a different name** (not yet used: David, Emma,
+  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry,
+  Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana,
+  George, Laura, Edward, Claire, Nathan, Karen, Patrick, Helen, Victor,
+  Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar,
+  Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol,
+  Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip,
+  Denise, Roy, Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne,
+  Barry, Pamela, Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley,
+  Doris, Leonard, Yvette, Clifford, Deborah, Russell, Wanda, Gerald,
+  Beverly, Curtis, Sheila, Duane, Marilyn, Lawrence, Cassandra, Nelson,
+  Priscilla, Terrence, Loretta, Malcolm, Wilma, Herbert, Rosalind,
+  Vernon are all taken — e.g. "Ms Antoinette" is a reasonable fresh
+  choice) and note the substitution here when it's written. **Lesson
+  learned for future "misunderstanding or problem" lessons:** this new
+  scenario pattern (started at 0097) is prone to the same
+  short-acknowledgement collision risk as "change or choice" and "asking
+  for help" — vary "thank you" / "found it" / "that makes complete
+  sense" style closing lines deliberately from the first draft.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -429,7 +441,7 @@ self-introduced collision, then the "change or choice" pattern starting
 at 0079 picked back up with 8 more collisions on 0080-0081 — all fixed
 by rewording. Result: **0 duplicates across the whole book, 0001-0081.**
 
-## Per-lesson QC record — DELIVERY #11 (OPEN)
+## Per-lesson QC record — DELIVERY #11 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -441,27 +453,63 @@ by rewording. Result: **0 duplicates across the whole book, 0001-0081.**
 | 0087 | Learning (a change or choice involving school & learning) | Mr Duane | 1239 | 108 | 0 |
 | 0088 | Work (a change or choice involving workplace everyday communication) | Ms Marilyn | 1251 | 108 | 0 |
 | 0089 | Communication (a change or choice involving phone calls) | Mr Lawrence | 1265 | 108 | 0 |
+| 0090 | Communication (a change or choice involving messages & everyday digital communication) | Ms Cassandra | 1258 | 108 | 0 |
 
-Total English learning words, Delivery #11 so far: **9,898**.
-Structural page estimate: **~32.8 pages** (8 lessons) — keep adding
-lessons.
+Total English learning words, Delivery #11: **11,156**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #11 is closed here. Do not add Lesson 0091 to this table; it
+opens Delivery #12.
 
 Cross-lesson check ran against the entire book so far via
 `build_delivery11.py`'s `WHOLE_BOOK` list — the "a change or choice
 involving X" scenario pattern that runs through this whole block (and
 started at Lesson 0079) produced the heaviest collision count of any
-block so far: 22 on the final whole-book pass for 0082-0089, almost all
+block so far: 22 on the 0082-0089 pass plus 1 more on 0090, almost all
 generic short lines like "That is exactly why I made the change.",
 "Good point, let us stick with that then.", and "Exactly, better safe
 than sorry." reused repeatedly across "change or choice" lessons — all
 fixed by rewording. Result: **0 duplicates across the whole book,
-0001-0089.**
+0001-0090.**
 **Lesson learned:** the "change or choice" scenario type is now
 confirmed as the most collision-prone pattern encountered yet (worse
 than "checking/confirming a detail" and "asking for help with X") —
 future lessons using this title pattern should avoid generic
 "that is exactly why..." / "good point, let us..." / "exactly, better
-safe than sorry" closers from the first draft entirely.
+safe than sorry" closers from the first draft entirely. This pattern
+ended at Lesson 0090 per the master workbook.
+
+## Per-lesson QC record — DELIVERY #12 (CLOSED)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0091 | Personal Identity (your phone number) | Mr Nelson | 1232 | 108 | 0 |
+| 0092 | Social Basics (getting someone's attention politely) | Ms Priscilla | 1145 | 108 | 0 |
+| 0093 | Numbers and Time (the current time) | Mr Terrence | 1222 | 108 | 0 |
+| 0094 | Home (a simple household instruction) | Ms Loretta | 1154 | 108 | 0 |
+| 0095 | Family (a simple family plan) | Mr Malcolm | 1210 | 108 | 0 |
+| 0096 | Food (a basic meal choice) | Ms Wilma | 1170 | 108 | 0 |
+| 0097 | Shopping (a misunderstanding or problem involving shopping & payments) | Mr Herbert | 1257 | 108 | 0 |
+| 0098 | Clothing (a misunderstanding or problem involving clothing & personal items) | Ms Rosalind | 1253 | 108 | 0 |
+| 0099 | Neighbourhood (a misunderstanding or problem involving neighbourhood & directions) | Mr Vernon | 1275 | 108 | 0 |
+
+Total English learning words, Delivery #12: **10,918**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #12 is closed here, exactly at the end of Block 0090-0099. Do
+not add Lesson 0100 to this table; it opens Delivery #13.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery12.py`'s `WHOLE_BOOK` list — 27 first-pass collisions on
+the final whole-book check, again mostly generic short acknowledgement
+lines ("thank you, I really appreciate it.", "found it, thank you for
+the tip.", "that makes complete sense, thank you for explaining.", etc.)
+reused across Lessons 0091-0099 — all fixed by rewording. Result: **0
+duplicates across the whole book, 0001-0099.**
+**Lesson learned:** the new "a misunderstanding or problem involving X"
+scenario pattern (started at Lesson 0097) shows the same collision risk
+as "change or choice" and "asking for help with X" — vary "thank you" /
+"found it" / "that makes complete sense" style closing lines
+deliberately from the first draft for any future lesson using this
+title pattern.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
