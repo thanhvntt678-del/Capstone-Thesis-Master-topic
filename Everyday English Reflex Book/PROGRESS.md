@@ -36,13 +36,19 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0040-0047.docx`. Structural
   page estimate reached **~34.7 pages** (8 lessons), consistent with all
   prior deliveries, so this delivery is closed here.
-- **DELIVERY #7 OPEN: Lessons 0048-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0048-0049.docx`. Built with
+- **DELIVERY #7 CLOSED: Lessons 0048-0055**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0048-0055.docx`. Built with
   `source/build_delivery7.py` (same no-base-docx pattern as
   `build_delivery6.py`, cross-checking against the WHOLE book across all
   deliveries so far via its `DELIVERY1`-`DELIVERY6`/`LESSONS_DELIVERY7`
-  lists). Structural page estimate so far: **~8.2 pages** (2 lessons) —
-  will carry over into the next checkpoint block.
+  lists). Structural page estimate reached **~34.3 pages** (8 lessons),
+  consistent with all prior deliveries, so this delivery is closed here.
+- **DELIVERY #8 OPEN: Lessons 0056-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0056-0059.docx`. Built with
+  `source/build_delivery8.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#7 plus this one).
+  Structural page estimate so far: **~17.4 pages** (4 lessons) — will
+  carry over into the next checkpoint block.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -51,31 +57,31 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   close whenever the ~36-38 page structural estimate is reached (has been
   averaging 8 lessons per delivery), independent of the 10-lesson
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
-  0040-0049 is now COMPLETE** (10/10 lessons, written and QC'd in one
-  pass per the user's "NEXT" authorization at the prior checkpoint, no
-  per-lesson confirmation). Next block: **0050-0059**, to start only
-  after the user responds (any reply, including "NEXT", authorizes it;
-  specific feedback is applied first).
-- **Last completed lesson: 0049** (secondary character Mr Alan, substituted
-  for the master's suggested "Mr David" which is already Lesson 0001's
-  character). Domain "Weather", scenario "checking an important detail
-  about weather & daily plans" — 36 distinct weather-confirmation
-  situations (rain chance, storms, UV index, humidity, forecasts,
-  visibility, etc.); confirmed zero duplicate lines against the whole
-  book after fixing 4 first-pass collisions.
-- **Next lesson to write on NEXT: 0050** (A0/Pre-A1, domain "Daily Life",
-  scenario "checking an important detail about daily routines", title
-  "Recognising and responding to checking an important detail about daily
-  routines"). The master workbook suggests "Ms Emma" as the secondary
-  character, but that name is already Lesson 0002's character — **use a
-  different name** (not yet used: David, Emma, James, Sarah, Daniel,
-  Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter, Rachel,
-  Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura, Edward,
-  Claire, Nathan, Karen, Patrick, Helen, Victor, Susan, Frank, Fiona,
-  Adam, Wendy, Charles, Amy, Jason, Linda, Oscar, Paula, Martin, Vivian,
-  Gordon, Ruth, Dennis, Sandra, Bruce, Carol, Alan are all taken — e.g.
-  "Ms Joyce" is a reasonable fresh choice) and note the substitution here
-  when it's written.
+  0040-0049 completed** (10/10). **BLOCK 0050-0059 is now COMPLETE**
+  (10/10 lessons, written and QC'd in one pass per the user's "NEXT"
+  authorization at the prior checkpoint, no per-lesson confirmation).
+  Next block: **0060-0069**, to start only after the user responds (any
+  reply, including "NEXT", authorizes it; specific feedback is applied
+  first).
+- **Last completed lesson: 0059** (secondary character Mr Roy, substituted
+  for the master's suggested name already in use elsewhere). Domain
+  "Family", scenario "a simple family relationship"; confirmed zero
+  duplicate lines against the whole book after fixing 2 first-pass
+  collisions on the final whole-book check.
+- **Next lesson to write on NEXT: 0060** (A0/Pre-A1, domain "Food",
+  scenario "saying you are hungry or thirsty", title "Recognising and
+  responding to saying you are hungry or thirsty"). The master workbook
+  suggests "Ms Anna" as the secondary character, but that name is already
+  Lesson 0012's character — **use a different name** (not yet used:
+  David, Emma, James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael,
+  Grace, Henry, Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie,
+  Simon, Diana, George, Laura, Edward, Claire, Nathan, Karen, Patrick,
+  Helen, Victor, Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason,
+  Linda, Oscar, Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra,
+  Bruce, Carol, Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven,
+  Janet, Philip, Denise, Roy are all taken — e.g. "Ms Teresa" is a
+  reasonable fresh choice) and note the substitution here when it's
+  written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -263,20 +269,57 @@ rewording. Result: **0 duplicates across the whole book, 0001-0047.**
 collisions than topic-varied lessons — worth extra care rewording
 closers for any future lesson using this same title pattern.
 
-## Per-lesson QC record — DELIVERY #7 (OPEN)
+## Per-lesson QC record — DELIVERY #7 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
 | 0048 | Mobility (checking an important detail about walking & getting around) | Ms Carol | 1242 | 106 | 0 |
 | 0049 | Weather (checking an important detail about weather & daily plans) | Mr Alan | 1230 | 109 | 0 |
+| 0050 | Daily Life (checking an important detail about daily routines) | Ms Joyce | 1167 | 115 | 0 |
+| 0051 | Learning (checking a detail about school & learning) | Mr Walter | 1170 | 115 | 0 |
+| 0052 | Work (checking a detail about workplace everyday communication) | Ms Cheryl | 1205 | 115 | 0 |
+| 0053 | Communication (checking a detail about phone calls) | Mr Roger | 1213 | 115 | 0 |
+| 0054 | Communication (checking a detail about messages & everyday digital communication) | Ms Brenda | 1190 | 115 | 0 |
+| 0055 | Personal Identity (where you live) | Mr Steven | 1191 | 115 | 0 |
 
-Total English learning words, Delivery #7 so far: **2,472**.
-Structural page estimate: **~8.2 pages** — keep adding lessons.
+Total English learning words, Delivery #7: **9,608**.
+Structural page estimate ≈ **34.3 pages** — inside the ~36-38 target, so
+Delivery #7 is closed here. Do not add Lesson 0056 to this table; it
+opens Delivery #8.
+
 Cross-lesson check ran against the entire book so far via
 `build_delivery7.py`'s `WHOLE_BOOK` list — 0048 caught 3, 0049 caught 1
 duplicates on their first pass (same "checking/confirming a detail"
-short-acknowledgement pattern as Delivery #6) — fixed by rewording.
-Result: **0 duplicates across the whole book, 0001-0049.**
+short-acknowledgement pattern as Delivery #6); 0050-0055 caught 7
+first-pass collisions in total (mostly generic closing/acknowledgement
+lines already used earlier, including two collisions between 0050 and
+0051's own closing lines) — all fixed by rewording. Result: **0
+duplicates across the whole book, 0001-0055.**
+
+## Per-lesson QC record — DELIVERY #8 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0056 | Social Basics (saying thank you) | Ms Janet | 1134 | 115 | 0 |
+| 0057 | Numbers and Time (today's date) | Mr Philip | 1232 | 115 | 0 |
+| 0058 | Home (something you need at home) | Ms Denise | 1138 | 115 | 0 |
+| 0059 | Family (a simple family relationship) | Mr Roy | 1163 | 115 | 0 |
+
+Total English learning words, Delivery #8 so far: **4,667**.
+Structural page estimate: **~17.4 pages** (4 lessons) — keep adding
+lessons.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery8.py`'s `WHOLE_BOOK` list — final whole-book check (0001
+through 0059) caught 5 remaining collisions on lessons 0055/0057/0059
+(generic short lines already used earlier in the book) — all fixed by
+rewording. Result: **0 duplicates across the whole book, 0001-0059.**
+**Lesson learned (Lesson 0057, "today's date"):** any lesson whose
+scenario is "confirming/repeating a fixed piece of information" (a date,
+a spelled name, etc.) needs the answer phrasing deliberately varied
+across every repetition from the first draft — 0057 needed 6 separate
+within-lesson duplicate patterns reworded (the same date/question
+recurring many times by design) before it passed QC.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
