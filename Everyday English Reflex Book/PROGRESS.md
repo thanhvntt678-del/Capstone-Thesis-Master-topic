@@ -57,11 +57,17 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   than the usual 8 per delivery, since this stretch's turn counts ran
   slightly shorter), still inside the ~36-38 target, so this delivery is
   closed here.
-- **DELIVERY #10 OPEN: Lessons 0073-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0073-0079.docx`. Built with
+- **DELIVERY #10 CLOSED: Lessons 0073-0081**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0073-0081.docx`. Built with
   `source/build_delivery10.py` (same no-base-docx pattern, cross-checking
   against the WHOLE book across Deliveries #1-#9 plus this one).
-  Structural page estimate so far: **~28.5 pages** (7 lessons) — will
+  Structural page estimate reached **~36.7 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here.
+- **DELIVERY #11 OPEN: Lessons 0082-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0082-0089.docx`. Built with
+  `source/build_delivery11.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#10 plus this one).
+  Structural page estimate so far: **~32.8 pages** (8 lessons) — will
   carry over into the next checkpoint block.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
@@ -72,39 +78,47 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   averaging 8-9 lessons per delivery), independent of the 10-lesson
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
   0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
-  **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 is now
-  COMPLETE** (10/10 lessons, written and QC'd in one pass per the user's
-  "NEXT" authorization at the prior checkpoint, no per-lesson
-  confirmation). This block finished out the "asking for help with X"
-  scenario pattern (0070-0072) and then returned to topic-varied
-  scenarios (0073-0079: age, saying sorry, day of the week, opening/
-  closing something, where a family member is, asking what something is,
-  a shopping change/choice). Next block: **0080-0089**, to start only
-  after the user responds (any reply, including "NEXT", authorizes it;
-  specific feedback is applied first).
-- **Last completed lesson: 0079** (secondary character Mr Clifford,
+  **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 completed**
+  (10/10). **BLOCK 0080-0089 is now COMPLETE** (10/10 lessons, written
+  and QC'd in one pass per the user's "NEXT" authorization at the prior
+  checkpoint, no per-lesson confirmation). This entire block used the
+  master workbook's "a change or choice involving X" scenario pattern
+  (0080-0089), which — like the earlier "asking for help with X" and
+  "checking/confirming a detail" patterns — produced a large volume of
+  generic short-acknowledgement collisions ("that is exactly why I...",
+  "good point, let us...", "exactly, better safe than sorry.", etc.)
+  requiring deliberate rewording throughout. Next block: **0090-0099**,
+  to start only after the user responds (any reply, including "NEXT",
+  authorizes it; specific feedback is applied first).
+- **Last completed lesson: 0089** (secondary character Mr Lawrence,
   substituted for the master's suggested name already in use elsewhere).
-  Domain "Shopping", scenario "a change or choice involving shopping &
-  payments"; confirmed zero duplicate lines against the whole book after
-  fixing 6 first-pass collisions plus one self-introduced collision on
-  the final whole-book re-run.
-- **Next lesson to write on NEXT: 0080** (A0/Pre-A1, domain "Clothing",
-  scenario "a change or choice involving clothing & personal items",
-  title "Recognising and responding to a change or choice involving
-  clothing & personal items"). The master workbook suggests "Ms Sophie"
-  as the secondary character, but that name is already Lesson 0008's
-  character — **use a different name** (not yet used: David, Emma,
-  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry,
-  Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana,
-  George, Laura, Edward, Claire, Nathan, Karen, Patrick, Helen, Victor,
-  Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar,
-  Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol,
-  Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip,
-  Denise, Roy, Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne,
-  Barry, Pamela, Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley,
-  Doris, Leonard, Yvette, Clifford are all taken — e.g. "Ms Deborah" is a
-  reasonable fresh choice) and note the substitution here when it's
-  written.
+  Domain "Communication", scenario "a change or choice involving phone
+  calls"; confirmed zero duplicate lines against the whole book after
+  fixing 22 first-pass collisions on the final whole-book check for
+  0082-0089 (the heaviest collision count of any block so far, driven by
+  the repetitive "change or choice" phrasing patterns).
+- **Next lesson to write on NEXT: 0090** (A0/Pre-A1, domain
+  "Communication", scenario "a change or choice involving messages &
+  everyday digital communication", title "Recognising and responding to
+  a change or choice involving messages & everyday digital
+  communication"). The master workbook suggests "Ms Olivia" as the
+  secondary character, but that name is already Lesson 0006's character
+  — **use a different name** (not yet used: David, Emma, James, Sarah,
+  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
+  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
+  Edward, Claire, Nathan, Karen, Patrick, Helen, Victor, Susan, Frank,
+  Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar, Paula, Martin,
+  Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol, Alan, Joyce,
+  Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip, Denise, Roy,
+  Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne, Barry, Pamela,
+  Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley, Doris, Leonard,
+  Yvette, Clifford, Deborah, Russell, Wanda, Gerald, Beverly, Curtis,
+  Sheila, Duane, Marilyn, Lawrence are all taken — e.g. "Ms Cassandra" is
+  a reasonable fresh choice) and note the substitution here when it's
+  written. **Lesson learned for future "change or choice" lessons:**
+  avoid the generic closer phrases "that is exactly why I...", "good
+  point, let us...", and "exactly, better safe than sorry." from the
+  first draft — they collide constantly across this scenario type.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -387,7 +401,7 @@ sense" style closing lines for any future lesson using this same title
 pattern. This pattern ended at Lesson 0072 per the master workbook; 0073
 onward returns to topic-varied scenario titles.
 
-## Per-lesson QC record — DELIVERY #10 (OPEN)
+## Per-lesson QC record — DELIVERY #10 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -398,19 +412,56 @@ onward returns to topic-varied scenario titles.
 | 0077 | Family (where a family member is) | Mr Leonard | 1161 | 108 | 0 |
 | 0078 | Food (asking what something is) | Ms Yvette | 1142 | 108 | 0 |
 | 0079 | Shopping (a change or choice involving shopping & payments) | Mr Clifford | 1192 | 108 | 0 |
+| 0080 | Clothing (a change or choice involving clothing & personal items) | Ms Deborah | 1164 | 108 | 0 |
+| 0081 | Neighbourhood (a change or choice involving neighbourhood & directions) | Mr Russell | 1235 | 108 | 0 |
 
-Total English learning words, Delivery #10 so far: **8,173**.
-Structural page estimate: **~28.5 pages** (7 lessons) — keep adding
-lessons.
+Total English learning words, Delivery #10: **10,572**.
+Structural page estimate ≈ **36.7 pages** — inside the ~36-38 target, so
+Delivery #10 is closed here. Do not add Lesson 0082 to this table; it
+opens Delivery #11.
 
 Cross-lesson check ran against the entire book so far via
 `build_delivery10.py`'s `WHOLE_BOOK` list — returning to topic-varied
 scenarios (age, sorry, day of the week, opening/closing, family member
-location, asking what something is, shopping change/choice) produced far
-fewer collisions than the "asking for help" stretch: 6 on the first
-whole-book pass plus 1 self-introduced collision on the follow-up
-re-run, all in Lessons 0074/0078/0079 — fixed by rewording. Result: **0
-duplicates across the whole book, 0001-0079.**
+location, asking what something is) produced far fewer collisions than
+the "asking for help" stretch: 6 on the 0073-0079 pass plus 1
+self-introduced collision, then the "change or choice" pattern starting
+at 0079 picked back up with 8 more collisions on 0080-0081 — all fixed
+by rewording. Result: **0 duplicates across the whole book, 0001-0081.**
+
+## Per-lesson QC record — DELIVERY #11 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0082 | Transport (a change or choice involving public transport) | Ms Wanda | 1190 | 108 | 0 |
+| 0083 | Transport (a change or choice involving taxi & ride services) | Mr Gerald | 1242 | 108 | 0 |
+| 0084 | Mobility (a change or choice involving walking & getting around) | Ms Beverly | 1234 | 108 | 0 |
+| 0085 | Weather (a change or choice involving weather & daily plans) | Mr Curtis | 1253 | 108 | 0 |
+| 0086 | Daily Life (a change or choice involving daily routines) | Ms Sheila | 1224 | 108 | 0 |
+| 0087 | Learning (a change or choice involving school & learning) | Mr Duane | 1239 | 108 | 0 |
+| 0088 | Work (a change or choice involving workplace everyday communication) | Ms Marilyn | 1251 | 108 | 0 |
+| 0089 | Communication (a change or choice involving phone calls) | Mr Lawrence | 1265 | 108 | 0 |
+
+Total English learning words, Delivery #11 so far: **9,898**.
+Structural page estimate: **~32.8 pages** (8 lessons) — keep adding
+lessons.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery11.py`'s `WHOLE_BOOK` list — the "a change or choice
+involving X" scenario pattern that runs through this whole block (and
+started at Lesson 0079) produced the heaviest collision count of any
+block so far: 22 on the final whole-book pass for 0082-0089, almost all
+generic short lines like "That is exactly why I made the change.",
+"Good point, let us stick with that then.", and "Exactly, better safe
+than sorry." reused repeatedly across "change or choice" lessons — all
+fixed by rewording. Result: **0 duplicates across the whole book,
+0001-0089.**
+**Lesson learned:** the "change or choice" scenario type is now
+confirmed as the most collision-prone pattern encountered yet (worse
+than "checking/confirming a detail" and "asking for help with X") —
+future lessons using this title pattern should avoid generic
+"that is exactly why..." / "good point, let us..." / "exactly, better
+safe than sorry" closers from the first draft entirely.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
