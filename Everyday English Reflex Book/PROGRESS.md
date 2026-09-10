@@ -69,13 +69,20 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   against the WHOLE book across Deliveries #1-#10 plus this one).
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here.
-- **DELIVERY #12 OPEN/CLOSED: Lessons 0091-0099**, file
+- **DELIVERY #12 CLOSED: Lessons 0091-0099**, file
   `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0091-0099.docx`. Built with
   `source/build_delivery12.py` (same no-base-docx pattern, cross-checking
   against the WHOLE book across Deliveries #1-#11 plus this one).
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here too — closing
   exactly at the end of Block 0090-0099.
+- **DELIVERY #13 CLOSED: Lessons 0100-0108**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0100-0108.docx`. Built with
+  `source/build_delivery13.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#12 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lesson 0109 does
+  NOT belong to this delivery; it opens Delivery #14.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -86,51 +93,55 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
   0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
   **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 completed**
-  (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099 is
-  now COMPLETE** (10/10 lessons, written and QC'd in one pass per the
-  user's "NEXT" authorization at the prior checkpoint, no per-lesson
-  confirmation). This block finished out the "change or choice
-  involving X" scenario pattern at Lesson 0090, then moved through
-  topic-varied lessons (0091-0096: phone number, getting attention
-  politely, current time, household instruction, family plan, meal
-  choice), before starting the master workbook's new "a misunderstanding
-  or problem involving X" scenario pattern (0097-0099: shopping,
-  clothing, neighbourhood). Next block: **0100-0109**, to start only
-  after the user responds (any reply, including "NEXT", authorizes it;
-  specific feedback is applied first).
-- **Last completed lesson: 0099** (secondary character Mr Vernon,
-  substituted for the master's suggested name already in use elsewhere).
-  Domain "Neighbourhood", scenario "a misunderstanding or problem
-  involving neighbourhood & directions"; confirmed zero duplicate lines
-  against the whole book after fixing 27 first-pass collisions on the
-  final whole-book check for 0091-0099 (again mostly generic short
-  acknowledgement lines, this time concentrated around Lesson 0092's
-  "getting attention politely" scenario and the new "misunderstanding or
-  problem" pattern at 0097-0099).
-- **Next lesson to write on NEXT: 0100** (A0/Pre-A1, domain "Transport",
-  scenario "a misunderstanding or problem involving public transport",
-  title "Recognising and responding to a misunderstanding or problem
-  involving public transport"). The master workbook suggests "Ms Sarah"
-  as the secondary character, but that name is already Lesson 0004's
-  character — **use a different name** (not yet used: David, Emma,
-  James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry,
-  Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana,
-  George, Laura, Edward, Claire, Nathan, Karen, Patrick, Helen, Victor,
-  Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar,
-  Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol,
-  Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven, Janet, Philip,
-  Denise, Roy, Teresa, Colin, Melissa, Derek, Sharon, Trevor, Yvonne,
-  Barry, Pamela, Neil, Donna, Harold, Gloria, Bernard, Irene, Stanley,
-  Doris, Leonard, Yvette, Clifford, Deborah, Russell, Wanda, Gerald,
-  Beverly, Curtis, Sheila, Duane, Marilyn, Lawrence, Cassandra, Nelson,
-  Priscilla, Terrence, Loretta, Malcolm, Wilma, Herbert, Rosalind,
-  Vernon are all taken — e.g. "Ms Antoinette" is a reasonable fresh
-  choice) and note the substitution here when it's written. **Lesson
-  learned for future "misunderstanding or problem" lessons:** this new
-  scenario pattern (started at 0097) is prone to the same
-  short-acknowledgement collision risk as "change or choice" and "asking
-  for help" — vary "thank you" / "found it" / "that makes complete
-  sense" style closing lines deliberately from the first draft.
+  (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099
+  completed** (10/10). **BLOCK 0100-0109 is now COMPLETE** (10/10
+  lessons, written and QC'd in one pass per the user's "next"
+  authorization at the prior checkpoint, no per-lesson confirmation).
+  This block continued the "a misunderstanding or problem involving X"
+  scenario pattern through Lessons 0100-0108 (public transport, taxi &
+  ride services, walking & getting around, weather & daily plans, daily
+  routines, school & learning, workplace communication, phone calls,
+  messages & digital communication), before Lesson 0109 shifted to a new
+  master-workbook pattern: Personal Identity / "your name" (a simple
+  36-scene "asking and answering very simple questions about your name"
+  lesson, not a misunderstanding/problem scene). Next block: **0110-0119**,
+  to start only after the user responds (any reply, including "NEXT" or
+  "next", authorizes it; specific feedback is applied first).
+- **Last completed lesson: 0109** (secondary character Mr Reginald).
+  Domain "Personal Identity", scenario "your name"; this lesson's premise
+  (36 short scenes all ending in "give your name") produced heavy
+  within-lesson duplicate risk on the first draft — all 36 "giving the
+  name" lines were rewritten with distinct phrasing (varying opener and
+  sentence structure: "My name is X" / "It is X" / "I am X" / "X is my
+  name" / "You can call me X" / "Please put down X", etc.) to reach 0
+  duplicates. Confirmed zero duplicate lines against the whole book.
+- **Next lesson to write on NEXT: 0110** (A0/Pre-A1 — check the master
+  workbook row 111 for exact domain/scenario/title before writing). The
+  full cumulative names-used list for secondary characters (do not reuse
+  any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
+  Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
+  Robert, Natalie, Simon, Diana, George, Laura, Edward, Claire, Nathan,
+  Karen, Patrick, Helen, Victor, Susan, Frank, Fiona, Adam, Wendy,
+  Charles, Amy, Jason, Linda, Oscar, Paula, Martin, Vivian, Gordon, Ruth,
+  Dennis, Sandra, Bruce, Carol, Alan, Joyce, Walter, Cheryl, Roger,
+  Brenda, Steven, Janet, Philip, Denise, Roy, Teresa, Colin, Melissa,
+  Derek, Sharon, Trevor, Yvonne, Barry, Pamela, Neil, Donna, Harold,
+  Gloria, Bernard, Irene, Stanley, Doris, Leonard, Yvette, Clifford,
+  Deborah, Russell, Wanda, Gerald, Beverly, Curtis, Sheila, Duane,
+  Marilyn, Lawrence, Cassandra, Nelson, Priscilla, Terrence, Loretta,
+  Malcolm, Wilma, Herbert, Rosalind, Vernon, Antoinette, Desmond,
+  Winifred, Cedric, Geraldine, Ambrose, Henrietta, Percival, Millicent,
+  Reginald. Pick a fresh name for Lesson 0110's secondary character and
+  note the substitution here when it's written. **Lesson learned for
+  future "misunderstanding or problem" lessons:** this scenario pattern
+  (spanned 0097-0108) is prone to short-acknowledgement collision risk —
+  vary "thank you" / "found it" / "good idea" / "that makes much more
+  sense now" style closing lines deliberately from the first draft.
+  **Lesson learned for future single-premise lessons (like "your name",
+  "your phone number", etc.):** when every scene's payoff line is
+  structurally identical (e.g. "give your name"), plan distinct openers
+  and sentence structures for all ~36 payoff lines from the first draft
+  rather than defaulting to "Yes/Sure/Of course, my name is X" each time.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -510,6 +521,42 @@ as "change or choice" and "asking for help with X" — vary "thank you" /
 "found it" / "that makes complete sense" style closing lines
 deliberately from the first draft for any future lesson using this
 title pattern.
+
+## Per-lesson QC record — DELIVERY #13 (CLOSED)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0100 | Transport (a misunderstanding or problem involving public transport) | Ms Antoinette | 1258 | 108 | 0 |
+| 0101 | Transport (a misunderstanding or problem involving taxi & ride services) | Mr Desmond | 1348 | 108 | 0 |
+| 0102 | Mobility (a misunderstanding or problem involving walking & getting around) | Ms Winifred | 1296 | 108 | 0 |
+| 0103 | Weather (a misunderstanding or problem involving weather & daily plans) | Mr Cedric | 1360 | 108 | 0 |
+| 0104 | Daily Life (a misunderstanding or problem involving daily routines) | Ms Geraldine | 1331 | 108 | 0 |
+| 0105 | Learning (a misunderstanding or problem involving school & learning) | Mr Ambrose | 1313 | 108 | 0 |
+| 0106 | Work (a misunderstanding or problem involving workplace everyday communication) | Ms Henrietta | 1305 | 108 | 0 |
+| 0107 | Communication (a misunderstanding or problem involving phone calls) | Mr Percival | 1337 | 108 | 0 |
+| 0108 | Communication (a misunderstanding or problem involving messages & everyday digital communication) | Ms Millicent | 1311 | 108 | 0 |
+
+Total English learning words, Delivery #13: **11,859**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #13 is closed here. Do not add Lesson 0109 to this table; it
+opens Delivery #14 (Lesson 0109 is a "your name" Personal Identity
+lesson, not a "misunderstanding or problem" lesson, and is documented
+individually in the Status section above).
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery13.py`'s `WHOLE_BOOK` list — 22 first-pass collisions on
+the final whole-book check for Lessons 0100-0108 (generic short lines
+like "Good idea, that should clear it up.", "Thank you, I really
+appreciate that.", "Ah, that makes much more sense now.", "Thank you,
+that helps a lot.") reused across this block — all fixed by rewording;
+two of the reworded replacement lines then collided with each other and
+with earlier lessons on a second pass and were reworded again. Result:
+**0 duplicates across the whole book, 0001-0108.**
+**Lesson learned:** confirms the "misunderstanding or problem involving
+X" pattern (now spanning Lessons 0097-0108, 12 lessons) as a
+consistently collision-prone pattern — continue varying "thank you" /
+"good idea" / "that makes much more sense now" style closers from the
+first draft for any remaining lessons of this type.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
