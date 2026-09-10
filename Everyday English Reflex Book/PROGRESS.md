@@ -83,6 +83,13 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lesson 0109 does
   NOT belong to this delivery; it opens Delivery #14.
+- **DELIVERY #14 CLOSED: Lessons 0109-0117**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0109-0117.docx`. Built with
+  `source/build_delivery14.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#13 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0118-0119
+  do NOT belong to this delivery; they open Delivery #15.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -94,29 +101,27 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
   **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 completed**
   (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099
-  completed** (10/10). **BLOCK 0100-0109 is now COMPLETE** (10/10
-  lessons, written and QC'd in one pass per the user's "next"
-  authorization at the prior checkpoint, no per-lesson confirmation).
-  This block continued the "a misunderstanding or problem involving X"
-  scenario pattern through Lessons 0100-0108 (public transport, taxi &
-  ride services, walking & getting around, weather & daily plans, daily
-  routines, school & learning, workplace communication, phone calls,
-  messages & digital communication), before Lesson 0109 shifted to a new
-  master-workbook pattern: Personal Identity / "your name" (a simple
-  36-scene "asking and answering very simple questions about your name"
-  lesson, not a misunderstanding/problem scene). Next block: **0110-0119**,
-  to start only after the user responds (any reply, including "NEXT" or
-  "next", authorizes it; specific feedback is applied first).
-- **Last completed lesson: 0109** (secondary character Mr Reginald).
-  Domain "Personal Identity", scenario "your name"; this lesson's premise
-  (36 short scenes all ending in "give your name") produced heavy
-  within-lesson duplicate risk on the first draft — all 36 "giving the
-  name" lines were rewritten with distinct phrasing (varying opener and
-  sentence structure: "My name is X" / "It is X" / "I am X" / "X is my
-  name" / "You can call me X" / "Please put down X", etc.) to reach 0
-  duplicates. Confirmed zero duplicate lines against the whole book.
-- **Next lesson to write on NEXT: 0110** (A0/Pre-A1 — check the master
-  workbook row 111 for exact domain/scenario/title before writing). The
+  completed** (10/10). **BLOCK 0100-0109 completed** (10/10). **BLOCK
+  0110-0119 is now COMPLETE** (10/10 lessons, written and QC'd in one
+  pass per the user's "next" authorization at the prior checkpoint, no
+  per-lesson confirmation). This block introduced a brand-new
+  master-workbook pattern starting at Lesson 0109 and running through
+  the whole block: "Asking and Answering Very Simple Questions About X"
+  — revisiting the original Lesson 0002-0011 foundational topics (saying
+  hello, numbers 0-20, a room in the home, family member, asking for
+  water, shopping & payments, clothing & personal items, neighbourhood &
+  directions, public transport, taxi & ride services) as fresh
+  meta-linguistic Q&A lessons (e.g. "What do people say to greet someone
+  in the morning?" / "You can say good morning.") rather than
+  first-person practical exchanges. Next block: **0120-0129**, to start
+  only after the user responds (any reply, including "NEXT" or "next",
+  authorizes it; specific feedback is applied first).
+- **Last completed lesson: 0119** (secondary character Mr Bartholomew).
+  Domain "Transport", scenario "the first practical exchange about taxi
+  & ride services". Confirmed zero duplicate lines against the whole
+  book.
+- **Next lesson to write on NEXT: 0120** (A0/Pre-A1 — check the master
+  workbook row 121 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -131,17 +136,29 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Marilyn, Lawrence, Cassandra, Nelson, Priscilla, Terrence, Loretta,
   Malcolm, Wilma, Herbert, Rosalind, Vernon, Antoinette, Desmond,
   Winifred, Cedric, Geraldine, Ambrose, Henrietta, Percival, Millicent,
-  Reginald. Pick a fresh name for Lesson 0110's secondary character and
-  note the substitution here when it's written. **Lesson learned for
-  future "misunderstanding or problem" lessons:** this scenario pattern
-  (spanned 0097-0108) is prone to short-acknowledgement collision risk —
-  vary "thank you" / "found it" / "good idea" / "that makes much more
-  sense now" style closing lines deliberately from the first draft.
+  Reginald, Beatrice, Cornelius, Prudence, Aloysius, Fenella, Barnaby,
+  Octavia, Humphrey, Rosamund, Bartholomew. Pick a fresh name for Lesson
+  0120's secondary character and note the substitution here when it's
+  written. **Lesson learned for future "misunderstanding or problem"
+  lessons:** this scenario pattern (spanned 0097-0108) is prone to
+  short-acknowledgement collision risk — vary "thank you" / "found it" /
+  "good idea" / "that makes much more sense now" style closing lines
+  deliberately from the first draft.
   **Lesson learned for future single-premise lessons (like "your name",
   "your phone number", etc.):** when every scene's payoff line is
   structurally identical (e.g. "give your name"), plan distinct openers
   and sentence structures for all ~36 payoff lines from the first draft
   rather than defaulting to "Yes/Sure/Of course, my name is X" each time.
+  **Lesson learned for the new "asking and answering very simple
+  questions about X" pattern (started 0109, continued 0110-0119):** when
+  a lesson revisits an EARLY topic already covered by Lessons 0002-0011
+  (shopping, clothing, neighbourhood/directions, public transport, taxi
+  services, etc.), short generic reply lines ("thank you, I see it now.",
+  "that is very convenient, thank you.", "good to know, thank you for
+  clarifying.") collide heavily with those much earlier lessons — write
+  reply lines that echo back a specific detail from the answer (e.g.
+  "Second right after the bridge, noted." instead of "Thank you, that is
+  easy to remember.") to keep them naturally unique from the first draft.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -557,6 +574,45 @@ X" pattern (now spanning Lessons 0097-0108, 12 lessons) as a
 consistently collision-prone pattern — continue varying "thank you" /
 "good idea" / "that makes much more sense now" style closers from the
 first draft for any remaining lessons of this type.
+
+## Per-lesson QC record — DELIVERY #14 (CLOSED)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0109 | Personal Identity | your name | Mr Reginald | 1015 | 108 | 0 |
+| 0110 | Social Basics | saying hello | Ms Beatrice | 1264 | 108 | 0 |
+| 0111 | Numbers and Time | numbers 0-20 | Mr Cornelius | 1039 | 108 | 0 |
+| 0112 | Home | a room in the home | Ms Prudence | 1178 | 108 | 0 |
+| 0113 | Family | who a family member is | Mr Aloysius | 1181 | 108 | 0 |
+| 0114 | Food | asking for water | Ms Fenella | 1412 | 108 | 0 |
+| 0115 | Shopping | first practical exchange about shopping & payments | Mr Barnaby | 1118 | 108 | 0 |
+| 0116 | Clothing | first practical exchange about clothing & personal items | Ms Octavia | 1136 | 108 | 0 |
+| 0117 | Neighbourhood | first practical exchange about neighbourhood & directions | Mr Humphrey | 1146 | 108 | 0 |
+
+Total English learning words, Delivery #14: **10,489**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #14 is closed here. Do not add Lessons 0118-0119 to this
+table; they open Delivery #15 (documented individually in the Status
+section above).
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery14.py`'s `WHOLE_BOOK` list — 20 first-pass collisions on
+the final whole-book check for Lessons 0109-0117, concentrated in
+Lessons 0115-0117 (the "first practical exchange about X" scenes for
+shopping, clothing, and neighbourhood/directions), because these
+revisit topics already covered by Lessons 0004, 0006, 0007, 0009,
+0010, 0011, 0025, 0061, 0063, 0065, 0078, and 0091, producing generic
+reply-line collisions ("thank you, I see it now.", "that is very
+convenient, thank you.", "good to know, thank you for clarifying.") —
+all fixed by rewording (one fix in Lesson 0115 briefly created a new
+within-lesson duplicate against an existing line, caught and reworded
+again). Result: **0 duplicates across the whole book, 0001-0117.**
+**Lesson learned:** the new "asking and answering very simple questions
+about X" pattern (started at Lesson 0109) is especially collision-prone
+whenever the topic overlaps an EARLY lesson (0002-0031) — for any
+future lesson of this type covering an already-used topic, write reply
+lines that echo a specific detail from the answer just given, rather
+than a generic "thank you, that is very helpful" style closer.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
