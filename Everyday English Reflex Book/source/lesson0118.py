@@ -48,7 +48,7 @@ LESSON_0118 = {
         # 1 asking which bus goes to the city centre
         ("Ms Lan", "Excuse me, which bus goes to the city centre?", "Xin lỗi chị, xe buýt nào đi vào trung tâm thành phố vậy?"),
         ("Ms Rosamund", "Bus number nine goes straight downtown.", "Xe buýt số chín đi thẳng vào trung tâm."),
-        ("Ms Lan", "Thank you, I will wait for that one.", "Cảm ơn chị, tôi sẽ chờ xe đó."),
+        ("Ms Lan", "Bus number nine, got it, thank you.", "Xe buýt số chín, hiểu rồi, cảm ơn chị."),
         # 2 asking how much a ticket costs
         ("Ms Rosamund", "How much does a single ticket cost?", "Một vé lẻ giá bao nhiêu vậy?"),
         ("Ms Lan", "A single ticket costs two dollars.", "Một vé lẻ giá hai đô."),
@@ -63,8 +63,8 @@ LESSON_0118 = {
         ("Ms Rosamund", "Good, we should not wait too long.", "Tốt, vậy mình không phải chờ lâu."),
         # 5 asking where to buy a ticket
         ("Ms Lan", "Where can I buy a ticket around here?", "Tôi mua vé ở đâu quanh đây vậy?"),
-        ("Ms Rosamund", "There is a machine right by the entrance.", "Có một máy bán vé ngay lối vào."),
-        ("Ms Lan", "Thank you, I see it now.", "Cảm ơn chị, tôi thấy rồi."),
+        ("Ms Rosamund", "There is a ticket machine just by the entrance.", "Có một máy bán vé ngay cạnh lối vào."),
+        ("Ms Lan", "Ah, right by the entrance, thank you.", "À, ngay lối vào, cảm ơn chị."),
         # 6 asking if a seat is taken
         ("Ms Rosamund", "Excuse me, is this seat already taken?", "Xin lỗi, ghế này có ai ngồi chưa vậy?"),
         ("Ms Lan", "No, please feel free to sit here.", "Chưa đâu, chị cứ ngồi thoải mái."),
@@ -108,7 +108,7 @@ LESSON_0118 = {
         # 16 asking what time the last bus runs
         ("Ms Rosamund", "What time does the last bus run tonight?", "Tối nay chuyến xe buýt cuối chạy lúc mấy giờ vậy?"),
         ("Ms Lan", "The last bus runs at eleven at night.", "Chuyến cuối chạy lúc mười một giờ tối."),
-        ("Ms Rosamund", "Good, I still have plenty of time.", "Tốt, tôi vẫn còn nhiều thời gian."),
+        ("Ms Rosamund", "Eleven at night, plenty of time left then.", "Mười một giờ tối, vậy vẫn còn nhiều thời gian."),
         # 17 asking if a ticket works on another line
         ("Ms Lan", "Does this ticket also work on the other line?", "Vé này có dùng được cho tuyến khác không?"),
         ("Ms Rosamund", "Yes, it works on both lines today.", "Có, hôm nay nó dùng được cho cả hai tuyến."),
@@ -116,7 +116,7 @@ LESSON_0118 = {
         # 18 asking where luggage can be stored
         ("Ms Rosamund", "Where can I store my luggage on this train?", "Tôi để hành lý ở đâu trên chuyến tàu này vậy?"),
         ("Ms Lan", "There is a rack right above your seat.", "Có một giá để đồ ngay trên ghế của chị."),
-        ("Ms Rosamund", "Thank you, that works perfectly.", "Cảm ơn chị, vậy hoàn hảo rồi."),
+        ("Ms Rosamund", "A rack above my seat, that solves it.", "Giá trên ghế, vậy là giải quyết được rồi."),
         # 19 asking if a seat is reserved for elderly passengers
         ("Ms Lan", "Is this seat reserved for elderly passengers?", "Ghế này có dành riêng cho người lớn tuổi không?"),
         ("Ms Rosamund", "Yes, it is marked as a priority seat.", "Có, nó được đánh dấu là ghế ưu tiên."),
@@ -144,7 +144,7 @@ LESSON_0118 = {
         # 25 asking which platform a train departs from
         ("Ms Lan", "Which platform does the express train depart from?", "Tàu tốc hành khởi hành từ sân ga nào vậy?"),
         ("Ms Rosamund", "It departs from platform seven today.", "Hôm nay nó khởi hành từ sân ga số bảy."),
-        ("Ms Lan", "Thank you, I will head there now.", "Cảm ơn chị, tôi sẽ tới đó ngay."),
+        ("Ms Lan", "Platform seven, thank you, heading there.", "Sân ga số bảy, cảm ơn chị, tôi đi ngay."),
         # 26 asking if a route runs on weekends
         ("Ms Rosamund", "Does this bus route run on weekends too?", "Tuyến xe buýt này có chạy cuối tuần không?"),
         ("Ms Lan", "Yes, it runs every day of the week.", "Có, nó chạy mọi ngày trong tuần."),
@@ -152,7 +152,7 @@ LESSON_0118 = {
         # 27 asking where to find a schedule
         ("Ms Lan", "Where can I find the full bus schedule?", "Tôi tìm lịch chạy xe buýt đầy đủ ở đâu vậy?"),
         ("Ms Rosamund", "It is posted right on that board over there.", "Nó được dán ngay trên bảng thông báo kia."),
-        ("Ms Lan", "Thank you, I will check it now.", "Cảm ơn chị, tôi sẽ xem ngay."),
+        ("Ms Lan", "That board over there, thank you.", "Bảng thông báo đằng kia, cảm ơn chị."),
         # 28 asking if the fare is the same at all times
         ("Ms Rosamund", "Is the fare the same at all times of day?", "Giá vé có như nhau vào mọi giờ trong ngày không?"),
         ("Ms Lan", "No, it is slightly higher during rush hour.", "Không, giờ cao điểm giá cao hơn một chút."),
@@ -172,7 +172,7 @@ LESSON_0118 = {
         # 32 asking where the queue for tickets starts
         ("Ms Rosamund", "Where does the queue for tickets actually start?", "Hàng chờ mua vé thật ra bắt đầu từ đâu vậy?"),
         ("Ms Lan", "It starts by that rope near the counter.", "Nó bắt đầu từ dây chắn gần quầy."),
-        ("Ms Rosamund", "Ah, I see it clearly now.", "À, giờ tôi thấy rõ rồi."),
+        ("Ms Rosamund", "By that rope near the counter, got it.", "Từ dây chắn gần quầy, hiểu rồi."),
         # 33 asking if a transfer requires a new ticket
         ("Ms Lan", "Does transferring to another bus need a new ticket?", "Chuyển sang xe buýt khác có cần mua vé mới không?"),
         ("Ms Rosamund", "No, your same ticket covers the transfer.", "Không, vé cũ vẫn dùng được cho chuyển tuyến."),

@@ -66,7 +66,7 @@ LESSON_0119 = {
         # 5 asking where the pickup point is
         ("Ms Lan", "Where exactly is the pickup point for our ride?", "Điểm đón chính xác cho chuyến đi của mình ở đâu vậy?"),
         ("Mr Bartholomew", "It is right outside the main entrance.", "Nó ngay ngoài cổng chính."),
-        ("Ms Lan", "Thank you, I will head there now.", "Cảm ơn anh, tôi sẽ tới đó ngay."),
+        ("Ms Lan", "Right outside the main entrance, thank you.", "Ngay ngoài cổng chính, cảm ơn anh."),
         # 6 asking if a ride can be shared
         ("Mr Bartholomew", "Can this ride be shared with another passenger?", "Chuyến đi này có thể đi ghép với hành khách khác không?"),
         ("Ms Lan", "Yes, this option allows shared rides.", "Có, lựa chọn này cho phép đi ghép."),
@@ -82,7 +82,7 @@ LESSON_0119 = {
         # 9 asking for a receipt after a ride
         ("Ms Lan", "Could I get a receipt after this ride ends?", "Sau chuyến đi này tôi xin hóa đơn được không?"),
         ("Mr Bartholomew", "Yes, it is sent automatically by email.", "Có, nó được gửi tự động qua email."),
-        ("Ms Lan", "Perfect, that is very convenient.", "Hoàn hảo, tiện quá."),
+        ("Ms Lan", "Automatic by email, that is handy.", "Tự động qua email, tiện quá."),
         # 10 asking if a child seat is available
         ("Mr Bartholomew", "Is a child seat available for this ride?", "Chuyến đi này có ghế trẻ em không?"),
         ("Ms Lan", "Yes, you can request one in the app settings.", "Có, anh có thể yêu cầu trong phần cài đặt ứng dụng."),
@@ -90,7 +90,7 @@ LESSON_0119 = {
         # 11 asking how to add a stop along the way
         ("Ms Lan", "How do I add a quick stop along the way?", "Tôi thêm một điểm dừng nhanh dọc đường thế nào vậy?"),
         ("Mr Bartholomew", "You can add a stop before confirming the ride.", "Chị có thể thêm điểm dừng trước khi xác nhận chuyến đi."),
-        ("Ms Lan", "Thank you, that is very helpful.", "Cảm ơn anh, hữu ích lắm."),
+        ("Ms Lan", "Adding a stop before confirming, easy enough.", "Thêm điểm dừng trước khi xác nhận, dễ thôi."),
         # 12 asking if luggage fits in the trunk
         ("Mr Bartholomew", "Will all this luggage fit in the trunk?", "Hết đống hành lý này có vừa trong cốp xe không?"),
         ("Ms Lan", "Yes, this car type has a large trunk.", "Có, loại xe này có cốp rộng."),
@@ -106,7 +106,7 @@ LESSON_0119 = {
         # 15 asking if a tip is expected
         ("Ms Lan", "Is a tip expected for this kind of ride?", "Loại chuyến đi này có cần cho tiền tip không?"),
         ("Mr Bartholomew", "No, a tip is optional, not required.", "Không, tiền tip là tự nguyện, không bắt buộc."),
-        ("Ms Lan", "Good to know, thank you.", "Biết vậy tốt rồi, cảm ơn anh."),
+        ("Ms Lan", "A day ahead, noted for planning.", "Trước một ngày, ghi nhớ để lên kế hoạch."),
         # 16 asking how to confirm the correct driver
         ("Mr Bartholomew", "How can I confirm this is the correct driver?", "Tôi xác nhận đây đúng là tài xế của mình thế nào vậy?"),
         ("Ms Lan", "Check the car plate matches what the app shows.", "Kiểm tra biển số xe có khớp với ứng dụng không."),
@@ -118,7 +118,7 @@ LESSON_0119 = {
         # 18 asking how fares are calculated
         ("Mr Bartholomew", "How exactly are these fares calculated?", "Giá cước này được tính chính xác thế nào vậy?"),
         ("Ms Lan", "It is based on distance and time combined.", "Nó dựa trên quãng đường và thời gian gộp lại."),
-        ("Mr Bartholomew", "That makes sense, thank you for explaining.", "Nghe hợp lý, cảm ơn chị đã giải thích."),
+        ("Mr Bartholomew", "Distance and time combined, that adds up.", "Quãng đường và thời gian gộp lại, hợp lý đấy."),
         # 19 asking if there is a fee for extra passengers
         ("Ms Lan", "Is there an extra fee for additional passengers?", "Có phí thêm cho hành khách thêm không?"),
         ("Mr Bartholomew", "No, the fare stays the same either way.", "Không, giá cước vẫn như nhau."),
@@ -126,7 +126,7 @@ LESSON_0119 = {
         # 20 asking how to split a fare with a friend
         ("Mr Bartholomew", "How do I split this fare with a friend?", "Tôi chia tiền cước này với bạn thế nào vậy?"),
         ("Ms Lan", "You can use the split fare option in the app.", "Anh có thể dùng tùy chọn chia tiền trong ứng dụng."),
-        ("Mr Bartholomew", "Thank you, I will try that now.", "Cảm ơn chị, tôi sẽ thử ngay."),
+        ("Mr Bartholomew", "The split fare option, trying it now.", "Tùy chọn chia tiền, tôi thử ngay đây."),
         # 21 asking if pets are allowed in the car
         ("Ms Lan", "Are pets allowed in this taxi service?", "Thú cưng có được mang lên dịch vụ taxi này không?"),
         ("Mr Bartholomew", "Yes, small pets are usually welcome.", "Có, thú cưng nhỏ thường được chào đón."),
@@ -162,7 +162,7 @@ LESSON_0119 = {
         # 29 asking if a taxi stand is nearby
         ("Ms Lan", "Is there a taxi stand somewhere nearby?", "Có bến taxi nào gần đây không?"),
         ("Mr Bartholomew", "Yes, there is one just past the corner shop.", "Có, có một bến ngay qua tiệm tạp hóa góc phố."),
-        ("Ms Lan", "Thank you, I will walk there now.", "Cảm ơn anh, tôi sẽ đi bộ tới đó."),
+        ("Ms Lan", "Just past the corner shop, easy to find.", "Ngay qua tiệm tạp hóa góc phố, dễ tìm đấy."),
         # 30 asking how long a ride usually takes
         ("Mr Bartholomew", "How long does a ride like this usually take?", "Chuyến đi kiểu này thường mất bao lâu vậy?"),
         ("Ms Lan", "It usually takes about twenty-five minutes.", "Thường mất khoảng hai mươi lăm phút."),
