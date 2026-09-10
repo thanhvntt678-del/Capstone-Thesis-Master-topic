@@ -43,11 +43,17 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   deliveries so far via its `DELIVERY1`-`DELIVERY6`/`LESSONS_DELIVERY7`
   lists). Structural page estimate reached **~34.3 pages** (8 lessons),
   consistent with all prior deliveries, so this delivery is closed here.
-- **DELIVERY #8 OPEN: Lessons 0056-...**, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0056-0059.docx`. Built with
+- **DELIVERY #8 CLOSED: Lessons 0056-0063**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0056-0063.docx`. Built with
   `source/build_delivery8.py` (same no-base-docx pattern, cross-checking
   against the WHOLE book across Deliveries #1-#7 plus this one).
-  Structural page estimate so far: **~17.4 pages** (4 lessons) — will
+  Structural page estimate reached **~34.1 pages** (8 lessons), consistent
+  with all prior deliveries, so this delivery is closed here.
+- **DELIVERY #9 OPEN: Lessons 0064-...**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0064-0069.docx`. Built with
+  `source/build_delivery9.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#8 plus this one).
+  Structural page estimate so far: **~24.6 pages** (6 lessons) — will
   carry over into the next checkpoint block.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
@@ -57,31 +63,37 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   close whenever the ~36-38 page structural estimate is reached (has been
   averaging 8 lessons per delivery), independent of the 10-lesson
   checkpoint cadence. **BLOCK 0030-0039 completed** (10/10). **BLOCK
-  0040-0049 completed** (10/10). **BLOCK 0050-0059 is now COMPLETE**
-  (10/10 lessons, written and QC'd in one pass per the user's "NEXT"
-  authorization at the prior checkpoint, no per-lesson confirmation).
-  Next block: **0060-0069**, to start only after the user responds (any
-  reply, including "NEXT", authorizes it; specific feedback is applied
-  first).
-- **Last completed lesson: 0059** (secondary character Mr Roy, substituted
-  for the master's suggested name already in use elsewhere). Domain
-  "Family", scenario "a simple family relationship"; confirmed zero
-  duplicate lines against the whole book after fixing 2 first-pass
-  collisions on the final whole-book check.
-- **Next lesson to write on NEXT: 0060** (A0/Pre-A1, domain "Food",
-  scenario "saying you are hungry or thirsty", title "Recognising and
-  responding to saying you are hungry or thirsty"). The master workbook
-  suggests "Ms Anna" as the secondary character, but that name is already
-  Lesson 0012's character — **use a different name** (not yet used:
-  David, Emma, James, Sarah, Daniel, Olivia, Thomas, Sophie, Michael,
-  Grace, Henry, Anna, Peter, Rachel, Kevin, Julia, Robert, Natalie,
-  Simon, Diana, George, Laura, Edward, Claire, Nathan, Karen, Patrick,
-  Helen, Victor, Susan, Frank, Fiona, Adam, Wendy, Charles, Amy, Jason,
-  Linda, Oscar, Paula, Martin, Vivian, Gordon, Ruth, Dennis, Sandra,
-  Bruce, Carol, Alan, Joyce, Walter, Cheryl, Roger, Brenda, Steven,
-  Janet, Philip, Denise, Roy are all taken — e.g. "Ms Teresa" is a
-  reasonable fresh choice) and note the substitution here when it's
-  written.
+  0040-0049 completed** (10/10). **BLOCK 0050-0059 completed** (10/10).
+  **BLOCK 0060-0069 is now COMPLETE** (10/10 lessons, written and QC'd in
+  one pass per the user's "NEXT" authorization at the prior checkpoint, no
+  per-lesson confirmation). This block introduced the "asking for help
+  with X" scenario pattern (0061-0069), the master workbook's own
+  scenario label for this stretch of lessons. Next block: **0070-0079**,
+  to start only after the user responds (any reply, including "NEXT",
+  authorizes it; specific feedback is applied first).
+- **Last completed lesson: 0069** (secondary character Mr Neil, substituted
+  for the master's suggested "Mr Michael" which is already Lesson 0009's
+  character). Domain "Learning", scenario "asking for help with school &
+  learning"; confirmed zero duplicate lines against the whole book after
+  fixing a large batch of first-pass collisions across 0064-0069 (see QC
+  notes below — the "asking for help" scenario type produces frequent
+  generic short acknowledgement collisions, similar to the
+  "checking/confirming a detail" pattern noted at Delivery #6).
+- **Next lesson to write on NEXT: 0070** (A0/Pre-A1, domain "Work",
+  scenario "asking for help with workplace everyday communication", title
+  "Recognising and responding to asking for help with workplace everyday
+  communication"). The master workbook suggests "Ms Grace" as the
+  secondary character, but that name is already Lesson 0010's character —
+  **use a different name** (not yet used: David, Emma, James, Sarah,
+  Daniel, Olivia, Thomas, Sophie, Michael, Grace, Henry, Anna, Peter,
+  Rachel, Kevin, Julia, Robert, Natalie, Simon, Diana, George, Laura,
+  Edward, Claire, Nathan, Karen, Patrick, Helen, Victor, Susan, Frank,
+  Fiona, Adam, Wendy, Charles, Amy, Jason, Linda, Oscar, Paula, Martin,
+  Vivian, Gordon, Ruth, Dennis, Sandra, Bruce, Carol, Alan, Joyce, Walter,
+  Cheryl, Roger, Brenda, Steven, Janet, Philip, Denise, Roy, Teresa,
+  Colin, Melissa, Derek, Sharon, Trevor, Yvonne, Barry, Pamela, Neil are
+  all taken — e.g. "Ms Donna" is a reasonable fresh choice) and note the
+  substitution here when it's written.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -296,7 +308,7 @@ lines already used earlier, including two collisions between 0050 and
 0051's own closing lines) — all fixed by rewording. Result: **0
 duplicates across the whole book, 0001-0055.**
 
-## Per-lesson QC record — DELIVERY #8 (OPEN)
+## Per-lesson QC record — DELIVERY #8 (CLOSED)
 
 | Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|
@@ -304,22 +316,61 @@ duplicates across the whole book, 0001-0055.**
 | 0057 | Numbers and Time (today's date) | Mr Philip | 1232 | 115 | 0 |
 | 0058 | Home (something you need at home) | Ms Denise | 1138 | 115 | 0 |
 | 0059 | Family (a simple family relationship) | Mr Roy | 1163 | 115 | 0 |
+| 0060 | Food (saying you are hungry or thirsty) | Ms Teresa | 1299 | 114 | 0 |
+| 0061 | Shopping (asking for help with shopping & payments) | Mr Colin | 1203 | 108 | 0 |
+| 0062 | Clothing (asking for help with clothing & personal items) | Ms Melissa | 1217 | 108 | 0 |
+| 0063 | Neighbourhood (asking for help with neighbourhood & directions) | Mr Derek | 1249 | 108 | 0 |
 
-Total English learning words, Delivery #8 so far: **4,667**.
-Structural page estimate: **~17.4 pages** (4 lessons) — keep adding
-lessons.
+Total English learning words, Delivery #8: **9,635**.
+Structural page estimate ≈ **34.1 pages** — inside the ~36-38 target, so
+Delivery #8 is closed here. Do not add Lesson 0064 to this table; it
+opens Delivery #9.
 
 Cross-lesson check ran against the entire book so far via
 `build_delivery8.py`'s `WHOLE_BOOK` list — final whole-book check (0001
-through 0059) caught 5 remaining collisions on lessons 0055/0057/0059
-(generic short lines already used earlier in the book) — all fixed by
-rewording. Result: **0 duplicates across the whole book, 0001-0059.**
+through 0063) caught 10 collisions on lessons 0060/0061/0062/0063
+(generic short lines like "Thank you, I will head there now." already
+used earlier in the book) — all fixed by rewording. Result: **0
+duplicates across the whole book, 0001-0063.**
 **Lesson learned (Lesson 0057, "today's date"):** any lesson whose
 scenario is "confirming/repeating a fixed piece of information" (a date,
 a spelled name, etc.) needs the answer phrasing deliberately varied
 across every repetition from the first draft — 0057 needed 6 separate
 within-lesson duplicate patterns reworded (the same date/question
 recurring many times by design) before it passed QC.
+
+## Per-lesson QC record — DELIVERY #9 (OPEN)
+
+| Lesson | Domain | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|
+| 0064 | Transport (asking for help with public transport) | Ms Sharon | 1279 | 108 | 0 |
+| 0065 | Transport (asking for help with taxi & ride services) | Mr Trevor | 1268 | 108 | 0 |
+| 0066 | Mobility (asking for help with walking & getting around) | Ms Yvonne | 1287 | 108 | 0 |
+| 0067 | Weather (asking for help with weather & daily plans) | Mr Barry | 1343 | 108 | 0 |
+| 0068 | Daily Life (asking for help with daily routines) | Ms Pamela | 1240 | 108 | 0 |
+| 0069 | Learning (asking for help with school & learning) | Mr Neil | 1217 | 108 | 0 |
+
+Total English learning words, Delivery #9 so far: **7,634**.
+Structural page estimate: **~24.6 pages** (6 lessons) — keep adding
+lessons.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery9.py`'s `WHOLE_BOOK` list — the "asking for help with X"
+scenario pattern that runs from Lesson 0061 through 0069 produced a large
+batch of first-pass collisions each time (25 on the final whole-book pass
+for 0064-0069 alone), almost all generic short acknowledgement lines
+("Thank you, that will help a lot.", "Ah, that makes sense now, thank
+you.", "Thank you, I will head there now.", etc.) reused across many
+"asking for help" lessons in a row — all fixed by rewording, including
+one self-introduced collision caught on a second full-book re-run.
+Result: **0 duplicates across the whole book, 0001-0069.**
+**Lesson learned:** like the "checking/confirming a detail" pattern noted
+at Delivery #6, the "asking for help with X" scenario type is prone to
+noticeably more short-acknowledgement collisions than topic-varied
+lessons — worth extra deliberate variation of "thank you" / "that makes
+sense" style closing lines for any future lesson using this same title
+pattern (it continues through at least Lesson 0069 per the master
+workbook).
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
