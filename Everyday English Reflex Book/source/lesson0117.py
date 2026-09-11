@@ -184,7 +184,39 @@ LESSON_0117 = {
         ("Ms Lan", "Where is the tax office located around here?", "Văn phòng thuế nằm ở đâu quanh đây?"),
         ("Mr Humphrey", "It is on the third floor of that grey building.", "Nó nằm ở tầng ba của tòa nhà màu xám đó."),
         ("Ms Lan", "Thank you, the third floor is easy to remember.", "Cảm ơn anh, tầng ba dễ nhớ đấy."),
-        # 36 closing on why direction questions matter
+        # 36 asking where a quiet park bench for reading is
+        ("Ms Lan", "Do you know a quiet park bench good for reading?", "Anh biết ghế đá công viên nào yên tĩnh để đọc sách không?"),
+        ("Mr Humphrey", "Yes, the one under the big oak tree is lovely.", "Có, cái ghế dưới gốc cây sồi lớn rất đẹp."),
+        ("Ms Lan", "Thank you, I will try that spot.", "Cảm ơn anh, tôi sẽ thử chỗ đó."),
+        # 37 asking where the nearest recycling drop-off is
+        ("Mr Humphrey", "Where is the nearest recycling drop-off point from here?", "Điểm thu gom tái chế gần nhất từ đây ở đâu vậy?"),
+        ("Ms Lan", "It is behind the supermarket on this street.", "Nó ở phía sau siêu thị trên con phố này."),
+        ("Mr Humphrey", "Good to know, I have bottles to drop off.", "Biết vậy tốt, tôi có chai lọ cần bỏ."),
+        # 38 asking which entrance leads into an apartment building
+        ("Ms Lan", "Which entrance leads into your apartment building?", "Lối vào nào dẫn vào tòa chung cư của anh?"),
+        ("Mr Humphrey", "The side entrance by the parking area works best.", "Lối vào bên cạnh khu đậu xe là tốt nhất."),
+        ("Ms Lan", "Thank you, I will use that door.", "Cảm ơn anh, tôi sẽ dùng cửa đó."),
+        # 39 asking if a road is under construction
+        ("Mr Humphrey", "Is Willow Road under construction this week?", "Đường Willow tuần này có đang sửa chữa không?"),
+        ("Ms Lan", "Yes, part of it is closed until Friday.", "Có, một đoạn bị đóng đến thứ Sáu."),
+        ("Mr Humphrey", "Good to know before I plan my route.", "Biết vậy tốt trước khi tôi lên lộ trình."),
+        # 40 asking where the nearest gas station is
+        ("Ms Lan", "Where is the nearest gas station from this street?", "Trạm xăng gần nhất từ con phố này ở đâu?"),
+        ("Mr Humphrey", "There is one about three blocks north.", "Có một cái cách đây khoảng ba dãy nhà về hướng bắc."),
+        ("Ms Lan", "Thank you, that is close enough to walk to.", "Cảm ơn anh, vậy đủ gần để đi bộ tới."),
+        # 41 asking which entrance parents should use at a school
+        ("Mr Humphrey", "Which entrance should parents use at the elementary school?", "Phụ huynh nên dùng lối vào nào ở trường tiểu học?"),
+        ("Ms Lan", "The gate facing the playground is for parents.", "Cổng hướng ra sân chơi là dành cho phụ huynh."),
+        ("Mr Humphrey", "Thank you, I will remember that gate.", "Cảm ơn chị, tôi sẽ nhớ cái cổng đó."),
+        # 42 asking if a street has good lighting at night
+        ("Ms Lan", "Is this street well lit for walking at night?", "Con phố này có đủ đèn để đi bộ ban đêm không?"),
+        ("Mr Humphrey", "Yes, the streetlights here work very well.", "Có, đèn đường ở đây hoạt động tốt lắm."),
+        ("Ms Lan", "Good to know, I will feel safer walking home.", "Biết vậy tốt, tôi sẽ thấy an tâm hơn khi đi bộ về."),
+        # 43 asking where to find a taxi stand
+        ("Mr Humphrey", "Where can I find a taxi stand near your street?", "Tôi có thể tìm trạm taxi gần con phố của chị ở đâu?"),
+        ("Ms Lan", "There is a small stand just outside the hotel lobby.", "Có một trạm nhỏ ngay ngoài sảnh khách sạn."),
+        ("Mr Humphrey", "Thank you, I will head there now.", "Cảm ơn chị, tôi sẽ đến đó ngay."),
+        # 44 closing on why direction questions matter
         ("Mr Humphrey", "Why do simple direction questions matter so much in a new area anyway?", "Vậy vì sao những câu hỏi chỉ đường đơn giản lại quan trọng đến thế khi ở khu vực mới?"),
         ("Ms Lan", "They help us settle in quickly and feel less lost.", "Chúng giúp mình ổn định nhanh và đỡ lạc lối hơn."),
         ("Mr Humphrey", "That is very true, I feel much more confident now.", "Đúng vậy thật, giờ tôi thấy tự tin hơn nhiều."),
