@@ -118,13 +118,20 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lessons 0154-0159
   do NOT belong to this delivery; they open Delivery #19.
-- **DELIVERY #19 OPEN: Lessons 0154-0159** so far, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0154-0159.docx`. Built with
+- **DELIVERY #19 CLOSED: Lessons 0154-0162**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0154-0162.docx`. Built with
   `source/build_delivery19.py` (same no-base-docx pattern, cross-checking
-  against the WHOLE book across Deliveries #1-#18 plus this one, 0 dups
-  confirmed for 0001-0159). Structural page estimate so far: **~24.6
-  pages** (6 lessons) — under the ~36-38 target, so this delivery stays
-  open and Block 0160-0169's lessons will be added to it next.
+  against the WHOLE book across Deliveries #1-#18 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0163-0169
+  do NOT belong to this delivery; they open Delivery #20.
+- **DELIVERY #20 OPEN: Lessons 0163-0169** so far, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0163-0169.docx`. Built with
+  `source/build_delivery20.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#19 plus this one, 0 dups
+  confirmed for 0001-0169). Structural page estimate so far: **~28.7
+  pages** (7 lessons) — under the ~36-38 target, so this delivery stays
+  open and Block 0170-0179's lessons will be added to it next.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -139,25 +146,25 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   completed** (10/10). **BLOCK 0100-0109 completed** (10/10). **BLOCK
   0110-0119 completed** (10/10). **BLOCK 0120-0129 completed** (10/10).
   **BLOCK 0130-0139 completed** (10/10). **BLOCK 0140-0149 completed**
-  (10/10). **BLOCK 0150-0159 is now COMPLETE** (10/10 lessons, written
-  and QC'd in one pass per the user's "next" authorization at the prior
-  checkpoint, no per-lesson confirmation). This block opened a new
-  master-workbook scenario wave, "checking an important detail about
-  X": Lesson 0150 covered choosing a simple food (a single-premise
-  "revisit" lesson, planned with 35 distinct foods upfront), and
-  Lessons 0151-0159 covered checking an important detail about
-  shopping & payments, clothing & personal items, neighbourhood &
-  directions, public transport, taxi & ride services, walking &
-  getting around, weather & daily plans, daily routines, and school &
-  learning. Next block: **0160-0169**, to start only after the user
-  responds (any reply, including "NEXT" or "next", authorizes it;
-  specific feedback is applied first).
-- **Last completed lesson: 0159** (secondary character Mr Sylvester).
-  Domain "Learning", scenario "checking an important detail about
-  school & learning". Confirmed zero duplicate lines against the whole
-  book, 0001-0159.
-- **Next lesson to write on NEXT: 0160** (A0/Pre-A1 — check the master
-  workbook row 161 for exact domain/scenario/title before writing). The
+  (10/10). **BLOCK 0150-0159 completed** (10/10). **BLOCK 0160-0169 is
+  now COMPLETE** (10/10 lessons, written and QC'd in one pass per the
+  user's "next" authorization at the prior checkpoint, no per-lesson
+  confirmation). This block continued the "checking an important
+  detail about X" pattern for Lessons 0160-0162 (workplace
+  communication, phone calls, messages & digital communication), then
+  moved into a fresh wave of early-topic revisits for Lessons
+  0163-0169: where you live, saying thank you, today's date, something
+  you need at home, a simple family relationship, saying you are
+  hungry or thirsty, and asking for help with shopping & payments.
+  Next block: **0170-0179**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0169** (secondary character Mr David).
+  Domain "Shopping", scenario "asking for help with shopping &
+  payments". Confirmed zero duplicate lines against the whole book,
+  0001-0169.
+- **Next lesson to write on NEXT: 0170** (A0/Pre-A1 — check the master
+  workbook row 171 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -179,8 +186,27 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Torvald, Clementine, Osbert, Eulalia, Thaddeus, Cressida, Alaric,
   Dorothea, Silas, Amabel, Gideon, Verity, Oswin, Isolde, Peregrine,
   Marguerite, Quentin, Rosalie, Baldwin, Genevieve, Alistair, Marcella,
-  Sylvester. Pick a fresh name for Lesson 0160's secondary character and
-  note the substitution here when it's written.
+  Sylvester, Philomena, Corwin, Delphine, Tobias, Arabella, Jasper,
+  Cecily, Lucian, Miranda, Bertrand. Pick a fresh name for Lesson
+  0170's secondary character and note the substitution here when it's
+  written.
+  **Lesson learned from Block 0160-0169 (important process fix):**
+  four lessons in this block (0166, 0167, 0168, 0169) initially used
+  the master workbook's suggested secondary-character names directly
+  (Grace, Henry, Anna, David) instead of substituting a fresh name —
+  these were all names already used many lessons earlier (Grace in
+  0010, Henry in 0011, Anna in 0012, David in the approved Lesson
+  0001), so they were caught only by manually diffing against the
+  cumulative names-used list, NOT by the automated `qc_report()` /
+  cross-lesson duplicate-line check, which only compares dialogue
+  text and has no visibility into character names. Fixed via
+  find-and-replace to Cecily, Lucian, Miranda, and Bertrand
+  respectively. Going forward, always actively substitute a FRESH name
+  for the master workbook's suggested secondary character before
+  drafting a lesson, and double-check every new lesson's two speaker
+  names against the cumulative names-used list before considering the
+  lesson done — the master workbook's suggested names are always
+  already used by this point in the book and must never be used as-is.
   **Lesson learned for future "misunderstanding or problem" lessons:**
   this scenario pattern (spanned 0097-0108) is prone to
   short-acknowledgement collision risk — vary "thank you" / "found it" /
@@ -854,7 +880,7 @@ opened the new "checking an important detail about X" pattern
 are just as collision-prone as the earlier "asking and answering"
 pattern's closers.
 
-## Per-lesson QC record — DELIVERY #19 (OPEN)
+## Per-lesson QC record — DELIVERY #19 (CLOSED)
 
 | Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|---|
@@ -864,27 +890,73 @@ pattern's closers.
 | 0157 | Weather | checking an important detail — weather & daily plans | Mr Alistair | 1284 | 108 | 0 |
 | 0158 | Daily Life | checking an important detail — daily routines | Ms Marcella | 1222 | 108 | 0 |
 | 0159 | Learning | checking an important detail — school & learning | Mr Sylvester | 1288 | 108 | 0 |
+| 0160 | Work | checking an important detail — workplace communication | Ms Philomena | 1251 | 108 | 0 |
+| 0161 | Communication | checking an important detail — phone calls | Mr Corwin | 1257 | 108 | 0 |
+| 0162 | Communication | checking an important detail — messages & digital communication | Ms Delphine | 1249 | 108 | 0 |
 
-Total English learning words, Delivery #19 so far: **7,614**.
-Structural page estimate so far ≈ **24.6 pages** — under the ~36-38
-target, so this delivery stays OPEN; Lessons from Block 0160-0169 will
-be appended to it next via a rebuilt `build_delivery19.py`.
+Total English learning words, Delivery #19: **11,371**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target,
+so Delivery #19 is closed here. Do not add Lessons 0163-0169 to this
+table; they open Delivery #20 (documented individually below).
 
 Cross-lesson check ran against the entire book so far via
-`build_delivery19.py`'s `WHOLE_BOOK` list (Deliveries #1-#18 plus these
-6 lessons) — 11 first-pass collisions found across Lessons 0154, 0155,
-0156, and 0158, all short generic reactions ("good, we still have
-plenty of time then.", "great, one less thing to worry about.", "good,
-better safe than sorry.") colliding with much earlier lessons. All
-fixed by rewording the later-appearing line to echo a specific detail
-from its own answer. A second whole-book pass after fixes found 0
-remaining collisions. Result: **0 duplicates across the whole book,
-0001-0159.**
+`build_delivery19.py`'s `WHOLE_BOOK` list — Lessons 0154-0159 needed 11
+first-pass fixes (see below), and extending the delivery with Lessons
+0160-0162 surfaced 12 more first-pass collisions, all short generic
+reactions ("good, we still have plenty of time then.", "great, one
+less thing to worry about.", "good to know, I will plan around that.")
+colliding with much earlier lessons or with each other. All fixed by
+rewording the later-appearing line to echo a specific detail from its
+own answer; two rewordings introduced fresh accidental collisions on
+the next pass and needed a further round of fixes. A final whole-book
+pass found 0 remaining collisions. Result: **0 duplicates across the
+whole book, 0001-0162.**
 **Lesson learned:** confirms the "checking an important detail about
 X" pattern's collision risk documented after Delivery #18 continues
 across domains — the short "Good, [reaction]" and "Yes/No, [detail]."
 lines need the "echo a specific detail" rule applied from the first
 draft in every one of these lessons, not just the single-premise ones.
+Also confirms that a reworded fix can itself introduce a NEW collision
+with a different earlier lesson — always re-run the whole-book check
+after every round of fixes, not just once.
+
+## Per-lesson QC record — DELIVERY #20 (OPEN)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0163 | Personal Identity | where you live | Mr Tobias | 1179 | 108 | 0 |
+| 0164 | Social Basics | saying thank you | Ms Arabella | 1355 | 108 | 0 |
+| 0165 | Numbers and Time | today's date | Mr Jasper | 1269 | 108 | 0 |
+| 0166 | Home | something you need at home | Ms Cecily | 1294 | 108 | 0 |
+| 0167 | Family | a simple family relationship | Mr Lucian | 1482 | 108 | 0 |
+| 0168 | Food | saying you are hungry or thirsty | Ms Miranda | 1225 | 108 | 0 |
+| 0169 | Shopping | asking for help with shopping & payments | Mr Bertrand | 1272 | 108 | 0 |
+
+Total English learning words, Delivery #20 so far: **9,076**.
+Structural page estimate so far ≈ **28.7 pages** — under the ~36-38
+target, so this delivery stays OPEN; Lessons from Block 0170-0179 will
+be appended to it next via a rebuilt `build_delivery20.py`.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery20.py`'s `WHOLE_BOOK` list (Deliveries #1-#19 plus these
+7 lessons) — 19 first-pass collisions found across Lessons 0164-0169,
+mostly short generic reactions colliding with much earlier lessons.
+All fixed by rewording the later-appearing line to echo a specific
+detail from its own answer. Separately, a manual audit against the
+cumulative names-used list (prompted by this round's fixes) found that
+Lessons 0166, 0167, 0168, and 0169 had used the master workbook's
+suggested secondary-character names directly (Grace, Henry, Anna,
+David) without substituting a fresh name — all four names were already
+used many lessons earlier and this was NOT caught by the automated
+duplicate-line check, which has no visibility into character names.
+Fixed via find-and-replace to Cecily, Lucian, Miranda, and Bertrand.
+A final whole-book pass after all fixes found 0 remaining line
+collisions. Result: **0 duplicates across the whole book, 0001-0169.**
+**Lesson learned:** see the Status section note above — always
+actively substitute a fresh secondary-character name for the master
+workbook's suggestion, and manually check both speaker names in every
+new lesson against the cumulative names-used list, since the automated
+QC tooling only checks dialogue text, never character names.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
