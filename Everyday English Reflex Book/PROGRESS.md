@@ -97,6 +97,13 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lessons 0127-0129
   do NOT belong to this delivery; they open Delivery #16.
+- **DELIVERY #16 CLOSED: Lessons 0127-0135**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0127-0135.docx`. Built with
+  `source/build_delivery16.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#15 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0136-0139
+  do NOT belong to this delivery; they open Delivery #17.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -109,29 +116,24 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   **BLOCK 0060-0069 completed** (10/10). **BLOCK 0070-0079 completed**
   (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099
   completed** (10/10). **BLOCK 0100-0109 completed** (10/10). **BLOCK
-  0110-0119 completed** (10/10). **BLOCK 0120-0129 is now COMPLETE**
-  (10/10 lessons, written and QC'd in one pass per the user's "next"
-  authorization at the prior checkpoint, no per-lesson confirmation).
-  This block continued the "Asking and Answering Very Simple Questions
-  About X" pattern through Lessons 0120-0126 (walking & getting around,
-  weather & daily plans, daily routines, school & learning, workplace
-  communication, phone calls, messages & digital communication — all
-  "first practical exchange about X" scenarios revisiting Lessons
-  0012-0018), then Lesson 0127 (how to spell your name, revisiting
-  Lesson 0019), Lesson 0128 (responding to a greeting, revisiting Lesson
-  0020), and Lesson 0129 (a phone number, revisiting Lesson 0021). Next
-  block: **0130-0139**, to start only after the user responds (any
-  reply, including "NEXT" or "next", authorizes it; specific feedback is
-  applied first).
-- **Last completed lesson: 0129** (secondary character Mr Leopold).
-  Domain "Numbers and Time", scenario "a phone number". This lesson's
-  premise (36 scenes all giving a phone number) initially reused only
-  two literal phone numbers throughout, producing heavy duplication —
-  rewritten with 36 distinct fictional phone numbers (one per scene) so
-  every answer line is naturally unique. Confirmed zero duplicate lines
-  against the whole book.
-- **Next lesson to write on NEXT: 0130** (A0/Pre-A1 — check the master
-  workbook row 131 for exact domain/scenario/title before writing). The
+  0110-0119 completed** (10/10). **BLOCK 0120-0129 completed** (10/10).
+  **BLOCK 0130-0139 is now COMPLETE** (10/10 lessons, written and QC'd
+  in one pass per the user's "next" authorization at the prior
+  checkpoint, no per-lesson confirmation). This block continued the
+  "Asking and Answering Very Simple Questions About X" pattern,
+  revisiting Lessons 0022-0031: Lesson 0130 (a common household object),
+  Lesson 0131 (a family member's name), Lesson 0132 (choosing a drink),
+  and Lessons 0133-0139 (a routine everyday need involving shopping &
+  payments, clothing & personal items, neighbourhood & directions,
+  public transport, taxi & ride services, walking & getting around, and
+  weather & daily plans). Next block: **0140-0149**, to start only
+  after the user responds (any reply, including "NEXT" or "next",
+  authorizes it; specific feedback is applied first).
+- **Last completed lesson: 0139** (secondary character Mr Osbert).
+  Domain "Weather", scenario "a routine everyday need involving weather
+  & daily plans". Confirmed zero duplicate lines against the whole book.
+- **Next lesson to write on NEXT: 0140** (A0/Pre-A1 — check the master
+  workbook row 141 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -148,13 +150,15 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Winifred, Cedric, Geraldine, Ambrose, Henrietta, Percival, Millicent,
   Reginald, Beatrice, Cornelius, Prudence, Aloysius, Fenella, Barnaby,
   Octavia, Humphrey, Rosamund, Bartholomew, Theodora, Bertram, Felicity,
-  Montgomery, Araminta, Cuthbert, Philippa, Ignatius, Seraphina, Leopold.
-  Pick a fresh name for Lesson 0130's secondary character and note the
-  substitution here when it's written. **Lesson learned for future
-  "misunderstanding or problem" lessons:** this scenario pattern
-  (spanned 0097-0108) is prone to short-acknowledgement collision risk —
-  vary "thank you" / "found it" / "good idea" / "that makes much more
-  sense now" style closing lines deliberately from the first draft.
+  Montgomery, Araminta, Cuthbert, Philippa, Ignatius, Seraphina, Leopold,
+  Wilhelmina, Cordelia, Ezekiel, Perpetua, Anselm, Hyacinth, Evangeline,
+  Torvald, Clementine, Osbert. Pick a fresh name for Lesson 0140's
+  secondary character and note the substitution here when it's written.
+  **Lesson learned for future "misunderstanding or problem" lessons:**
+  this scenario pattern (spanned 0097-0108) is prone to
+  short-acknowledgement collision risk — vary "thank you" / "found it" /
+  "good idea" / "that makes much more sense now" style closing lines
+  deliberately from the first draft.
   **Lesson learned for future single-premise lessons (like "your name",
   "your phone number", etc.):** when every scene's payoff line is
   structurally identical (e.g. "give your name" or "give a phone
@@ -163,17 +167,22 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   lines from the first draft rather than reusing the same 1-2 literal
   values with only the surrounding phrasing varied.
   **Lesson learned for the new "asking and answering very simple
-  questions about X" pattern (started 0109, continued through 0129):**
+  questions about X" pattern (started 0109, continued through 0139):**
   when a lesson revisits an EARLY topic already covered by Lessons
   0002-0031, short generic reply lines ("thank you, I see it now.",
   "that is very convenient, thank you.", "good to know, thank you for
-  clarifying.", "thank you, I will head there now.") collide heavily
-  with those much earlier lessons — write reply lines that echo back a
-  specific detail from the answer (e.g. "Room B, thank you, I will find
-  it." instead of "Thank you, I will head there now.") to keep them
-  naturally unique from the first draft. This pattern is now confirmed
-  to run at least through Lesson 0129 and likely continues into the next
-  block — keep applying this rule proactively.
+  clarifying.", "thank you, I will head there now.", "that is very kind
+  of you.", "one less thing to worry about.") collide heavily with those
+  much earlier lessons AND with each other across same-pattern lessons
+  in the same block (e.g. two "give a name/number" lessons sharing
+  generic "Thank you, X" confirmations) — write reply lines that echo
+  back a specific detail from the answer (e.g. "Room B, thank you, I
+  will find it." instead of "Thank you, I will head there now.") to keep
+  them naturally unique from the first draft. This pattern is now
+  confirmed to run at least through Lesson 0139 and likely continues
+  into the next block — keep applying this rule proactively, especially
+  when two lessons in the same block share a very similar "collect a
+  detail" structure (e.g. spelling a name and giving a phone number).
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -669,6 +678,54 @@ Lessons 0002-0031 for every lesson that revisits an early topic — the
 Delivery #14) needs to be applied proactively from the very first draft
 of each such lesson, not just after the whole-book check flags
 collisions, to avoid repeated rounds of fixes.
+
+## Per-lesson QC record — DELIVERY #16 (CLOSED)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0127 | Personal Identity | how to spell your name | Mr Ignatius | 1152 | 108 | 0 |
+| 0128 | Social Basics | responding to a greeting | Ms Seraphina | 1381 | 108 | 0 |
+| 0129 | Numbers and Time | a phone number | Mr Leopold | 1233 | 108 | 0 |
+| 0130 | Home | a common household object | Ms Cordelia | 1080 | 108 | 0 |
+| 0131 | Family | a family member's name | Mr Wilfred | 1005 | 108 | 0 |
+| 0132 | Food | choosing a drink | Ms Perpetua | 1190 | 108 | 0 |
+| 0133 | Shopping | routine everyday need — shopping & payments | Mr Ezekiel | 1168 | 108 | 0 |
+| 0134 | Clothing | routine everyday need — clothing & personal items | Ms Evangeline | 1164 | 108 | 0 |
+| 0135 | Neighbourhood | routine everyday need — neighbourhood & directions | Mr Anselm | 1284 | 108 | 0 |
+
+Total English learning words, Delivery #16: **10,657**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #16 is closed here. Do not add Lessons 0136-0139 to this
+table; they open Delivery #17 (documented individually in the Status
+section above).
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery16.py`'s `WHOLE_BOOK` list — 27 first-pass collisions on
+the final whole-book check for Lessons 0127-0135, mostly generic
+"thank you, X" / spelling-confirmation reply lines colliding with much
+earlier lessons, plus (newly observed) several of Lesson 0129's
+"collect one piece of information" reply lines colliding with Lesson
+0127's similarly generic reply lines from the SAME block — all fixed
+by rewording the later-appearing line to echo a specific detail from
+its own answer. A second whole-book pass after fixes found 0 remaining
+collisions. Result: **0 duplicates across the whole book, 0001-0135.**
+Lessons 0127 and 0129 also required full internal rewrites before the
+cross-lesson check: 0127 was short at 105 turns with 3 spelling-answer
+lines each repeated up to 5 times, fixed by adding a 36th scene and
+rewriting all spelling-answer lines with unique phrasing; 0129 was the
+most severe internal-duplication case seen so far — only 2 literal
+phone numbers reused across all 36 scenes with ~6-7 templates repeated
+up to 6 times each — fixed via a complete rewrite generating 36
+distinct fictional phone numbers, each spelled out digit-by-digit.
+**Lesson learned:** the "asking and answering very simple questions
+about X" pattern's collision risk is not limited to old lessons —
+within a single block, two lessons that share a similar "collect one
+piece of information" structure (e.g. spelling a name, giving a phone
+number) can also collide with EACH OTHER on their generic confirmation
+closers. When drafting such lessons, check the other lessons already
+planned for the same block for structural similarity and pre-vary the
+closer phrasing accordingly, in addition to the existing "echo a
+specific detail" rule.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132

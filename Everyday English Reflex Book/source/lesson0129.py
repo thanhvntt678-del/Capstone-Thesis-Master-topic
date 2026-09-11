@@ -37,8 +37,8 @@ LESSON_0129 = {
     'turns': [
         # 1 clinic front desk
         ("Ms Lan", "Could I get a good contact number for you?", "Cho tôi xin số điện thoại liên hệ của anh được không?"),
-        ("Mr Leopold", "Sure, it is zero nine one two three four five six seven.", "Được chứ, là không chín một hai ba bốn năm sáu bảy."),
-        ("Ms Lan", "Thank you, I have written it down.", "Cảm ơn anh, tôi ghi lại rồi."),
+        ("Mr Leopold", "Of course, my number is zero nine one two three four five six seven.", "Được chứ, số của tôi là không chín một hai ba bốn năm sáu bảy."),
+        ("Ms Lan", "Got it, jotting that number down now.", "Được rồi, tôi ghi số đó ngay."),
         # 2 delivery booking
         ("Mr Leopold", "What number should the delivery driver call if needed?", "Người giao hàng nên gọi số nào nếu cần vậy?"),
         ("Ms Lan", "He can reach me at zero nine two three four five six seven eight.", "Anh ấy liên hệ tôi qua số không chín hai ba bốn năm sáu bảy tám."),
@@ -46,7 +46,7 @@ LESSON_0129 = {
         # 3 taxi app
         ("Ms Lan", "What number is linked to your taxi app account?", "Số nào liên kết với tài khoản ứng dụng taxi của anh vậy?"),
         ("Mr Leopold", "It is zero nine three four five six seven eight nine.", "Là không chín ba bốn năm sáu bảy tám chín."),
-        ("Ms Lan", "Thank you, that matches our system.", "Cảm ơn anh, khớp với hệ thống rồi."),
+        ("Ms Lan", "Still the same number, good, all matches up.", "Vẫn cùng một số, tốt, khớp hết rồi."),
         # 4 parent's contact form
         ("Mr Leopold", "What number should the school use to reach you in an emergency?", "Trường nên dùng số nào để liên hệ chị lúc khẩn cấp vậy?"),
         ("Ms Lan", "Please use zero nine four five six seven eight nine zero.", "Vui lòng dùng không chín bốn năm sáu bảy tám chín không."),
@@ -62,7 +62,7 @@ LESSON_0129 = {
         # 7 restaurant reservation
         ("Ms Lan", "Could I get a number in case we need to change the reservation?", "Cho tôi xin số phòng khi cần đổi đặt bàn được không?"),
         ("Mr Leopold", "Of course, it is zero nine seven eight nine zero one two three.", "Được chứ, là không chín bảy tám chín không một hai ba."),
-        ("Ms Lan", "Thank you, your table is confirmed.", "Cảm ơn anh, bàn của anh đã xác nhận."),
+        ("Ms Lan", "That number is logged, table confirmed now.", "Số đó đã ghi lại rồi, bàn xác nhận xong."),
         # 8 repair shop ticket
         ("Mr Leopold", "What number should we call once the repair is finished?", "Nên gọi số nào khi sửa xong vậy?"),
         ("Ms Lan", "Call zero nine eight nine zero one two three four, please.", "Vui lòng gọi không chín tám chín không một hai ba bốn."),
@@ -94,7 +94,7 @@ LESSON_0129 = {
         # 15 community class sign-up
         ("Ms Lan", "What number should I write on the class sign-up sheet?", "Tôi nên viết số nào vào tờ đăng ký lớp học vậy?"),
         ("Mr Leopold", "Write zero eight six seven eight nine zero one two, please.", "Vui lòng viết không tám sáu bảy tám chín không một hai."),
-        ("Ms Lan", "Thank you, added to the roster now.", "Cảm ơn anh, đã thêm vào danh sách rồi."),
+        ("Ms Lan", "Perfect, that number is now on the roster.", "Hoàn hảo, số đó đã có trong danh sách rồi."),
         # 16 pharmacy account
         ("Mr Leopold", "What number should be linked to your pharmacy account?", "Nên liên kết số nào với tài khoản nhà thuốc của chị vậy?"),
         ("Ms Lan", "Link zero eight seven eight nine zero one two three, please.", "Vui lòng liên kết không tám bảy tám chín không một hai ba."),
@@ -102,7 +102,7 @@ LESSON_0129 = {
         # 17 utility company setup
         ("Ms Lan", "What number should we register for this utility account?", "Nên đăng ký số nào cho tài khoản tiện ích này vậy?"),
         ("Mr Leopold", "Register zero eight eight nine zero one two three four, please.", "Vui lòng đăng ký không tám tám chín không một hai ba bốn."),
-        ("Ms Lan", "Thank you, account created successfully.", "Cảm ơn anh, tài khoản đã được tạo thành công."),
+        ("Ms Lan", "Great, the account is now set up with that number.", "Tốt, tài khoản đã tạo xong với số đó."),
         # 18 pet clinic file
         ("Mr Leopold", "What owner's number should go on this pet's file?", "Nên ghi số của chủ nào vào hồ sơ thú cưng này vậy?"),
         ("Ms Lan", "Put zero eight nine zero one two three four five, please.", "Vui lòng ghi không tám chín không một hai ba bốn năm."),
@@ -114,11 +114,11 @@ LESSON_0129 = {
         # 20 charity donation receipt
         ("Mr Leopold", "What number should go on your donation receipt?", "Nên ghi số nào vào biên nhận quyên góp của chị vậy?"),
         ("Ms Lan", "Please use zero seven two three four five six seven eight.", "Vui lòng dùng không bảy hai ba bốn năm sáu bảy tám."),
-        ("Mr Leopold", "Thank you, here is your receipt.", "Cảm ơn chị, đây là biên nhận của chị."),
+        ("Mr Leopold", "Perfect, here is your receipt with that number.", "Hoàn hảo, đây là biên nhận có số đó."),
         # 21 co-working space registration
         ("Ms Lan", "What number should we use for your co-working space account?", "Nên dùng số nào cho tài khoản không gian làm việc chung của anh vậy?"),
         ("Mr Leopold", "Use zero seven three four five six seven eight nine, please.", "Vui lòng dùng không bảy ba bốn năm sáu bảy tám chín."),
-        ("Ms Lan", "Thank you, your desk is ready.", "Cảm ơn anh, bàn làm việc của anh đã sẵn sàng."),
+        ("Ms Lan", "Noted, the desk booking is linked to that number.", "Ghi nhận rồi, đặt bàn liên kết với số đó."),
         # 22 car repair booking
         ("Mr Leopold", "What number should the garage call once your car is ready?", "Xưởng sửa xe nên gọi số nào khi xe chị xong vậy?"),
         ("Ms Lan", "Call zero seven four five six seven eight nine zero, please.", "Vui lòng gọi không bảy bốn năm sáu bảy tám chín không."),
@@ -126,11 +126,11 @@ LESSON_0129 = {
         # 23 library membership
         ("Ms Lan", "What number should I put on this library membership form?", "Tôi nên ghi số nào vào mẫu đơn thành viên thư viện này vậy?"),
         ("Mr Leopold", "Put zero seven five six seven eight nine zero one, please.", "Vui lòng ghi không bảy năm sáu bảy tám chín không một."),
-        ("Ms Lan", "Thank you, your card will be ready soon.", "Cảm ơn anh, thẻ sẽ sẵn sàng sớm."),
+        ("Ms Lan", "Got it, your library card will use that number.", "Được rồi, thẻ thư viện của anh sẽ dùng số đó."),
         # 24 fitness class waiver
         ("Mr Leopold", "What emergency number should be on this fitness waiver?", "Nên ghi số khẩn cấp nào vào mẫu miễn trừ lớp thể dục này vậy?"),
         ("Ms Lan", "Put zero seven six seven eight nine zero one two, please.", "Vui lòng ghi không bảy sáu bảy tám chín không một hai."),
-        ("Mr Leopold", "Thank you, signed and filed correctly.", "Cảm ơn chị, đã ký và lưu đúng."),
+        ("Mr Leopold", "Good, the waiver is filed under that number now.", "Tốt, mẫu miễn trừ đã lưu dưới số đó rồi."),
         # 25 moving company quote
         ("Ms Lan", "What number should the moving company call with a quote?", "Công ty chuyển nhà nên gọi số nào để báo giá vậy?"),
         ("Mr Leopold", "Call zero seven seven eight nine zero one two three, please.", "Vui lòng gọi không bảy bảy tám chín không một hai ba."),
@@ -142,7 +142,7 @@ LESSON_0129 = {
         # 27 tailor's order slip
         ("Ms Lan", "What number should we write on your order slip?", "Nên viết số nào vào phiếu đặt hàng của anh vậy?"),
         ("Mr Leopold", "Write zero seven nine zero one two three four five, please.", "Vui lòng viết không bảy chín không một hai ba bốn năm."),
-        ("Ms Lan", "Thank you, your suit will be ready next week.", "Cảm ơn anh, bộ đồ sẽ xong tuần sau."),
+        ("Ms Lan", "Great, that number is on the order slip now.", "Tốt, số đó đã ghi vào phiếu đặt hàng rồi."),
         # 28 dentist appointment
         ("Mr Leopold", "What number should we use to remind you of your appointment?", "Nên dùng số nào để nhắc chị về cuộc hẹn vậy?"),
         ("Ms Lan", "Use zero six one two three four five six seven, please.", "Vui lòng dùng không sáu một hai ba bốn năm sáu bảy."),
@@ -150,7 +150,7 @@ LESSON_0129 = {
         # 29 volunteer sign-up sheet
         ("Ms Lan", "What number should go on the volunteer sign-up sheet?", "Nên ghi số nào vào tờ đăng ký tình nguyện viên vậy?"),
         ("Mr Leopold", "Put zero six two three four five six seven eight, please.", "Vui lòng ghi không sáu hai ba bốn năm sáu bảy tám."),
-        ("Ms Lan", "Thank you, welcome to the volunteer team.", "Cảm ơn anh, chào mừng anh vào đội tình nguyện."),
+        ("Ms Lan", "Perfect, that number is on the sheet, welcome aboard.", "Hoàn hảo, số đó đã ghi vào tờ đăng ký, chào mừng anh."),
         # 30 parcel delivery form
         ("Mr Leopold", "What number should the courier call before delivering this?", "Nhân viên chuyển phát nên gọi số nào trước khi giao vậy?"),
         ("Ms Lan", "Call zero six three four five six seven eight nine, please.", "Vui lòng gọi không sáu ba bốn năm sáu bảy tám chín."),
@@ -158,7 +158,7 @@ LESSON_0129 = {
         # 31 subscription account
         ("Ms Lan", "What number should be linked to this subscription account?", "Nên liên kết số nào với tài khoản đăng ký gói dịch vụ này vậy?"),
         ("Mr Leopold", "Link zero six four five six seven eight nine zero, please.", "Vui lòng liên kết không sáu bốn năm sáu bảy tám chín không."),
-        ("Ms Lan", "Thank you, your subscription is set up.", "Cảm ơn anh, đăng ký của anh đã xong."),
+        ("Ms Lan", "Great, the subscription is now tied to that number.", "Tốt, gói đăng ký giờ đã gắn với số đó."),
         # 32 insurance policy form
         ("Mr Leopold", "What number should go on your insurance policy form?", "Nên ghi số nào vào mẫu đơn hợp đồng bảo hiểm của chị vậy?"),
         ("Ms Lan", "Put zero six five six seven eight nine zero one, please.", "Vui lòng ghi không sáu năm sáu bảy tám chín không một."),

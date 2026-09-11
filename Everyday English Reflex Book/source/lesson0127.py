@@ -67,7 +67,7 @@ LESSON_0127 = {
         ("Ms Lan", "Thank you, your card will be ready soon.", "Cảm ơn anh, thẻ sẽ sẵn sàng sớm thôi."),
         # 8 parcel counter
         ("Mr Ignatius", "May I have the spelling of your name for this parcel?", "Cho tôi xin cách đánh vần tên chị cho bưu kiện này?"),
-        ("Ms Lan", "Yes, it is L-A-N.", "Vâng, là L-A-N."),
+        ("Ms Lan", "Yes, it comes to L-A-N.", "Vâng, là L-A-N đấy."),
         ("Mr Ignatius", "Thank you, found your parcel now.", "Cảm ơn chị, tìm thấy bưu kiện của chị rồi."),
         # 9 taxi booking app
         ("Ms Lan", "How should I spell your name for this taxi booking?", "Tôi nên đánh vần tên anh cho đơn đặt taxi này thế nào?"),
@@ -84,7 +84,7 @@ LESSON_0127 = {
         # 12 lost-property report
         ("Mr Ignatius", "Could you spell your name for this lost-property report?", "Chị đánh vần tên cho báo cáo đồ thất lạc này được không?"),
         ("Ms Lan", "It remains L-A-N, unchanged.", "Vẫn là L-A-N, không đổi."),
-        ("Mr Ignatius", "Thank you, we will contact you if it turns up.", "Cảm ơn chị, chúng tôi sẽ liên hệ nếu tìm thấy."),
+        ("Mr Ignatius", "Noted, we will be in touch if it surfaces.", "Ghi nhận rồi, chúng tôi sẽ liên hệ nếu tìm thấy."),
         # 13 job application form
         ("Ms Lan", "How is your full name spelled for this job application?", "Họ tên đầy đủ của anh đánh vần thế nào cho đơn xin việc này?"),
         ("Mr Ignatius", "It is I-G-N-A-T-I-U-S, all capital letters.", "Là I-G-N-A-T-I-U-S, toàn chữ in hoa."),
@@ -160,7 +160,7 @@ LESSON_0127 = {
         # 31 call-centre verification
         ("Ms Lan", "For verification, how is your name spelled on file?", "Để xác minh, tên anh đánh vần thế nào trong hồ sơ?"),
         ("Mr Ignatius", "It is on file as I-G-N-A-T-I-U-S.", "Trong hồ sơ ghi là I-G-N-A-T-I-U-S."),
-        ("Ms Lan", "Thank you, that matches our records.", "Cảm ơn anh, khớp với hồ sơ chúng tôi."),
+        ("Ms Lan", "Good, that is exactly what our file shows.", "Tốt, đúng như hồ sơ chúng tôi ghi."),
         # 32 school parent portal signup
         ("Mr Ignatius", "Could you spell your name for the parent portal signup?", "Chị đánh vần tên cho đăng ký cổng thông tin phụ huynh được không?"),
         ("Ms Lan", "It is L-A-N, correct as always.", "Là L-A-N, vẫn đúng như mọi khi."),
