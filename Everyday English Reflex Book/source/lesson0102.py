@@ -186,7 +186,31 @@ LESSON_0102 = {
         ("Ms Lan", "This elevator looks too full for both of us to board.", "Thang máy này trông đông quá, cả hai mình không lên được."),
         ("Ms Winifred", "Let us wait for the next one to come down.", "Mình chờ chuyến sau đi xuống đi."),
         ("Ms Lan", "No rush, we have plenty of time anyway.", "Không vội đâu, dù sao mình cũng còn nhiều thời gian."),
-        # 36 explaining why checking directions calmly matters
+        # 36 a curb being higher than expected
+        ("Ms Lan", "That curb was much higher than I expected, I almost twisted my ankle.", "Cái bó vỉa đó cao hơn tôi tưởng, tôi suýt trẹo chân."),
+        ("Ms Winifred", "Watch your step here, this street has a lot of high curbs.", "Cẩn thận bước ở đây, phố này có nhiều bó vỉa cao lắm."),
+        ("Ms Lan", "Thanks for the warning, I will be more careful now.", "Cảm ơn chị đã nhắc, giờ tôi sẽ cẩn thận hơn."),
+        # 37 confusion about right of way at a roundabout
+        ("Ms Winifred", "I am not sure who has the right of way at this roundabout.", "Tôi không chắc ai được đi trước ở vòng xoay này."),
+        ("Ms Lan", "Let us wait for a clear gap and cross together.", "Mình chờ lúc vắng xe rồi cùng qua đi."),
+        ("Ms Winifred", "Good idea, safer than guessing at a spot like this.", "Ý hay, an toàn hơn là đoán bừa ở chỗ này."),
+        # 38 a broken streetlamp making a night walk feel unsafe
+        ("Ms Lan", "This streetlamp is broken, it feels a bit unsafe walking here at night.", "Đèn đường này bị hỏng, đi ban đêm ở đây thấy hơi bất an."),
+        ("Ms Winifred", "Let us stay close together and use my phone light.", "Mình đi sát nhau và dùng đèn điện thoại tôi đi."),
+        ("Ms Lan", "Good idea, that makes me feel safer already.", "Ý hay, vậy tôi thấy yên tâm hơn rồi."),
+        # 39 two similarly named cafes causing meeting confusion
+        ("Ms Winifred", "There are two cafes with almost the same name, I am not sure which one we agreed on.", "Có hai quán cà phê tên gần giống nhau, tôi không chắc mình hẹn quán nào."),
+        ("Ms Lan", "Let me message and ask which street it is on.", "Để tôi nhắn hỏi xem nó ở phố nào."),
+        ("Ms Winifred", "Good idea, that should clear up the confusion.", "Ý hay, vậy sẽ hết nhầm lẫn."),
+        # 40 losing count of how many blocks were walked
+        ("Ms Lan", "I have lost count of how many blocks we have actually walked.", "Tôi mất đếm rồi, không biết mình đã đi được mấy dãy nhà."),
+        ("Ms Winifred", "Let us check the map, it should show our progress.", "Mình xem bản đồ đi, nó sẽ cho biết mình đi tới đâu rồi."),
+        ("Ms Lan", "Ah, we are closer than I thought, good.", "À, hóa ra mình gần tới rồi, tốt quá."),
+        # 41 a slippery patch of pavement after rain
+        ("Ms Winifred", "Careful, this patch of pavement is still slippery from the rain.", "Cẩn thận, đoạn vỉa hè này vẫn còn trơn vì mưa."),
+        ("Ms Lan", "Thanks for the heads-up, let us walk around it.", "Cảm ơn chị đã báo, mình đi vòng qua đi."),
+        ("Ms Winifred", "Good idea, better not to risk slipping here.", "Ý hay, đừng liều bị trượt ngã ở đây."),
+        # 42 explaining why checking directions calmly matters
         ("Ms Winifred", "Why does checking directions calmly matter so much to you?", "Vì sao việc bình tĩnh kiểm tra lại đường đi lại quan trọng với chị vậy?"),
         ("Ms Lan", "Rushing usually just makes us more lost in the end.", "Vội vàng thường chỉ khiến mình lạc đường hơn thôi."),
         ("Ms Winifred", "That is a fair point, I will stay calmer next time.", "Nói vậy cũng đúng, lần sau tôi sẽ bình tĩnh hơn."),

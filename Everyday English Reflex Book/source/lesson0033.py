@@ -184,7 +184,35 @@ LESSON_0033 = {
         ("Ms Lan", "Would you like to stay after class for extra help?", "Anh có muốn ở lại sau giờ học để được giúp thêm không?"),
         ("Mr Adam", "Yes, that would really benefit me.", "Có chứ, vậy sẽ có lợi cho tôi nhiều."),
         ("Ms Lan", "Great, let us ask the teacher together.", "Tuyệt, mình cùng hỏi giáo viên nhé."),
-        # 38 closing - why steady effort matters
+        # 38 asking to repeat something the teacher said
+        ("Ms Lan", "Could you tell me what the teacher just said?", "Anh cho tôi biết cô giáo vừa nói gì được không?"),
+        ("Mr Adam", "She said the exam covers only the first three units.", "Cô ấy nói bài thi chỉ nằm trong ba bài đầu."),
+        ("Ms Lan", "Oh good, thank you for repeating that.", "Ồ tốt quá, cảm ơn anh đã nhắc lại."),
+        # 39 wifi problem during online class
+        ("Mr Adam", "My wifi keeps dropping during this online class.", "Wifi của tôi cứ bị rớt trong buổi học trực tuyến này."),
+        ("Ms Lan", "Try switching to your phone's hotspot instead.", "Anh thử chuyển sang phát wifi từ điện thoại xem."),
+        ("Mr Adam", "Good idea, let me try that now.", "Ý hay đấy, để tôi thử ngay."),
+        # 40 a short break during a long class
+        ("Ms Lan", "Could we ask for a short break? This class is long.", "Mình xin nghỉ giải lao chút được không? Buổi học này dài quá."),
+        ("Mr Adam", "Good idea, I will ask the teacher now.", "Ý hay đấy, tôi hỏi cô giáo ngay."),
+        ("Ms Lan", "Thanks, five minutes should help us focus again.", "Cảm ơn anh, nghỉ năm phút chắc giúp mình tập trung lại."),
+        # 41 asking about the course fee deadline
+        ("Mr Adam", "When is the deadline to pay the course fee?", "Hạn đóng học phí là khi nào vậy?"),
+        ("Ms Lan", "It is due by the end of this month.", "Hạn cuối là cuối tháng này."),
+        ("Mr Adam", "Thanks, I will transfer it this weekend.", "Cảm ơn chị, cuối tuần này tôi chuyển khoản."),
+        # 42 keeping a vocabulary notebook
+        ("Ms Lan", "Do you keep a notebook for new vocabulary?", "Anh có giữ một cuốn sổ ghi từ vựng mới không?"),
+        ("Mr Adam", "Yes, I write down five new words every class.", "Có chứ, mỗi buổi học tôi ghi năm từ mới."),
+        ("Ms Lan", "That is a great habit, I should start one too.", "Thói quen hay đấy, tôi cũng nên bắt đầu làm vậy."),
+        # 43 checking exam results posted online
+        ("Mr Adam", "Have the exam results been posted online yet?", "Kết quả thi đã đăng trên mạng chưa?"),
+        ("Ms Lan", "Not yet, the teacher said by Thursday.", "Chưa, giáo viên nói khoảng thứ năm."),
+        ("Mr Adam", "Alright, I will check again then.", "Được, vậy lúc đó tôi kiểm tra lại."),
+        # 44 arriving early to save a seat
+        ("Ms Lan", "I arrived early today to save us good seats.", "Hôm nay tôi đến sớm để giữ chỗ ngồi tốt cho mình."),
+        ("Mr Adam", "Thank you, the front row is much easier to hear.", "Cảm ơn chị, hàng đầu nghe rõ hơn nhiều."),
+        ("Ms Lan", "Exactly, I try to do this every week.", "Đúng vậy, tuần nào tôi cũng cố làm thế."),
+        # 45 closing - why steady effort matters
         ("Mr Adam", "I have noticed steady practice really improves my English.", "Tôi nhận thấy luyện tập đều đặn thật sự giúp tiếng Anh của tôi tiến bộ."),
         ("Ms Lan", "It does, small daily effort adds up over time.", "Đúng vậy, cố gắng nhỏ mỗi ngày cộng lại theo thời gian."),
         ("Mr Adam", "That is exactly why I keep showing up to class.", "Chính vì vậy mà tôi luôn cố gắng đến lớp đều đặn."),

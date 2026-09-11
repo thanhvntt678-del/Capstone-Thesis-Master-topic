@@ -200,6 +200,22 @@ LESSON_0140 = {
         ("Ms Lan", "Does the usual Sunday meal planning need starting today?", "Việc lên thực đơn Chủ Nhật quen hôm nay có cần bắt đầu không vậy?"),
         ("Ms Eulalia", "Yes, let us sketch out the week's meals now.", "Có, mình phác thảo bữa ăn cả tuần ngay đi."),
         ("Ms Lan", "Great, I will grab a pen and paper.", "Tốt, tôi lấy bút với giấy ngay."),
+        # 36 if the cat's food bowl needs refilling tonight
+        ("Ms Lan", "Does the cat's food bowl need refilling before we go to bed?", "Bát thức ăn của mèo có cần đổ đầy trước khi mình đi ngủ không vậy?"),
+        ("Ms Eulalia", "Yes, it looks completely empty right now.", "Có, giờ nó trống trơn luôn rồi."),
+        ("Ms Lan", "I will pour some fresh food in now.", "Tôi đổ thức ăn mới vào ngay."),
+        # 37 if today's mail needs checking before dark
+        ("Ms Eulalia", "Does today's mail still need checking before it gets dark?", "Thư hôm nay có còn cần kiểm tra trước khi trời tối không vậy?"),
+        ("Ms Lan", "Yes, I have not opened the mailbox yet.", "Có, tôi vẫn chưa mở hộp thư."),
+        ("Ms Eulalia", "I will walk down and grab it now.", "Tôi đi xuống lấy ngay bây giờ."),
+        # 38 if the fridge door seal needs wiping down
+        ("Ms Lan", "Does the fridge door seal need wiping down this week?", "Gioăng cửa tủ lạnh tuần này có cần lau không vậy?"),
+        ("Ms Eulalia", "Yes, there is a sticky spot near the handle.", "Có, gần chỗ tay cầm dính một vệt bẩn."),
+        ("Ms Lan", "I will clean it with a damp cloth now.", "Tôi lau nó bằng khăn ẩm ngay đây."),
+        # 39 if the balcony plants need repotting this weekend
+        ("Ms Eulalia", "Do the balcony plants need repotting this weekend?", "Cây ngoài ban công cuối tuần này có cần sang chậu không vậy?"),
+        ("Ms Lan", "Yes, their roots are pushing out of the pots.", "Có, rễ cây đang đội cả chậu lên rồi."),
+        ("Ms Eulalia", "Good catch, let us buy bigger pots tomorrow.", "Phát hiện hay đấy, mai mình mua chậu to hơn."),
         # 36 closing on why routine daily-life needs matter
         ("Ms Eulalia", "Why does keeping up with these small routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our whole day running smoothly without last-minute stress.", "Nó giúp cả ngày của mình trôi chảy mà không phải vội vàng căng thẳng vào phút chót."),

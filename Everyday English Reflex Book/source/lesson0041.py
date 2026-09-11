@@ -192,7 +192,35 @@ LESSON_0041 = {
         ("Mr Martin", "Has your family grown a lot over the years?", "Gia đình chị có lớn nhiều theo năm tháng không?"),
         ("Ms Lan", "Yes, we started as three and now we are seven.", "Vâng, ban đầu chỉ ba người, giờ đã bảy người."),
         ("Mr Martin", "That is a beautiful family journey to watch.", "Đó là một hành trình gia đình đẹp để chứng kiến."),
-        # 38 closing - why knowing family size matters
+        # 38 counting family members for a health insurance form
+        ("Ms Lan", "This insurance form asks how many dependents I have.", "Mẫu đơn bảo hiểm này hỏi tôi có bao nhiêu người phụ thuộc."),
+        ("Mr Martin", "Just count your children and your spouse, so three.", "Chị cứ đếm con cái và vợ chồng, vậy là ba người."),
+        ("Ms Lan", "Thanks, that makes the form much easier.", "Cảm ơn anh, vậy điền đơn dễ hơn nhiều."),
+        # 39 a family member living abroad still counted
+        ("Mr Martin", "Does your brother in Japan still count as family here?", "Em trai chị ở Nhật có còn tính là gia đình ở đây không?"),
+        ("Ms Lan", "Of course, he is still one of the six of us.", "Tất nhiên rồi, cậu ấy vẫn là một trong sáu người nhà tôi."),
+        ("Mr Martin", "Distance never really changes a family count.", "Khoảng cách chẳng bao giờ thay đổi số người trong gia đình cả."),
+        # 40 counting family for a birthday cake size
+        ("Ms Lan", "How big a cake should we order for your family party?", "Mình nên đặt bánh sinh nhật cỡ nào cho tiệc gia đình anh vậy?"),
+        ("Mr Martin", "We are nine people, so a large cake should work.", "Nhà tôi chín người, nên một cái bánh lớn là vừa."),
+        ("Ms Lan", "Good, I will order a large one then.", "Tốt, vậy tôi đặt cái lớn nhé."),
+        # 41 counting family members needing airline seats
+        ("Mr Martin", "How many seats do we need to book for your family trip?", "Mình cần đặt bao nhiêu ghế cho chuyến bay của gia đình chị vậy?"),
+        ("Ms Lan", "Five seats, all of us are flying together.", "Năm ghế, cả nhà tôi bay cùng nhau."),
+        ("Mr Martin", "Got it, booking five seats together now.", "Rõ rồi, tôi đặt năm ghế liền kề ngay."),
+        # 42 a family with triplets
+        ("Ms Lan", "I heard your neighbour's family just had triplets!", "Tôi nghe nói gia đình hàng xóm anh vừa sinh ba!"),
+        ("Mr Martin", "Yes, they jumped from three to six overnight.", "Vâng, nhà họ tăng từ ba lên sáu người chỉ trong đêm."),
+        ("Ms Lan", "What an exciting change for their household.", "Một sự thay đổi thú vị cho gia đình họ quá."),
+        # 43 counting family for a group discount at a restaurant
+        ("Mr Martin", "Does the restaurant give a discount for our family size?", "Nhà hàng có giảm giá cho số người nhà mình không?"),
+        ("Ms Lan", "Yes, groups of eight or more get ten percent off.", "Có chứ, nhóm từ tám người trở lên được giảm mười phần trăm."),
+        ("Mr Martin", "Perfect, we are exactly eight tonight.", "Tuyệt, tối nay đúng tám người."),
+        # 44 a family now scattered across different cities
+        ("Ms Lan", "Do all six of your siblings still live in this city?", "Cả sáu anh chị em anh có còn sống ở thành phố này không?"),
+        ("Mr Martin", "No, only two are still here, the rest moved away.", "Không, chỉ còn hai người ở đây, còn lại chuyển đi cả rồi."),
+        ("Ms Lan", "It is nice that you all still stay close as a family.", "Thật hay khi cả nhà vẫn giữ gắn bó dù ở xa."),
+        # 45 closing - why knowing family size matters
         ("Ms Lan", "It is nice knowing exactly how big everyone's family is.", "Thật hay khi biết chính xác gia đình mọi người lớn cỡ nào."),
         ("Mr Martin", "It is, it helps us plan visits and gatherings better.", "Đúng vậy, nó giúp mình lên kế hoạch thăm hỏi và họp mặt tốt hơn."),
         ("Ms Lan", "That is exactly why I always ask when I meet someone new.", "Chính vì vậy mà tôi luôn hỏi khi gặp người mới."),

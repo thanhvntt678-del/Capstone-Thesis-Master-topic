@@ -193,5 +193,21 @@ LESSON_0021 = {
         ("Ms Lan", "It does, one wrong digit and the call goes nowhere.", "Đúng vậy, chỉ cần sai một chữ số là cuộc gọi không tới đâu cả."),
         ("Mr George", "That is exactly why I always read it back.", "Chính vì vậy mà tôi luôn đọc lại để kiểm tra."),
         ("Ms Lan", "A good habit, and it saves everyone time.", "Một thói quen tốt, và nó tiết kiệm thời gian cho mọi người."),
+        # 39 a fax number
+        ("Mr George", "Do we still need to give clients a fax number?", "Mình vẫn cần cho khách hàng số fax à?"),
+        ("Ms Lan", "Yes, a few older clients still ask for it.", "Vâng, vài khách hàng lớn tuổi vẫn hỏi số đó."),
+        ("Mr George", "Good to know, I will keep it listed.", "Biết vậy tốt quá, tôi sẽ giữ nó trong danh sách."),
+        # 40 a Wi-Fi router support number
+        ("Ms Lan", "George, do you have the support number for the Wi-Fi router?", "Anh George, anh có số hỗ trợ cho router Wi-Fi không?"),
+        ("Mr George", "Yes, it is printed on the bottom of the router.", "Có chứ, nó được in ở đáy router đấy."),
+        ("Ms Lan", "Thank you, I will call them now.", "Cảm ơn anh, tôi gọi ngay đây."),
+        # 41 an apartment intercom code
+        ("Mr George", "What is the intercom code to reach your apartment?", "Mã liên lạc để gọi vào căn hộ của chị là gì vậy?"),
+        ("Ms Lan", "Just dial zero four, then press the call button.", "Anh chỉ cần bấm không bốn, rồi nhấn nút gọi."),
+        ("Mr George", "Zero four, got it, thank you.", "Không bốn, rõ rồi, cảm ơn chị."),
+        # 42 confirming a number in a video call chat box
+        ("Ms Lan", "George, could you type your number in the chat box instead?", "Anh George, anh gõ số điện thoại vào khung chat được không?"),
+        ("Mr George", "Sure, typing it now so it is clear.", "Được chứ, tôi gõ ngay để rõ ràng hơn."),
+        ("Ms Lan", "Perfect, I can see it clearly now.", "Tuyệt, giờ tôi thấy rõ rồi."),
     ],
 }

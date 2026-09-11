@@ -191,7 +191,35 @@ LESSON_0037 = {
         ("Mr Jason", "Do you plan to move back to your hometown eventually?", "Anh có định cuối cùng sẽ chuyển về quê không?"),
         ("Ms Lan", "Maybe someday, but not in the near future.", "Có thể một ngày nào đó, nhưng không phải trong tương lai gần."),
         ("Mr Jason", "That sounds like a wise, flexible plan.", "Nghe như một kế hoạch khôn ngoan và linh hoạt."),
-        # 38 closing - why knowing where someone is from matters
+        # 38 asking about a favourite local sports team back home
+        ("Ms Lan", "Does your hometown have a favourite sports team?", "Quê anh có đội thể thao yêu thích nào không?"),
+        ("Mr Jason", "Yes, everyone supports the local baseball team.", "Có chứ, ai cũng ủng hộ đội bóng chày địa phương."),
+        ("Ms Lan", "That must bring the whole town together.", "Chắc điều đó gắn kết cả thị trấn lại với nhau."),
+        # 39 asking how family stays in touch
+        ("Mr Jason", "How do you stay in touch with family back home?", "Chị giữ liên lạc với gia đình ở quê thế nào?"),
+        ("Ms Lan", "We have a video call together every Sunday.", "Chúng tôi gọi video cùng nhau mỗi chủ nhật."),
+        ("Mr Jason", "That is a lovely way to stay close.", "Đó là một cách đáng yêu để giữ gần gũi."),
+        # 40 asking about a hometown's public holiday
+        ("Ms Lan", "Is there a special public holiday just for your hometown?", "Có ngày lễ đặc biệt nào chỉ dành riêng cho quê anh không?"),
+        ("Mr Jason", "Yes, the town celebrates its founding day every August.", "Có chứ, thị trấn tổ chức lễ kỷ niệm thành lập mỗi tháng tám."),
+        ("Ms Lan", "That sounds like a fun local tradition.", "Nghe như một truyền thống địa phương vui đấy."),
+        # 41 asking about the cost of living difference
+        ("Mr Jason", "Is life here more expensive than your hometown?", "Sống ở đây có đắt đỏ hơn quê chị không?"),
+        ("Ms Lan", "Yes, rent here is almost double what it was there.", "Vâng, tiền thuê nhà ở đây gần gấp đôi ở quê."),
+        ("Mr Jason", "That is quite a big difference to adjust to.", "Đó là một khác biệt lớn để làm quen đấy."),
+        # 42 showing a photo of a hometown scene
+        ("Ms Lan", "Here, this is a photo of my hometown's night market.", "Đây, đây là ảnh chợ đêm ở quê tôi."),
+        ("Mr Jason", "Wow, it looks so lively and full of colour.", "Ồ, trông sôi động và nhiều màu sắc quá."),
+        ("Ms Lan", "It really is, I miss walking through it.", "Đúng vậy, tôi nhớ được đi dạo ở đó lắm."),
+        # 43 asking about siblings still living in the hometown
+        ("Mr Jason", "Do any of your siblings still live in Da Nang?", "Anh chị em của chị có ai còn sống ở Đà Nẵng không?"),
+        ("Ms Lan", "Yes, my younger brother still lives there with our parents.", "Có chứ, em trai tôi vẫn sống ở đó cùng bố mẹ."),
+        ("Mr Jason", "That must be comforting for your parents.", "Chắc điều đó khiến bố mẹ chị yên tâm hơn."),
+        # 44 asking to learn a hometown greeting
+        ("Ms Lan", "Could you teach me how locals greet each other there?", "Anh dạy tôi cách người dân ở đó chào nhau được không?"),
+        ("Mr Jason", "Sure, it is just a simple friendly nod and a smile.", "Được chứ, chỉ là gật đầu thân thiện và một nụ cười thôi."),
+        ("Ms Lan", "That sounds warm and easy to remember.", "Nghe ấm áp và dễ nhớ đấy."),
+        # 45 closing - why knowing where someone is from matters
         ("Ms Lan", "It is nice getting to know where people come from.", "Thật hay khi được biết mọi người đến từ đâu."),
         ("Mr Jason", "It really is, it helps us understand each other better.", "Đúng vậy, nó giúp mình hiểu nhau hơn."),
         ("Ms Lan", "That is exactly why I always enjoy asking about it.", "Chính vì vậy mà tôi luôn thích hỏi về điều đó."),

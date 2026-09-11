@@ -197,7 +197,35 @@ LESSON_0053 = {
         ("Ms Lan", "Could you confirm how many calls are on today's schedule?", "Anh xác nhận giúp hôm nay lịch có bao nhiêu cuộc gọi không?"),
         ("Mr Roger", "Yes, just two calls left this afternoon.", "Vâng, chiều nay chỉ còn hai cuộc gọi."),
         ("Ms Lan", "Good, that is a manageable afternoon then.", "Tốt, vậy buổi chiều vẫn ổn."),
-        # 38 closing - why confirming these details matters
+        # 38 confirming hold music did not cut the call off
+        ("Ms Lan", "Could you confirm the hold music did not cut the caller off?", "Anh xác nhận giúp nhạc chờ không làm rớt cuộc gọi của khách chứ?"),
+        ("Mr Roger", "Yes, he stayed connected the whole time.", "Vâng, anh ấy vẫn kết nối suốt."),
+        ("Ms Lan", "Good, I was worried about that.", "Tốt, tôi cứ lo về việc đó."),
+        # 39 checking a caller's preferred callback window
+        ("Mr Roger", "Could you check what time the caller prefers a callback?", "Chị kiểm tra giúp người gọi thích được gọi lại vào lúc nào không?"),
+        ("Ms Lan", "Yes, he asked for after three this afternoon.", "Có chứ, anh ấy nói muốn sau ba giờ chiều nay."),
+        ("Mr Roger", "Good, I will call him then exactly.", "Tốt, tôi sẽ gọi đúng giờ đó."),
+        # 40 confirming a number was ported correctly
+        ("Ms Lan", "Could you confirm my old number was ported to this phone?", "Anh xác nhận giúp số cũ của tôi đã chuyển sang điện thoại này chưa không?"),
+        ("Mr Roger", "Yes, it is fully active on this device now.", "Vâng, giờ đã hoạt động đầy đủ trên máy này."),
+        ("Ms Lan", "Great, I can start using it right away.", "Tuyệt, vậy tôi dùng được ngay."),
+        # 41 checking whether call forwarding is active
+        ("Mr Roger", "Could you check if call forwarding is still active?", "Chị kiểm tra giúp chuyển hướng cuộc gọi có còn bật không?"),
+        ("Ms Lan", "Yes, it is still forwarding to your mobile.", "Có chứ, vẫn đang chuyển sang điện thoại di động của anh."),
+        ("Mr Roger", "Good, I will turn it off after the trip.", "Tốt, sau chuyến đi tôi sẽ tắt."),
+        # 42 confirming a voicemail was transcribed correctly
+        ("Ms Lan", "Could you confirm this voicemail's text transcript is accurate?", "Anh xác nhận giúp bản chép chữ của tin nhắn thoại này có chính xác không?"),
+        ("Mr Roger", "Yes, it matches what he actually said.", "Vâng, khớp với những gì anh ấy nói."),
+        ("Ms Lan", "Good, I can just read it later then.", "Tốt, vậy lát nữa tôi chỉ cần đọc thôi."),
+        # 43 checking if a caller needs an interpreter
+        ("Mr Roger", "Could you check if this caller needs an interpreter?", "Chị kiểm tra giúp người gọi này có cần phiên dịch không?"),
+        ("Ms Lan", "Yes, he asked for someone who speaks Vietnamese.", "Có chứ, anh ấy hỏi ai nói được tiếng Việt."),
+        ("Mr Roger", "Good, I will transfer him to you then.", "Tốt, vậy tôi chuyển máy cho chị."),
+        # 44 confirming the accounting department's extension
+        ("Ms Lan", "Could you confirm the correct extension for accounting again?", "Anh xác nhận lại giúp số máy lẻ đúng của phòng kế toán không?"),
+        ("Mr Roger", "Yes, it changed to extension three zero five.", "Vâng, đã đổi thành máy lẻ ba không năm."),
+        ("Ms Lan", "Thanks, I will update my contact list.", "Cảm ơn anh, tôi sẽ cập nhật danh bạ."),
+        # 45 closing - why confirming these details matters
         ("Mr Roger", "Confirming these small call details really avoids misunderstandings.", "Xác nhận những chi tiết nhỏ của cuộc gọi này thật sự tránh được hiểu nhầm."),
         ("Ms Lan", "It does, it makes every call feel more professional.", "Đúng vậy, giúp mỗi cuộc gọi chuyên nghiệp hơn."),
         ("Mr Roger", "That is exactly why I always double-check before dialling.", "Chính vì vậy mà tôi luôn kiểm tra lại trước khi quay số."),

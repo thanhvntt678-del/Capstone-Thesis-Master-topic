@@ -184,7 +184,35 @@ LESSON_0034 = {
         ("Ms Lan", "Thank you for helping me with the report earlier.", "Cảm ơn chị đã giúp tôi với báo cáo lúc nãy."),
         ("Ms Wendy", "It was no trouble at all, happy to help.", "Không có gì đâu, tôi vui vì giúp được."),
         ("Ms Lan", "It really made a difference for me today.", "Việc đó thật sự có ý nghĩa với tôi hôm nay."),
-        # 38 closing - why smooth communication matters
+        # 38 muting a microphone in a video call
+        ("Ms Lan", "Could you mute your microphone? There is an echo.", "Chị tắt mic được không? Đang bị vọng âm."),
+        ("Ms Wendy", "Sorry about that, muting it now.", "Xin lỗi chị, tôi tắt ngay đây."),
+        ("Ms Lan", "Thanks, much clearer now.", "Cảm ơn chị, giờ rõ hơn nhiều rồi."),
+        # 39 a jammed photocopier
+        ("Ms Wendy", "The photocopier seems to be jammed again.", "Máy photocopy hình như lại bị kẹt giấy rồi."),
+        ("Ms Lan", "Let me open the tray and check for you.", "Để tôi mở khay ra xem giúp chị."),
+        ("Ms Wendy", "Thanks, hopefully it is a quick fix.", "Cảm ơn chị, mong là sửa nhanh được."),
+        # 40 the water cooler running low
+        ("Ms Lan", "The water cooler is almost empty again.", "Bình nước lại sắp hết rồi."),
+        ("Ms Wendy", "I will order a new bottle this afternoon.", "Chiều nay tôi đặt bình mới."),
+        ("Ms Lan", "Thanks, I was just about to refill my cup.", "Cảm ơn chị, tôi vừa định rót thêm nước."),
+        # 41 a lost ID badge
+        ("Ms Wendy", "I cannot find my ID badge anywhere this morning.", "Sáng nay tôi tìm mãi không thấy thẻ nhân viên."),
+        ("Ms Lan", "You can ask reception for a temporary one.", "Chị hỏi lễ tân xin thẻ tạm thời xem."),
+        ("Ms Wendy", "Good idea, I will go there now.", "Ý hay đấy, tôi ra đó ngay."),
+        # 42 requesting stationery supplies
+        ("Ms Lan", "We are almost out of paper in the storeroom.", "Kho giấy sắp hết rồi."),
+        ("Ms Wendy", "I will put in a request for more today.", "Hôm nay tôi sẽ gửi yêu cầu mua thêm."),
+        ("Ms Lan", "Thank you, that should arrive before we run out.", "Cảm ơn chị, chắc sẽ về kịp trước khi hết hẳn."),
+        # 43 an email sent with a typo
+        ("Ms Wendy", "I just noticed a typo in the email I sent the client.", "Tôi vừa phát hiện email gửi khách hàng bị lỗi chính tả."),
+        ("Ms Lan", "Send a quick follow-up to correct it.", "Chị gửi email đính chính nhanh đi."),
+        ("Ms Wendy", "Good idea, doing that right now.", "Ý hay đấy, tôi làm ngay đây."),
+        # 44 the office air conditioning too cold
+        ("Ms Lan", "The air conditioning feels really cold in here today.", "Hôm nay điều hòa trong này lạnh quá."),
+        ("Ms Wendy", "I will turn the temperature up a little.", "Tôi tăng nhiệt độ lên một chút nhé."),
+        ("Ms Lan", "Thank you, that should feel more comfortable now.", "Cảm ơn chị, vậy chắc dễ chịu hơn rồi."),
+        # 45 closing - why smooth communication matters
         ("Ms Wendy", "Working here feels so much easier with good communication.", "Làm việc ở đây thấy dễ dàng hơn nhiều nhờ giao tiếp tốt."),
         ("Ms Lan", "It does, small daily support makes a big difference.", "Đúng vậy, sự hỗ trợ nhỏ hằng ngày tạo ra khác biệt lớn."),
         ("Ms Wendy", "That is exactly why I always try to lend a hand.", "Chính vì vậy mà tôi luôn cố gắng giúp đỡ đồng nghiệp."),

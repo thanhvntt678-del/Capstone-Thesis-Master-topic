@@ -187,7 +187,31 @@ LESSON_0119 = {
         ("Ms Lan", "Can I just flag down a taxi on the street here?", "Ở đây tôi có thể vẫy taxi ngay trên phố được không?"),
         ("Mr Bartholomew", "Yes, that is quite common in this area.", "Được, cách đó khá phổ biến ở khu này."),
         ("Ms Lan", "Good to know, that is very convenient.", "Biết vậy tốt rồi, tiện quá."),
-        # 36 closing on why taxi questions matter
+        # 36 asking if the car has space for a wheelchair
+        ("Ms Lan", "Does this car have space for a wheelchair?", "Xe này có chỗ cho xe lăn không vậy?"),
+        ("Mr Bartholomew", "Yes, this car has a fold-down ramp.", "Có, xe này có dốc gấp gọn."),
+        ("Ms Lan", "That is wonderful, thank you for checking.", "Vậy tuyệt quá, cảm ơn anh đã kiểm tra."),
+        # 37 asking if smoking is allowed in the car
+        ("Mr Bartholomew", "Is smoking allowed inside the taxi?", "Trong taxi có được hút thuốc không?"),
+        ("Ms Lan", "No, smoking is not allowed in any car.", "Không, không xe nào được hút thuốc cả."),
+        ("Mr Bartholomew", "Understood, I will wait until I am outside.", "Hiểu rồi, tôi sẽ đợi ra ngoài mới hút."),
+        # 38 asking if the driver can help load heavy bags
+        ("Ms Lan", "Can the driver help me load these heavy bags?", "Tài xế có thể giúp tôi xếp mấy túi nặng này không?"),
+        ("Mr Bartholomew", "Yes, drivers are happy to help with bags.", "Được, tài xế rất sẵn lòng giúp xếp đồ."),
+        ("Ms Lan", "That is a big help, thank you.", "Vậy giúp ích nhiều lắm, cảm ơn anh."),
+        # 39 asking if trip details can be shared with a family member
+        ("Mr Bartholomew", "Can I share my trip details with a family member?", "Tôi có thể chia sẻ thông tin chuyến đi cho người nhà không?"),
+        ("Ms Lan", "Yes, the app has a share trip button.", "Được, ứng dụng có nút chia sẻ chuyến đi."),
+        ("Mr Bartholomew", "Good, that makes my family feel safer.", "Tốt, vậy người nhà tôi cũng yên tâm hơn."),
+        # 40 asking if there is an extra charge for late-night rides
+        ("Ms Lan", "Is there an extra charge for late-night rides?", "Đi xe khuya có bị tính thêm phí không?"),
+        ("Mr Bartholomew", "Yes, rides after midnight cost a bit more.", "Có, đi sau nửa đêm sẽ đắt hơn một chút."),
+        ("Ms Lan", "Thank you, I will plan around that.", "Cảm ơn anh, tôi sẽ tính toán trước chuyện đó."),
+        # 41 asking if payment can be made in advance
+        ("Mr Bartholomew", "Can I pay for a ride in advance?", "Tôi có thể trả tiền chuyến đi trước được không?"),
+        ("Ms Lan", "Yes, you can pay through the app beforehand.", "Được, anh có thể trả qua ứng dụng trước."),
+        ("Mr Bartholomew", "That is convenient, I prefer paying early.", "Vậy tiện quá, tôi thích trả sớm hơn."),
+        # 42 closing on why taxi questions matter
         ("Mr Bartholomew", "Why do simple taxi questions like these matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về taxi như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help us travel smoothly without confusion or extra cost.", "Chúng giúp mình di chuyển suôn sẻ mà không bị nhầm lẫn hay tốn thêm chi phí."),
         ("Mr Bartholomew", "That is very true, I feel much more confident booking rides now.", "Đúng vậy thật, giờ tôi thấy tự tin hơn nhiều khi đặt xe."),

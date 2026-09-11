@@ -184,7 +184,31 @@ LESSON_0097 = {
         ("Ms Lan", "The card machine just ran out of paper mid-transaction.", "Máy quẹt thẻ vừa hết giấy giữa giao dịch."),
         ("Mr Herbert", "No worries, let me load a new roll quickly.", "Không sao đâu, để tôi nạp cuộn giấy mới nhanh."),
         ("Ms Lan", "Thank you, I appreciate you handling it so fast.", "Cảm ơn anh đã xử lý nhanh vậy."),
-        # 36 explaining why resolving a shopping problem politely matters
+        # 36 a barcode not scanning at self-checkout
+        ("Ms Lan", "This barcode will not scan at the self-checkout machine.", "Mã vạch này không quét được ở máy tự thanh toán."),
+        ("Mr Herbert", "Let me enter the code by hand for you.", "Để tôi nhập mã bằng tay cho chị."),
+        ("Ms Lan", "Thank you, that saved me a lot of time.", "Cảm ơn anh, vậy đỡ mất thời gian nhiều."),
+        # 37 a gift card balance being insufficient
+        ("Mr Herbert", "My gift card does not have enough balance for this total.", "Thẻ quà tặng của tôi không đủ số dư cho tổng này."),
+        ("Ms Lan", "No problem, you can pay the rest by card.", "Không sao, anh trả phần còn lại bằng thẻ được."),
+        ("Mr Herbert", "That works well, thank you for explaining it.", "Vậy được, cảm ơn chị đã giải thích."),
+        # 38 being asked for ID unexpectedly during a card payment
+        ("Ms Lan", "Why do you need my ID for this card payment?", "Sao lại cần giấy tờ tùy thân của tôi để thanh toán thẻ vậy?"),
+        ("Mr Herbert", "It is just a security check for larger amounts.", "Đó chỉ là kiểm tra an ninh cho khoản tiền lớn thôi."),
+        ("Ms Lan", "Ah, that makes sense, here it is.", "À, vậy hợp lý rồi, đây ạ."),
+        # 39 an unexpected bag fee
+        ("Mr Herbert", "I did not know bags cost extra at this shop.", "Tôi không biết túi ở cửa hàng này tính thêm tiền."),
+        ("Ms Lan", "Yes, it is a small fee, I should have mentioned it.", "Vâng, phí nhỏ thôi, lẽ ra tôi nên nói trước."),
+        ("Mr Herbert", "That is fine, I will bring my own bag next time.", "Không sao, lần sau tôi mang túi riêng vậy."),
+        # 40 a card declined due to a wrong PIN
+        ("Ms Lan", "I think I entered the wrong PIN just now.", "Tôi nghĩ mình vừa nhập sai mã PIN rồi."),
+        ("Mr Herbert", "That is okay, you can try entering it again.", "Không sao đâu, chị thử nhập lại xem."),
+        ("Ms Lan", "Got it right this time, thank you for waiting.", "Lần này đúng rồi, cảm ơn anh đã chờ."),
+        # 41 a refund given as store credit instead of cash
+        ("Mr Herbert", "I expected cash back, but this is only store credit.", "Tôi tưởng được hoàn tiền mặt, nhưng đây chỉ là phiếu mua hàng."),
+        ("Ms Lan", "I am sorry, let me check if a cash refund is possible.", "Tôi xin lỗi, để tôi xem có hoàn tiền mặt được không."),
+        ("Mr Herbert", "Thank you, cash would really help me today.", "Cảm ơn chị, tiền mặt sẽ giúp ích cho tôi hôm nay."),
+        # 42 explaining why resolving a shopping problem politely matters
         ("Mr Herbert", "Why does it matter so much to resolve these problems calmly?", "Vì sao giải quyết những vấn đề này bình tĩnh lại quan trọng vậy?"),
         ("Ms Lan", "Staying calm helps us find the real solution faster.", "Bình tĩnh giúp mình tìm ra giải pháp thật sự nhanh hơn."),
         ("Mr Herbert", "I never thought about it that way, thank you.", "Tôi chưa từng nghĩ theo hướng đó, cảm ơn chị."),

@@ -185,7 +185,35 @@ LESSON_0039 = {
         ("Ms Lan", "Could you explain how this price was calculated?", "Anh giải thích giúp giá này được tính thế nào không?"),
         ("Mr Oscar", "Sure, it is the base price plus tax and delivery.", "Được chứ, đó là giá gốc cộng thuế và phí giao hàng."),
         ("Ms Lan", "Thank you, that makes everything much clearer.", "Cảm ơn anh, vậy mọi thứ rõ ràng hơn nhiều."),
-        # 38 closing - why understanding a price matters
+        # 38 a price mismatch between receipt and shelf tag
+        ("Ms Lan", "The receipt shows a different price than the shelf tag.", "Hóa đơn ghi giá khác với bảng giá trên kệ."),
+        ("Mr Oscar", "Let us show the cashier both prices to check.", "Mình cho nhân viên thu ngân xem cả hai giá để kiểm tra."),
+        ("Ms Lan", "Good idea, they should honour the lower one.", "Ý hay đấy, họ nên tính theo giá thấp hơn."),
+        # 39 a student discount price
+        ("Mr Oscar", "Is there a student discount on this ticket price?", "Vé này có giảm giá cho học sinh không?"),
+        ("Ms Lan", "Yes, students get twenty percent off with an ID.", "Có chứ, học sinh được giảm hai mươi phần trăm khi xuất trình thẻ."),
+        ("Mr Oscar", "Great, I have my student card right here.", "Tuyệt, tôi có sẵn thẻ học sinh đây."),
+        # 40 needing small change for a round price
+        ("Ms Lan", "Do you have smaller notes for this exact price?", "Anh có tờ tiền nhỏ hơn cho đúng giá này không?"),
+        ("Mr Oscar", "Let me check my wallet for some change.", "Để tôi xem ví có tiền lẻ không."),
+        ("Ms Lan", "Thanks, that saves the cashier from making change.", "Cảm ơn anh, vậy đỡ cho nhân viên phải thối tiền."),
+        # 41 a price for extending a warranty
+        ("Mr Oscar", "How much extra is it to extend the warranty?", "Gia hạn bảo hành thêm tốn bao nhiêu?"),
+        ("Ms Lan", "It is an extra fifty thousand dong for one more year.", "Thêm năm mươi nghìn đồng cho một năm nữa."),
+        ("Mr Oscar", "That sounds worth it for peace of mind.", "Nghe đáng giá để yên tâm hơn."),
+        # 42 a price quoted per dozen instead of per piece
+        ("Ms Lan", "Is this price per piece or per dozen?", "Giá này tính theo cái hay theo tá?"),
+        ("Mr Oscar", "It is priced per dozen, twelve pieces together.", "Tính theo tá, mười hai cái một lần."),
+        ("Ms Lan", "Ah, that makes more sense for the amount.", "À, vậy hợp lý hơn so với số lượng."),
+        # 43 a price for currency exchange at a counter
+        ("Mr Oscar", "What rate are they giving for currency exchange today?", "Hôm nay đổi tiền tỷ giá thế nào?"),
+        ("Ms Lan", "It looks fair, close to the bank's rate.", "Có vẻ hợp lý, gần với tỷ giá ngân hàng."),
+        ("Mr Oscar", "Good, let us exchange a small amount here then.", "Tốt, vậy mình đổi một ít ở đây nhé."),
+        # 44 asking if the price includes a warranty
+        ("Ms Lan", "Does this price already include the warranty?", "Giá này đã gồm bảo hành chưa?"),
+        ("Mr Oscar", "Yes, a one-year warranty comes with it.", "Rồi, có kèm bảo hành một năm."),
+        ("Ms Lan", "Perfect, that makes the price even better value.", "Tuyệt, vậy giá này càng đáng giá hơn."),
+        # 45 closing - why understanding a price matters
         ("Mr Oscar", "It really helps to understand a price clearly before buying.", "Hiểu rõ giá trước khi mua thật sự hữu ích."),
         ("Ms Lan", "It does, it avoids any confusion or surprise later.", "Đúng vậy, tránh được nhầm lẫn hay bất ngờ về sau."),
         ("Mr Oscar", "That is exactly why I always ask questions first.", "Chính vì vậy mà tôi luôn hỏi rõ trước."),

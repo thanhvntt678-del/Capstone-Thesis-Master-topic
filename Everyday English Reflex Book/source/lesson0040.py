@@ -178,7 +178,35 @@ LESSON_0040 = {
         ("Ms Lan", "Where are the guest towels for tonight?", "Khăn cho khách tối nay ở đâu vậy?"),
         ("Ms Paula", "They are folded in the linen closet.", "Nó gấp trong tủ đựng khăn vải."),
         ("Ms Lan", "Thank you, I will set them out now.", "Cảm ơn chị, tôi bày ra ngay."),
-        # 38 closing - why knowing where things are matters
+        # 38 the wifi router
+        ("Ms Lan", "Where is the wifi router? The internet just went off.", "Bộ định tuyến wifi ở đâu vậy? Mạng vừa mất rồi."),
+        ("Ms Paula", "It is on the shelf behind the television.", "Nó ở trên kệ sau cái tivi."),
+        ("Ms Lan", "Found it, I will restart it now.", "Tìm thấy rồi, tôi khởi động lại ngay."),
+        # 39 nail clippers
+        ("Ms Paula", "Where are the nail clippers kept in this house?", "Bấm móng tay trong nhà này để ở đâu vậy?"),
+        ("Ms Lan", "They are in the small basket in the bathroom.", "Nó ở trong giỏ nhỏ trong phòng tắm."),
+        ("Ms Paula", "Thanks, found them right there.", "Cảm ơn chị, tìm thấy ngay đó."),
+        # 40 spare trash bags
+        ("Ms Lan", "Where do we keep the spare trash bags?", "Túi rác dự phòng để ở đâu vậy?"),
+        ("Ms Paula", "They are under the kitchen sink.", "Nó ở dưới bồn rửa trong bếp."),
+        ("Ms Lan", "Great, grabbing one now.", "Tuyệt, tôi lấy một cái ngay đây."),
+        # 41 candles and matches for power cuts
+        ("Ms Paula", "Where do we keep candles in case of a power cut?", "Nến để phòng khi mất điện ở đâu vậy?"),
+        ("Ms Lan", "They are in the tin box on the top shelf, with the matches.", "Nó ở trong hộp thiếc trên kệ trên cùng, cùng với diêm."),
+        ("Ms Paula", "Good to know, just in case tonight.", "Tốt quá, biết trước phòng khi tối nay cần."),
+        # 42 an extension cord
+        ("Ms Lan", "Where is the extension cord? I need it for the fan.", "Dây nối điện ở đâu vậy? Tôi cần dùng cho quạt."),
+        ("Ms Paula", "It is coiled up behind the bookshelf.", "Nó cuộn lại sau kệ sách."),
+        ("Ms Lan", "Found it, thank you for remembering.", "Tìm thấy rồi, cảm ơn chị đã nhớ."),
+        # 43 sunglasses
+        ("Ms Paula", "Where did I leave my sunglasses this morning?", "Sáng nay tôi để kính râm ở đâu vậy?"),
+        ("Ms Lan", "They are on top of the shoe cabinet.", "Nó ở trên nóc tủ giày."),
+        ("Ms Paula", "Ah, spotted them, thank you.", "À, tìm thấy rồi, cảm ơn chị."),
+        # 44 a measuring tape
+        ("Ms Lan", "Where is the measuring tape? I want to measure this shelf.", "Thước dây ở đâu vậy? Tôi muốn đo cái kệ này."),
+        ("Ms Paula", "It is in the tool drawer with the hammer.", "Nó ở trong ngăn kéo dụng cụ, cùng với cái búa."),
+        ("Ms Lan", "Thank you, that is exactly where I looked last.", "Cảm ơn chị, đúng chỗ tôi định tìm cuối cùng."),
+        # 45 closing - why knowing where things are matters
         ("Ms Paula", "It really saves time knowing exactly where things are.", "Biết chính xác đồ đạc ở đâu thật sự tiết kiệm thời gian."),
         ("Ms Lan", "It does, especially when we are in a hurry.", "Đúng vậy, nhất là khi mình đang vội."),
         ("Ms Paula", "That is exactly why I try to keep everything organised.", "Chính vì vậy mà tôi luôn cố giữ mọi thứ ngăn nắp."),

@@ -190,7 +190,35 @@ LESSON_0059 = {
         ("Mr Roy", "It can get confusing keeping track of who is who.", "Nhớ ai là ai đôi khi cũng rối lắm."),
         ("Ms Lan", "It really can, especially in a big family like yours.", "Đúng vậy, nhất là với một gia đình lớn như của anh."),
         ("Mr Roy", "That is why I always ask when I am unsure.", "Vì vậy mà tôi luôn hỏi khi không chắc chắn."),
-        # 38 closing - why getting these relationships right matters
+        # 38 clarifying identical versus fraternal twins
+        ("Mr Roy", "Are your twins identical or fraternal, Lan?", "Cặp song sinh của chị là song sinh cùng trứng hay khác trứng vậy?"),
+        ("Ms Lan", "They are fraternal, so they do not look exactly alike.", "Là khác trứng, nên trông không giống hệt nhau."),
+        ("Mr Roy", "Ah, that explains why one is taller.", "À, vậy giải thích được vì sao một bé cao hơn."),
+        # 39 explaining a pen pal is not actual family
+        ("Ms Lan", "Is she a relative, or just someone you write letters to?", "Cô ấy là người thân, hay chỉ là người anh thường viết thư qua lại?"),
+        ("Mr Roy", "Just a pen pal, no family connection at all.", "Chỉ là bạn thư từ thôi, không có quan hệ họ hàng gì."),
+        ("Ms Lan", "Ah, I see, thank you for clarifying that.", "À, tôi hiểu rồi, cảm ơn anh đã làm rõ."),
+        # 40 clarifying an in-law's own sibling
+        ("Mr Roy", "Is he your husband's brother, or your sister-in-law's brother?", "Anh ấy là anh em của chồng chị, hay của chị dâu chị vậy?"),
+        ("Ms Lan", "He is my sister-in-law's brother, no blood tie to me.", "Là anh em của chị dâu tôi, không có quan hệ máu mủ với tôi."),
+        ("Mr Roy", "In-law families can get complicated quickly.", "Quan hệ nhà chồng hay nhà vợ đôi khi phức tạp thật đấy."),
+        # 41 explaining a family friend called "aunty" out of respect
+        ("Ms Lan", "Is she really your aunt, or just a close family friend?", "Cô ấy có thật sự là dì của anh không, hay chỉ là bạn thân của gia đình?"),
+        ("Mr Roy", "Just a close friend, we call her aunty out of respect.", "Chỉ là bạn thân thôi, mình gọi là dì để tỏ lòng kính trọng."),
+        ("Ms Lan", "That is such a warm tradition to have.", "Đó là một truyền thống ấm áp thật đấy."),
+        # 42 clarifying a half-brother from the mother's side
+        ("Mr Roy", "Is your half-brother from your father's side or your mother's side?", "Anh cùng mẹ khác cha của chị là bên bố hay bên mẹ vậy?"),
+        ("Ms Lan", "He is from my mother's side, same mother, different father.", "Là bên mẹ, cùng mẹ nhưng khác bố."),
+        ("Mr Roy", "Thank you, I had it backwards in my head.", "Cảm ơn chị, trong đầu tôi cứ nghĩ ngược lại."),
+        # 43 explaining a family nickname does not mean a different relative
+        ("Ms Lan", "You keep calling him 'Big Brother,' is he older than you?", "Anh cứ gọi anh ấy là 'Anh Cả', anh ấy lớn tuổi hơn anh à?"),
+        ("Mr Roy", "It is just a nickname, he is actually my cousin.", "Đó chỉ là biệt danh thôi, thật ra anh ấy là anh họ tôi."),
+        ("Ms Lan", "Ah, nicknames can be confusing sometimes.", "À, biệt danh đôi khi gây nhầm lẫn thật."),
+        # 44 clarifying an adopted grandchild
+        ("Mr Roy", "Is she your biological granddaughter, or adopted into the family?", "Bé là cháu gái ruột, hay được nhận nuôi vào gia đình chị vậy?"),
+        ("Ms Lan", "She was adopted, but she is my granddaughter in every way.", "Bé được nhận nuôi, nhưng với tôi bé là cháu gái đúng nghĩa."),
+        ("Mr Roy", "That is a beautiful way to see family.", "Đó là một cách nhìn gia đình rất đẹp."),
+        # 45 closing - why getting these relationships right matters
         ("Ms Lan", "Getting these family relationships right really shows respect.", "Hiểu đúng các mối quan hệ gia đình này thật sự thể hiện sự tôn trọng."),
         ("Mr Roy", "It does, it shows you truly care about someone's family.", "Đúng vậy, nó cho thấy mình thật sự quan tâm đến gia đình của họ."),
         ("Ms Lan", "That is exactly why I always ask instead of assuming.", "Chính vì vậy mà tôi luôn hỏi thay vì tự đoán."),

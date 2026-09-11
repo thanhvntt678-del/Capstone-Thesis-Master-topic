@@ -199,6 +199,22 @@ LESSON_0141 = {
         ("Ms Lan", "Does the usual weekend study plan need writing out today?", "Kế hoạch học cuối tuần quen hôm nay có cần viết ra không vậy?"),
         ("Mr Thaddeus", "Yes, there is quite a lot to cover this time.", "Có, lần này có khá nhiều nội dung cần học."),
         ("Ms Lan", "Good idea, I will draft it this evening.", "Ý hay, tối nay tôi phác thảo."),
+        # 36 if the school photo ID needs replacing this week
+        ("Ms Lan", "Does my child's school ID card need replacing this week?", "Thẻ học sinh của con tuần này có cần làm lại không vậy?"),
+        ("Mr Thaddeus", "Yes, the office said the old one is too faded.", "Có, văn phòng nói thẻ cũ mờ quá rồi."),
+        ("Ms Lan", "I will send in a new photo tonight.", "Tối nay tôi gửi ảnh mới vào."),
+        # 37 if the recorder practice needs ten minutes tonight
+        ("Mr Thaddeus", "Does the recorder practice need ten minutes tonight?", "Tối nay việc tập thổi sáo có cần mười phút không vậy?"),
+        ("Ms Lan", "Yes, the music teacher asked for daily practice.", "Có, cô giáo nhạc nhờ tập mỗi ngày."),
+        ("Mr Thaddeus", "Good, I will set a timer for ten minutes.", "Tốt, tôi hẹn giờ mười phút nhé."),
+        # 38 if the class poster needs finishing before Friday
+        ("Ms Lan", "Does the class poster need finishing before Friday?", "Tấm áp phích lớp có cần hoàn thành trước thứ Sáu không vậy?"),
+        ("Mr Thaddeus", "Yes, only the title still needs coloring in.", "Có, chỉ còn phần tiêu đề chưa tô màu."),
+        ("Ms Lan", "That should only take a few more minutes.", "Vậy chắc chỉ mất thêm vài phút thôi."),
+        # 39 if the school locker needs tidying this week
+        ("Mr Thaddeus", "Does the school locker need tidying this week?", "Tuần này tủ đồ ở trường có cần dọn không vậy?"),
+        ("Ms Lan", "Yes, it is quite messy after the field trip.", "Có, sau chuyến dã ngoại nó khá bừa."),
+        ("Mr Thaddeus", "I will help sort it out tomorrow morning.", "Sáng mai tôi giúp sắp xếp lại."),
         # 36 closing on why routine school & learning needs matter
         ("Mr Thaddeus", "Why does keeping up with these small school routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu học hành nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our children calm and ready instead of rushing at the last moment.", "Nó giúp con mình bình tĩnh và sẵn sàng thay vì phải vội vàng vào phút chót."),

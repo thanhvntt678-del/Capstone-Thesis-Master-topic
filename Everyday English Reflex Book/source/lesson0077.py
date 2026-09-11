@@ -190,5 +190,33 @@ LESSON_0077 = {
         ("Ms Lan", "Where does your family usually spend the weekends?", "Gia đình anh thường dành cuối tuần ở đâu vậy?"),
         ("Mr Leonard", "We usually stay home and relax together.", "Chúng tôi thường ở nhà nghỉ ngơi cùng nhau."),
         ("Ms Lan", "That sounds like a lovely, simple routine.", "Nghe như một thói quen đơn giản mà đẹp."),
+        # 37 asking where a family member is when they are running late
+        ("Mr Leonard", "Do you know where your daughter is? She is running late today.", "Chị có biết con gái chị đang ở đâu không? Hôm nay cháu về trễ."),
+        ("Ms Lan", "She just texted me, she is stuck at the bus stop.", "Cháu vừa nhắn tin, cháu đang kẹt ở trạm xe buýt."),
+        ("Mr Leonard", "Ah, at least she let you know.", "À, ít ra cháu cũng báo cho chị biết."),
+        # 38 asking where a family member is during a family emergency
+        ("Ms Lan", "Where is your brother right now? I heard there was an emergency.", "Em trai anh đang ở đâu vậy? Tôi nghe nói có chuyện khẩn cấp."),
+        ("Mr Leonard", "He is already on his way to the hospital.", "Cậu ấy đang trên đường tới bệnh viện rồi."),
+        ("Ms Lan", "I hope everything turns out fine for him.", "Mong mọi chuyện sẽ ổn cho cậu ấy."),
+        # 39 asking where a family member is celebrating a birthday
+        ("Mr Leonard", "Where is your niece celebrating her birthday this year?", "Cháu gái chị năm nay tổ chức sinh nhật ở đâu vậy?"),
+        ("Ms Lan", "She is celebrating at a small restaurant downtown.", "Cháu tổ chức ở một nhà hàng nhỏ trung tâm."),
+        ("Mr Leonard", "That sounds like a fun place for a party.", "Nghe như một nơi vui để tổ chức tiệc."),
+        # 40 asking where a family member is stuck due to traffic
+        ("Ms Lan", "Where is your wife right now? Traffic looks terrible today.", "Vợ anh đang ở đâu vậy? Hôm nay kẹt xe kinh khủng quá."),
+        ("Mr Leonard", "She is stuck near the bridge, barely moving.", "Cô ấy đang kẹt gần cây cầu, gần như không nhích được."),
+        ("Ms Lan", "That bridge always gets busy this time of day.", "Cây cầu đó lúc nào cũng đông vào giờ này."),
+        # 41 asking where a family member went during a power outage
+        ("Mr Leonard", "Where did your mother go when the power went out earlier?", "Lúc nãy mất điện, mẹ chị đi đâu vậy?"),
+        ("Ms Lan", "She went next door to wait with our neighbour.", "Mẹ tôi sang nhà bên chờ cùng hàng xóm."),
+        ("Mr Leonard", "That was a smart place to wait it out.", "Đó là một chỗ khôn ngoan để chờ đợi."),
+        # 42 explaining why knowing where a family member is matters
+        ("Ms Lan", "Why do you think knowing where a family member is matters so much?", "Anh nghĩ vì sao biết một người trong gia đình đang ở đâu lại quan trọng vậy?"),
+        ("Mr Leonard", "Because it helps everyone feel safe and worry a little less.", "Vì nó giúp mọi người cảm thấy an tâm và bớt lo lắng hơn."),
+        ("Ms Lan", "True, a quick check-in can put your whole mind at ease.", "Đúng vậy, một câu hỏi thăm nhanh cũng giúp yên tâm hẳn."),
+        # 43 explaining why answering that question clearly matters
+        ("Mr Leonard", "Why do you think answering that question clearly matters too?", "Chị nghĩ vì sao trả lời câu hỏi đó rõ ràng cũng quan trọng vậy?"),
+        ("Ms Lan", "Because a vague answer only makes the other person worry more.", "Vì một câu trả lời mập mờ chỉ khiến người kia lo lắng thêm thôi."),
+        ("Mr Leonard", "Exactly, a clear answer saves everyone unnecessary worry.", "Chính xác, một câu trả lời rõ ràng giúp mọi người đỡ lo không cần thiết."),
     ],
 }

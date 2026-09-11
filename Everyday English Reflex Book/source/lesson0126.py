@@ -189,7 +189,31 @@ LESSON_0126 = {
         ("Ms Lan", "How do I clear the old history in this chat?", "Tôi xóa lịch sử cũ trong chat này thế nào?"),
         ("Ms Philippa", "Open settings and tap clear chat history.", "Mở cài đặt và chạm vào xóa lịch sử trò chuyện."),
         ("Ms Lan", "Thank you, clearing it now.", "Cảm ơn chị, tôi xóa ngay đây."),
-        # 36 closing on why messaging questions matter
+        # 36 how to change a chat's wallpaper
+        ("Ms Lan", "How do I change the wallpaper of this chat?", "Tôi đổi hình nền của cuộc trò chuyện này thế nào vậy?"),
+        ("Ms Philippa", "Open chat settings and pick a new wallpaper.", "Mở cài đặt trò chuyện rồi chọn hình nền mới."),
+        ("Ms Lan", "Thanks, I will pick a nicer one.", "Cảm ơn chị, tôi sẽ chọn cái đẹp hơn."),
+        # 37 how to rename a group chat
+        ("Ms Philippa", "How do I rename this group chat?", "Tôi đổi tên nhóm trò chuyện này thế nào vậy?"),
+        ("Ms Lan", "Tap the group name and type a new one.", "Chạm vào tên nhóm rồi gõ tên mới."),
+        ("Ms Philippa", "Easy enough, I will rename it now.", "Dễ vậy thôi, giờ tôi sẽ đổi tên."),
+        # 38 how to turn on disappearing messages
+        ("Ms Lan", "How do I turn on disappearing messages in this chat?", "Tôi bật tin nhắn tự biến mất trong đoạn chat này thế nào vậy?"),
+        ("Ms Philippa", "There is a toggle for that in chat settings.", "Có một nút bật tắt cho việc đó trong cài đặt trò chuyện."),
+        ("Ms Lan", "Good, I will turn it on for this one.", "Tốt, tôi sẽ bật nó cho đoạn chat này."),
+        # 39 how to switch the app to dark mode
+        ("Ms Philippa", "How do I switch this app to dark mode?", "Tôi chuyển ứng dụng này sang chế độ tối thế nào vậy?"),
+        ("Ms Lan", "It is under the display option in settings.", "Nó nằm trong mục hiển thị trong cài đặt."),
+        ("Ms Philippa", "Found it, that is much easier on my eyes.", "Tìm ra rồi, vậy đỡ mỏi mắt hơn nhiều."),
+        # 40 how to confirm a contact's new phone number
+        ("Ms Lan", "How do I confirm a contact has a new phone number?", "Tôi xác nhận một người liên hệ đổi số điện thoại mới thế nào vậy?"),
+        ("Ms Philippa", "The app shows a notice when a number changes.", "Ứng dụng hiện thông báo khi có số đổi."),
+        ("Ms Lan", "Good, I saw that notice yesterday.", "Tốt, hôm qua tôi có thấy thông báo đó."),
+        # 41 how to restore messages from a backup
+        ("Ms Philippa", "How do I restore old messages from a backup?", "Tôi khôi phục tin nhắn cũ từ bản sao lưu thế nào vậy?"),
+        ("Ms Lan", "Reinstall the app and choose restore backup.", "Cài lại ứng dụng rồi chọn khôi phục sao lưu."),
+        ("Ms Philippa", "Thank you, I will try that tonight.", "Cảm ơn chị, tối nay tôi sẽ thử."),
+        # 42 closing on why messaging questions matter
         ("Ms Philippa", "Why do simple messaging questions like these matter so much anyway?", "Vậy vì sao những câu hỏi nhắn tin đơn giản như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help us stay connected without any frustrating mix-ups.", "Chúng giúp mình giữ liên lạc mà không gặp nhầm lẫn khó chịu."),
         ("Ms Philippa", "That is very true, I feel much more confident using this app now.", "Đúng vậy thật, giờ tôi thấy tự tin hơn nhiều khi dùng ứng dụng này."),

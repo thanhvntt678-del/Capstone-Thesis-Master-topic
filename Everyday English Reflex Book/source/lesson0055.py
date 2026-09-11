@@ -195,7 +195,35 @@ LESSON_0055 = {
         ("Mr Steven", "What amenities are close to where you live?", "Gần chỗ chị sống có tiện ích gì không?"),
         ("Ms Lan", "A gym, a pharmacy, and a few small cafes.", "Có phòng gym, nhà thuốc, và vài quán cà phê nhỏ."),
         ("Mr Steven", "That sounds like a well-rounded neighbourhood.", "Nghe như một khu phố khá đầy đủ tiện ích."),
-        # 38 closing - why knowing where someone lives matters
+        # 38 asking about the street name where someone lives
+        ("Mr Steven", "What is the name of the street where you live, Lan?", "Đường chị sống tên gì vậy, chị Lan?"),
+        ("Ms Lan", "It is called Nguyen Trai Street.", "Đường Nguyễn Trãi."),
+        ("Mr Steven", "Oh, I know that street well.", "Ồ, tôi biết con đường đó."),
+        # 39 asking about noise level at night
+        ("Ms Lan", "Is your street noisy at night, Steven?", "Đường của anh có ồn vào ban đêm không?"),
+        ("Mr Steven", "Not really, it gets quite quiet after nine.", "Không hẳn, sau chín giờ là khá yên tĩnh."),
+        ("Ms Lan", "That sounds good for a proper night's sleep.", "Vậy tốt cho giấc ngủ ngon đấy."),
+        # 40 asking about parking near the home
+        ("Mr Steven", "Is parking easy to find near your building, Lan?", "Gần tòa nhà chị có dễ tìm chỗ đỗ xe không?"),
+        ("Ms Lan", "Yes, there is a small lot right below.", "Có chứ, có một bãi nhỏ ngay bên dưới."),
+        ("Mr Steven", "That is very convenient, no searching around.", "Vậy tiện lắm, khỏi phải tìm loanh quanh."),
+        # 41 asking about the home's water and electricity
+        ("Ms Lan", "Do you ever have power or water issues where you live?", "Chỗ anh ở có hay bị cúp điện hay cúp nước không?"),
+        ("Mr Steven", "Rarely, maybe once every few months.", "Hiếm khi, có lẽ vài tháng mới bị một lần."),
+        ("Ms Lan", "That is not too bad then.", "Vậy cũng không tệ lắm."),
+        # 42 asking about a favourite local food spot near home
+        ("Mr Steven", "Is there a good food stall near your place, Lan?", "Gần nhà chị có quán ăn ngon nào không?"),
+        ("Ms Lan", "Yes, a noodle stall right at the corner.", "Có chứ, có quán mì ngay góc đường."),
+        ("Mr Steven", "That sounds like a great place to grab lunch.", "Nghe như một chỗ tuyệt để ăn trưa."),
+        # 43 asking about the postal code for deliveries
+        ("Ms Lan", "Do you know the postal code for your area, Steven?", "Anh có biết mã bưu điện cho khu vực của mình không?"),
+        ("Mr Steven", "Yes, I have it saved on my phone.", "Có chứ, tôi lưu trong điện thoại."),
+        ("Ms Lan", "Good, that makes online orders much easier.", "Tốt, vậy đặt hàng online dễ hơn nhiều."),
+        # 44 asking about how someone chose their current area
+        ("Mr Steven", "What made you choose this particular area, Lan?", "Điều gì khiến chị chọn khu vực này vậy?"),
+        ("Ms Lan", "Mostly the short distance to my office.", "Chủ yếu vì gần chỗ làm của tôi."),
+        ("Mr Steven", "That is a very practical reason.", "Đó là một lý do rất thực tế."),
+        # 45 closing - why knowing where someone lives matters
         ("Ms Lan", "It is nice learning where people actually live.", "Thật hay khi biết mọi người thật sự sống ở đâu."),
         ("Mr Steven", "It really is, it helps us feel more connected.", "Đúng vậy, nó giúp mình cảm thấy gần gũi hơn."),
         ("Ms Lan", "That is exactly why I love hearing where people live.", "Chính vì vậy mà tôi luôn thích hỏi về điều đó."),

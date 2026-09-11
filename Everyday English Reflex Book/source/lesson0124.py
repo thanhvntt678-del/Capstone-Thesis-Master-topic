@@ -187,7 +187,31 @@ LESSON_0124 = {
         ("Ms Lan", "What floor is the marketing department located on?", "Phòng marketing nằm ở tầng mấy vậy?"),
         ("Ms Araminta", "They are on the fourth floor, near the lift.", "Họ ở tầng bốn, gần thang máy."),
         ("Ms Lan", "The fourth floor, near the lift, got it.", "Tầng bốn, gần thang máy, hiểu rồi."),
-        # 36 closing on why workplace questions matter
+        # 36 asking how to get an ID access badge
+        ("Ms Lan", "How do I get an ID access badge for the building?", "Tôi lấy thẻ ra vào tòa nhà thế nào vậy?"),
+        ("Ms Araminta", "The front desk issues badges for new staff.", "Quầy lễ tân cấp thẻ cho nhân viên mới."),
+        ("Ms Lan", "Thank you, I will go there now.", "Cảm ơn chị, tôi sẽ tới đó ngay."),
+        # 37 asking where the IT helpdesk is
+        ("Ms Araminta", "Where is the IT helpdesk if my computer has a problem?", "Bàn hỗ trợ IT ở đâu nếu máy tính tôi gặp trục trặc?"),
+        ("Ms Lan", "It is on the second floor, near the lifts.", "Nó ở tầng hai, gần thang máy."),
+        ("Ms Araminta", "Good, I will head there if needed.", "Tốt, tôi sẽ tới đó nếu cần."),
+        # 38 asking if there is an assigned parking spot
+        ("Ms Lan", "Do employees get an assigned parking spot?", "Nhân viên có được cấp chỗ đậu xe riêng không?"),
+        ("Ms Araminta", "No, parking here is on a first-come basis.", "Không, chỗ đậu xe ở đây ai tới trước được trước."),
+        ("Ms Lan", "Good to know, I will arrive earlier then.", "Biết vậy tốt rồi, vậy tôi sẽ đến sớm hơn."),
+        # 39 asking where the team calendar is shared
+        ("Ms Araminta", "Where is the team calendar shared for everyone to see?", "Lịch của nhóm được chia sẻ ở đâu cho mọi người xem vậy?"),
+        ("Ms Lan", "It is shared on the company scheduling app.", "Nó được chia sẻ trên ứng dụng lên lịch của công ty."),
+        ("Ms Araminta", "Great, I will check it every morning.", "Tốt quá, tôi sẽ xem nó mỗi sáng."),
+        # 40 asking where the smoking area is located
+        ("Ms Lan", "Where is the designated smoking area located?", "Khu vực hút thuốc được chỉ định nằm ở đâu vậy?"),
+        ("Ms Araminta", "It is just outside the back entrance.", "Nó ở ngay ngoài cửa sau."),
+        ("Ms Lan", "Thank you, that is easy to remember.", "Cảm ơn chị, chỗ đó dễ nhớ."),
+        # 41 asking how to book time off in the system
+        ("Ms Araminta", "How do I book time off in the company system?", "Tôi xin nghỉ phép trong hệ thống công ty thế nào vậy?"),
+        ("Ms Lan", "Just submit a request through the leave portal.", "Chỉ cần gửi yêu cầu qua cổng xin nghỉ phép."),
+        ("Ms Araminta", "Thank you, I will submit mine tonight.", "Cảm ơn chị, tối nay tôi sẽ gửi yêu cầu."),
+        # 42 closing on why workplace questions matter
         ("Ms Araminta", "Why do simple workplace questions like these matter so much anyway?", "Vậy vì sao những câu hỏi nơi làm việc đơn giản như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help everyone work smoothly without wasting time hunting for answers.", "Chúng giúp mọi người làm việc suôn sẻ mà không mất thời gian tìm câu trả lời."),
         ("Ms Araminta", "That is very true, I feel much more settled in now.", "Đúng vậy thật, giờ tôi thấy quen việc hơn nhiều."),

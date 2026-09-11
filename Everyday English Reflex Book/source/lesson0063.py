@@ -189,5 +189,33 @@ LESSON_0063 = {
         ("Mr Derek", "Can you help me find a way to avoid the traffic today?", "Chị giúp tôi tìm đường tránh kẹt xe hôm nay được không?"),
         ("Ms Lan", "Take the back road behind the school instead.", "Đi đường phía sau trường học thay vào đó."),
         ("Mr Derek", "Thank you, that should save some time.", "Cảm ơn chị, vậy sẽ tiết kiệm thời gian hơn."),
+        # 37 finding a currency exchange booth
+        ("Ms Lan", "Could you help me find a currency exchange booth nearby?", "Anh giúp tôi tìm quầy đổi tiền gần đây được không?"),
+        ("Mr Derek", "There is one inside the shopping centre on Pine Road.", "Có một quầy trong trung tâm mua sắm trên đường Pine."),
+        ("Ms Lan", "Thank you, I need to exchange some dollars.", "Cảm ơn anh, tôi cần đổi ít đô la."),
+        # 38 finding a cafe with Wi-Fi
+        ("Mr Derek", "Do you know a cafe nearby with reliable Wi-Fi?", "Chị có biết quán cà phê nào gần đây có Wi-Fi tốt không?"),
+        ("Ms Lan", "The one by the library has fast internet.", "Quán gần thư viện có mạng nhanh lắm đấy."),
+        ("Mr Derek", "Thank you, I need to send some emails.", "Cảm ơn chị, tôi cần gửi vài email."),
+        # 39 finding a photocopy shop
+        ("Ms Lan", "Could you help me find a photocopy shop close by?", "Anh giúp tôi tìm tiệm photocopy gần đây được không?"),
+        ("Mr Derek", "There is a small one next to the post office.", "Có một tiệm nhỏ cạnh bưu điện đó."),
+        ("Ms Lan", "Thank you, I need to copy some documents.", "Cảm ơn anh, tôi cần photo vài tài liệu."),
+        # 40 finding a stationery shop
+        ("Mr Derek", "Do you know where I can buy stationery around here?", "Chị có biết mua văn phòng phẩm ở đâu quanh đây không?"),
+        ("Ms Lan", "There is a shop right beside the school gate.", "Có một tiệm ngay cạnh cổng trường đó."),
+        ("Mr Derek", "Thank you, my daughter needs new pencils.", "Cảm ơn chị, con gái tôi cần bút chì mới."),
+        # 41 finding the community notice board
+        ("Ms Lan", "Could you show me where the community notice board is?", "Anh chỉ giúp tôi bảng thông báo cộng đồng ở đâu được không?"),
+        ("Mr Derek", "It is right outside the community centre entrance.", "Nó ngay ngoài cổng trung tâm cộng đồng đó."),
+        ("Ms Lan", "Thank you, I want to post a notice there.", "Cảm ơn anh, tôi muốn dán một thông báo ở đó."),
+        # 42 finding a recycling bin
+        ("Mr Derek", "Do you know where the nearest recycling bin is?", "Chị có biết thùng tái chế gần nhất ở đâu không?"),
+        ("Ms Lan", "There is one at the corner of this street.", "Có một cái ở góc con phố này."),
+        ("Mr Derek", "Thank you, I have some bottles to drop off.", "Cảm ơn chị, tôi có vài cái chai cần bỏ vào đó."),
+        # 43 finding a bicycle repair shop
+        ("Ms Lan", "Could you help me find a bicycle repair shop nearby?", "Anh giúp tôi tìm tiệm sửa xe đạp gần đây được không?"),
+        ("Mr Derek", "There is one behind the market on Pine Road.", "Có một tiệm phía sau khu chợ trên đường Pine."),
+        ("Ms Lan", "Thank you, my tire went flat this morning.", "Cảm ơn anh, sáng nay xe tôi bị xẹp lốp."),
     ],
 }

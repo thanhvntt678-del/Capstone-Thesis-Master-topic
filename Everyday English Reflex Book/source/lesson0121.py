@@ -192,7 +192,31 @@ LESSON_0121 = {
         ("Ms Lan", "Will our picnic blanket get wet from morning dew?", "Tấm trải dã ngoại của mình có bị ướt sương sáng không?"),
         ("Mr Bertram", "It might, let us bring a plastic sheet too.", "Có thể, mình mang thêm tấm bạt nhựa đi."),
         ("Ms Lan", "Good thinking, a plastic sheet cannot hurt.", "Nghĩ hay đấy, mang thêm tấm bạt cũng không hại gì."),
-        # 36 closing on why weather questions matter
+        # 36 asking if sunscreen is needed today
+        ("Ms Lan", "Do I need sunscreen if I go out today?", "Hôm nay ra ngoài tôi có cần kem chống nắng không?"),
+        ("Mr Bertram", "Yes, the sun is quite strong this afternoon.", "Có, chiều nay nắng khá gắt đấy."),
+        ("Ms Lan", "Thanks, I will put some on before leaving.", "Cảm ơn, tôi sẽ thoa trước khi ra ngoài."),
+        # 37 asking if the pollen count is high today
+        ("Mr Bertram", "Is the pollen count high today?", "Hôm nay lượng phấn hoa có cao không?"),
+        ("Ms Lan", "Yes, it is quite high this time of year.", "Có, mùa này lượng phấn hoa khá cao."),
+        ("Mr Bertram", "Then I will take my allergy medicine first.", "Vậy tôi sẽ uống thuốc dị ứng trước."),
+        # 38 asking if there is a heatwave warning this week
+        ("Ms Lan", "Is there a heatwave warning for this week?", "Tuần này có cảnh báo nắng nóng gay gắt không?"),
+        ("Mr Bertram", "Yes, temperatures stay high until Thursday.", "Có, nhiệt độ sẽ cao đến hết thứ Năm."),
+        ("Ms Lan", "Good to know, I will stay indoors more.", "Biết vậy tốt rồi, tôi sẽ ở trong nhà nhiều hơn."),
+        # 39 asking if air quality is good enough for outdoor exercise
+        ("Mr Bertram", "Is the air quality good enough for outdoor exercise today?", "Chất lượng không khí hôm nay có đủ tốt để tập ngoài trời không?"),
+        ("Ms Lan", "Yes, the air quality is fine this morning.", "Có, sáng nay chất lượng không khí ổn."),
+        ("Mr Bertram", "Great, I will go for my run then.", "Tốt quá, vậy tôi sẽ đi chạy bộ."),
+        # 40 asking if visibility is clear enough to drive safely
+        ("Ms Lan", "Is visibility clear enough to drive safely right now?", "Tầm nhìn hiện giờ có đủ rõ để lái xe an toàn không?"),
+        ("Mr Bertram", "Yes, the fog has mostly lifted by now.", "Có, sương mù đã tan gần hết rồi."),
+        ("Ms Lan", "Good, I will head out then.", "Tốt, vậy tôi sẽ đi ngay."),
+        # 41 asking what to wear tomorrow based on the forecast
+        ("Mr Bertram", "Based on the forecast, what should I wear tomorrow?", "Theo dự báo, mai tôi nên mặc gì đây?"),
+        ("Ms Lan", "Light layers should be fine, it stays mild.", "Mặc vài lớp mỏng là được, trời vẫn mát dịu."),
+        ("Mr Bertram", "Good, light layers it is then.", "Được, vậy mặc vài lớp mỏng."),
+        # 42 closing on why weather questions matter
         ("Mr Bertram", "Why do simple weather questions like these matter so much anyway?", "Vậy vì sao những câu hỏi thời tiết đơn giản như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help us plan our whole day without any nasty surprises.", "Chúng giúp mình lên kế hoạch cả ngày mà không bị bất ngờ khó chịu."),
         ("Mr Bertram", "That is very true, I always feel more prepared now.", "Đúng vậy thật, giờ tôi luôn thấy chuẩn bị kỹ hơn."),

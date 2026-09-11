@@ -177,7 +177,31 @@ LESSON_0127 = {
         ("Ms Lan", "Could you spell your name for the volunteer sign-up sheet?", "Anh đánh vần tên cho tờ đăng ký tình nguyện viên được không?"),
         ("Mr Ignatius", "I-G-N-A-T-I-U-S, always the same letters.", "I-G-N-A-T-I-U-S, luôn giữ nguyên các chữ cái đó."),
         ("Ms Lan", "Thank you, welcome to the volunteer team.", "Cảm ơn anh, chào mừng anh vào đội tình nguyện."),
-        # 36 moving company booking, closing on why spelling matters
+        # 36 airport check-in counter
+        ("Ms Lan", "Could you spell your name for the airport check-in counter?", "Anh đánh vần tên cho quầy làm thủ tục sân bay được không?"),
+        ("Mr Ignatius", "Sure, I-G-N-A-T-I-U-S, matching my passport.", "Được, I-G-N-A-T-I-U-S, khớp với hộ chiếu."),
+        ("Ms Lan", "Perfect, it matches the booking exactly.", "Hoàn hảo, khớp đúng với đặt chỗ luôn."),
+        # 37 hair salon appointment booking
+        ("Mr Ignatius", "How do you spell your name for this hair salon booking?", "Tên chị đánh vần thế nào cho lịch hẹn tiệm tóc này?"),
+        ("Ms Lan", "It is L-A-N, a very short name.", "Là L-A-N, tên rất ngắn thôi."),
+        ("Mr Ignatius", "Easy to remember, booked for Saturday then.", "Dễ nhớ quá, vậy đặt lịch thứ Bảy nhé."),
+        # 38 blood donation registration
+        ("Ms Lan", "Could you spell your name for the blood donation registration?", "Anh đánh vần tên cho đăng ký hiến máu được không?"),
+        ("Mr Ignatius", "Of course, I-G-N-A-T-I-U-S, first time donating.", "Được chứ, I-G-N-A-T-I-U-S, lần đầu hiến máu."),
+        ("Ms Lan", "Thank you, and thank you for donating today.", "Cảm ơn anh, và cảm ơn anh đã hiến máu hôm nay."),
+        # 39 online shopping account sign-up
+        ("Mr Ignatius", "How is your name spelled for this online shopping account?", "Tên chị đánh vần thế nào cho tài khoản mua sắm trực tuyến này?"),
+        ("Ms Lan", "L-A-N, and my surname follows after that.", "L-A-N, họ của tôi theo ngay sau đó."),
+        ("Mr Ignatius", "Got it, account created successfully now.", "Rõ rồi, tài khoản đã tạo thành công."),
+        # 40 parking permit application
+        ("Ms Lan", "Could you spell your name for the parking permit application?", "Anh đánh vần tên cho đơn xin giấy phép đậu xe được không?"),
+        ("Mr Ignatius", "Certainly, I-G-N-A-T-I-U-S, same as my licence.", "Được chứ, I-G-N-A-T-I-U-S, giống trên bằng lái."),
+        ("Ms Lan", "Great, that matches our records perfectly.", "Tốt quá, khớp hoàn toàn với hồ sơ của chúng tôi."),
+        # 41 workshop registration desk
+        ("Mr Ignatius", "How do you spell your name for the workshop registration desk?", "Tên chị đánh vần thế nào cho bàn đăng ký hội thảo này?"),
+        ("Ms Lan", "It is L-A-N, please add me to today's session.", "Là L-A-N, làm ơn thêm tôi vào buổi hôm nay."),
+        ("Mr Ignatius", "Done, you are registered for the workshop now.", "Xong rồi, chị đã được đăng ký cho hội thảo."),
+        # 42 moving company booking, closing on why spelling matters
         ("Ms Lan", "How is your name spelled for this moving company booking?", "Tên anh đánh vần thế nào cho đặt dịch vụ chuyển nhà này?"),
         ("Mr Ignatius", "It is I-G-N-A-T-I-U-S, thank you for always checking.", "Là I-G-N-A-T-I-U-S, cảm ơn chị luôn kiểm tra kỹ."),
         ("Ms Lan", "Spelling a name correctly avoids so many mix-ups later.", "Đánh vần tên đúng giúp tránh nhiều nhầm lẫn về sau."),

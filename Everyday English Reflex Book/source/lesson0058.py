@@ -186,7 +186,35 @@ LESSON_0058 = {
         ("Ms Lan", "We need more string to tie up the plants.", "Mình cần thêm dây để buộc cây trong vườn."),
         ("Ms Denise", "I will pick some up at the hardware shop.", "Tôi sẽ mua ở cửa hàng dụng cụ."),
         ("Ms Lan", "Thanks, the plants really need support now.", "Cảm ơn chị, cây giờ cần được đỡ lắm rồi."),
-        # 38 closing - why noticing these needs matters
+        # 38 needing a spare key cut
+        ("Ms Lan", "We should get a spare key cut for the front door.", "Mình nên đúc thêm một chìa khóa dự phòng cho cửa trước."),
+        ("Ms Denise", "Good idea, I will visit the locksmith tomorrow.", "Ý hay đấy, mai tôi ghé thợ khóa."),
+        ("Ms Lan", "Thanks, it is safer to have two.", "Cảm ơn chị, có hai chìa thì an toàn hơn."),
+        # 39 needing new curtain hooks
+        ("Ms Denise", "A few curtain hooks have snapped off in the bedroom.", "Vài cái móc rèm trong phòng ngủ bị gãy rồi."),
+        ("Ms Lan", "I will buy a small pack of replacements.", "Tôi sẽ mua một gói móc thay thế nhỏ."),
+        ("Ms Denise", "Great, the curtain keeps sliding down otherwise.", "Tuyệt, không thì rèm cứ tuột xuống mãi."),
+        # 40 needing a fresh whiteboard marker
+        ("Ms Lan", "The whiteboard marker on the fridge has dried out.", "Bút viết bảng trên tủ lạnh khô mực rồi."),
+        ("Ms Denise", "I will grab a new one at the stationery shop.", "Tôi sẽ mua cái mới ở tiệm văn phòng phẩm."),
+        ("Ms Lan", "Thanks, we use it for the shopping list daily.", "Cảm ơn chị, mình dùng nó ghi danh sách mua sắm mỗi ngày."),
+        # 41 needing a new extension cord
+        ("Ms Denise", "This extension cord looks a bit frayed near the plug.", "Dây nối dài này trông hơi sờn gần ổ cắm."),
+        ("Ms Lan", "That sounds unsafe, let us replace it soon.", "Nghe không an toàn đâu, mình thay sớm đi."),
+        ("Ms Denise", "Agreed, I will buy a new one today.", "Đồng ý, hôm nay tôi mua cái mới."),
+        # 42 needing more furniture polish
+        ("Ms Lan", "We are nearly out of furniture polish.", "Dầu bóng đồ gỗ nhà mình sắp hết rồi."),
+        ("Ms Denise", "I will add it to the cleaning supplies list.", "Tôi thêm vào danh sách đồ dùng vệ sinh."),
+        ("Ms Lan", "Good, the table could really use a shine.", "Tốt, cái bàn cần được đánh bóng lại rồi."),
+        # 43 needing a new floor mop
+        ("Ms Denise", "This mop head is falling apart, we need a new one.", "Đầu cây lau nhà này rách rồi, mình cần cái mới."),
+        ("Ms Lan", "I will pick one up at the hardware shop.", "Tôi sẽ mua ở cửa hàng dụng cụ."),
+        ("Ms Denise", "Thanks, the floors need a proper clean.", "Cảm ơn chị, sàn nhà cần được lau sạch kỹ."),
+        # 44 needing a welcome mat sign replaced
+        ("Ms Lan", "Our little welcome sign by the door has faded badly.", "Tấm biển chào mừng nhỏ cạnh cửa nhà mình phai màu quá rồi."),
+        ("Ms Denise", "Let us find a nicer one this weekend.", "Cuối tuần này mình tìm mua cái đẹp hơn."),
+        ("Ms Lan", "Good idea, it is the first thing guests see.", "Ý hay đấy, đó là thứ đầu tiên khách nhìn thấy."),
+        # 45 closing - why noticing these needs matters
         ("Ms Denise", "It really helps when we notice what the home needs early.", "Việc mình để ý sớm những gì nhà cần thật sự hữu ích."),
         ("Ms Lan", "It does, we rarely run out of anything important that way.", "Đúng vậy, nhờ vậy mình hiếm khi hết thứ gì quan trọng."),
         ("Ms Denise", "That is exactly why I keep a running list on the fridge.", "Chính vì vậy mà tôi luôn để một danh sách trên tủ lạnh."),

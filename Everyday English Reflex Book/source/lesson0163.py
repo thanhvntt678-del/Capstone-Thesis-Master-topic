@@ -187,7 +187,31 @@ LESSON_0163 = {
         ("Ms Lan", "Do you know where the new book club member lives?", "Anh có biết thành viên mới câu lạc bộ sách sống ở đâu không vậy?"),
         ("Mr Tobias", "Yes, she lives right near the library.", "Có, chị ấy sống ngay gần thư viện."),
         ("Ms Lan", "Right near the library, no wonder she reads so much.", "Ngay gần thư viện, thảo nào chị ấy đọc nhiều sách vậy."),
-        # 36 closing on why knowing where people live matters
+        # 36 the new security guard at the building
+        ("Mr Tobias", "Do you know where the new security guard at our building lives?", "Bạn có biết bảo vệ mới của tòa nhà mình sống ở đâu không vậy?"),
+        ("Ms Lan", "Yes, he lives close to the train station.", "Có, anh ấy sống gần ga tàu."),
+        ("Mr Tobias", "Close to the train station, handy for the night shift.", "Gần ga tàu, tiện cho ca trực đêm."),
+        # 37 the swim coach
+        ("Ms Lan", "Do you know where the swim coach at the pool lives?", "Anh có biết huấn luyện viên bơi ở hồ bơi sống ở đâu không vậy?"),
+        ("Mr Tobias", "Yes, she lives right above the swimming pool.", "Có, chị ấy sống ngay trên hồ bơi."),
+        ("Ms Lan", "Right above the pool, she never has to be late.", "Ngay trên hồ bơi, chị ấy chẳng bao giờ trễ giờ."),
+        # 38 the new IT technician
+        ("Mr Tobias", "Do you know where the new IT technician at the office lives?", "Bạn có biết kỹ thuật viên IT mới ở văn phòng sống ở đâu không vậy?"),
+        ("Ms Lan", "Yes, he lives on Nguyen Hue street.", "Có, anh ấy sống trên đường Nguyễn Huệ."),
+        ("Mr Tobias", "Nguyen Hue street, not far from the office at all.", "Đường Nguyễn Huệ, vậy cũng không xa văn phòng."),
+        # 39 the night-shift cashier
+        ("Ms Lan", "Do you know where the night-shift cashier at the mini mart lives?", "Anh có biết thu ngân ca đêm ở cửa hàng tiện lợi sống ở đâu không vậy?"),
+        ("Mr Tobias", "Yes, she lives in the corner townhouse just past the mart.", "Có, chị ấy sống ở căn nhà phố góc ngay sau cửa hàng."),
+        ("Ms Lan", "The corner townhouse, a short walk to work for her.", "Căn nhà phố góc, vậy đi làm gần lắm với chị ấy."),
+        # 40 the volunteer coordinator
+        ("Mr Tobias", "Do you know where the volunteer coordinator from the charity lives?", "Bạn có biết điều phối viên tình nguyện của tổ chức từ thiện sống ở đâu không vậy?"),
+        ("Ms Lan", "Yes, he lives near the community garden.", "Có, anh ấy sống gần vườn cộng đồng."),
+        ("Mr Tobias", "Near the community garden, that fits his work well.", "Gần vườn cộng đồng, hợp với công việc anh ấy."),
+        # 41 the parking attendant
+        ("Ms Lan", "Do you know where the parking attendant from our garage lives?", "Anh có biết nhân viên trông xe ở bãi đỗ mình sống ở đâu không vậy?"),
+        ("Mr Tobias", "Yes, he lives right above the print shop nearby.", "Có, anh ấy sống ngay trên tiệm in gần đây."),
+        ("Ms Lan", "Above the print shop, I never knew that.", "Trên tiệm in, tôi chưa từng biết điều đó."),
+        # 42 closing on why knowing where people live matters
         ("Mr Tobias", "Why does knowing where people live matter so much anyway?", "Vậy vì sao biết nơi ở của mọi người lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us understand people's daily lives and makes it easier to stay connected.", "Nó giúp mình hiểu cuộc sống hằng ngày của mọi người và dễ giữ liên lạc hơn."),
         ("Mr Tobias", "That is very true, it really does make conversations feel more personal.", "Đúng vậy thật, nó thật sự làm cho cuộc trò chuyện trở nên gần gũi hơn."),

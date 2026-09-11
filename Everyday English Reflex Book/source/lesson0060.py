@@ -199,5 +199,33 @@ LESSON_0060 = {
         ("Ms Teresa", "I am only slightly thirsty, not urgent at all.", "Tôi chỉ hơi khát thôi, không gấp lắm đâu."),
         ("Ms Lan", "Still, a small sip now would not hurt.", "Dù vậy, nhấp một ngụm bây giờ cũng không sao."),
         ("Ms Teresa", "True, I will take a small sip now.", "Đúng vậy, tôi nhấp một ngụm ngay đây."),
+        # 39 hungry from the smell of fresh bread nearby
+        ("Ms Lan", "That bakery smell is drifting in and making me hungry.", "Mùi bánh từ tiệm bên kia bay vào làm tôi thấy đói."),
+        ("Ms Teresa", "It really is tempting, let us go buy a loaf.", "Nghe hấp dẫn thật, mình đi mua một ổ đi."),
+        ("Ms Lan", "Good plan, I cannot resist it anymore.", "Ý hay, tôi không cưỡng lại được nữa."),
+        # 40 thirsty after allergy medicine
+        ("Ms Teresa", "This allergy medicine always leaves my mouth so dry.", "Thuốc dị ứng này lúc nào cũng làm miệng tôi khô rát."),
+        ("Ms Lan", "Keep sipping water throughout the day then.", "Vậy cứ nhấp nước suốt cả ngày đi."),
+        ("Ms Teresa", "Good advice, I will keep my bottle close.", "Lời khuyên hay, tôi sẽ để chai nước gần bên."),
+        # 41 hungry waiting for delivery food that is late
+        ("Ms Lan", "Our delivery is so late, I am getting hungrier by the minute.", "Đồ giao hàng trễ quá, tôi càng lúc càng đói."),
+        ("Ms Teresa", "Have a piece of fruit while we wait.", "Ăn tạm miếng trái cây trong lúc chờ đi."),
+        ("Ms Lan", "Good idea, that should hold me over.", "Ý hay, ăn tạm cũng đỡ."),
+        # 42 thirsty after a fever
+        ("Ms Teresa", "I still feel so thirsty after that fever last night.", "Sau cơn sốt tối qua tôi vẫn thấy khát nước quá."),
+        ("Ms Lan", "Drink slowly, your body needs to recover fluids.", "Uống từ từ thôi, cơ thể cần bù nước lại."),
+        ("Ms Teresa", "Thank you, I will take it slow.", "Cảm ơn chị, tôi sẽ uống từ từ."),
+        # 43 hungry after donating blood
+        ("Ms Lan", "I feel quite hungry after donating blood this morning.", "Sáng nay hiến máu xong tôi thấy đói lắm."),
+        ("Ms Teresa", "Here, eat this biscuit, it will help you recover.", "Đây, ăn cái bánh quy này đi, sẽ giúp chị hồi phục."),
+        ("Ms Lan", "Thank you, that is exactly what I needed.", "Cảm ơn chị, đúng cái tôi cần lúc này."),
+        # 44 thirsty from eating dry crackers
+        ("Ms Teresa", "These dry crackers are making me quite thirsty.", "Mấy cái bánh quy khô này làm tôi khát nước quá."),
+        ("Ms Lan", "Here, wash it down with some water.", "Đây, uống nước để trôi bớt đi."),
+        ("Ms Teresa", "Much better now, thank you.", "Giờ đỡ hơn nhiều rồi, cảm ơn chị."),
+        # 45 hungry from missing snack time
+        ("Ms Lan", "I missed my usual snack time, and now I feel it.", "Tôi lỡ mất giờ ăn nhẹ thường ngày, giờ thấy đói rõ luôn."),
+        ("Ms Teresa", "There is still some fruit left in the bowl.", "Trong rổ vẫn còn ít trái cây đấy."),
+        ("Ms Lan", "Perfect, that will tide me over nicely.", "Tuyệt, ăn tạm vậy cũng đỡ."),
     ],
 }

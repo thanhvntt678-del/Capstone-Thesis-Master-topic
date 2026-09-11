@@ -202,6 +202,22 @@ LESSON_0143 = {
         ("Ms Lan", "Does the usual weekend call to grandmother need planning today?", "Cuộc gọi cuối tuần quen cho bà hôm nay có cần lên kế hoạch không vậy?"),
         ("Mr Alaric", "Yes, let us pick a time everyone is free.", "Có, mình chọn giờ mà cả nhà đều rảnh."),
         ("Ms Lan", "Sunday afternoon usually works best for us.", "Chiều Chủ Nhật thường hợp nhất với mình."),
+        # 36 if the call with the vet needs scheduling
+        ("Ms Lan", "Does the call with the vet need scheduling this week?", "Cuộc gọi với bác sĩ thú y tuần này có cần đặt lịch không vậy?"),
+        ("Mr Alaric", "Yes, the cat's check-up is already overdue.", "Có, lịch khám của con mèo đã trễ rồi."),
+        ("Ms Lan", "I will call the clinic right after breakfast.", "Tôi gọi phòng khám ngay sau bữa sáng."),
+        # 37 if a three-way call needs setting up for the project team
+        ("Mr Alaric", "Does a three-way call need setting up for the project team?", "Cuộc gọi ba bên cho nhóm dự án có cần thiết lập không vậy?"),
+        ("Ms Lan", "Yes, both teammates want to join at once.", "Có, cả hai đồng nghiệp đều muốn tham gia cùng lúc."),
+        ("Mr Alaric", "I will add the second line now.", "Tôi thêm đường dây thứ hai ngay."),
+        # 38 if the phone contract renewal call needs making this month
+        ("Ms Lan", "Does the phone contract renewal call need making this month?", "Cuộc gọi gia hạn hợp đồng điện thoại tháng này có cần gọi không vậy?"),
+        ("Mr Alaric", "Yes, the current plan expires next Monday.", "Có, gói hiện tại hết hạn thứ Hai tới."),
+        ("Ms Lan", "I will call the provider tomorrow morning.", "Sáng mai tôi gọi nhà mạng ngay."),
+        # 39 if the call about the shared fence needs to happen soon
+        ("Mr Alaric", "Does the call about the shared fence need to happen soon?", "Cuộc gọi về hàng rào chung có cần thực hiện sớm không vậy?"),
+        ("Ms Lan", "Yes, the neighbour asked us to call this week.", "Có, hàng xóm nhờ gọi trong tuần này."),
+        ("Mr Alaric", "I will give them a call this evening.", "Tối nay tôi gọi cho họ ngay."),
         # 36 closing on why routine phone-call needs matter
         ("Mr Alaric", "Why does keeping up with these small phone-call routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu điện thoại nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us connected with everyone without important calls slipping through the cracks.", "Nó giúp mình giữ liên lạc với mọi người mà không bỏ sót cuộc gọi quan trọng nào."),

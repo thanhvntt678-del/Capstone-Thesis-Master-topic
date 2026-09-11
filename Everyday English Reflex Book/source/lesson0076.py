@@ -184,5 +184,33 @@ LESSON_0076 = {
         ("Ms Doris", "Could you close the front gate before we go to bed?", "Chị đóng cổng trước giúp tôi trước khi mình đi ngủ được không?"),
         ("Ms Lan", "Sure, I will lock it up now.", "Được, tôi khóa lại ngay đây."),
         ("Ms Doris", "Thank you, now we can sleep soundly.", "Cảm ơn chị, giờ mình ngủ ngon rồi."),
+        # 37 open the washing machine door
+        ("Ms Lan", "Could you open the washing machine door? It seems jammed.", "Chị mở giúp tôi cửa máy giặt được không? Nó có vẻ bị kẹt."),
+        ("Ms Doris", "Sure, you usually have to press this small latch first.", "Được, chị phải bấm cái chốt nhỏ này trước mới mở được."),
+        ("Ms Lan", "Thank you, I never knew that trick.", "Cảm ơn chị, tôi chưa biết mẹo đó."),
+        # 38 close the washing machine door
+        ("Ms Doris", "Could you close the washing machine door before I start it?", "Chị đóng giúp tôi cửa máy giặt trước khi tôi bật máy được không?"),
+        ("Ms Lan", "Sure, it is shut tight now.", "Được, đóng chặt rồi đó."),
+        ("Ms Doris", "Thank you, now the cycle can begin.", "Cảm ơn chị, giờ có thể chạy máy rồi."),
+        # 39 open a childproof medicine bottle
+        ("Ms Lan", "Could you open this medicine bottle? The childproof cap will not budge.", "Chị mở giúp tôi chai thuốc này được không? Nắp chống trẻ em cứng quá."),
+        ("Ms Doris", "Sure, you have to push down and twist at the same time.", "Được, phải vừa ấn xuống vừa xoay cùng lúc."),
+        ("Ms Lan", "Thank you, I kept forgetting that part.", "Cảm ơn chị, tôi cứ quên mất chỗ đó."),
+        # 40 close the toolbox
+        ("Ms Doris", "Could you close the toolbox? Some screws might fall out.", "Chị đóng giúp tôi hộp đồ nghề được không? Mấy con ốc có thể rớt ra."),
+        ("Ms Lan", "Sure, both latches are clipped shut now.", "Được, cả hai khóa đều gài chặt rồi."),
+        ("Ms Doris", "Thank you, safer to carry it that way.", "Cảm ơn chị, xách như vậy an toàn hơn."),
+        # 41 open the pantry door
+        ("Ms Lan", "Could you open the pantry door? My arms are full of dishes.", "Chị mở giúp tôi cửa tủ đồ khô được không? Tay tôi đang bưng đầy chén dĩa."),
+        ("Ms Doris", "Sure, here, go ahead and put those down.", "Được, chị cứ đặt xuống trước đi."),
+        ("Ms Lan", "Thank you, that was exactly what I needed.", "Cảm ơn chị, đúng như tôi cần luôn."),
+        # 42 explaining why opening or closing things properly matters
+        ("Ms Doris", "Why do you think opening or closing things properly matters so much at home?", "Chị nghĩ vì sao mở hay đóng đồ đạc đúng cách lại quan trọng vậy trong nhà?"),
+        ("Ms Lan", "Because a door left open or a jar left loose can cause real trouble later.", "Vì một cánh cửa bỏ mở hay cái lọ đóng lỏng có thể gây rắc rối thật sự về sau."),
+        ("Ms Doris", "True, small habits like that keep the whole house running smoothly.", "Đúng vậy, những thói quen nhỏ đó giúp cả nhà vận hành trơn tru."),
+        # 43 explaining why helping with a stuck door or jar matters
+        ("Ms Lan", "Why do you think helping with a stuck door or jar matters so much too?", "Chị nghĩ vì sao giúp mở một cánh cửa hay cái lọ bị kẹt cũng quan trọng vậy?"),
+        ("Ms Doris", "Because it saves the other person from struggling alone over something small.", "Vì nó giúp người kia khỏi phải vật lộn một mình với chuyện nhỏ nhặt."),
+        ("Ms Lan", "Exactly, and it makes living together feel much easier.", "Chính xác, và nó làm việc sống chung với nhau dễ chịu hơn nhiều."),
     ],
 }

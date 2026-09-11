@@ -187,5 +187,33 @@ LESSON_0062 = {
         ("Ms Melissa", "Can you help me button this collar? It is a bit tight.", "Chị cài giúp tôi cổ áo này được không? Hơi chật quá."),
         ("Ms Lan", "There, that is done, how does it feel?", "Xong rồi đó, chị thấy sao?"),
         ("Ms Melissa", "Much better now, thank you for helping.", "Giờ thoải mái hơn nhiều, cảm ơn chị đã giúp."),
+        # 37 sizing kids' shoes
+        ("Ms Lan", "Could you help me size these shoes for my son?", "Chị giúp tôi chọn size giày này cho con trai tôi được không?"),
+        ("Ms Melissa", "Let his toes touch the front, there should be a thumb's width left.", "Để ngón chân bé chạm phía trước, còn dư khoảng một ngón tay cái."),
+        ("Ms Lan", "Good tip, that fits just about right then.", "Mách hay đấy, vậy size này vừa rồi."),
+        # 38 finding a matching pair of socks
+        ("Ms Melissa", "Can you help me find the other sock that matches this one?", "Chị giúp tôi tìm chiếc tất còn lại hợp với chiếc này được không?"),
+        ("Ms Lan", "It is stuck inside this other rolled-up pair.", "Nó bị kẹt trong đôi tất cuộn khác đây nè."),
+        ("Ms Melissa", "Found it, thank you for spotting that.", "Tìm thấy rồi, cảm ơn chị đã phát hiện."),
+        # 39 removing a price tag
+        ("Ms Lan", "Could you help me remove this price tag? It will not come off.", "Chị gỡ giúp tôi cái nhãn giá này được không? Nó không chịu bong ra."),
+        ("Ms Melissa", "Let me try cutting the little plastic thread here.", "Để tôi thử cắt sợi nhựa nhỏ này."),
+        ("Ms Lan", "Thank you, it came right off.", "Cảm ơn chị, gỡ ra được rồi."),
+        # 40 finding a spare button
+        ("Ms Melissa", "Do we have a spare button that matches this jacket?", "Nhà mình có nút dự phòng hợp với áo khoác này không?"),
+        ("Ms Lan", "There is a small bag of spares in the sewing box.", "Có một túi nút dự phòng nhỏ trong hộp đồ may vá."),
+        ("Ms Melissa", "Perfect, that will match nicely.", "Tuyệt, cái này hợp lắm."),
+        # 41 choosing a cardigan
+        ("Ms Lan", "Could you help me choose a cardigan for the cool evening?", "Chị giúp tôi chọn áo cardigan cho buổi tối se lạnh được không?"),
+        ("Ms Melissa", "This beige one goes with almost anything.", "Cái màu be này hợp với hầu như mọi thứ đấy."),
+        ("Ms Lan", "Great, I will grab that one then.", "Tốt, tôi lấy cái đó vậy."),
+        # 42 finding flip flops for the pool
+        ("Ms Melissa", "Can you help me find flip flops for the pool this weekend?", "Chị giúp tôi tìm dép lê để đi hồ bơi cuối tuần này được không?"),
+        ("Ms Lan", "These rubber ones by the door should work well.", "Đôi dép cao su gần cửa này dùng tốt đấy."),
+        ("Ms Melissa", "Perfect, I will pack those now.", "Tuyệt, tôi xếp vào vali ngay."),
+        # 43 fixing a broken sandal strap
+        ("Ms Lan", "Could you help me fix this broken sandal strap?", "Chị sửa giúp tôi quai dép bị đứt này được không?"),
+        ("Ms Melissa", "I have some strong glue that should hold it.", "Tôi có keo dán chắc, chắc sẽ dính lại được."),
+        ("Ms Lan", "Thank you, I really need these for tomorrow.", "Cảm ơn chị, mai tôi cần dùng đôi này lắm."),
     ],
 }

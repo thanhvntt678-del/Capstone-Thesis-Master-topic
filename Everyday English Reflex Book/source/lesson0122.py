@@ -193,7 +193,31 @@ LESSON_0122 = {
         ("Ms Lan", "What time do you usually check the weather forecast?", "Chị thường kiểm tra dự báo thời tiết lúc mấy giờ?"),
         ("Ms Felicity", "Right after I wake up, before getting dressed.", "Ngay sau khi thức dậy, trước khi mặc đồ."),
         ("Ms Lan", "That is a smart way to plan the outfit.", "Đó là cách hay để chọn trang phục."),
-        # 36 closing on why routine questions matter
+        # 36 who cooks dinner on which nights
+        ("Ms Lan", "Who cooks dinner on which nights of the week?", "Ai nấu bữa tối vào những tối nào trong tuần vậy?"),
+        ("Ms Felicity", "I cook on weekdays, you cook on weekends.", "Tôi nấu ngày thường, chị nấu cuối tuần."),
+        ("Ms Lan", "That sounds like a fair split to me.", "Chia vậy nghe hợp lý đấy."),
+        # 37 what time the door gets locked at night
+        ("Ms Felicity", "What time does the front door get locked at night?", "Cửa chính khóa lúc mấy giờ tối vậy?"),
+        ("Ms Lan", "I usually lock it around eleven.", "Tôi thường khóa vào khoảng mười một giờ."),
+        ("Ms Felicity", "Good, I will be home before that.", "Tốt, tôi sẽ về nhà trước giờ đó."),
+        # 38 how often the fridge gets cleaned
+        ("Ms Lan", "How often do we clean out the fridge?", "Mình dọn tủ lạnh bao lâu một lần vậy?"),
+        ("Ms Felicity", "We clean it out once every two weeks.", "Bọn mình dọn hai tuần một lần."),
+        ("Ms Lan", "Alright, let us do it this weekend.", "Được, vậy cuối tuần này mình dọn."),
+        # 39 who takes out the recycling
+        ("Ms Felicity", "Who takes out the recycling each week?", "Ai đem rác tái chế đi mỗi tuần vậy?"),
+        ("Ms Lan", "I usually take it out on Wednesday mornings.", "Tôi thường đem đi vào sáng thứ Tư."),
+        ("Ms Felicity", "Good, I will remind you if I forget.", "Tốt, nếu tôi quên tôi sẽ nhắc chị."),
+        # 40 what time lights go off at night
+        ("Ms Lan", "What time do the living room lights usually go off?", "Đèn phòng khách thường tắt lúc mấy giờ vậy?"),
+        ("Ms Felicity", "They go off around midnight most nights.", "Hầu hết các tối thì tắt vào khoảng nửa đêm."),
+        ("Ms Lan", "Good to know, I will turn them off then.", "Biết vậy tốt rồi, tôi sẽ tắt lúc đó."),
+        # 41 how the grocery list gets made together
+        ("Ms Felicity", "How do we usually make the grocery list together?", "Mình thường lập danh sách đi chợ chung thế nào vậy?"),
+        ("Ms Lan", "We add items to a shared note on our phones.", "Bọn mình thêm món vào ghi chú chung trên điện thoại."),
+        ("Ms Felicity", "That works well, I will add milk now.", "Cách đó hiệu quả đấy, tôi sẽ thêm sữa ngay."),
+        # 42 closing on why routine questions matter
         ("Ms Felicity", "Why do simple questions about daily routines matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về nhịp sinh hoạt hằng ngày lại quan trọng đến thế?"),
         ("Ms Lan", "They help roommates like us stay in sync without any friction.", "Chúng giúp bạn cùng phòng như mình sống hài hòa mà không va chạm."),
         ("Ms Felicity", "That is very true, I appreciate learning yours.", "Đúng vậy thật, tôi rất trân trọng khi biết nhịp sinh hoạt của chị."),

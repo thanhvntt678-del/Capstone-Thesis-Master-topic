@@ -184,5 +184,37 @@ LESSON_0074 = {
         ("Ms Lan", "Oh, sorry, I did not see you were already in line.", "Ôi, xin lỗi, tôi không thấy chị đã đứng xếp hàng."),
         ("Ms Irene", "That is alright, please go ahead of me.", "Không sao đâu, chị cứ đi trước đi."),
         ("Ms Lan", "Thank you, I appreciate you letting me go first.", "Cảm ơn chị đã nhường tôi đi trước."),
+        # 36 apologising for sending a message to the wrong person
+        ("Ms Irene", "Sorry, I think I sent that message to the wrong person by mistake.", "Xin lỗi, hình như tôi gửi nhầm tin nhắn đó cho người khác rồi."),
+        ("Ms Lan", "No worries, please just resend it to me directly.", "Không sao đâu, chị gửi lại thẳng cho tôi là được."),
+        ("Ms Irene", "Thank you, I will send it to you right now.", "Cảm ơn chị, tôi gửi lại ngay bây giờ đây."),
+        # 37 apologising for mispronouncing someone's name
+        ("Ms Lan", "I am sorry, I think I said your name wrong just now.", "Xin lỗi, hình như lúc nãy tôi đọc sai tên chị rồi."),
+        ("Ms Irene", "It is fine, my name is often mispronounced.", "Không sao đâu, tên tôi hay bị đọc sai lắm."),
+        ("Ms Lan", "Thank you, please correct me if I say it wrong again.", "Cảm ơn chị, lần sau đọc sai thì chị cứ sửa cho tôi nhé."),
+        # 38 apologising for showing up unprepared to a meeting
+        ("Ms Irene", "Sorry, I did not have time to prepare any notes for this.", "Xin lỗi, tôi chưa kịp chuẩn bị ghi chú gì cho buổi này."),
+        ("Ms Lan", "That is alright, we can talk through it together.", "Không sao đâu, mình cùng bàn qua với nhau là được."),
+        ("Ms Irene", "Thank you, I appreciate you being so flexible.", "Cảm ơn chị, chị linh hoạt như vậy tôi thấy nhẹ nhõm quá."),
+        # 39 apologising in advance for a future inconvenience
+        ("Ms Lan", "I am sorry in advance, I might need to leave the meeting early tomorrow.", "Xin lỗi trước nhé, có thể mai tôi phải ra về sớm giữa buổi họp."),
+        ("Ms Irene", "No problem, thank you for letting me know now.", "Không sao đâu, cảm ơn chị đã báo trước cho tôi biết."),
+        ("Ms Lan", "Thank you, I did not want to surprise you later.", "Cảm ơn chị, tôi không muốn để chị bất ngờ về sau."),
+        # 40 apologising for something that was not entirely your fault
+        ("Ms Irene", "I am sorry the delivery was late, though it was not really my fault.", "Xin lỗi vì đơn hàng giao trễ, dù thật ra không hẳn lỗi tại tôi."),
+        ("Ms Lan", "I understand, these delays happen sometimes.", "Tôi hiểu mà, chuyện trễ hẹn đôi khi vẫn xảy ra thôi."),
+        ("Ms Irene", "Thank you for not blaming me for it.", "Cảm ơn chị đã không đổ lỗi cho tôi."),
+        # 41 apologising for repeating the same small mistake twice
+        ("Ms Lan", "I am sorry, I made that same filing mistake again.", "Xin lỗi, tôi lại lỡ mắc đúng lỗi sắp xếp hồ sơ đó lần nữa."),
+        ("Ms Irene", "It is okay, let us fix it once and for all now.", "Không sao đâu, mình sửa dứt điểm luôn bây giờ nhé."),
+        ("Ms Lan", "Thank you, I will double-check next time.", "Cảm ơn chị, lần sau tôi sẽ kiểm tra kỹ hơn."),
+        # 42 explaining why saying sorry sincerely matters
+        ("Ms Irene", "Why do you think saying sorry sincerely matters so much?", "Chị nghĩ vì sao xin lỗi chân thành lại quan trọng đến vậy?"),
+        ("Ms Lan", "Because it shows the other person that you truly respect their feelings.", "Vì nó cho người kia thấy mình thật sự tôn trọng cảm xúc của họ."),
+        ("Ms Irene", "That makes sense, a sincere apology really does rebuild trust.", "Nghe hợp lý đấy, lời xin lỗi chân thành thật sự giúp lấy lại niềm tin."),
+        # 43 explaining why accepting an apology kindly matters
+        ("Ms Lan", "Why do you think accepting an apology kindly matters too?", "Chị nghĩ vì sao chấp nhận lời xin lỗi tử tế cũng quan trọng vậy?"),
+        ("Ms Irene", "Because it helps both people move forward without any bad feelings.", "Vì nó giúp cả hai bước tiếp mà không còn vướng bận gì trong lòng."),
+        ("Ms Lan", "I agree, a kind response makes the whole workplace feel warmer.", "Tôi đồng ý, một câu đáp lại tử tế làm cả nơi làm việc ấm áp hơn hẳn."),
     ],
 }

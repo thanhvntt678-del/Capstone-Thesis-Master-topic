@@ -188,5 +188,29 @@ LESSON_0100 = {
         ("Ms Antoinette", "That announcement was in another language, I did not catch it.", "Thông báo đó bằng ngôn ngữ khác, tôi không nghe kịp."),
         ("Ms Lan", "Let us check the screen for the English translation.", "Mình xem màn hình để có bản dịch tiếng Anh đi."),
         ("Ms Antoinette", "Thanks, the screen should make it clearer.", "Cảm ơn, màn hình sẽ giúp rõ hơn."),
+        # 37 the doors closing on a bag while boarding
+        ("Ms Lan", "The doors just closed right on my bag as I was boarding.", "Cửa tàu vừa đóng ngay vào túi tôi lúc tôi lên."),
+        ("Ms Antoinette", "Pull it free gently, the doors should reopen automatically.", "Kéo nhẹ ra đi, cửa sẽ tự mở lại thôi."),
+        ("Ms Lan", "It came loose, thank you for the quick advice.", "Ra rồi, cảm ơn chị đã chỉ nhanh vậy."),
+        # 38 a weekday-only ticket used on the weekend
+        ("Ms Antoinette", "This ticket is only valid on weekdays, not today.", "Vé này chỉ có giá trị ngày thường thôi, không phải hôm nay."),
+        ("Ms Lan", "Oh no, I did not check that, let me buy a new one.", "Ôi không, tôi không để ý, để tôi mua vé mới."),
+        ("Ms Antoinette", "Good idea, the machine is right over there.", "Ý hay, máy bán vé ở ngay đằng kia."),
+        # 39 confusion about which cars to stand near
+        ("Ms Lan", "I am not sure if we should stand near the front cars or the back ones.", "Tôi không chắc mình nên đứng gần toa đầu hay toa cuối."),
+        ("Ms Antoinette", "The front cars are shorter here, let us head to the middle.", "Toa đầu ở đây ngắn hơn, mình ra giữa đi."),
+        ("Ms Lan", "Good idea, that should be safer for boarding.", "Ý hay, vậy an toàn hơn khi lên tàu."),
+        # 40 an announcement about doors opening on the other side
+        ("Ms Antoinette", "The announcement said the doors will open on the other side this time.", "Thông báo nói lần này cửa sẽ mở ở phía bên kia."),
+        ("Ms Lan", "Let us move over to that side right now.", "Mình qua phía đó ngay đi."),
+        ("Ms Antoinette", "Good thing we heard that in time.", "May mà mình nghe kịp lúc."),
+        # 41 a discount fare needing ID that was not brought
+        ("Ms Lan", "I forgot to bring my ID for the senior discount fare.", "Tôi quên mang giấy tờ để được giảm giá vé cao tuổi."),
+        ("Ms Antoinette", "Let us just pay the full fare for now.", "Vậy mình trả nguyên giá tạm thời đi."),
+        ("Ms Lan", "Good idea, I will bring it next time.", "Ý hay, lần sau tôi mang theo."),
+        # 42 a replacement bus service during works
+        ("Ms Antoinette", "There is a replacement bus instead of the train today.", "Hôm nay có xe buýt thay thế thay vì tàu."),
+        ("Ms Lan", "Let us find where the replacement bus stop is.", "Mình tìm trạm xe buýt thay thế ở đâu đi."),
+        ("Ms Antoinette", "Good idea, it should be just outside the station.", "Ý hay, chắc nó ở ngay ngoài ga thôi."),
     ],
 }

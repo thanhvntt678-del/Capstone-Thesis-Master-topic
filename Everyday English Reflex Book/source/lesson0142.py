@@ -198,6 +198,22 @@ LESSON_0142 = {
         ("Ms Lan", "Does the usual Friday wrap-up need preparing today?", "Buổi tổng kết thứ Sáu quen hôm nay có cần chuẩn bị không vậy?"),
         ("Ms Cressida", "Yes, the team likes a short summary each week.", "Có, cả nhóm thích có bản tóm tắt ngắn mỗi tuần."),
         ("Ms Lan", "I will start drafting it this afternoon.", "Chiều nay tôi bắt đầu soạn."),
+        # 36 if the business cards need reordering
+        ("Ms Lan", "Do the business cards need reordering this month?", "Danh thiếp tháng này có cần đặt in lại không vậy?"),
+        ("Ms Cressida", "Yes, the box on my desk is almost empty.", "Có, hộp trên bàn tôi gần hết rồi."),
+        ("Ms Lan", "Good, I will reorder a fresh box right away.", "Tốt, tôi đặt ngay một hộp mới."),
+        # 37 if the breakroom fridge needs a clean-out today
+        ("Ms Cressida", "Does the breakroom fridge need a clean-out today?", "Tủ lạnh phòng nghỉ hôm nay có cần dọn không vậy?"),
+        ("Ms Lan", "Yes, some old containers are starting to smell.", "Có, vài hộp cũ bắt đầu bốc mùi rồi."),
+        ("Ms Cressida", "I will clear it out before lunch.", "Tôi dọn trước giờ ăn trưa nhé."),
+        # 38 if the visitor Wi-Fi password needs sharing
+        ("Ms Lan", "Does the visitor need the Wi-Fi password shared before the meeting?", "Khách có cần chia sẻ mật khẩu Wi-Fi trước buổi họp không vậy?"),
+        ("Ms Cressida", "Yes, she is waiting at the front desk right now.", "Có, cô ấy đang đợi ở quầy lễ tân."),
+        ("Ms Lan", "I will print it and bring it to her.", "Tôi in ra và mang xuống cho cô ấy ngay."),
+        # 39 if the meeting minutes need typing up tonight
+        ("Ms Cressida", "Do the meeting minutes need typing up tonight?", "Biên bản họp tối nay có cần đánh máy không vậy?"),
+        ("Ms Lan", "Yes, the manager wants them by tomorrow morning.", "Có, sếp muốn có trước sáng mai."),
+        ("Ms Cressida", "Good, I will help proofread once you finish.", "Tốt, xong tôi giúp đọc lại cho."),
         # 36 closing on why routine workplace needs matter
         ("Ms Cressida", "Why does keeping up with these small workplace routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu công sở nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps the whole team working smoothly without small tasks piling up unnoticed.", "Nó giúp cả nhóm làm việc trôi chảy mà không để việc nhỏ dồn lại lúc nào không hay."),

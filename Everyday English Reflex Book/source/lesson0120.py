@@ -191,7 +191,31 @@ LESSON_0120 = {
         ("Ms Lan", "How do people stay cool while walking here in summer?", "Ở đây người ta giữ mát khi đi bộ vào mùa hè thế nào?"),
         ("Ms Theodora", "Most walk early before the sun gets strong.", "Hầu hết đi sớm trước khi nắng gắt."),
         ("Ms Lan", "Good idea, let us start earlier tomorrow.", "Ý hay, mai mình bắt đầu sớm hơn đi."),
-        # 36 closing on why walking questions matter
+        # 36 asking if there are public restrooms along the route
+        ("Ms Lan", "Are there any public restrooms along this route?", "Trên tuyến đường này có nhà vệ sinh công cộng không?"),
+        ("Ms Theodora", "Yes, there is one near the halfway point.", "Có, có một cái gần điểm giữa đường."),
+        ("Ms Lan", "Good, that is useful for a longer walk.", "Tốt, vậy hữu ích cho chuyến đi dài."),
+        # 37 asking if there is a water fountain to refill a bottle
+        ("Ms Theodora", "Is there a water fountain to refill a bottle?", "Có vòi nước để đổ đầy bình nước không?"),
+        ("Ms Lan", "Yes, there is one right by the park entrance.", "Có, có một cái ngay lối vào công viên."),
+        ("Ms Theodora", "Perfect, I will fill mine there.", "Hoàn hảo, tôi sẽ đổ đầy bình ở đó."),
+        # 38 asking if the trail has clear signposts
+        ("Ms Lan", "Does this trail have clear signposts along the way?", "Tuyến đường mòn này có biển chỉ dẫn rõ ràng không?"),
+        ("Ms Theodora", "Yes, there are signs at every turn.", "Có, mỗi chỗ rẽ đều có biển báo."),
+        ("Ms Lan", "Good, then it is hard to get lost.", "Tốt, vậy khó mà bị lạc."),
+        # 39 asking if a walking group meets nearby
+        ("Ms Theodora", "Does a walking group meet anywhere near here?", "Có nhóm đi bộ nào họp gần đây không?"),
+        ("Ms Lan", "Yes, a small group meets by the fountain on Sundays.", "Có, một nhóm nhỏ họp gần đài phun nước vào Chủ nhật."),
+        ("Ms Theodora", "That sounds nice, I might join them.", "Nghe hay đấy, có khi tôi sẽ tham gia."),
+        # 40 asking if mobile signal works the whole way
+        ("Ms Lan", "Does mobile signal work along the whole route?", "Sóng điện thoại có phủ suốt cả tuyến đường không?"),
+        ("Ms Theodora", "Mostly yes, except in the lower valley section.", "Phần lớn là có, trừ đoạn thung lũng thấp."),
+        ("Ms Lan", "Good to know before heading down there.", "Biết vậy tốt trước khi xuống đoạn đó."),
+        # 41 asking if there is a map posted at the trailhead
+        ("Ms Theodora", "Is there a map posted at the trailhead?", "Ở đầu tuyến đường mòn có bảng bản đồ không?"),
+        ("Ms Lan", "Yes, a large map board stands right there.", "Có, có một bảng bản đồ lớn đứng ngay đó."),
+        ("Ms Theodora", "Great, I will check it before we start.", "Tốt quá, tôi sẽ xem trước khi mình bắt đầu."),
+        # 42 closing on why walking questions matter
         ("Ms Theodora", "Why do simple questions about walking routes matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về tuyến đi bộ lại quan trọng đến thế?"),
         ("Ms Lan", "They help us plan safer, more comfortable walks every time.", "Chúng giúp mình lên kế hoạch đi bộ an toàn và thoải mái hơn mỗi lần."),
         ("Ms Theodora", "That is very true, I will plan more carefully from now on.", "Đúng vậy thật, từ giờ tôi sẽ lên kế hoạch kỹ hơn."),

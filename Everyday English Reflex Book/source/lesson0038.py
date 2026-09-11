@@ -189,7 +189,35 @@ LESSON_0038 = {
         ("Ms Lan", "What a beautiful wedding, goodbye, Linda, safe drive home.", "Một đám cưới thật đẹp, tạm biệt chị Linda, lái xe về an toàn nhé."),
         ("Ms Linda", "Goodbye, Lan, thank you for celebrating with us.", "Tạm biệt chị Lan, cảm ơn chị đã ăn mừng cùng bọn tôi."),
         ("Ms Lan", "It was truly an honour, goodbye for now.", "Đó thật sự là một niềm vinh dự, tạm biệt nhé."),
-        # 38 closing - why saying goodbye well matters
+        # 38 a goodbye after a picnic in the park
+        ("Ms Lan", "This picnic was lovely, goodbye, Linda, let us pack up.", "Buổi picnic thật vui, tạm biệt chị Linda, mình dọn đồ thôi."),
+        ("Ms Linda", "Goodbye, Lan, thanks for bringing the sandwiches.", "Tạm biệt chị Lan, cảm ơn chị đã mang bánh sandwich."),
+        ("Ms Lan", "My pleasure, same spot again next month?", "Không có gì, tháng sau lại gặp chỗ này nhé?"),
+        # 39 a goodbye leaving a gym class
+        ("Ms Linda", "Great workout today, goodbye, Lan, see you at the next class.", "Hôm nay tập tốt lắm, tạm biệt chị Lan, buổi tập tới gặp lại."),
+        ("Ms Lan", "Goodbye, Linda, my legs are definitely feeling it now.", "Tạm biệt chị Linda, chân tôi giờ mỏi rõ luôn."),
+        ("Ms Linda", "Ha, mine too, rest up well tonight.", "Ha, tôi cũng vậy, tối nay nghỉ ngơi thật tốt nhé."),
+        # 40 a goodbye when dropped off by car
+        ("Ms Lan", "Thanks for the ride, goodbye, Linda, drive home safely.", "Cảm ơn chị đã chở tôi, tạm biệt chị Linda, lái xe về cẩn thận."),
+        ("Ms Linda", "Goodbye, Lan, happy to drop you off anytime.", "Tạm biệt chị Lan, lúc nào cũng sẵn lòng chở chị."),
+        ("Ms Lan", "You are so kind, see you this weekend.", "Chị tốt bụng quá, cuối tuần này gặp lại nhé."),
+        # 41 a goodbye after venting about a bad day on the phone
+        ("Ms Linda", "Thanks for listening to me vent, goodbye, Lan.", "Cảm ơn chị đã nghe tôi trút bầu tâm sự, tạm biệt chị Lan."),
+        ("Ms Lan", "Goodbye, Linda, I hope tomorrow treats you better.", "Tạm biệt chị Linda, mong ngày mai tốt hơn với chị."),
+        ("Ms Linda", "Thank you, that really means a lot to me.", "Cảm ơn chị, điều đó có ý nghĩa lớn với tôi."),
+        # 42 a goodbye before a nap
+        ("Ms Lan", "I am going to take a short nap now, goodbye for a bit.", "Tôi sẽ chợp mắt một chút, tạm biệt tạm thời nhé."),
+        ("Ms Linda", "Goodbye, Lan, sleep tight, I will text you later.", "Tạm biệt chị Lan, ngủ ngon nhé, lát nữa tôi nhắn tin."),
+        ("Ms Lan", "Sounds good, talk to you when I wake up.", "Nghe hay đấy, dậy rồi tôi nói chuyện tiếp."),
+        # 43 a goodbye at a graduation ceremony
+        ("Ms Linda", "Congratulations on graduating, goodbye for now, Lan.", "Chúc mừng chị tốt nghiệp, tạm biệt nhé, chị Lan."),
+        ("Ms Lan", "Goodbye, Linda, thank you for coming to celebrate with me.", "Tạm biệt chị Linda, cảm ơn chị đã đến chung vui với tôi."),
+        ("Ms Linda", "Of course, I am so proud of you.", "Tất nhiên rồi, tôi tự hào về chị lắm."),
+        # 44 a goodbye after volunteering together
+        ("Ms Lan", "That was a rewarding day of volunteering, goodbye, Linda.", "Đó là một ngày làm tình nguyện ý nghĩa, tạm biệt chị Linda."),
+        ("Ms Linda", "Goodbye, Lan, let us sign up together again next month.", "Tạm biệt chị Lan, tháng sau mình lại cùng đăng ký nhé."),
+        ("Ms Lan", "I would love that, goodbye until then.", "Tôi rất thích vậy, tạm biệt đến lúc đó."),
+        # 45 closing - why saying goodbye well matters
         ("Ms Linda", "I always love how warmly you say goodbye to people.", "Tôi luôn thích cách chị chào tạm biệt mọi người ấm áp thế nào."),
         ("Ms Lan", "Thank you, Linda, a good goodbye leaves a warm feeling.", "Cảm ơn chị Linda, một lời tạm biệt đẹp để lại cảm giác ấm áp."),
         ("Ms Linda", "It really does, it makes people want to return.", "Đúng vậy, nó khiến người ta muốn quay lại."),

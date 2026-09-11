@@ -189,7 +189,31 @@ LESSON_0123 = {
         ("Ms Lan", "Where can I find extra practice exercises for this topic?", "Tôi tìm bài tập thực hành thêm cho chủ đề này ở đâu?"),
         ("Mr Montgomery", "There is a workbook linked on the portal.", "Có một sách bài tập được liên kết trên cổng thông tin."),
         ("Ms Lan", "Thank you, I will look for that.", "Cảm ơn anh, tôi sẽ tìm cái đó."),
-        # 36 closing on why school questions matter
+        # 36 asking if there is a study group for this class
+        ("Ms Lan", "Is there a study group for this class?", "Lớp này có nhóm học tập không anh?"),
+        ("Mr Montgomery", "Yes, a few students meet on Tuesdays.", "Có, vài bạn học nhóm vào thứ Ba."),
+        ("Ms Lan", "Great, I would like to join them.", "Tốt quá, tôi muốn tham gia cùng."),
+        # 37 asking if the classroom has Wi-Fi
+        ("Mr Montgomery", "Does the classroom have Wi-Fi for students?", "Phòng học có wifi cho sinh viên không?"),
+        ("Ms Lan", "Yes, the password is written on the board.", "Có, mật khẩu được ghi trên bảng."),
+        ("Mr Montgomery", "Good, I will connect before class starts.", "Tốt, tôi sẽ kết nối trước khi vào lớp."),
+        # 38 asking how much the textbook costs
+        ("Ms Lan", "How much does the required textbook usually cost?", "Sách giáo trình bắt buộc thường giá bao nhiêu vậy anh?"),
+        ("Mr Montgomery", "It costs about twenty dollars new.", "Sách mới giá khoảng hai mươi đô."),
+        ("Ms Lan", "That is affordable, thank you for telling me.", "Vậy hợp lý đấy, cảm ơn anh đã nói."),
+        # 39 asking if late enrollment is still possible
+        ("Mr Montgomery", "Is late enrollment still possible for this term?", "Học kỳ này còn đăng ký trễ được không vậy?"),
+        ("Ms Lan", "Yes, you can still enroll this week.", "Được, anh vẫn có thể đăng ký tuần này."),
+        ("Mr Montgomery", "Good, I will sign up right away.", "Tốt, tôi sẽ đăng ký ngay."),
+        # 40 asking where the final exam will be held
+        ("Ms Lan", "Where will the final exam be held this term?", "Kỳ thi cuối kỳ này sẽ tổ chức ở đâu vậy anh?"),
+        ("Mr Montgomery", "It will be held in the main hall.", "Sẽ được tổ chức ở hội trường chính."),
+        ("Ms Lan", "Thank you, I will remember that location.", "Cảm ơn anh, tôi sẽ nhớ địa điểm đó."),
+        # 41 asking if a tutor is available for extra help
+        ("Mr Montgomery", "Is a tutor available if I need extra help?", "Nếu cần thêm giúp đỡ thì có gia sư không vậy?"),
+        ("Ms Lan", "Yes, the learning centre offers free tutoring.", "Có, trung tâm học tập có dạy kèm miễn phí."),
+        ("Mr Montgomery", "That is great, I will book a session.", "Vậy tốt quá, tôi sẽ đặt một buổi học."),
+        # 42 closing on why school questions matter
         ("Mr Montgomery", "Why do simple questions about school and learning matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về trường học và việc học lại quan trọng đến thế?"),
         ("Ms Lan", "They help us stay organised and get the most out of every class.", "Chúng giúp mình sắp xếp gọn gàng và tận dụng tối đa mỗi buổi học."),
         ("Mr Montgomery", "That is very true, I will pay closer attention from now on.", "Đúng vậy thật, từ giờ tôi sẽ chú ý kỹ hơn."),

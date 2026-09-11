@@ -204,7 +204,31 @@ LESSON_0167 = {
         ("Ms Lan", "Do you know how that companion is related to the barista?", "Anh có biết người đi cùng đó có quan hệ gì với nhân viên pha cà phê không vậy?"),
         ("Mr Lucian", "Yes, that is his second cousin visiting from the coast.", "Có, đó là anh em họ xa của anh ấy tới thăm từ vùng biển."),
         ("Ms Lan", "His second cousin, quite a distance to travel.", "Anh em họ xa, đi một quãng đường xa thật."),
-        # 36 closing on why knowing family relationships matters
+        # 36 piano teacher's companion - great-grandmother
+        ("Mr Lucian", "Do you know how that companion is related to the piano teacher?", "Bạn có biết người đi cùng đó có quan hệ gì với giáo viên dạy đàn piano không vậy?"),
+        ("Ms Lan", "Yes, that is her great-grandmother, proud of every recital.", "Có, đó là bà cố của chị ấy, tự hào mỗi buổi biểu diễn."),
+        ("Mr Lucian", "Her great-grandmother, four generations must be close.", "Bà cố chị ấy, bốn thế hệ chắc gắn bó lắm."),
+        # 37 volunteer coordinator's guest - fiance
+        ("Ms Lan", "Do you know how that guest is related to the volunteer coordinator?", "Anh có biết vị khách đó có quan hệ gì với điều phối viên tình nguyện không vậy?"),
+        ("Mr Lucian", "Yes, that is her fiance helping set up the tables.", "Có, đó là chồng sắp cưới của chị ấy đang phụ dọn bàn."),
+        ("Ms Lan", "Her fiance, sweet that he pitched in too.", "Chồng sắp cưới chị ấy, dễ thương quá khi anh cũng phụ giúp."),
+        # 38 school nurse's companion - nephew-in-law
+        ("Mr Lucian", "Do you know how that companion is related to the school nurse?", "Bạn có biết người đi cùng đó có quan hệ gì với y tá trường không vậy?"),
+        ("Ms Lan", "Yes, that is her nephew-in-law giving her a ride home.", "Có, đó là chồng cháu gái của chị ấy đang chở chị về."),
+        ("Mr Lucian", "Her nephew-in-law, handy to have family nearby.", "Chồng cháu gái chị ấy, có người thân gần cũng tiện."),
+        # 39 swim coach's guest - foster mother
+        ("Ms Lan", "Do you know how that guest is related to the swim coach?", "Anh có biết vị khách đó có quan hệ gì với huấn luyện viên bơi không vậy?"),
+        ("Mr Lucian", "Yes, that is his foster mother watching the practice.", "Có, đó là mẹ nuôi tạm của anh ấy đang xem buổi tập."),
+        ("Ms Lan", "His foster mother, lovely that she came to watch.", "Mẹ nuôi tạm anh ấy, hay quá là bà tới xem."),
+        # 40 security guard's companion - twin brother
+        ("Mr Lucian", "Do you know how that companion is related to the security guard?", "Bạn có biết người đi cùng đó có quan hệ gì với bảo vệ không vậy?"),
+        ("Ms Lan", "Yes, that is his twin brother covering the next shift.", "Có, đó là anh em song sinh của anh ấy đang trực ca kế tiếp."),
+        ("Mr Lucian", "His twin brother, no wonder they look so alike.", "Anh em song sinh, thảo nào nhìn giống hệt vậy."),
+        # 41 vet's guest - youngest cousin
+        ("Ms Lan", "Do you know how that guest is related to the vet?", "Anh có biết vị khách đó có quan hệ gì với bác sĩ thú y không vậy?"),
+        ("Mr Lucian", "Yes, that is her youngest cousin learning about the clinic.", "Có, đó là em họ nhỏ tuổi nhất của chị ấy đang tìm hiểu phòng khám."),
+        ("Ms Lan", "Her youngest cousin, maybe a future vet too.", "Em họ nhỏ tuổi nhất chị ấy, biết đâu sau này cũng làm bác sĩ thú y."),
+        # 42 closing on why knowing family relationships matters
         ("Mr Lucian", "Why does knowing simple family relationships matter so much anyway?", "Vậy vì sao biết các mối quan hệ gia đình đơn giản lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us understand people's lives better and makes conversations feel more personal.", "Nó giúp mình hiểu cuộc sống của mọi người hơn và khiến cuộc trò chuyện gần gũi hơn."),
         ("Mr Lucian", "That is very true, family ties really do make the neighbourhood feel closer.", "Đúng vậy thật, mối quan hệ gia đình thật sự làm khu phố thêm gắn kết."),

@@ -198,5 +198,21 @@ LESSON_0020 = {
         ("Ms Diana", "Hi Lan, how is the new house treating you?", "Chào chị Lan, nhà mới thế nào rồi?"),
         ("Ms Lan", "Hi Diana, it is treating us very well.", "Chào chị Diana, nhà mới ổn lắm."),
         ("Ms Diana", "I am so happy for you.", "Tôi mừng cho chị lắm."),
+        # 42 greeting a colleague's spouse
+        ("Ms Diana", "Hi Lan, this is my husband, Mark.", "Chào chị Lan, đây là chồng tôi, anh Mark."),
+        ("Ms Lan", "Hello Mark, it is lovely to finally meet you.", "Xin chào anh Mark, cuối cùng cũng được gặp anh, vui quá."),
+        ("Ms Diana", "He has heard a lot about you.", "Anh ấy nghe kể nhiều về chị lắm rồi."),
+        # 43 greeting on a birthday
+        ("Ms Diana", "Happy birthday, Lan! I hope your day is wonderful.", "Chúc mừng sinh nhật, chị Lan! Mong ngày hôm nay của chị thật tuyệt."),
+        ("Ms Lan", "Thank you so much, Diana. That is so sweet of you.", "Cảm ơn chị nhiều lắm, chị Diana. Chị tốt bụng quá."),
+        ("Ms Diana", "Enjoy every moment of it.", "Chúc chị tận hưởng từng khoảnh khắc nhé."),
+        # 44 greeting during a power outage
+        ("Ms Diana", "Lan? Hi, are you there? It is so dark.", "Chị Lan? Chào chị, chị có đó không? Tối quá."),
+        ("Ms Lan", "Hi Diana, yes, I am here. The power just went out.", "Chào chị Diana, có, tôi đây. Điện vừa mất rồi."),
+        ("Ms Diana", "Let me find a candle for us.", "Để tôi tìm nến cho mình."),
+        # 45 greeting after a long meeting
+        ("Ms Diana", "Hi Lan, thanks for staying so focused in there.", "Chào chị Lan, cảm ơn chị đã tập trung suốt buổi họp vừa rồi."),
+        ("Ms Lan", "Hi Diana, thank you too, that was a long one.", "Chào chị Diana, cảm ơn chị luôn, buổi họp dài thật đấy."),
+        ("Ms Diana", "Let us grab some fresh air.", "Mình ra hít thở không khí trong lành chút đi."),
     ],
 }

@@ -199,6 +199,22 @@ LESSON_0144 = {
         ("Ms Lan", "Does the usual weekend digital declutter need starting today?", "Việc dọn dẹp thiết bị số cuối tuần quen hôm nay có cần bắt đầu không vậy?"),
         ("Ms Dorothea", "Yes, both our phones are quite cluttered now.", "Có, điện thoại của cả hai đều khá lộn xộn rồi."),
         ("Ms Lan", "Good idea, let us start after lunch.", "Ý hay, mình bắt đầu sau bữa trưa."),
+        # 36 if the shared photo album invite needs sending to family
+        ("Ms Lan", "Does the shared photo album invite need sending to family tonight?", "Lời mời album ảnh chung tối nay có cần gửi cho gia đình không vậy?"),
+        ("Ms Dorothea", "Yes, everyone is waiting to see the wedding photos.", "Có, mọi người đang đợi xem ảnh đám cưới."),
+        ("Ms Lan", "I will send the invite link right now.", "Tôi gửi liên kết mời ngay bây giờ."),
+        # 37 if a quick voice message needs recording for a friend
+        ("Ms Dorothea", "Does a quick voice message need recording for your friend?", "Có cần thu một tin nhắn thoại ngắn cho bạn của bạn không vậy?"),
+        ("Ms Lan", "Yes, it is faster than typing everything out.", "Có, thu âm nhanh hơn gõ hết ra."),
+        ("Ms Dorothea", "Good idea, I will record mine too.", "Ý hay, tôi cũng thu một cái nhé."),
+        # 38 if the group chat pinned message needs updating
+        ("Ms Lan", "Does the group chat pinned message need updating today?", "Tin nhắn ghim trong nhóm chat hôm nay có cần cập nhật không vậy?"),
+        ("Ms Dorothea", "Yes, the event time in it is now wrong.", "Có, giờ tổ chức trong đó giờ sai rồi."),
+        ("Ms Lan", "I will pin the correct time right away.", "Tôi ghim lại giờ đúng ngay đây."),
+        # 39 if the auto-reply message needs setting before the trip
+        ("Ms Dorothea", "Does the auto-reply message need setting before your trip?", "Tin nhắn tự động có cần đặt trước chuyến đi của bạn không vậy?"),
+        ("Ms Lan", "Yes, I will be away with no signal for days.", "Có, tôi sẽ đi xa và mất sóng vài ngày."),
+        ("Ms Dorothea", "Good thinking, I will help you write it.", "Nghĩ hay đấy, tôi giúp bạn soạn nội dung."),
         # 36 closing on why routine messaging needs matter
         ("Ms Dorothea", "Why does keeping up with these small messaging routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu nhắn tin nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us organized and connected without important messages getting buried.", "Nó giúp mình gọn gàng và giữ liên lạc mà không để tin nhắn quan trọng bị vùi lấp."),

@@ -191,7 +191,35 @@ LESSON_0056 = {
         ("Ms Lan", "From the bottom of my heart, thank you, Janet.", "Từ tận đáy lòng, cảm ơn chị, chị Janet."),
         ("Ms Janet", "That truly touches me, Lan.", "Điều đó thật sự chạm đến trái tim tôi, chị Lan."),
         ("Ms Lan", "You deserve every bit of gratitude.", "Chị xứng đáng nhận được lòng biết ơn đó."),
-        # 38 closing - why saying thank you well matters
+        # 38 thanking someone for a birthday surprise
+        ("Ms Lan", "Thank you for planning such a lovely birthday surprise for me.", "Cảm ơn chị đã lên kế hoạch một bất ngờ sinh nhật đáng yêu như vậy cho tôi."),
+        ("Ms Janet", "Seeing your face light up made it all worth it.", "Thấy gương mặt chị rạng rỡ là xứng đáng hết rồi."),
+        ("Ms Lan", "I will remember this birthday for a long time.", "Sinh nhật này tôi sẽ nhớ mãi."),
+        # 39 thanking someone for proofreading a document
+        ("Ms Janet", "Thank you for proofreading my report before I sent it.", "Cảm ơn chị đã đọc soát báo cáo của tôi trước khi tôi gửi."),
+        ("Ms Lan", "I only found a couple of small typos.", "Tôi chỉ thấy vài lỗi gõ nhỏ thôi."),
+        ("Ms Janet", "Still, that saved me from an embarrassing mistake.", "Dù vậy cũng giúp tôi tránh được sai sót đáng ngại."),
+        # 40 thanking someone for translating something
+        ("Ms Lan", "Thank you for translating that letter for my landlord.", "Cảm ơn chị đã dịch giúp tôi lá thư đó cho chủ nhà."),
+        ("Ms Janet", "It only took me a few minutes, honestly.", "Thật ra chỉ mất tôi vài phút thôi."),
+        ("Ms Lan", "It would have taken me all evening.", "Nếu tôi tự làm thì mất cả buổi tối."),
+        # 41 thanking someone for sharing an umbrella
+        ("Ms Janet", "Thank you for sharing your umbrella with me in the rain.", "Cảm ơn chị đã che chung dù với tôi lúc trời mưa."),
+        ("Ms Lan", "Of course, I could not leave you soaked.", "Tất nhiên rồi, tôi không thể để chị ướt hết được."),
+        ("Ms Janet", "You really saved me from catching a cold.", "Chị đã cứu tôi khỏi bị cảm lạnh đấy."),
+        # 42 thanking someone for recommending a good doctor
+        ("Ms Lan", "Thank you for recommending such a good doctor.", "Cảm ơn chị đã giới thiệu một bác sĩ giỏi như vậy."),
+        ("Ms Janet", "I am glad he took good care of you.", "Tôi mừng vì bác sĩ đã chăm sóc chị tốt."),
+        ("Ms Lan", "He really did, thank you for that referral.", "Đúng vậy, cảm ơn chị đã giới thiệu."),
+        # 43 thanking someone for helping move furniture
+        ("Ms Janet", "Thank you for helping me move that heavy sofa.", "Cảm ơn chị đã giúp tôi khiêng cái sô-pha nặng đó."),
+        ("Ms Lan", "My arms are a little tired, but happy to help.", "Tay tôi hơi mỏi, nhưng tôi vui vì giúp được."),
+        ("Ms Janet", "I could never have moved it alone.", "Một mình tôi không bao giờ di chuyển nổi nó."),
+        # 44 thanking someone for feeding a pet while away
+        ("Ms Lan", "Thank you for feeding my cat while I was travelling.", "Cảm ơn chị đã cho mèo tôi ăn trong lúc tôi đi công tác."),
+        ("Ms Janet", "She was great company for me too, honestly.", "Thật ra bé cũng làm bạn với tôi lắm."),
+        ("Ms Lan", "I am relieved she was in good hands.", "Tôi yên tâm vì bé được chăm sóc tốt."),
+        # 45 closing - why saying thank you well matters
         ("Ms Janet", "I always love how genuinely you thank people.", "Tôi luôn thích cách chị cảm ơn mọi người chân thành thế nào."),
         ("Ms Lan", "Thank you, Janet, a real thank you means so much.", "Cảm ơn chị Janet, một lời cảm ơn thật lòng có ý nghĩa nhiều lắm."),
         ("Ms Janet", "It really does, it makes people feel truly valued.", "Đúng vậy, nó khiến người ta cảm thấy thật sự được trân trọng."),

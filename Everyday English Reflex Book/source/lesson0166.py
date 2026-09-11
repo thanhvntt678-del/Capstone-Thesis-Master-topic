@@ -183,7 +183,31 @@ LESSON_0166 = {
         ("Ms Lan", "Do we have a small toolbox? I want to keep one in the kitchen for quick repairs.", "Nhà mình có hộp dụng cụ nhỏ không? Tôi muốn để một cái trong bếp để sửa nhanh."),
         ("Ms Cecily", "Yes, there is a spare one in the garage.", "Có, có một cái dự phòng trong ga ra."),
         ("Ms Lan", "Good, I will bring it inside now.", "Tốt, tôi mang vào nhà ngay."),
-        # 36 closing on why having what you need at home matters
+        # 36 clothespins to hang laundry
+        ("Ms Cecily", "Do we have clothespins? I want to hang this wet laundry outside.", "Nhà mình có kẹp phơi đồ không? Tôi muốn phơi đồ ướt ngoài trời."),
+        ("Ms Lan", "Yes, they are in the little bag by the balcony door.", "Có, chúng ở trong túi nhỏ cạnh cửa ban công."),
+        ("Ms Cecily", "Good, I will hang everything up now.", "Tốt, tôi đem phơi hết ngay."),
+        # 37 a fan for a hot night
+        ("Ms Lan", "Do we have a fan? Tonight feels far too hot to sleep.", "Nhà mình có quạt không? Tối nay nóng quá không ngủ nổi."),
+        ("Ms Cecily", "Yes, it is folded up behind the bedroom door.", "Có, nó gấp lại phía sau cửa phòng ngủ."),
+        ("Ms Lan", "Good, I will set it up before bed then.", "Tốt, vậy tôi dựng lên trước khi đi ngủ."),
+        # 38 a trash bag for the kitchen bin
+        ("Ms Cecily", "Do we have trash bags? The kitchen bin is completely full.", "Nhà mình có túi rác không? Thùng rác trong bếp đầy hoàn toàn rồi."),
+        ("Ms Lan", "Yes, a fresh roll is under the sink.", "Có, một cuộn mới ở dưới bồn rửa."),
+        ("Ms Cecily", "Good, I will replace it right away then.", "Tốt, tôi thay ngay bây giờ."),
+        # 39 a doormat for the front door
+        ("Ms Lan", "Do we have a doormat? Our shoes keep tracking in mud from outside.", "Nhà mình có thảm chùi chân không? Giày cứ kéo bùn vào nhà hoài."),
+        ("Ms Cecily", "Yes, there is a spare one rolled up in the garage.", "Có, có một cái dự phòng cuộn trong ga ra."),
+        ("Ms Lan", "Good, I will lay it down by the entrance now.", "Tốt, tôi trải nó trước cửa ngay."),
+        # 40 a power strip for the office corner
+        ("Ms Cecily", "Do we have a power strip? This corner only has one outlet.", "Nhà mình có ổ cắm điện nối dài không? Góc này chỉ có một ổ cắm thôi."),
+        ("Ms Lan", "Yes, it is in the box with the extension cord.", "Có, nó ở trong hộp cùng với dây nối điện."),
+        ("Ms Cecily", "Good, I will plug the lamp and the fan into it.", "Tốt, tôi cắm cả đèn lẫn quạt vào đó."),
+        # 41 a nightlight for the hallway
+        ("Ms Lan", "Do we have a nightlight? He is scared of the dark hallway now.", "Nhà mình có đèn ngủ không? Giờ bé sợ hành lang tối lắm."),
+        ("Ms Cecily", "Yes, there is one still in the box from last year.", "Có, còn một cái trong hộp từ năm ngoái."),
+        ("Ms Lan", "Good, I will plug it in near his door tonight.", "Tốt, tối nay tôi cắm nó gần cửa phòng bé."),
+        # 42 closing on why having what you need at home matters
         ("Ms Cecily", "Why does having what you need at home matter so much anyway?", "Vậy vì sao có sẵn những gì cần trong nhà lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us time and stops small problems from turning into big headaches.", "Nó giúp mình tiết kiệm thời gian và ngăn vấn đề nhỏ biến thành rắc rối lớn."),
         ("Ms Cecily", "That is very true, having the right thing on hand really does make life easier.", "Đúng vậy thật, có sẵn đúng món đồ cần thiết thật sự giúp cuộc sống dễ dàng hơn."),

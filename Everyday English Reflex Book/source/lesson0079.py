@@ -187,5 +187,33 @@ LESSON_0079 = {
         ("Mr Clifford", "Would you prefer a refund or an exchange for this item?", "Anh muốn hoàn tiền hay đổi hàng cho món này vậy?"),
         ("Ms Lan", "I will take a refund, please, thank you.", "Tôi lấy hoàn tiền, làm ơn, cảm ơn anh."),
         ("Mr Clifford", "Sure, that will be processed within a few days.", "Được, khoản đó sẽ được xử lý trong vài ngày."),
+        # 37 changing a decision after finding an item out of stock
+        ("Ms Lan", "Since this is out of stock, I will choose the similar model instead.", "Vì món này hết hàng rồi, tôi chọn mẫu tương tự thay vào vậy."),
+        ("Mr Clifford", "Good choice, that model has almost the same features.", "Chọn hay đấy, mẫu đó tính năng gần như y hệt."),
+        ("Ms Lan", "That works fine for me then.", "Vậy ổn với tôi rồi."),
+        # 38 choosing to use a coupon code at checkout
+        ("Mr Clifford", "Do you have a coupon code to apply at checkout?", "Anh có mã giảm giá để áp dụng lúc thanh toán không?"),
+        ("Ms Lan", "Yes, please apply the one from the app.", "Có, áp dụng mã trong ứng dụng giúp tôi."),
+        ("Mr Clifford", "Sure, that brings the total down nicely.", "Được, vậy tổng tiền giảm kha khá đấy."),
+        # 39 choosing paperless receipt over printed receipt
+        ("Ms Lan", "Could I get an email receipt instead of a paper one?", "Tôi nhận hóa đơn qua email thay vì bản giấy được không?"),
+        ("Mr Clifford", "Sure, just give me your email address.", "Được, cho tôi địa chỉ email của chị."),
+        ("Ms Lan", "Thank you, that is easier to keep track of.", "Cảm ơn anh, vậy dễ theo dõi hơn."),
+        # 40 choosing a reusable bag instead of a plastic one
+        ("Mr Clifford", "Would you like a plastic bag or your own reusable one?", "Anh muốn túi ni lông hay dùng túi tái sử dụng của mình vậy?"),
+        ("Ms Lan", "I brought my own bag today, thank you.", "Hôm nay tôi mang túi riêng rồi, cảm ơn anh."),
+        ("Mr Clifford", "Great, that saves a little plastic too.", "Tuyệt, vậy đỡ dùng thêm bao ni lông."),
+        # 41 changing a decision after price-matching at another store
+        ("Ms Lan", "I found this cheaper elsewhere, could you match that price?", "Tôi thấy chỗ khác rẻ hơn, anh có thể so giá được không?"),
+        ("Mr Clifford", "Let me check with the manager about matching it.", "Để tôi hỏi quản lý về việc so giá này."),
+        ("Ms Lan", "Thank you, I appreciate you checking for me.", "Cảm ơn anh, tôi cảm kích vì anh đã hỏi giúp."),
+        # 42 explaining why a shopping decision changed matters
+        ("Mr Clifford", "Why do you think explaining why a shopping decision changed matters so much?", "Anh nghĩ vì sao giải thích vì sao một quyết định mua sắm thay đổi lại quan trọng vậy?"),
+        ("Ms Lan", "Because it helps the seller understand exactly what you actually need now.", "Vì nó giúp người bán hiểu chính xác chị thật sự cần gì bây giờ."),
+        ("Mr Clifford", "True, and it avoids confusion at the counter too.", "Đúng vậy, và nó tránh nhầm lẫn ở quầy nữa."),
+        # 43 explaining why clearly stating a changed choice matters
+        ("Ms Lan", "Why do you think clearly stating a changed choice matters too?", "Anh nghĩ vì sao nói rõ một lựa chọn đã thay đổi cũng quan trọng vậy?"),
+        ("Mr Clifford", "Because a clear choice means the order gets processed correctly the first time.", "Vì một lựa chọn rõ ràng giúp đơn hàng được xử lý đúng ngay từ đầu."),
+        ("Ms Lan", "Exactly, that saves everyone time and trouble.", "Chính xác, vậy tiết kiệm thời gian và rắc rối cho cả hai bên."),
     ],
 }

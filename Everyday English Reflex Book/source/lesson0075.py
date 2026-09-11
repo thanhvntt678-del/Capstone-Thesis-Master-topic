@@ -191,5 +191,33 @@ LESSON_0075 = {
         ("Ms Lan", "Wait, did you mean this Friday or next Friday?", "Khoan, anh nói thứ Sáu tuần này hay tuần sau vậy?"),
         ("Mr Stanley", "I meant next Friday, sorry for the confusion.", "Ý tôi là thứ Sáu tuần sau, xin lỗi vì gây nhầm lẫn."),
         ("Ms Lan", "Ah, that clears it up completely, thank you.", "À, vậy rõ hoàn toàn rồi, cảm ơn anh."),
+        # 37 asking what day two people can next meet up
+        ("Mr Stanley", "What day works best for you to meet up next week?", "Anh tuần sau thứ mấy tiện gặp chị nhất vậy?"),
+        ("Ms Lan", "Tuesday afternoon works best for me.", "Chiều thứ Ba tiện cho tôi nhất."),
+        ("Mr Stanley", "Tuesday it is then, I will write it down.", "Vậy chốt thứ Ba, tôi ghi lại ngay."),
+        # 38 clarifying the day after tomorrow
+        ("Ms Lan", "Is the repair man coming tomorrow, or the day after tomorrow?", "Thợ sửa đến vào ngày mai, hay ngày kia vậy?"),
+        ("Mr Stanley", "He is coming the day after tomorrow, which is Saturday.", "Anh ấy đến vào ngày kia, tức là thứ Bảy."),
+        ("Ms Lan", "Good, that gives me time to tidy up first.", "Tốt, vậy tôi còn thời gian dọn dẹp trước."),
+        # 39 asking what day a bill payment is due
+        ("Mr Stanley", "What day of the week is your electricity bill due?", "Hóa đơn tiền điện của chị đến hạn vào thứ mấy vậy?"),
+        ("Ms Lan", "It is due every Wednesday, without exception.", "Đến hạn vào mỗi thứ Tư, không đổi."),
+        ("Mr Stanley", "Thank you, that helps me plan my own bills too.", "Cảm ơn chị, vậy giúp tôi sắp xếp hóa đơn của mình luôn."),
+        # 40 confirming a video call is scheduled for a certain day
+        ("Ms Lan", "Is our video call with the landlord set for Friday?", "Cuộc gọi video với chủ nhà của mình xếp vào thứ Sáu à?"),
+        ("Mr Stanley", "Yes, Friday at ten in the morning.", "Đúng, thứ Sáu lúc mười giờ sáng."),
+        ("Ms Lan", "Good, I will make sure I am free then.", "Tốt, tôi sẽ sắp xếp rảnh lúc đó."),
+        # 41 asking what day the library is open late
+        ("Mr Stanley", "Which day is the public library open late this week?", "Thư viện công cộng mở cửa trễ vào thứ mấy tuần này vậy?"),
+        ("Ms Lan", "It stays open late every Thursday until nine.", "Nó mở cửa trễ tới chín giờ vào mỗi thứ Năm."),
+        ("Mr Stanley", "Perfect, I can drop by after work that day.", "Tuyệt, hôm đó tôi có thể ghé qua sau giờ làm."),
+        # 42 explaining why knowing the day of the week matters
+        ("Ms Lan", "Why do you think knowing the day of the week matters so much?", "Chị nghĩ vì sao biết hôm nay là thứ mấy lại quan trọng vậy?"),
+        ("Mr Stanley", "Because it keeps our whole schedule from falling apart.", "Vì nó giúp cả lịch trình của mình không bị rối tung."),
+        ("Ms Lan", "True, one wrong day and everything gets mixed up.", "Đúng vậy, sai một ngày là mọi thứ lộn xộn hết."),
+        # 43 explaining why confirming the day clearly matters
+        ("Mr Stanley", "Why do you think confirming the day clearly matters too?", "Anh nghĩ vì sao xác nhận rõ ràng thứ trong tuần cũng quan trọng vậy?"),
+        ("Ms Lan", "Because it stops us from missing appointments or showing up on the wrong day.", "Vì nó giúp mình tránh lỡ hẹn hay đến nhầm ngày."),
+        ("Mr Stanley", "Exactly, a quick check saves so much confusion later.", "Chính xác, kiểm tra nhanh vậy đỡ được bao nhiêu rắc rối về sau."),
     ],
 }

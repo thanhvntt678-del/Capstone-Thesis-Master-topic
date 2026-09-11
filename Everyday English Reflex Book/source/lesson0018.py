@@ -184,5 +184,21 @@ LESSON_0018 = {
         ("Ms Natalie", "Lan, did you see the transcript of my voicemail?", "Chị Lan, chị thấy bản chép lời tin nhắn thoại của tôi chưa?"),
         ("Ms Lan", "Yes, it made it much easier to read.", "Rồi, nó giúp đọc dễ hơn nhiều."),
         ("Ms Natalie", "I am glad that feature exists.", "Tôi mừng vì có tính năng đó."),
+        # 39 storage full warning
+        ("Ms Lan", "Natalie, my phone says storage is almost full.", "Chị Natalie, điện thoại tôi báo bộ nhớ sắp đầy rồi."),
+        ("Ms Natalie", "You should delete some old photos.", "Chị nên xóa bớt vài tấm ảnh cũ đi."),
+        ("Ms Lan", "Good idea, I will clear some space now.", "Ý hay đấy, tôi dọn bớt chỗ trống ngay đây."),
+        # 40 exporting chat history
+        ("Ms Natalie", "Lan, could you export our chat history for me?", "Chị Lan, chị xuất giúp tôi lịch sử trò chuyện của mình được không?"),
+        ("Ms Lan", "Sure, I will send it as a file.", "Được chứ, tôi gửi dưới dạng tệp cho chị."),
+        ("Ms Natalie", "Thank you, I want to keep it saved.", "Cảm ơn chị, tôi muốn lưu lại nó."),
+        # 41 setting a status message
+        ("Ms Lan", "Natalie, I set my status to \"in a meeting.\"", "Chị Natalie, tôi để trạng thái là \"đang họp\" rồi."),
+        ("Ms Natalie", "Good idea, I will do the same for now.", "Ý hay đấy, giờ tôi cũng làm vậy."),
+        ("Ms Lan", "It helps people know when to wait.", "Vậy giúp mọi người biết khi nào nên đợi."),
+        # 42 correcting a shared file name
+        ("Ms Natalie", "Lan, the shared file has the wrong name on it.", "Chị Lan, tệp chia sẻ bị đặt sai tên rồi."),
+        ("Ms Lan", "Thanks for noticing, I will rename it now.", "Cảm ơn chị đã để ý, tôi đổi tên ngay đây."),
+        ("Ms Natalie", "Great, that will avoid confusion later.", "Tuyệt, vậy tránh nhầm lẫn về sau."),
     ],
 }

@@ -197,7 +197,35 @@ LESSON_0057 = {
         ("Ms Lan", "By the way, what is today's date again?", "À, hôm nay ngày mấy lại nhỉ?"),
         ("Mr Philip", "It is the twelfth of September, a Friday.", "Là ngày mười hai tháng chín, thứ sáu."),
         ("Ms Lan", "Thanks, I always lose track during a busy week.", "Cảm ơn anh, tuần bận rộn tôi hay quên mất ngày."),
-        # 38 closing - why confirming the date matters
+        # 38 asking today's date for a parking ticket
+        ("Ms Lan", "What is today's date? I need it for this parking ticket.", "Hôm nay ngày mấy vậy? Tôi cần ghi vào vé đỗ xe này."),
+        ("Mr Philip", "The twelfth of September, same as the ticket needs.", "Ngày mười hai tháng chín, đúng như vé cần ghi."),
+        ("Ms Lan", "Thanks, writing it on the ticket now.", "Cảm ơn anh, tôi ghi vào vé ngay."),
+        # 39 checking a date on a food expiry label
+        ("Mr Philip", "Could you check today's date against this milk's expiry label?", "Chị kiểm tra giúp ngày hôm nay so với hạn sử dụng trên hộp sữa này không?"),
+        ("Ms Lan", "Yes, it still has two more days.", "Có chứ, vẫn còn hai ngày nữa."),
+        ("Mr Philip", "Good, it is still safe to drink then.", "Tốt, vậy vẫn uống được."),
+        # 40 confirming a date for a school photo day
+        ("Ms Lan", "Could you confirm today's date matches the school photo day?", "Anh xác nhận giúp ngày hôm nay có trùng ngày chụp ảnh trường không?"),
+        ("Mr Philip", "Yes, it is exactly today, the twelfth.", "Vâng, đúng hôm nay, ngày mười hai."),
+        ("Ms Lan", "Good, I will make sure she wears her uniform.", "Tốt, tôi sẽ đảm bảo bé mặc đồng phục."),
+        # 41 checking a date before a flu jab expires
+        ("Mr Philip", "Could you check today's date against the flu jab's expiry?", "Chị kiểm tra giúp ngày hôm nay so với hạn của mũi tiêm cúm không?"),
+        ("Ms Lan", "Yes, it is still valid for another month.", "Có chứ, vẫn còn hạn thêm một tháng."),
+        ("Mr Philip", "Good, plenty of time to book it then.", "Tốt, vậy còn đủ thời gian để đặt lịch."),
+        # 42 confirming a date on a lottery ticket
+        ("Ms Lan", "Could you confirm today's date matches this lottery ticket's draw date?", "Anh xác nhận giúp ngày hôm nay có trùng ngày quay số của vé số này không?"),
+        ("Mr Philip", "Yes, the draw is exactly today.", "Vâng, hôm nay đúng là ngày quay số."),
+        ("Ms Lan", "Great, I will check the results tonight then.", "Tuyệt, vậy tối nay tôi xem kết quả."),
+        # 43 asking today's date to synchronise two calendars
+        ("Mr Philip", "What is today's date? I want to sync our two calendars.", "Hôm nay ngày mấy vậy? Tôi muốn đồng bộ hai lịch của mình."),
+        ("Ms Lan", "September the twelfth, so both calendars should match now.", "Ngày mười hai tháng chín, vậy hai lịch nên khớp nhau rồi."),
+        ("Mr Philip", "Thanks, syncing everything from today onward now.", "Cảm ơn chị, tôi đồng bộ mọi thứ từ hôm nay trở đi."),
+        # 44 confirming a date to plant something in the garden
+        ("Ms Lan", "Could you confirm today is a good date to plant these seeds?", "Anh xác nhận giúp hôm nay có phải ngày tốt để gieo hạt này không?"),
+        ("Mr Philip", "Yes, the season is just right for it now.", "Vâng, mùa này hợp để gieo lắm."),
+        ("Ms Lan", "Great, I will plant them this afternoon then.", "Tuyệt, vậy chiều nay tôi gieo hạt."),
+        # 45 closing - why confirming the date matters
         ("Mr Philip", "Confirming the date always keeps our paperwork accurate.", "Xác nhận ngày tháng luôn giúp giấy tờ của mình chính xác."),
         ("Ms Lan", "It does, one wrong date can cause a lot of trouble.", "Đúng vậy, một ngày sai có thể gây ra nhiều rắc rối."),
         ("Mr Philip", "That is exactly why I always ask before writing anything down.", "Chính vì vậy mà tôi luôn hỏi trước khi ghi bất cứ điều gì."),

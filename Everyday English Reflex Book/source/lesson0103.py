@@ -190,7 +190,31 @@ LESSON_0103 = {
         ("Ms Lan", "I did not think we needed coats today, but I was wrong.", "Tôi tưởng hôm nay không cần áo khoác, nhưng tôi nhầm rồi."),
         ("Mr Cedric", "Let us stop by my place, I have a spare one.", "Mình ghé nhà tôi, tôi có cái dự phòng."),
         ("Ms Lan", "Thank you, that would really help right now.", "Cảm ơn anh, vậy sẽ giúp được nhiều lúc này."),
-        # 36 explaining why checking the forecast together matters
+        # 36 a weather alert being missed
+        ("Ms Lan", "I completely missed the weather alert on my phone this morning.", "Sáng nay tôi hoàn toàn bỏ lỡ cảnh báo thời tiết trên điện thoại."),
+        ("Mr Cedric", "Let us check it now before we head out.", "Mình xem lại trước khi ra ngoài đi."),
+        ("Ms Lan", "Good idea, better to know before we leave.", "Ý hay, biết trước khi đi vẫn hơn."),
+        # 37 an air conditioner leaking because of humidity
+        ("Mr Cedric", "My air conditioner started leaking because of all this humidity.", "Máy điều hòa của tôi bắt đầu rỉ nước vì độ ẩm cao thế này."),
+        ("Ms Lan", "Let us place a towel under it for now.", "Mình đặt khăn dưới đó tạm thời đi."),
+        ("Mr Cedric", "Good idea, I will call a technician later.", "Ý hay, lát nữa tôi gọi thợ sửa."),
+        # 38 a swimming pool plan cancelled due to a lightning warning
+        ("Ms Lan", "The pool just closed because of a lightning warning.", "Hồ bơi vừa đóng cửa vì cảnh báo sét."),
+        ("Mr Cedric", "That makes sense, safety comes first with lightning around.", "Hợp lý thôi, an toàn phải đặt lên trên khi có sét."),
+        ("Ms Lan", "Let us find something indoors to do instead.", "Mình tìm việc gì trong nhà để làm thay vào đi."),
+        # 39 bugs appearing outdoors after rain
+        ("Mr Cedric", "There are so many bugs out here now that it has rained.", "Giờ mưa xong có nhiều côn trùng ngoài này quá."),
+        ("Ms Lan", "Let us move our seats closer to the house.", "Mình dời ghế lại gần nhà hơn đi."),
+        ("Mr Cedric", "Good idea, that should keep them away a bit.", "Ý hay, vậy sẽ đỡ côn trùng hơn chút."),
+        # 40 wet shoes needing a change before going inside
+        ("Ms Lan", "My shoes are soaked from the rain, I should not go inside like this.", "Giày tôi ướt sũng vì mưa, tôi không nên vào trong như vậy."),
+        ("Mr Cedric", "I have a spare pair of slippers you can borrow.", "Tôi có đôi dép dự phòng cho chị mượn."),
+        ("Ms Lan", "Thank you, that is very thoughtful of you.", "Cảm ơn anh, anh chu đáo quá."),
+        # 41 a rainbow appearing and clearing up the plan
+        ("Mr Cedric", "Look, a rainbow appeared, the rain must be clearing up now.", "Nhìn kìa, cầu vồng xuất hiện rồi, chắc mưa sắp tạnh."),
+        ("Ms Lan", "What a lovely sign, let us continue our plan after all.", "Dấu hiệu đẹp quá, vậy mình tiếp tục kế hoạch thôi."),
+        ("Mr Cedric", "Good idea, the timing could not be better.", "Ý hay, đúng lúc quá còn gì."),
+        # 42 explaining why checking the forecast together matters
         ("Mr Cedric", "Why does checking the forecast together matter so much to you?", "Vì sao việc cùng nhau kiểm tra dự báo lại quan trọng với chị vậy?"),
         ("Ms Lan", "It helps us avoid surprises and plan our day properly.", "Nó giúp mình tránh bất ngờ và lên kế hoạch trong ngày tốt hơn."),
         ("Mr Cedric", "That makes a lot of sense, I will check it with you next time.", "Nghe hợp lý lắm, lần sau tôi sẽ kiểm tra cùng chị."),

@@ -198,7 +198,31 @@ LESSON_0165 = {
         ("Ms Lan", "Do you know today's date to confirm this gym membership form?", "Anh có biết hôm nay là ngày mấy để xác nhận mẫu đăng ký phòng gym này không?"),
         ("Mr Jasper", "Yes, the fourteenth marks the start of membership.", "Có, ngày mười bốn là ngày bắt đầu hội viên."),
         ("Ms Lan", "Great, I can start going tomorrow then.", "Tuyệt, vậy mai tôi bắt đầu tập được."),
-        # 36 closing on why knowing today's date matters
+        # 36 dating a pet adoption form
+        ("Mr Jasper", "Do you know today's date for this pet adoption form?", "Bạn có biết hôm nay là ngày mấy cho mẫu nhận nuôi thú cưng này không?"),
+        ("Ms Lan", "Yes, the fourteenth goes right beside the shelter's stamp.", "Có, ghi ngày mười bốn ngay cạnh con dấu của trung tâm."),
+        ("Mr Jasper", "Good, then the puppy officially comes home today.", "Tốt, vậy hôm nay chú cún chính thức về nhà rồi."),
+        # 37 dating a school report card
+        ("Ms Lan", "Do you know today's date for signing this school report card?", "Anh có biết hôm nay là ngày mấy để ký vào học bạ này không?"),
+        ("Mr Jasper", "Yes, write the fourteenth next to your signature.", "Có, ghi ngày mười bốn bên cạnh chữ ký của chị."),
+        ("Ms Lan", "Good, that closes out this term properly.", "Tốt, vậy kết thúc học kỳ này đúng thủ tục."),
+        # 38 dating a vaccination record
+        ("Mr Jasper", "Do you know today's date for this vaccination record?", "Bạn có biết hôm nay là ngày mấy cho sổ tiêm chủng này không?"),
+        ("Ms Lan", "Yes, the fourteenth marks the day of the shot.", "Có, ngày mười bốn là ngày tiêm."),
+        ("Mr Jasper", "Good, that record is up to date then.", "Tốt, vậy sổ tiêm đã cập nhật rồi."),
+        # 39 dating a car registration renewal
+        ("Ms Lan", "Do you know today's date for renewing this car registration?", "Anh có biết hôm nay là ngày mấy để gia hạn đăng ký xe này không?"),
+        ("Mr Jasper", "Yes, the fourteenth is the exact renewal date.", "Có, ngày mười bốn đúng là ngày gia hạn."),
+        ("Ms Lan", "Good, I made it just before the deadline then.", "Tốt, vậy vừa kịp trước hạn chót."),
+        # 40 dating a voting registration form
+        ("Mr Jasper", "Do you know today's date for this voting registration form?", "Bạn có biết hôm nay là ngày mấy cho mẫu đăng ký cử tri này không?"),
+        ("Ms Lan", "Yes, write the fourteenth right above your name.", "Có, ghi ngày mười bốn ngay phía trên tên bạn."),
+        ("Mr Jasper", "Good, I am officially registered today then.", "Tốt, vậy hôm nay tôi chính thức đăng ký rồi."),
+        # 41 dating a scholarship application
+        ("Ms Lan", "Do you know today's date for submitting this scholarship application?", "Anh có biết hôm nay là ngày mấy để nộp đơn xin học bổng này không?"),
+        ("Mr Jasper", "Yes, the fourteenth is well before next week's deadline.", "Có, ngày mười bốn còn sớm hơn hạn chót tuần sau."),
+        ("Ms Lan", "Great, I will send it off this afternoon then.", "Tuyệt, vậy chiều nay tôi gửi đi luôn."),
+        # 42 closing on why knowing today's date matters
         ("Mr Jasper", "Why does knowing today's date matter so much anyway?", "Vậy vì sao biết ngày hôm nay lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our paperwork accurate and helps us avoid mistakes on important documents.", "Nó giúp giấy tờ chính xác và tránh sai sót trên các tài liệu quan trọng."),
         ("Mr Jasper", "That is very true, knowing the date really does save us a lot of trouble.", "Đúng vậy thật, biết ngày tháng thật sự giúp tránh nhiều rắc rối."),

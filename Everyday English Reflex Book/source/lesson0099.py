@@ -187,7 +187,31 @@ LESSON_0099 = {
         ("Ms Lan", "I thought the office was in that building, but I was mistaken.", "Tôi tưởng văn phòng ở tòa nhà đó, nhưng tôi nhầm rồi."),
         ("Mr Vernon", "It is actually in the building right next to it.", "Nó thật ra ở tòa nhà ngay cạnh đó."),
         ("Ms Lan", "Thank you, I would have kept searching otherwise.", "Cảm ơn anh, không thì tôi cứ tìm mãi."),
-        # 36 explaining why resolving a directions mix-up calmly matters
+        # 36 a GPS pointing into private property
+        ("Ms Lan", "The GPS is pointing us straight into someone's private driveway.", "GPS đang chỉ mình thẳng vào lối xe riêng của nhà người ta."),
+        ("Mr Vernon", "Let us stop here and check the map manually instead.", "Mình dừng lại đây và xem bản đồ bằng tay đi."),
+        ("Ms Lan", "Good idea, this route cannot be right.", "Ý hay, tuyến đường này chắc chắn không đúng rồi."),
+        # 37 confusion over odd and even street numbering
+        ("Mr Vernon", "I did not realise the even numbers are on this side.", "Tôi không để ý số chẵn nằm ở phía này."),
+        ("Ms Lan", "Yes, the odd numbers are all across the street.", "Vâng, số lẻ nằm hết bên kia đường."),
+        ("Mr Vernon", "That explains why I was so confused just now.", "Thảo nào lúc nãy tôi rối vậy."),
+        # 38 confusion over which parcel locker holds a package
+        ("Ms Lan", "I cannot tell which locker my package is supposed to be in.", "Tôi tìm không ra tủ khóa nào chứa gói hàng của mình."),
+        ("Mr Vernon", "Check the code again, it usually tells you the row number.", "Xem lại mã đi, thường nó có ghi số hàng."),
+        ("Ms Lan", "Ah, I see it now, thank you for that.", "À, giờ tôi thấy rồi, cảm ơn anh."),
+        # 39 a taxi app pin placed at the wrong building
+        ("Mr Vernon", "The taxi app placed my pin at the wrong building entirely.", "Ứng dụng taxi đặt ghim của tôi nhầm tòa nhà hoàn toàn."),
+        ("Ms Lan", "Let us move the pin and send your location again.", "Mình dời ghim và gửi lại vị trí đi."),
+        ("Mr Vernon", "Good idea, the driver should find me now.", "Ý hay, giờ tài xế sẽ tìm ra tôi thôi."),
+        # 40 missing a no-through-road sign
+        ("Ms Lan", "I think we missed a no-through-road sign back there.", "Tôi nghĩ mình bỏ lỡ biển báo đường cụt phía sau rồi."),
+        ("Mr Vernon", "Let us turn around before we go any further.", "Mình quay đầu trước khi đi xa hơn đi."),
+        ("Ms Lan", "Good idea, better to know now than later.", "Ý hay, giờ biết còn hơn để muộn."),
+        # 41 two gates looking almost identical
+        ("Mr Vernon", "These two gates look almost the same, I am not sure which one is yours.", "Hai cổng này trông gần giống nhau, tôi không chắc cái nào của chị."),
+        ("Ms Lan", "The one with the blue mailbox is mine.", "Cái có hộp thư màu xanh là của tôi."),
+        ("Mr Vernon", "Thank you, I would have knocked on the wrong door.", "Cảm ơn chị, không thì tôi gõ nhầm cửa mất."),
+        # 42 explaining why resolving a directions mix-up calmly matters
         ("Mr Vernon", "Why does it matter so much to stay calm about these mix-ups?", "Vì sao giữ bình tĩnh với những nhầm lẫn này lại quan trọng vậy?"),
         ("Ms Lan", "Getting frustrated only makes finding the way harder.", "Bực bội chỉ làm việc tìm đường khó hơn thôi."),
         ("Mr Vernon", "You are right, I will try to keep that in mind.", "Chị nói đúng, tôi sẽ cố ghi nhớ điều đó."),

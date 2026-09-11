@@ -187,5 +187,33 @@ LESSON_0078 = {
         ("Ms Yvette", "What is this mystery container in the office fridge?", "Hộp bí ẩn trong tủ lạnh văn phòng này là gì vậy?"),
         ("Ms Lan", "Oh, that is my leftover curry from yesterday.", "Ôi, đó là cà ri thừa của tôi từ hôm qua."),
         ("Ms Yvette", "Ah, mystery solved then, thank you.", "À, vậy là giải mã được rồi, cảm ơn chị."),
+        # 37 asking what a topping is
+        ("Ms Lan", "What is this crispy topping sprinkled over the noodles?", "Lớp rắc giòn giòn trên mì này là gì vậy?"),
+        ("Ms Yvette", "That is fried shallots, it adds a nice crunch.", "Đó là hành phi, tạo độ giòn ngon."),
+        ("Ms Lan", "It really lifts the whole dish, does it not?", "Nó làm cả món ngon hẳn lên đúng không?"),
+        # 38 asking what a filling inside a bun is
+        ("Ms Yvette", "What is the filling inside this steamed bun?", "Nhân bên trong bánh bao này là gì vậy?"),
+        ("Ms Lan", "It is minced pork with mushroom and quail egg.", "Đó là thịt băm với nấm và trứng cút."),
+        ("Ms Yvette", "That sounds like a very satisfying filling.", "Nghe như một loại nhân no bụng đấy."),
+        # 39 asking what a garnish on a plate is
+        ("Ms Lan", "What is this small green garnish placed on the plate?", "Cọng rau nhỏ màu xanh trang trí trên đĩa này là gì vậy?"),
+        ("Ms Yvette", "That is a sprig of coriander for decoration and aroma.", "Đó là một cọng ngò để trang trí và tạo mùi thơm."),
+        ("Ms Lan", "It makes the whole plate look more appetising.", "Nó làm cả đĩa trông hấp dẫn hơn hẳn."),
+        # 40 asking what a condiment on the table is
+        ("Ms Yvette", "What is this small dish of condiment on the table?", "Chén nước chấm nhỏ trên bàn này là gì vậy?"),
+        ("Ms Lan", "That is fish sauce mixed with lime, chilli, and sugar.", "Đó là nước mắm pha với chanh, ớt, và đường."),
+        ("Ms Yvette", "I will try dipping a little into that.", "Tôi sẽ thử chấm một chút vào đó."),
+        # 41 asking what a broth is made from
+        ("Ms Lan", "What is this clear broth actually simmered from?", "Nước dùng trong veo này thật sự được ninh từ gì vậy?"),
+        ("Ms Yvette", "It is simmered from chicken bones and ginger for hours.", "Nó được ninh từ xương gà và gừng suốt nhiều giờ."),
+        ("Ms Lan", "No wonder it tastes so rich and comforting.", "Thảo nào nó đậm đà và ấm bụng thế."),
+        # 42 explaining why asking what something is matters
+        ("Ms Yvette", "Why do you think asking what something is matters so much at meals?", "Chị nghĩ vì sao hỏi một món ăn là gì lại quan trọng vậy trong bữa ăn?"),
+        ("Ms Lan", "Because it helps you avoid something you might not like or cannot eat.", "Vì nó giúp mình tránh ăn phải thứ mình không thích hoặc không ăn được."),
+        ("Ms Yvette", "True, it is always better to ask than to guess.", "Đúng vậy, hỏi rõ vẫn tốt hơn là đoán mò."),
+        # 43 explaining why explaining a dish clearly matters
+        ("Ms Lan", "Why do you think explaining a dish clearly matters too?", "Chị nghĩ vì sao giải thích một món ăn rõ ràng cũng quan trọng vậy?"),
+        ("Ms Yvette", "Because a clear explanation helps the other person feel confident about trying it.", "Vì một lời giải thích rõ ràng giúp người kia tự tin hơn khi thử món đó."),
+        ("Ms Lan", "Exactly, and it makes sharing food together much more enjoyable.", "Chính xác, và nó làm việc cùng ăn với nhau vui hơn nhiều."),
     ],
 }

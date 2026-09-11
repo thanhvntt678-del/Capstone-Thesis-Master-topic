@@ -189,5 +189,33 @@ LESSON_0061 = {
         ("Mr Colin", "Can you help me find a taxi after we finish here?", "Chị giúp tôi tìm taxi sau khi xong ở đây được không?"),
         ("Ms Lan", "There is usually a stand right outside.", "Thường có bến taxi ngay bên ngoài đó."),
         ("Mr Colin", "Perfect, I will head there once we are done.", "Tốt quá, xong việc tôi ra đó luôn."),
+        # 37 using a self-checkout machine
+        ("Ms Lan", "Could you show me how this self-checkout machine works?", "Anh chỉ tôi cách dùng máy tự thanh toán này được không?"),
+        ("Mr Colin", "Just scan each item under the red light here.", "Chỉ cần quét từng món dưới đèn đỏ này."),
+        ("Ms Lan", "Thank you, that is simpler than I expected.", "Cảm ơn anh, dễ hơn tôi tưởng."),
+        # 38 asking for help with a refund
+        ("Mr Colin", "Can you help me ask for a refund on this broken item?", "Chị giúp tôi hỏi hoàn tiền cho món hàng bị hỏng này được không?"),
+        ("Ms Lan", "Bring it to the counter with your receipt.", "Mang ra quầy cùng với hóa đơn nhé."),
+        ("Mr Colin", "Thanks, I have the receipt right here.", "Cảm ơn chị, tôi có hóa đơn ngay đây."),
+        # 39 using a loyalty card
+        ("Ms Lan", "Do you know how to use this loyalty card at checkout?", "Anh có biết dùng thẻ tích điểm này khi thanh toán không?"),
+        ("Mr Colin", "Just show it to the cashier before scanning items.", "Cứ đưa cho thu ngân trước khi quét hàng."),
+        ("Ms Lan", "Good to know, I always forget to use it.", "Biết vậy tốt quá, tôi cứ hay quên dùng nó."),
+        # 40 asking about a price-match
+        ("Mr Colin", "Can you help me ask if this store offers a price match?", "Chị hỏi giúp tôi cửa hàng này có bảo đảm giá tốt nhất không?"),
+        ("Ms Lan", "Let us ask that employee near the counter.", "Mình hỏi nhân viên gần quầy kia đi."),
+        ("Mr Colin", "Good idea, let us go find out.", "Ý hay, mình đi hỏi thử."),
+        # 41 checking a warranty card
+        ("Ms Lan", "Could you help me check if this comes with a warranty card?", "Anh kiểm tra giúp tôi cái này có kèm thẻ bảo hành không?"),
+        ("Mr Colin", "Yes, it is taped right inside the box.", "Có chứ, được dán ngay bên trong hộp."),
+        ("Ms Lan", "Great, I will keep it somewhere safe.", "Tốt quá, tôi sẽ cất kỹ nó."),
+        # 42 finding fresher stock at the back
+        ("Mr Colin", "Can you help me find a fresher pack from the back shelf?", "Chị giúp tôi tìm gói còn tươi hơn ở kệ phía sau được không?"),
+        ("Ms Lan", "Sure, this one has a later expiry date.", "Được, cái này có hạn sử dụng lâu hơn đấy."),
+        ("Mr Colin", "Perfect, that is exactly what I wanted.", "Tuyệt, đúng cái tôi muốn."),
+        # 43 asking for help finding a shopping trolley locker
+        ("Ms Lan", "Do you know how to unlock a trolley from this stand?", "Anh có biết mở khóa xe đẩy từ chỗ này thế nào không?"),
+        ("Mr Colin", "Just insert a coin into the small slot there.", "Chỉ cần bỏ đồng xu vào khe nhỏ đó."),
+        ("Ms Lan", "Thank you, I did not know that.", "Cảm ơn anh, tôi không biết điều đó."),
     ],
 }

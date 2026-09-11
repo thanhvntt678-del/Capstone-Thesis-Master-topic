@@ -186,7 +186,31 @@ LESSON_0164 = {
         ("Ms Lan", "How should I thank my old friend for staying in touch all these years?", "Tôi nên cảm ơn người bạn cũ thế nào vì vẫn giữ liên lạc bao năm qua vậy?"),
         ("Ms Arabella", "Just say, thank you for never losing touch with me.", "Chỉ cần nói cảm ơn vì chưa bao giờ mất liên lạc với tôi."),
         ("Ms Lan", "That is heartwarming, I will say that to her.", "Nghe ấm lòng thật, tôi sẽ nói vậy với chị ấy."),
-        # 36 closing on why saying thank you matters
+        # 36 thanking a pharmacist for explaining the medicine clearly
+        ("Ms Arabella", "What should I say to thank the pharmacist for explaining the medicine so clearly?", "Tôi nên nói gì để cảm ơn dược sĩ vì đã giải thích thuốc rõ ràng vậy?"),
+        ("Ms Lan", "Just say, thank you, now I understand exactly how to take it.", "Chỉ cần nói cảm ơn, giờ tôi đã hiểu rõ cách uống thuốc rồi."),
+        ("Ms Arabella", "Good, that shows the explanation really helped.", "Tốt, vậy cho thấy lời giải thích thật sự hữu ích."),
+        # 37 thanking a vet for taking good care of the cat
+        ("Ms Lan", "How should I thank the vet for taking such good care of my cat?", "Tôi nên cảm ơn bác sĩ thú y thế nào vì đã chăm sóc mèo tôi tận tình vậy?"),
+        ("Ms Arabella", "Just say, thank you, she looks so much healthier already.", "Chỉ cần nói cảm ơn, giờ mèo đã khỏe hơn nhiều rồi."),
+        ("Ms Lan", "Good, that is a lovely way to show it worked.", "Tốt, vậy là cách hay để cho thấy việc điều trị hiệu quả."),
+        # 38 thanking a security guard for helping carry heavy boxes
+        ("Ms Arabella", "What should I say to thank the security guard for helping carry those heavy boxes?", "Tôi nên nói gì để cảm ơn bảo vệ vì đã giúp khiêng mấy thùng đồ nặng vậy?"),
+        ("Ms Lan", "Just say, thank you, I could not have carried those alone.", "Chỉ cần nói cảm ơn, một mình tôi không khiêng nổi đâu."),
+        ("Ms Arabella", "Good, he will feel glad he could help.", "Tốt, vậy anh ấy sẽ vui vì đã giúp được."),
+        # 39 thanking a stranger for returning a lost wallet
+        ("Ms Lan", "How should I thank the stranger who returned my lost wallet?", "Tôi nên cảm ơn người lạ thế nào vì đã trả lại ví bị mất cho tôi vậy?"),
+        ("Ms Arabella", "Just say, thank you so much, I thought I would never see it again.", "Chỉ cần nói cảm ơn rất nhiều, tôi tưởng không bao giờ tìm lại được nữa."),
+        ("Ms Lan", "Good, that shows how relieved and grateful you are.", "Tốt, vậy thể hiện sự nhẹ nhõm và biết ơn thật lòng."),
+        # 40 thanking an IT colleague for fixing the computer quickly
+        ("Ms Arabella", "What should I say to thank the IT colleague for fixing my computer so quickly?", "Tôi nên nói gì để cảm ơn đồng nghiệp IT vì đã sửa máy tính nhanh vậy?"),
+        ("Ms Lan", "Just say, thank you, I can finally get back to work now.", "Chỉ cần nói cảm ơn, giờ tôi mới có thể làm việc lại được."),
+        ("Ms Arabella", "Good, that is practical and grateful at once.", "Tốt, vừa thực tế vừa biết ơn."),
+        # 41 thanking a swim coach for teaching patiently
+        ("Ms Lan", "How should I thank the swim coach for teaching my son so patiently?", "Tôi nên cảm ơn huấn luyện viên bơi thế nào vì đã kiên nhẫn dạy con trai tôi vậy?"),
+        ("Ms Arabella", "Just say, thank you, he finally swam a full lap today.", "Chỉ cần nói cảm ơn, hôm nay con đã bơi trọn một vòng rồi."),
+        ("Ms Lan", "That is wonderful news, he will be so proud to hear it.", "Tin tuyệt vời quá, anh ấy sẽ tự hào lắm khi nghe vậy."),
+        # 42 closing on why saying thank you matters
         ("Ms Arabella", "Why does saying thank you well matter so much anyway?", "Vậy vì sao nói lời cảm ơn đúng cách lại quan trọng đến thế?"),
         ("Ms Lan", "It shows people that their kindness was truly noticed and appreciated.", "Nó cho mọi người thấy sự tử tế của họ thật sự được để ý và trân trọng."),
         ("Ms Arabella", "That is very true, a sincere thank you really does strengthen every relationship.", "Đúng vậy thật, một lời cảm ơn chân thành thật sự giúp gắn kết mọi mối quan hệ."),

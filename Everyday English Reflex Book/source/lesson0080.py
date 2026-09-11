@@ -185,5 +185,33 @@ LESSON_0080 = {
         ("Ms Deborah", "Which boots should I get, the tall ones or the ankle ones?", "Tôi nên lấy ủng cao hay ủng ngắn vậy?"),
         ("Ms Lan", "The tall ones for this much snow, definitely.", "Chắc chắn ủng cao cho lượng tuyết dày thế này."),
         ("Ms Deborah", "Good advice, I will take the tall pair.", "Lời khuyên hay, tôi lấy đôi cao."),
+        # 37 choosing between a zip-up hoodie and a pullover hoodie
+        ("Ms Lan", "Should I get the zip-up hoodie or the pullover one?", "Tôi nên lấy áo hoodie khóa kéo hay áo chui đầu vậy?"),
+        ("Ms Deborah", "The zip-up is easier to layer over other clothes.", "Áo khóa kéo dễ mặc lớp bên ngoài quần áo khác hơn."),
+        ("Ms Lan", "Good point, I will take the zip-up then.", "Chị nói đúng, vậy tôi lấy áo khóa kéo."),
+        # 38 changing a decision about jeans style
+        ("Ms Deborah", "I was going to get skinny jeans, but I prefer straight leg now.", "Tôi định lấy quần jean ôm, nhưng giờ tôi thích ống suông hơn."),
+        ("Ms Lan", "Straight leg is comfier for everyday walking anyway.", "Dù sao ống suông cũng thoải mái hơn để đi lại hằng ngày."),
+        ("Ms Deborah", "Straight leg fits my daily routine much better.", "Ống suông hợp với sinh hoạt hằng ngày của tôi hơn nhiều."),
+        # 39 choosing between two types of formal shirt collars
+        ("Ms Lan", "Which collar style should I choose, spread or button-down?", "Tôi nên chọn kiểu cổ áo nào, cổ rộng hay cổ cài nút vậy?"),
+        ("Ms Deborah", "Button-down looks more relaxed for daily office wear.", "Cổ cài nút trông thoải mái hơn để mặc đi làm hằng ngày."),
+        ("Ms Lan", "Good advice, I will go with that style.", "Lời khuyên hay, tôi chọn kiểu đó."),
+        # 40 changing a mind about buying matching outfits for an event
+        ("Ms Deborah", "I was against matching outfits, but I like the idea now.", "Tôi từng phản đối mặc đồ đôi, nhưng giờ tôi thích ý đó rồi."),
+        ("Ms Lan", "It would look really sweet for the family photo.", "Sẽ trông rất dễ thương cho ảnh gia đình đấy."),
+        ("Ms Deborah", "That is exactly what changed my mind.", "Chính điều đó làm tôi đổi ý."),
+        # 41 choosing a different hair tie colour
+        ("Ms Lan", "Should I get the black hair ties or the patterned ones?", "Tôi nên lấy dây buộc tóc màu đen hay có họa tiết vậy?"),
+        ("Ms Deborah", "The black ones go with more outfits, honestly.", "Thật lòng dây màu đen hợp với nhiều bộ đồ hơn."),
+        ("Ms Lan", "Good point, I will keep it simple then.", "Chị nói đúng, vậy tôi chọn kiểu đơn giản."),
+        # 42 explaining why a clothing decision changed matters
+        ("Ms Deborah", "Why do you think explaining why a clothing decision changed matters so much?", "Chị nghĩ vì sao giải thích vì sao một quyết định về quần áo thay đổi lại quan trọng vậy?"),
+        ("Ms Lan", "Because it helps the other person understand it was not just a random switch.", "Vì nó giúp người kia hiểu đó không phải là đổi ý tùy tiện."),
+        ("Ms Deborah", "True, a good reason makes the change feel more thoughtful.", "Đúng vậy, có lý do rõ ràng làm sự thay đổi có suy nghĩ hơn."),
+        # 43 explaining why clearly stating a changed choice matters
+        ("Ms Lan", "Why do you think clearly stating a changed choice matters too?", "Chị nghĩ vì sao nói rõ một lựa chọn đã thay đổi cũng quan trọng vậy?"),
+        ("Ms Deborah", "Because it stops the shop from preparing the wrong size or colour.", "Vì nó giúp cửa hàng không chuẩn bị nhầm size hay màu."),
+        ("Ms Lan", "Exactly, a clear choice avoids a lot of back and forth later.", "Chính xác, một lựa chọn rõ ràng tránh được nhiều lần qua lại về sau."),
     ],
 }

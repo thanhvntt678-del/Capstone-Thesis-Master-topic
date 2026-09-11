@@ -192,7 +192,7 @@ LESSON_0009 = {
         # 41 a public restroom
         ("Mr Michael", "Lan, is there a public restroom in this area?", "Chị Lan, khu này có nhà vệ sinh công cộng không?"),
         ("Ms Lan", "Yes, there is one inside the community centre.", "Có chứ, có một cái trong trung tâm cộng đồng."),
-        ("Mr Michael", "Good to know, thank you.", "Biết vậy tốt quá, cảm ơn chị."),
+        ("Mr Michael", "That is useful to know for later.", "Vậy hữu ích để lát nữa tôi dùng đến."),
         # 42 a bike lane
         ("Mr Michael", "Lan, does this street have a bike lane?", "Chị Lan, con đường này có làn đường xe đạp không?"),
         ("Ms Lan", "Yes, it runs along the right side.", "Có chứ, nó chạy dọc bên phải đấy."),

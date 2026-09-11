@@ -199,7 +199,35 @@ LESSON_0054 = {
         ("Ms Lan", "Could you confirm how many unread messages I have today?", "Chị xác nhận giúp hôm nay tôi có bao nhiêu tin nhắn chưa đọc không?"),
         ("Ms Brenda", "Yes, it shows twelve unread messages.", "Có chứ, hiện có mười hai tin nhắn chưa đọc."),
         ("Ms Lan", "Good, I will go through them this evening.", "Tốt, tối nay tôi sẽ xem qua."),
-        # 38 closing - why confirming these details matters
+        # 38 confirming a voice call app's microphone permission
+        ("Ms Lan", "Could you confirm the app has permission to use my microphone?", "Chị xác nhận giúp ứng dụng có quyền dùng micro của tôi không?"),
+        ("Ms Brenda", "Yes, it is allowed in your phone settings.", "Có chứ, đã được cho phép trong cài đặt điện thoại của chị."),
+        ("Ms Lan", "Good, voice messages should work fine then.", "Tốt, vậy tin nhắn thoại sẽ hoạt động tốt."),
+        # 39 checking a sticker pack finished downloading
+        ("Ms Brenda", "Could you check if the new sticker pack finished downloading?", "Chị kiểm tra giúp gói nhãn dán mới đã tải xong chưa không?"),
+        ("Ms Lan", "Yes, all the stickers are ready to use now.", "Có chứ, tất cả nhãn dán đã sẵn sàng dùng rồi."),
+        ("Ms Brenda", "Great, I will send you a few then.", "Tuyệt, tôi sẽ gửi cho chị vài cái."),
+        # 40 confirming a shared album's photo count
+        ("Ms Lan", "Could you confirm how many photos are in our shared album?", "Chị xác nhận giúp album chung của mình có bao nhiêu ảnh không?"),
+        ("Ms Brenda", "Yes, there are forty photos in it now.", "Có chứ, hiện có bốn mươi tấm ảnh."),
+        ("Ms Lan", "Good, I will add a few more tonight.", "Tốt, tối nay tôi sẽ thêm vài tấm nữa."),
+        # 41 checking a message app's dark mode setting
+        ("Ms Brenda", "Could you check if dark mode is turned on for me?", "Chị kiểm tra giúp chế độ nền tối của tôi đã bật chưa không?"),
+        ("Ms Lan", "Yes, it switched on automatically at night.", "Có chứ, tự động bật vào ban đêm."),
+        ("Ms Brenda", "Good, that is easier on my eyes.", "Tốt, vậy đỡ mỏi mắt hơn."),
+        # 42 confirming a forwarded message's original sender
+        ("Ms Lan", "Could you confirm who originally sent this forwarded message?", "Chị xác nhận giúp ai là người gửi gốc của tin nhắn chuyển tiếp này không?"),
+        ("Ms Brenda", "Yes, it was originally sent by her sister.", "Có chứ, ban đầu là em gái cô ấy gửi."),
+        ("Ms Lan", "Good, now the message makes more sense.", "Tốt, giờ tin nhắn này hợp lý hơn."),
+        # 43 checking a voice call's connection quality
+        ("Ms Brenda", "Could you check if the call connection sounds clear on your end?", "Chị kiểm tra giúp bên chị nghe cuộc gọi có rõ không?"),
+        ("Ms Lan", "Yes, it sounds clear with no delay.", "Có chứ, nghe rõ, không bị trễ."),
+        ("Ms Brenda", "Great, we can keep talking like this then.", "Tuyệt, vậy mình cứ nói chuyện thế này."),
+        # 44 confirming a message draft was saved before closing
+        ("Ms Lan", "Could you confirm my unsent draft was saved before I closed the app?", "Chị xác nhận giúp bản nháp chưa gửi của tôi đã lưu trước khi tôi tắt ứng dụng không?"),
+        ("Ms Brenda", "Yes, it is still sitting in your drafts folder.", "Có chứ, vẫn còn trong thư mục bản nháp của chị."),
+        ("Ms Lan", "Great, I can finish writing it later.", "Tuyệt, lát nữa tôi viết tiếp được."),
+        # 45 closing - why confirming these details matters
         ("Ms Brenda", "Confirming these small digital details really avoids confusion.", "Xác nhận những chi tiết số nhỏ này thật sự tránh được nhầm lẫn."),
         ("Ms Lan", "It does, it keeps our messages accurate and clear.", "Đúng vậy, giúp tin nhắn của mình chính xác và rõ ràng."),
         ("Ms Brenda", "That is exactly why I always double-check before sending.", "Chính vì vậy mà tôi luôn kiểm tra lại trước khi gửi."),

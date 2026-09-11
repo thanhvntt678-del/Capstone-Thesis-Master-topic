@@ -205,7 +205,19 @@ LESSON_0162 = {
         ("Ms Delphine", "Can you check if the screen recording caught the whole video call?", "Bạn kiểm tra giúp bản ghi màn hình có quay đủ cả cuộc gọi video không được không?"),
         ("Ms Lan", "Yes, it starts right from the first minute.", "Có, bắt đầu ngay từ phút đầu tiên."),
         ("Ms Delphine", "Wonderful, we will not miss any details then.", "Tuyệt vời, vậy sẽ không bỏ lỡ chi tiết nào."),
-        # 39 closing on why checking messaging details matters
+        # 39 if the shared photo album synced across every phone
+        ("Ms Lan", "Can you check if the shared photo album synced across every phone in the family group?", "Chị kiểm tra giúp album ảnh chung đã đồng bộ trên hết điện thoại của cả nhà chưa được không?"),
+        ("Ms Delphine", "Yes, all three phones show the same eighty photos.", "Có, cả ba điện thoại đều hiện đủ tám mươi tấm ảnh."),
+        ("Ms Lan", "Lovely, no one will miss the wedding pictures then.", "Đáng yêu quá, vậy không ai bỏ lỡ ảnh đám cưới cả."),
+        # 40 if the auto-reply message turned off after the trip
+        ("Ms Delphine", "Can you check if my auto-reply message turned off after I got back from the trip?", "Bạn kiểm tra giúp tin nhắn tự động trả lời đã tắt sau khi tôi đi công tác về chưa được không?"),
+        ("Ms Lan", "Yes, it stopped sending as soon as you landed.", "Có, vừa hạ cánh là nó ngưng gửi ngay."),
+        ("Ms Delphine", "Perfect, clients will get my real answers now.", "Tuyệt vời, vậy khách hàng sẽ nhận được câu trả lời thật của tôi."),
+        # 41 if the phone number linked to the account was updated
+        ("Ms Lan", "Can you check if the phone number linked to my account was updated to the new one?", "Chị kiểm tra giúp số điện thoại gắn với tài khoản của tôi đã đổi sang số mới chưa được không?"),
+        ("Ms Delphine", "Yes, the new number is showing there now.", "Có, giờ đã hiện số mới rồi."),
+        ("Ms Lan", "Wonderful, codes will reach my current phone then.", "Tuyệt vời, vậy mã sẽ gửi tới điện thoại hiện tại của tôi."),
+        # 42 closing on why checking messaging details matters
         ("Ms Delphine", "Why does checking these messaging details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết nhắn tin này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our communication clear and stops important messages from getting lost or missed.", "Nó giúp giao tiếp rõ ràng và tránh tin nhắn quan trọng bị thất lạc hay bỏ lỡ."),
         ("Ms Delphine", "That is very true, checking first really does make messaging more reliable.", "Đúng vậy thật, kiểm tra trước thật sự giúp việc nhắn tin đáng tin cậy hơn."),

@@ -182,5 +182,21 @@ LESSON_0017 = {
         ("Mr Robert", "Lan, my phone just reminded me to call you.", "Chị Lan, điện thoại tôi vừa nhắc gọi cho chị đấy."),
         ("Ms Lan", "Perfect timing, I was just thinking of you.", "Đúng lúc thật, tôi vừa mới nghĩ đến anh."),
         ("Mr Robert", "What a coincidence.", "Trùng hợp thật đấy."),
+        # 39 asking someone to repeat something
+        ("Ms Lan", "Robert, could you say that last part again, please?", "Anh Robert, anh nói lại phần cuối được không?"),
+        ("Mr Robert", "Of course, I said the meeting moved to Monday.", "Được chứ, tôi nói là cuộc họp đổi sang thứ Hai."),
+        ("Ms Lan", "Ah, thank you, now I have it.", "À, cảm ơn anh, giờ tôi rõ rồi."),
+        # 40 confirming a callback number
+        ("Mr Robert", "Lan, what is the best number to call you back on?", "Chị Lan, số nào gọi lại chị dễ nhất vậy?"),
+        ("Ms Lan", "This same number is fine.", "Số này đây là được rồi."),
+        ("Mr Robert", "Good, I will use it later.", "Tốt, lát nữa tôi dùng số này gọi."),
+        # 41 phone on airplane mode
+        ("Ms Lan", "Robert, sorry, my phone was on airplane mode earlier.", "Anh Robert, xin lỗi, lúc nãy điện thoại tôi để chế độ máy bay."),
+        ("Mr Robert", "Ah, that explains why I could not reach you.", "À, thảo nào tôi gọi không được."),
+        ("Ms Lan", "Sorry about that, I have turned it off now.", "Xin lỗi anh nhé, giờ tôi tắt chế độ đó rồi."),
+        # 42 a conference call PIN
+        ("Mr Robert", "Lan, do you have the PIN for the conference call?", "Chị Lan, chị có mã PIN cho cuộc gọi hội nghị không?"),
+        ("Ms Lan", "Yes, it is in the invitation email.", "Có chứ, nó nằm trong email mời họp đấy."),
+        ("Mr Robert", "Thank you, let me find it now.", "Cảm ơn chị, để tôi tìm ngay đây."),
     ],
 }

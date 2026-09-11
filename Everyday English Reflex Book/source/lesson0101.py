@@ -188,7 +188,31 @@ LESSON_0101 = {
         ("Ms Lan", "I thought the fare would split evenly, but it did not.", "Tôi tưởng tiền cước sẽ chia đều, nhưng lại không phải vậy."),
         ("Mr Desmond", "Let me check the split settings before we finish paying.", "Để tôi kiểm tra cài đặt chia tiền trước khi thanh toán xong."),
         ("Ms Lan", "Ah, I see, we needed to select it manually.", "À, ra là vậy, mình cần chọn thủ công."),
-        # 36 explaining why staying polite during a ride problem matters
+        # 36 the app having the wrong phone number for the driver
+        ("Ms Lan", "I think the app has the wrong phone number for the driver.", "Tôi nghĩ ứng dụng hiện sai số điện thoại của tài xế."),
+        ("Mr Desmond", "Let me message through the app chat instead.", "Để tôi nhắn qua khung chat trong ứng dụng thay vào."),
+        ("Ms Lan", "Good idea, that should reach him anyway.", "Ý hay, vậy chắc vẫn tới được anh ấy."),
+        # 37 a disagreement over taking the toll road
+        ("Mr Desmond", "The driver wants to take the toll road, is that alright with you?", "Tài xế muốn đi đường có thu phí, chị thấy ổn không?"),
+        ("Ms Lan", "That is fine with me, it should save us some time.", "Ổn với tôi thôi, chắc sẽ tiết kiệm thời gian hơn."),
+        ("Mr Desmond", "Good, let me tell him to go ahead then.", "Tốt, để tôi báo anh ấy đi luôn."),
+        # 38 being dropped off on the wrong side of a busy road
+        ("Ms Lan", "The driver dropped us on the wrong side of this busy road.", "Tài xế thả mình sai bên của con đường đông xe này."),
+        ("Mr Desmond", "Let us find the crosswalk up ahead to be safe.", "Mình tìm chỗ qua đường phía trước cho an toàn."),
+        ("Ms Lan", "Good idea, better not to cross here.", "Ý hay, không nên băng qua ở đây."),
+        # 39 the app asking for a rating before the ride ends
+        ("Mr Desmond", "The app is already asking me to rate the ride, but we are not there yet.", "Ứng dụng đã hỏi đánh giá chuyến đi rồi, mà mình chưa tới nơi mà."),
+        ("Ms Lan", "That happens sometimes, just close it for now.", "Đôi khi vậy đấy, cứ đóng lại tạm thời đi."),
+        ("Mr Desmond", "Good idea, I will rate it properly at the end.", "Ý hay, tôi sẽ đánh giá đàng hoàng lúc kết thúc."),
+        # 40 a seat belt in the back not locking properly
+        ("Ms Lan", "This seat belt in the back does not seem to lock properly.", "Dây an toàn ở ghế sau này có vẻ không khóa được."),
+        ("Mr Desmond", "Let us try the other side, that one might work better.", "Mình thử bên kia xem, có thể tốt hơn."),
+        ("Ms Lan", "That one locks fine, thank you for checking.", "Bên đó khóa được rồi, cảm ơn anh đã kiểm tra."),
+        # 41 the driver's app glitching and needing a rebook
+        ("Mr Desmond", "The driver says his app glitched and we need to rebook.", "Tài xế nói ứng dụng của anh ấy bị lỗi và mình cần đặt lại."),
+        ("Ms Lan", "No problem, let me book a new ride right now.", "Không sao, để tôi đặt chuyến mới ngay."),
+        ("Mr Desmond", "Thanks, hopefully this one goes smoothly.", "Cảm ơn chị, mong chuyến này suôn sẻ."),
+        # 42 explaining why staying polite during a ride problem matters
         ("Mr Desmond", "Why does staying polite during a ride problem matter so much?", "Vì sao giữ thái độ lịch sự khi có vấn đề trong chuyến đi lại quan trọng vậy?"),
         ("Ms Lan", "It keeps things calm so the driver can actually help us.", "Nó giúp mọi thứ bình tĩnh để tài xế có thể thật sự giúp mình."),
         ("Mr Desmond", "That makes sense, I will remember that next time.", "Nghe hợp lý đấy, tôi sẽ nhớ điều đó cho lần sau."),

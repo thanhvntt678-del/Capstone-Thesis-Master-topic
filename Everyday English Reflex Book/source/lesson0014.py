@@ -185,5 +185,21 @@ LESSON_0014 = {
         ("Ms Lan", "Rachel, do you shower in the morning or at night?", "Chị Rachel, chị tắm vào buổi sáng hay buổi tối vậy?"),
         ("Ms Rachel", "Always in the morning, it wakes me up.", "Luôn là buổi sáng, nó giúp tôi tỉnh táo hơn."),
         ("Ms Lan", "I prefer that too, actually.", "Thật ra tôi cũng thích vậy hơn."),
+        # 40 checking the mailbox
+        ("Ms Rachel", "Lan, do you check your mailbox every day?", "Chị Lan, ngày nào chị cũng kiểm tra hộp thư à?"),
+        ("Ms Lan", "Yes, usually right after I get home.", "Vâng, thường là ngay khi tôi về đến nhà."),
+        ("Ms Rachel", "I always forget to check mine.", "Tôi lúc nào cũng quên kiểm tra hộp thư của mình."),
+        # 41 taking out the trash
+        ("Ms Lan", "Rachel, which night do you take the trash out?", "Chị Rachel, tối nào chị mang rác ra vậy?"),
+        ("Ms Rachel", "Sunday night, before collection on Monday.", "Tối Chủ nhật, trước khi họ thu gom vào thứ Hai."),
+        ("Ms Lan", "I should follow the same schedule.", "Tôi cũng nên theo lịch giống vậy."),
+        # 42 a bedtime cup of tea
+        ("Ms Rachel", "Lan, do you drink tea before bed?", "Chị Lan, chị uống trà trước khi ngủ à?"),
+        ("Ms Lan", "Yes, a warm cup helps me relax.", "Vâng, một tách trà ấm giúp tôi thư giãn."),
+        ("Ms Rachel", "That sounds like a calming habit.", "Nghe là thói quen giúp bình tâm đấy."),
+        # 43 turning off the lights
+        ("Ms Lan", "Rachel, do you check all the lights before bed?", "Chị Rachel, chị kiểm tra hết đèn trước khi ngủ à?"),
+        ("Ms Rachel", "Yes, I walk through the whole flat.", "Vâng, tôi đi vòng khắp căn hộ kiểm tra."),
+        ("Ms Lan", "That is a thorough habit.", "Đó là thói quen kỹ lưỡng đấy."),
     ],
 }

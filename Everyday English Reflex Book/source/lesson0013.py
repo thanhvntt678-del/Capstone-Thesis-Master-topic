@@ -184,5 +184,21 @@ LESSON_0013 = {
         ("Mr Peter", "Lan, is it windy enough to fly a kite today?", "Chị Lan, hôm nay đủ gió để thả diều không?"),
         ("Ms Lan", "Yes, it looks like a perfect day for it.", "Có chứ, trông là ngày hoàn hảo để thả diều đấy."),
         ("Mr Peter", "Let us go to the field then.", "Vậy mình ra bãi đất trống nhé."),
+        # 39 a sudden downpour
+        ("Ms Lan", "Peter, it just started pouring rain outside.", "Anh Peter, ngoài trời vừa đổ mưa xối xả rồi."),
+        ("Mr Peter", "Let us wait under this shop awning for a bit.", "Mình đứng đợi dưới mái hiên tiệm này một lát nhé."),
+        ("Ms Lan", "Good idea, I did not expect this at all.", "Ý hay đấy, tôi không ngờ luôn."),
+        # 40 frost on the windshield
+        ("Mr Peter", "Lan, there is frost on my windshield this morning.", "Chị Lan, sáng nay kính chắn gió xe tôi bị đóng sương giá."),
+        ("Ms Lan", "You will need a few minutes to clear it.", "Anh sẽ cần vài phút để cạo sạch nó."),
+        ("Mr Peter", "You are right, I will start the car early.", "Chị nói đúng, tôi sẽ khởi động xe sớm."),
+        # 41 dressing in layers
+        ("Ms Lan", "Peter, should I wear layers since it will warm up later?", "Anh Peter, tôi có nên mặc nhiều lớp vì lát nữa trời ấm lên không?"),
+        ("Mr Peter", "Yes, that is a smart idea for today.", "Có chứ, hôm nay nghĩ vậy là khôn ngoan đấy."),
+        ("Ms Lan", "Good, I can take a layer off later.", "Tốt, lát nữa tôi có thể cởi bớt một lớp."),
+        # 42 pollen warning
+        ("Mr Peter", "Lan, the pollen count is high this week.", "Chị Lan, tuần này lượng phấn hoa cao lắm."),
+        ("Ms Lan", "Thanks for telling me, I will bring my allergy medicine.", "Cảm ơn anh đã nhắc, tôi sẽ mang theo thuốc dị ứng."),
+        ("Mr Peter", "Good idea, better to be prepared.", "Ý hay đấy, chuẩn bị trước vẫn hơn."),
     ],
 }

@@ -186,7 +186,35 @@ LESSON_0036 = {
         ("Ms Lan", "Just checking in, how has your day been?", "Chỉ hỏi thăm thôi, hôm nay của chị thế nào?"),
         ("Ms Amy", "It has been good, thanks for checking in.", "Cũng ổn, cảm ơn chị đã hỏi thăm."),
         ("Ms Lan", "Glad to hear that, talk again soon.", "Nghe vậy tôi mừng, hẹn nói chuyện lại sau."),
-        # 38 closing - why clear digital communication matters
+        # 38 a two-factor verification code text
+        ("Ms Lan", "I just got a verification code text, is that from you?", "Tôi vừa nhận tin nhắn mã xác minh, phải từ chị gửi không?"),
+        ("Ms Amy", "Yes, that is for the account we are setting up.", "Vâng, đó là cho tài khoản mình đang thiết lập."),
+        ("Ms Lan", "Got it, entering the code now.", "Rõ rồi, tôi nhập mã ngay đây."),
+        # 39 pinning an important message
+        ("Ms Amy", "Could you pin that message so we do not lose it?", "Chị ghim tin nhắn đó lại để khỏi mất được không?"),
+        ("Ms Lan", "Sure, pinning it to the top of the chat now.", "Được chứ, tôi ghim lên đầu đoạn chat ngay."),
+        ("Ms Amy", "Perfect, now it is easy to find later.", "Tuyệt, giờ dễ tìm lại sau này."),
+        # 40 archiving an old chat
+        ("Ms Lan", "This old chat is cluttering my message list.", "Đoạn chat cũ này làm danh sách tin nhắn của tôi lộn xộn quá."),
+        ("Ms Amy", "You can archive it instead of deleting it.", "Chị lưu trữ lại thay vì xóa hẳn cũng được."),
+        ("Ms Lan", "Good idea, archiving it now.", "Ý hay đấy, tôi lưu trữ ngay đây."),
+        # 41 checking a message timestamp for a timezone
+        ("Ms Amy", "What time did she actually send this message?", "Cô ấy thật ra gửi tin nhắn này lúc mấy giờ vậy?"),
+        ("Ms Lan", "The timestamp shows two in the morning her time.", "Dấu thời gian hiện hai giờ sáng theo giờ của cô ấy."),
+        ("Ms Amy", "Ah, that explains the late reply then.", "À, vậy là hiểu lý do trả lời trễ rồi."),
+        # 42 replying with a GIF
+        ("Ms Lan", "Should I just reply with a funny GIF here?", "Tôi trả lời bằng một ảnh động vui ở đây được không?"),
+        ("Ms Amy", "Sure, that would fit the joke perfectly.", "Được chứ, vậy hợp với câu đùa lắm."),
+        ("Ms Lan", "Great, searching for a good one now.", "Tuyệt, tôi tìm một cái hay ngay đây."),
+        # 43 an unwanted promotional message
+        ("Ms Amy", "I keep getting promotional messages from this shop.", "Tôi cứ nhận tin nhắn quảng cáo từ cửa hàng này."),
+        ("Ms Lan", "You can unsubscribe using the link at the bottom.", "Chị có thể hủy đăng ký bằng đường link ở cuối tin nhắn."),
+        ("Ms Amy", "Thanks, unsubscribing right now.", "Cảm ơn chị, tôi hủy đăng ký ngay đây."),
+        # 44 a broadcast message to a contact list
+        ("Ms Lan", "Could you send this update to everyone on our list?", "Chị gửi thông tin cập nhật này cho mọi người trong danh sách được không?"),
+        ("Ms Amy", "Sure, sending it as a broadcast message now.", "Được chứ, tôi gửi dưới dạng tin nhắn hàng loạt ngay đây."),
+        ("Ms Lan", "Thank you, that reaches everyone at once.", "Cảm ơn chị, vậy mọi người nhận được cùng lúc."),
+        # 45 closing - why clear digital communication matters
         ("Ms Amy", "Messaging clearly really avoids so many misunderstandings.", "Nhắn tin rõ ràng thật sự tránh được bao nhiêu hiểu nhầm."),
         ("Ms Lan", "It does, a quick clarifying message saves a lot of confusion.", "Đúng vậy, một tin nhắn làm rõ nhanh đỡ được nhiều rối rắm."),
         ("Ms Amy", "That is exactly why I try to reply thoughtfully.", "Chính vì vậy mà tôi luôn cố trả lời một cách chu đáo."),

@@ -184,7 +184,31 @@ LESSON_0098 = {
         ("Ms Lan", "I could not find my wallet for a moment, it gave me quite a scare.", "Tôi tìm không ra ví một lúc, làm tôi hoảng quá."),
         ("Ms Rosalind", "Where did you finally find it, if I may ask?", "Cuối cùng chị tìm thấy nó ở đâu vậy?"),
         ("Ms Lan", "It was under a cushion the whole time.", "Nó nằm dưới cái đệm từ nãy giờ."),
-        # 36 explaining why resolving a clothing problem calmly matters
+        # 36 a fitting room mirror making a size look misleading
+        ("Ms Lan", "This fit fine in the fitting room, but it feels tight now.", "Cái này thử ở phòng thay đồ thì vừa, nhưng giờ lại chật."),
+        ("Ms Rosalind", "Fitting room mirrors can be a little misleading sometimes.", "Gương phòng thay đồ đôi khi hơi đánh lừa mắt đấy."),
+        ("Ms Lan", "I will exchange it for a bigger size tomorrow.", "Mai tôi đổi lấy size lớn hơn."),
+        # 37 an iron mark left on a shirt
+        ("Ms Rosalind", "I accidentally left an iron mark on this shirt.", "Tôi lỡ để lại vết bàn ủi trên cái áo này."),
+        ("Ms Lan", "Try a damp cloth over it on a low heat setting.", "Thử đặt khăn ẩm lên và ủi lại với nhiệt thấp xem."),
+        ("Ms Rosalind", "I will try that carefully, thank you.", "Tôi sẽ thử cẩn thận, cảm ơn chị."),
+        # 38 a return being refused because the tag is missing
+        ("Ms Lan", "They refused my return because the tag is missing.", "Họ từ chối cho trả hàng vì thiếu tag rồi."),
+        ("Ms Rosalind", "Did you at least keep the original packaging?", "Chị còn giữ bao bì gốc không?"),
+        ("Ms Lan", "Yes, I still have that, let me show them.", "Có, tôi vẫn còn, để tôi đưa họ xem."),
+        # 39 a moth hole found in a stored sweater
+        ("Ms Rosalind", "I found a small moth hole in this stored sweater.", "Tôi thấy một lỗ nhỏ do mối cắn trên áo len cất trong tủ."),
+        ("Ms Lan", "That is a shame, moths love wool like that.", "Tiếc thật, mối rất thích len như vậy."),
+        ("Ms Rosalind", "I will use cedar blocks in the closet from now on.", "Từ giờ tôi sẽ dùng gỗ tuyết tùng trong tủ."),
+        # 40 mismatched shoes taken from a shared closet
+        ("Ms Lan", "I think I grabbed two shoes from different pairs by mistake.", "Tôi nghĩ mình lỡ lấy nhầm hai chiếc giày khác đôi rồi."),
+        ("Ms Rosalind", "Let us go back and match them up properly.", "Mình quay lại ghép đúng đôi đi."),
+        ("Ms Lan", "Good idea, I almost walked out like this.", "Ý hay, suýt nữa tôi đi ra ngoài như vậy luôn."),
+        # 41 clothing forgotten at a friend's house
+        ("Ms Rosalind", "I think I left my cardigan at your place last week.", "Tôi nghĩ mình để quên áo khoác len ở nhà chị tuần trước."),
+        ("Ms Lan", "Yes, it is here, I will bring it next time.", "Vâng, nó ở đây, lần sau tôi mang lại cho chị."),
+        ("Ms Rosalind", "Thank you, I was looking everywhere for it.", "Cảm ơn chị, tôi tìm khắp nơi mà không thấy."),
+        # 42 explaining why resolving a clothing problem calmly matters
         ("Ms Rosalind", "Why does it matter so much to handle these problems calmly?", "Vì sao xử lý những vấn đề này bình tĩnh lại quan trọng vậy?"),
         ("Ms Lan", "Getting upset never actually fixes the problem faster.", "Nổi giận chẳng bao giờ giúp giải quyết vấn đề nhanh hơn."),
         ("Ms Rosalind", "That makes complete sense, thank you for the reminder.", "Vậy hợp lý hoàn toàn, cảm ơn chị đã nhắc."),

@@ -176,5 +176,29 @@ LESSON_0019 = {
         ("Ms Lan", "Simon, please spell your name on this signature slip.", "Anh Simon, anh đánh vần tên trên tờ ký nhận này nhé."),
         ("Mr Simon", "S-I-M-O-N, written clearly.", "S-I-M-O-N, viết rõ ràng."),
         ("Ms Lan", "Perfect, delivery complete.", "Tuyệt, giao hàng xong rồi."),
+        # 37 a pharmacy prescription pickup
+        ("Mr Simon", "Could you spell your full name to collect this prescription?", "Chị đánh vần đầy đủ họ tên để nhận đơn thuốc này được không?"),
+        ("Ms Lan", "Of course, first name L-A-N, surname N-G-U-Y-E-N.", "Được chứ, tên là L-A-N, họ là N-G-U-Y-E-N."),
+        ("Mr Simon", "Thank you, here is your prescription.", "Cảm ơn chị, đây là đơn thuốc của chị."),
+        # 38 a hotel loyalty program signup
+        ("Ms Lan", "Simon, please spell your name for the loyalty program.", "Anh Simon, anh đánh vần tên cho chương trình khách hàng thân thiết nhé."),
+        ("Mr Simon", "Happy to, first name S-I-M-O-N, surname T-R-A-N.", "Được chứ, tên là S-I-M-O-N, họ là T-R-A-N."),
+        ("Ms Lan", "Perfect, you are enrolled now.", "Tuyệt, anh đã đăng ký xong rồi."),
+        # 39 a courier text confirmation
+        ("Mr Simon", "Could you text me the spelling of your name for the label?", "Chị nhắn tin cách đánh vần tên cho tôi để dán nhãn được không?"),
+        ("Ms Lan", "Sure, sending it now: L-A-N.", "Được chứ, tôi gửi ngay đây: L-A-N."),
+        ("Mr Simon", "Received, thank you.", "Nhận được rồi, cảm ơn chị."),
+        # 40 a museum membership card
+        ("Ms Lan", "Simon, how do you spell your name for the museum card?", "Anh Simon, anh đánh vần tên thế nào cho thẻ thành viên bảo tàng vậy?"),
+        ("Mr Simon", "S-I-M-O-N, same as always.", "S-I-M-O-N, vẫn như mọi khi."),
+        ("Ms Lan", "Got it, your card will arrive by post.", "Rõ rồi, thẻ sẽ được gửi qua bưu điện."),
+        # 41 a car rental form
+        ("Mr Simon", "Could you spell your name for the car rental form?", "Chị đánh vần tên cho tờ đơn thuê xe được không?"),
+        ("Ms Lan", "Yes, L-A-N, one word, no space.", "Được chứ, L-A-N, một từ, không có dấu cách."),
+        ("Mr Simon", "Understood, form completed now.", "Rõ rồi, đơn hoàn tất rồi."),
+        # 42 a swimming class registration
+        ("Ms Lan", "Simon, spell your name for the swimming class list, please.", "Anh Simon, anh đánh vần tên cho danh sách lớp bơi nhé."),
+        ("Mr Simon", "S-I-M-O-N, that should be on the list now.", "S-I-M-O-N, vậy là có trong danh sách rồi."),
+        ("Ms Lan", "Great, class starts at nine tomorrow.", "Tuyệt, lớp bắt đầu lúc chín giờ ngày mai."),
     ],
 }

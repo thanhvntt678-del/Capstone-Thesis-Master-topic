@@ -183,5 +183,21 @@ LESSON_0015 = {
         ("Mr Kevin", "Lan, our class needs to choose a class representative.", "Chị Lan, lớp mình cần chọn một lớp trưởng."),
         ("Ms Lan", "That is a good idea, someone organised would help.", "Ý hay đấy, ai có tổ chức thì sẽ giúp được nhiều."),
         ("Mr Kevin", "Let us discuss it during the break.", "Mình bàn chuyện đó lúc giải lao nhé."),
+        # 39 checking exam results
+        ("Ms Lan", "Kevin, have the exam results been posted yet?", "Anh Kevin, kết quả thi đã được công bố chưa vậy?"),
+        ("Mr Kevin", "Not yet, they said by Friday.", "Chưa, họ nói là trước thứ Sáu."),
+        ("Ms Lan", "I am a little nervous to see mine.", "Tôi hơi hồi hộp khi xem kết quả của mình."),
+        # 40 using a dictionary app
+        ("Mr Kevin", "Lan, how do you say this word in English?", "Chị Lan, từ này nói bằng tiếng Anh thế nào vậy?"),
+        ("Ms Lan", "Let me check the dictionary app quickly.", "Để tôi xem nhanh trên ứng dụng từ điển."),
+        ("Mr Kevin", "Thank you, that app is very useful.", "Cảm ơn chị, ứng dụng đó hữu ích thật đấy."),
+        # 41 asking about extra credit
+        ("Ms Lan", "Kevin, does the teacher offer any extra credit work?", "Anh Kevin, giáo viên có cho làm bài điểm cộng không?"),
+        ("Mr Kevin", "Yes, an extra reading task this week.", "Có chứ, tuần này có một bài đọc thêm."),
+        ("Ms Lan", "I will ask her for the details.", "Tôi sẽ hỏi cô ấy chi tiết."),
+        # 42 a seating change
+        ("Mr Kevin", "Lan, the teacher moved our seats today.", "Chị Lan, hôm nay giáo viên đổi chỗ ngồi của mình rồi."),
+        ("Ms Lan", "Oh, where am I sitting now?", "Ồ, giờ tôi ngồi ở đâu vậy?"),
+        ("Mr Kevin", "Right next to me, at the front row.", "Ngay cạnh tôi, ở hàng đầu."),
     ],
 }

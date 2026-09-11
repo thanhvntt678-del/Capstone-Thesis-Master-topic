@@ -185,7 +185,35 @@ LESSON_0035 = {
         ("Ms Lan", "Just calling to follow up on our earlier chat.", "Tôi gọi để hỏi thêm về cuộc trò chuyện lúc trước."),
         ("Mr Charles", "Thanks for following up, everything is confirmed.", "Cảm ơn chị đã theo sát, mọi thứ đã xác nhận rồi."),
         ("Ms Lan", "Great, that puts my mind at ease.", "Tuyệt, vậy tôi thấy yên tâm."),
-        # 38 closing - why smooth calls matter
+        # 38 asking to speak to a specific person
+        ("Ms Lan", "Hello, could I speak to Mr Charles, please?", "Alo, cho tôi gặp anh Charles được không?"),
+        ("Mr Charles", "Speaking, hello Lan, how can I help?", "Tôi đây, chào chị Lan, tôi giúp gì được?"),
+        ("Ms Lan", "Oh great, I have a quick question for you.", "Ồ tốt quá, tôi có một câu hỏi nhanh cho anh."),
+        # 39 saving a new contact number
+        ("Mr Charles", "Could you save my new number in your phone?", "Chị lưu giúp số điện thoại mới của tôi được không?"),
+        ("Ms Lan", "Sure, saving it under your name now.", "Được chứ, tôi lưu vào tên anh ngay."),
+        ("Mr Charles", "Thanks, my old number stopped working last week.", "Cảm ơn chị, số cũ của tôi ngừng hoạt động tuần trước."),
+        # 40 a call-waiting interruption
+        ("Ms Lan", "Sorry, another call is coming in right now.", "Xin lỗi, có cuộc gọi khác đang gọi đến."),
+        ("Mr Charles", "No problem, go ahead and take it.", "Không sao đâu, chị nghe máy đi."),
+        ("Ms Lan", "Thank you, I will call you right back.", "Cảm ơn anh, tôi sẽ gọi lại ngay."),
+        # 41 checking a voicemail message
+        ("Mr Charles", "You left me a voicemail, let me listen to it now.", "Chị để lại tin nhắn thoại, để tôi nghe thử."),
+        ("Ms Lan", "Sure, it is just about the delivery time.", "Được chứ, chỉ là về giờ giao hàng thôi."),
+        ("Mr Charles", "Got it, thanks for the clear message.", "Rõ rồi, cảm ơn chị đã nhắn rõ ràng."),
+        # 42 texting instead because now is not a good time
+        ("Ms Lan", "I cannot really talk now, could I text you instead?", "Bây giờ tôi không tiện nói chuyện, tôi nhắn tin được không?"),
+        ("Mr Charles", "Sure, a text works perfectly fine for me.", "Được chứ, nhắn tin cũng ổn với tôi."),
+        ("Ms Lan", "Thanks for understanding, sending it now.", "Cảm ơn anh đã thông cảm, tôi gửi ngay đây."),
+        # 43 roaming charges while abroad
+        ("Mr Charles", "This call might be expensive, I am abroad right now.", "Cuộc gọi này có thể tốn tiền lắm, giờ tôi đang ở nước ngoài."),
+        ("Ms Lan", "Let us switch to a messaging app instead.", "Vậy mình chuyển sang dùng ứng dụng nhắn tin thay vào đó."),
+        ("Mr Charles", "Good idea, that will save us both money.", "Ý hay đấy, vậy tiết kiệm tiền cho cả hai."),
+        # 44 a conference call with multiple colleagues
+        ("Ms Lan", "Is everyone joining the conference call at three?", "Ba giờ mọi người đều tham gia cuộc gọi nhóm chứ?"),
+        ("Mr Charles", "Yes, I already sent the link to the team.", "Vâng, tôi đã gửi đường dẫn cho cả nhóm rồi."),
+        ("Ms Lan", "Perfect, I will join a few minutes early.", "Tuyệt, tôi sẽ vào sớm vài phút."),
+        # 45 closing - why smooth calls matter
         ("Mr Charles", "It really helps when a phone call goes smoothly.", "Một cuộc gọi suôn sẻ thật sự giúp ích nhiều."),
         ("Ms Lan", "It does, it saves so much back-and-forth confusion.", "Đúng vậy, đỡ được bao nhiêu nhầm lẫn qua lại."),
         ("Mr Charles", "That is exactly why I try to speak clearly.", "Chính vì vậy mà tôi luôn cố nói rõ ràng."),

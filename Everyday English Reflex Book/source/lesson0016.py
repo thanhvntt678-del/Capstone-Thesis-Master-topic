@@ -184,5 +184,21 @@ LESSON_0016 = {
         ("Ms Julia", "Lan, please remember to update the shared document.", "Chị Lan, nhớ cập nhật tài liệu chia sẻ giúp tôi nhé."),
         ("Ms Lan", "I will do it right after this call.", "Tôi sẽ làm ngay sau cuộc gọi này."),
         ("Ms Julia", "Perfect, no rush at all.", "Tuyệt, không gấp đâu."),
+        # 39 submitting an expense report
+        ("Ms Lan", "Julia, have you submitted your expense report yet?", "Chị Julia, chị nộp báo cáo chi phí chưa vậy?"),
+        ("Ms Julia", "Not yet, I am missing one receipt.", "Chưa, tôi còn thiếu một hóa đơn."),
+        ("Ms Lan", "Let me know if you need help finding it.", "Cần tìm giúp thì bảo tôi nhé."),
+        # 40 a desk phone not ringing
+        ("Ms Julia", "Lan, my desk phone has not rung all morning.", "Chị Lan, cả sáng nay điện thoại bàn của tôi không đổ chuông."),
+        ("Ms Lan", "That sounds odd, let us check the cable.", "Nghe lạ thật đấy, mình kiểm tra dây cắm thử xem."),
+        ("Ms Julia", "Good idea, it might just be unplugged.", "Ý hay đấy, có thể nó bị rớt dây thôi."),
+        # 41 mentoring a new intern
+        ("Ms Lan", "Julia, could you show our new intern how the filing system works?", "Chị Julia, chị chỉ giúp thực tập sinh mới cách sắp xếp hồ sơ được không?"),
+        ("Ms Julia", "Of course, I will walk her through it now.", "Được chứ, tôi hướng dẫn cô ấy ngay đây."),
+        ("Ms Lan", "Thank you, that will really help her settle in.", "Cảm ơn chị, vậy sẽ giúp cô ấy quen việc nhanh hơn."),
+        # 42 a company survey
+        ("Ms Julia", "Lan, did you fill out the company survey yet?", "Chị Lan, chị điền khảo sát của công ty chưa vậy?"),
+        ("Ms Lan", "Not yet, I will do it before lunch.", "Chưa, tôi sẽ làm trước giờ trưa."),
+        ("Ms Julia", "Good, it closes at the end of today.", "Tốt, khảo sát đóng vào cuối ngày hôm nay đấy."),
     ],
 }

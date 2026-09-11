@@ -188,7 +188,31 @@ LESSON_0125 = {
         ("Ms Lan", "How do I politely ask the purpose of someone's call?", "Tôi hỏi mục đích cuộc gọi của ai đó lịch sự thế nào?"),
         ("Mr Cuthbert", "Say what can I help you with today.", "Nói what can I help you with today."),
         ("Ms Lan", "What can I help you with today, friendly opener.", "What can I help you with today, câu mở đầu thân thiện."),
-        # 36 closing on why phone call questions matter
+        # 36 asking to put the call on speakerphone
+        ("Ms Lan", "Can I put you on speakerphone for a moment?", "Tôi bật loa ngoài một chút được không anh?"),
+        ("Mr Cuthbert", "Sure, go ahead, I can hear you fine.", "Được, cứ bật đi, tôi vẫn nghe rõ."),
+        ("Ms Lan", "Thanks, my colleague needs to hear this too.", "Cảm ơn anh, đồng nghiệp tôi cũng cần nghe cái này."),
+        # 37 asking if a voicemail message was left
+        ("Mr Cuthbert", "Did you leave a voicemail message earlier?", "Lúc nãy chị có để lại tin nhắn thoại không?"),
+        ("Ms Lan", "Yes, I left one about ten minutes ago.", "Có, tôi để lại khoảng mười phút trước."),
+        ("Mr Cuthbert", "Got it, I will listen to it now.", "Rõ rồi, giờ tôi sẽ nghe nó."),
+        # 38 asking to switch from a call to a video call
+        ("Ms Lan", "Could we switch this to a video call instead?", "Mình chuyển sang gọi video thay vì gọi thường được không?"),
+        ("Mr Cuthbert", "Sure, let me open the video app now.", "Được, để tôi mở ứng dụng gọi video."),
+        ("Ms Lan", "Great, calling you there in a second.", "Tốt quá, tôi gọi anh ở đó ngay đây."),
+        # 39 saying the phone battery is about to die
+        ("Mr Cuthbert", "My phone battery is about to die, can I call you right back?", "Pin điện thoại tôi sắp hết, tôi gọi lại chị ngay được không?"),
+        ("Ms Lan", "Of course, go charge it and call me back.", "Được chứ, anh đi sạc rồi gọi lại tôi."),
+        ("Mr Cuthbert", "Thanks for understanding, back in five minutes.", "Cảm ơn chị đã thông cảm, năm phút nữa tôi gọi lại."),
+        # 40 asking to text instead of calling
+        ("Ms Lan", "Could we text instead of calling right now?", "Bây giờ mình nhắn tin thay vì gọi được không anh?"),
+        ("Mr Cuthbert", "Sure, texting works fine for me too.", "Được, nhắn tin cũng ổn với tôi."),
+        ("Ms Lan", "Great, I will send you a message now.", "Tốt quá, tôi sẽ nhắn tin cho anh ngay."),
+        # 41 asking about an unknown number that called
+        ("Mr Cuthbert", "Do you know whose number just called me? I do not recognise it.", "Chị có biết số vừa gọi tôi là của ai không? Tôi không nhận ra."),
+        ("Ms Lan", "No, I am not sure, maybe check it online.", "Không, tôi cũng không chắc, hay anh tra thử trên mạng xem."),
+        ("Mr Cuthbert", "Good idea, I will search it now.", "Ý hay đấy, tôi sẽ tra ngay."),
+        # 42 closing on why phone call questions matter
         ("Mr Cuthbert", "Why do simple phone call phrases like these matter so much anyway?", "Vậy vì sao những cụm từ cuộc gọi điện thoại đơn giản như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help conversations stay polite and clear even without seeing each other.", "Chúng giúp cuộc trò chuyện lịch sự và rõ ràng dù không nhìn thấy nhau."),
         ("Mr Cuthbert", "That is very true, I feel much more confident on calls now.", "Đúng vậy thật, giờ tôi thấy tự tin hơn nhiều khi gọi điện."),
