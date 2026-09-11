@@ -185,7 +185,39 @@ LESSON_0116 = {
         ("Ms Lan", "Does this jacket have inside pockets as well?", "Cái áo khoác này có túi bên trong không?"),
         ("Ms Octavia", "Yes, it has two inside pockets too.", "Có, còn có hai túi bên trong nữa."),
         ("Ms Lan", "That is very useful for carrying small things.", "Vậy hữu ích để đựng đồ nhỏ."),
-        # 36 closing on why simple clothing questions matter
+        # 36 asking if a shirt shrinks after washing
+        ("Ms Lan", "Does this cotton shirt shrink much after washing?", "Cái áo cotton này giặt xong có bị co nhiều không?"),
+        ("Ms Octavia", "It shrinks just a little on the first wash.", "Nó chỉ co nhẹ ở lần giặt đầu tiên."),
+        ("Ms Lan", "Good to know, I will wash it in cold water.", "Biết vậy tốt, tôi sẽ giặt bằng nước lạnh."),
+        # 37 asking where hair accessories are sold
+        ("Ms Octavia", "Where are hair accessories sold in this shop?", "Phụ kiện tóc bán ở đâu trong cửa hàng này?"),
+        ("Ms Lan", "They are near the small mirrors by the counter.", "Chúng ở gần mấy tấm gương nhỏ cạnh quầy."),
+        ("Ms Octavia", "Thank you, I will look right there.", "Cảm ơn chị, tôi sẽ xem ngay đó."),
+        # 38 asking if a jacket is unisex
+        ("Ms Lan", "Is this jacket style meant for men or women, or both?", "Kiểu áo khoác này dành cho nam, nữ, hay cả hai?"),
+        ("Ms Octavia", "It is actually a unisex style, fitting everyone.", "Nó thật ra là kiểu unisex, hợp cho mọi người."),
+        ("Ms Lan", "That makes it easier to choose then.", "Vậy dễ chọn hơn nhiều."),
+        # 39 asking for a different button colour
+        ("Ms Octavia", "Could this shirt come with a different button colour?", "Cái áo này có thể đổi màu nút khác được không?"),
+        ("Ms Lan", "Yes, we can swap them for you in the back.", "Được, chúng tôi có thể đổi giúp anh ở phía sau."),
+        ("Ms Octavia", "Wonderful, black buttons would be lovely.", "Tuyệt quá, nút màu đen sẽ đẹp lắm."),
+        # 40 asking if a bag is truly waterproof
+        ("Ms Lan", "Is this backpack actually waterproof, or just water-resistant?", "Cái ba lô này thật sự chống nước, hay chỉ chống thấm nhẹ?"),
+        ("Ms Octavia", "It is fully waterproof, even in heavy rain.", "Nó chống nước hoàn toàn, kể cả mưa lớn."),
+        ("Ms Lan", "Perfect, exactly what I was looking for.", "Hoàn hảo, đúng thứ tôi đang tìm."),
+        # 41 asking where costume accessories for a party are kept
+        ("Ms Octavia", "Where are the costume accessories for the party kept?", "Phụ kiện hóa trang cho tiệc để ở đâu?"),
+        ("Ms Lan", "They are in the small bin near the register.", "Chúng ở trong thùng nhỏ gần quầy thu ngân."),
+        ("Ms Octavia", "Thank you, I will grab a few now.", "Cảm ơn chị, tôi sẽ lấy vài món ngay."),
+        # 42 asking if a size chart is available
+        ("Ms Lan", "Is there a size chart I could look at first?", "Có bảng size nào tôi xem trước được không?"),
+        ("Ms Octavia", "Yes, it is posted right by the fitting room.", "Có, nó dán ngay cạnh phòng thử đồ."),
+        ("Ms Lan", "Thank you, that will help me choose.", "Cảm ơn chị, vậy giúp tôi chọn dễ hơn."),
+        # 43 asking where school uniforms are sold
+        ("Ms Octavia", "Where are school uniforms sold in this shop?", "Đồng phục học sinh bán ở đâu trong cửa hàng này?"),
+        ("Ms Lan", "They are on the rack near the back wall.", "Chúng ở trên kệ gần tường phía sau."),
+        ("Ms Octavia", "Thank you, my son needs a new one.", "Cảm ơn chị, con trai tôi cần một bộ mới."),
+        # 44 closing on why simple clothing questions matter
         ("Ms Octavia", "Why do simple questions about clothing matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về quần áo lại quan trọng đến thế?"),
         ("Ms Lan", "They help us find exactly what fits and what we need.", "Chúng giúp mình tìm đúng thứ vừa vặn và cần thiết."),
         ("Ms Octavia", "That is very true, small questions save wasted trips.", "Đúng vậy thật, những câu hỏi nhỏ giúp tránh phải đi lại nhiều lần."),
