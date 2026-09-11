@@ -189,7 +189,7 @@ LESSON_0094 = {
         # 37 asking where the broom is kept
         ("Ms Loretta", "Where do you keep the broom? I cannot find it.", "Chị để cây chổi ở đâu vậy? Tôi tìm không ra."),
         ("Ms Lan", "It is behind the kitchen door, on the hook.", "Nó ở sau cửa bếp, treo trên móc."),
-        ("Ms Loretta", "Ah, found it, thank you.", "À, thấy rồi, cảm ơn chị."),
+        ("Ms Loretta", "Ah, right behind the door, of course.", "À, ngay sau cánh cửa, đúng rồi."),
         # 38 asking how to turn on the washing machine
         ("Ms Lan", "How do you turn on this washing machine?", "Máy giặt này bật thế nào vậy?"),
         ("Ms Loretta", "Press the round button, then choose the cycle.", "Chị nhấn nút tròn, rồi chọn chu trình giặt."),
@@ -205,7 +205,7 @@ LESSON_0094 = {
         # 41 checking if the trash was taken out
         ("Ms Loretta", "Did you already take the trash out this morning?", "Sáng nay chị đổ rác chưa vậy?"),
         ("Ms Lan", "Yes, I took it out before breakfast.", "Rồi, tôi đổ trước khi ăn sáng."),
-        ("Ms Loretta", "Perfect, one less thing to worry about.", "Tuyệt, vậy đỡ lo một việc rồi."),
+        ("Ms Loretta", "Perfect, the bins get collected early tomorrow.", "Tuyệt, mai xe rác tới sớm lắm."),
         # 42 asking a guest to take off their shoes
         ("Ms Lan", "Could you take off your shoes before coming in, please?", "Anh chị làm ơn tháo giày trước khi vào nhà nhé?"),
         ("Ms Loretta", "Of course, sorry, I almost forgot.", "Được chứ, xin lỗi, tôi suýt quên."),

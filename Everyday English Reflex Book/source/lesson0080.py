@@ -210,7 +210,7 @@ LESSON_0080 = {
         ("Ms Lan", "Because it helps the other person understand it was not just a random switch.", "Vì nó giúp người kia hiểu đó không phải là đổi ý tùy tiện."),
         ("Ms Deborah", "True, a good reason makes the change feel more thoughtful.", "Đúng vậy, có lý do rõ ràng làm sự thay đổi có suy nghĩ hơn."),
         # 43 explaining why clearly stating a changed choice matters
-        ("Ms Lan", "Why do you think clearly stating a changed choice matters too?", "Chị nghĩ vì sao nói rõ một lựa chọn đã thay đổi cũng quan trọng vậy?"),
+        ("Ms Lan", "So why does spelling out a size or colour change matter so much?", "Vậy vì sao nói rõ việc đổi size hay màu lại quan trọng vậy?"),
         ("Ms Deborah", "Because it stops the shop from preparing the wrong size or colour.", "Vì nó giúp cửa hàng không chuẩn bị nhầm size hay màu."),
         ("Ms Lan", "Exactly, a clear choice avoids a lot of back and forth later.", "Chính xác, một lựa chọn rõ ràng tránh được nhiều lần qua lại về sau."),
     ],

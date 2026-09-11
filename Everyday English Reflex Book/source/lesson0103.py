@@ -145,7 +145,7 @@ LESSON_0103 = {
         # 24 sunburn from an underestimated sunny day
         ("Mr Cedric", "I underestimated how sunny today would be, my arms are burnt.", "Tôi đánh giá thấp mức nắng hôm nay, tay tôi bị cháy nắng rồi."),
         ("Ms Lan", "Let me get you some cooling lotion for that.", "Để tôi lấy kem làm dịu da cho anh."),
-        ("Mr Cedric", "Thank you, that already feels much better.", "Cảm ơn chị, giờ đã thấy đỡ hơn nhiều rồi."),
+        ("Mr Cedric", "Thank you, my arms were really stinging.", "Cảm ơn chị, tay tôi rát dữ lắm."),
         # 25 a chilly evening after a warm afternoon
         ("Ms Lan", "It got surprisingly chilly this evening after such a warm afternoon.", "Tối nay bỗng se lạnh sau một buổi chiều khá ấm."),
         ("Mr Cedric", "Let us grab a light sweater before heading out again.", "Mình lấy áo len mỏng trước khi ra ngoài lại đi."),

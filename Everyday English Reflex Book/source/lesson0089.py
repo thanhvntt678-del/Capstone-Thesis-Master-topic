@@ -204,7 +204,7 @@ LESSON_0089 = {
         ("Mr Lawrence", "Ah, Lan, of course, please go ahead.", "À, chị Lan, được rồi, chị nói đi."),
         # 39 asking someone to hold on for a moment
         ("Ms Lan", "Could you hold on for a moment, please?", "Anh đợi máy một lát được không?"),
-        ("Mr Lawrence", "Sure, take your time.", "Được, chị cứ từ từ."),
+        ("Mr Lawrence", "Sure, I will stay right here.", "Được, tôi đợi ngay đây."),
         ("Ms Lan", "Thank you, I am back now.", "Cảm ơn anh, tôi quay lại rồi đây."),
         # 40 apologising for a bad connection
         ("Mr Lawrence", "Sorry, the connection was terrible just now, can you repeat that?", "Xin lỗi, đường truyền lúc nãy tệ quá, chị nói lại được không?"),
@@ -217,7 +217,7 @@ LESSON_0089 = {
         # 42 asking to speak to a specific person
         ("Mr Lawrence", "Could I speak to the manager, please?", "Tôi xin nói chuyện với quản lý được không ạ?"),
         ("Ms Lan", "One moment, let me transfer your call.", "Chờ một lát, tôi chuyển máy cho anh."),
-        ("Mr Lawrence", "Thank you, I appreciate it.", "Cảm ơn chị nhiều."),
+        ("Mr Lawrence", "Thank you, this is quite urgent.", "Cảm ơn chị, việc này khá gấp."),
         # 43 confirming a callback time
         ("Ms Lan", "Can you call me back around four this afternoon?", "Chiều nay anh gọi lại cho tôi khoảng bốn giờ được không?"),
         ("Mr Lawrence", "Sure, I will call you right at four.", "Được, tôi sẽ gọi đúng bốn giờ."),

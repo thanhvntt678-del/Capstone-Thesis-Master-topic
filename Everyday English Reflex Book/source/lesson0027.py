@@ -190,7 +190,7 @@ LESSON_0027 = {
         ("Ms Lan", "Thank you, I need to mail a package today.", "Cảm ơn anh, hôm nay tôi cần gửi một gói hàng."),
         # 39 locating a public restroom
         ("Mr Patrick", "Is there a public restroom anywhere near this street?", "Gần con phố này có nhà vệ sinh công cộng không?"),
-        ("Ms Lan", "Yes, there is one inside the community centre.", "Có chứ, có một cái trong trung tâm cộng đồng."),
+        ("Ms Lan", "Yes, the community centre has one near the entrance.", "Có chứ, trung tâm cộng đồng có một cái gần lối vào."),
         ("Mr Patrick", "Thanks, that is good to know for next time.", "Cảm ơn chị, biết vậy tốt cho lần sau."),
         # 40 noise from a nearby construction site
         ("Ms Lan", "That construction site has been so loud all week.", "Công trường đó ồn ào suốt cả tuần rồi."),

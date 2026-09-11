@@ -182,7 +182,7 @@ LESSON_0119 = {
         # 34 asking how to book a ride for someone else
         ("Mr Bartholomew", "How do I book a ride for my elderly mother?", "Tôi đặt xe giúp mẹ lớn tuổi thế nào vậy?"),
         ("Ms Lan", "You can enter her details under a guest ride.", "Anh có thể nhập thông tin của mẹ dưới mục đặt hộ."),
-        ("Mr Bartholomew", "Thank you, that is exactly what I needed.", "Cảm ơn chị, đúng là điều tôi cần."),
+        ("Mr Bartholomew", "Thank you, that makes booking for her much simpler.", "Cảm ơn chị, vậy đặt xe cho mẹ tôi dễ hơn nhiều."),
         # 35 asking if a taxi can be flagged down on the street
         ("Ms Lan", "Can I just flag down a taxi on the street here?", "Ở đây tôi có thể vẫy taxi ngay trên phố được không?"),
         ("Mr Bartholomew", "Yes, that is quite common in this area.", "Được, cách đó khá phổ biến ở khu này."),
@@ -206,7 +206,7 @@ LESSON_0119 = {
         # 40 asking if there is an extra charge for late-night rides
         ("Ms Lan", "Is there an extra charge for late-night rides?", "Đi xe khuya có bị tính thêm phí không?"),
         ("Mr Bartholomew", "Yes, rides after midnight cost a bit more.", "Có, đi sau nửa đêm sẽ đắt hơn một chút."),
-        ("Ms Lan", "Thank you, I will plan around that.", "Cảm ơn anh, tôi sẽ tính toán trước chuyện đó."),
+        ("Ms Lan", "Thank you, I will just book an earlier ride then.", "Cảm ơn anh, vậy tôi đặt xe sớm hơn vậy."),
         # 41 asking if payment can be made in advance
         ("Mr Bartholomew", "Can I pay for a ride in advance?", "Tôi có thể trả tiền chuyến đi trước được không?"),
         ("Ms Lan", "Yes, you can pay through the app beforehand.", "Được, anh có thể trả qua ứng dụng trước."),

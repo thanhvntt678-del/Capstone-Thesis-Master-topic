@@ -199,7 +199,7 @@ LESSON_0177 = {
         # 38 finding a missing pencil case
         ("Mr Sebastian", "Could you help me find my pencil case? I cannot see it on my desk.", "Chị giúp tôi tìm hộp bút được không? Tôi không thấy nó trên bàn."),
         ("Ms Lan", "Yes, it slipped down behind your backpack.", "Được, nó rơi xuống sau cặp sách của anh rồi."),
-        ("Mr Sebastian", "Found it, thank you for spotting that.", "Thấy rồi, cảm ơn chị đã tìm ra."),
+        ("Mr Sebastian", "Found it, I always forget to zip that pocket.", "Thấy rồi, tôi cứ quên kéo khóa ngăn đó."),
         # 39 understanding a plagiarism policy
         ("Ms Lan", "Could you help me understand this plagiarism policy for the essay?", "Anh giúp tôi hiểu quy định đạo văn cho bài luận này được không?"),
         ("Mr Sebastian", "Yes, you must credit any source you quote directly.", "Được, chị phải ghi nguồn cho bất kỳ đoạn nào trích dẫn trực tiếp."),

@@ -54,7 +54,7 @@ LESSON_0122 = {
     ),
     'turns': [
         # 1 what time someone usually wakes up
-        ("Ms Lan", "What time do you usually wake up on weekdays?", "Chị thường dậy lúc mấy giờ vào ngày trong tuần?"),
+        ("Ms Lan", "What time do you normally get up on a workday?", "Chị thường thức dậy lúc mấy giờ vào ngày làm việc?"),
         ("Ms Felicity", "I usually wake up around six thirty.", "Tôi thường dậy khoảng sáu giờ rưỡi."),
         ("Ms Lan", "That is earlier than I thought.", "Sớm hơn tôi tưởng đấy."),
         # 2 when breakfast is normally eaten

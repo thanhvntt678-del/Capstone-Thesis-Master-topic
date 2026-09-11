@@ -44,7 +44,7 @@ LESSON_0058 = {
         ("Ms Lan", "Thanks, I will grab it tomorrow if you forget.", "Cảm ơn chị, nếu chị quên thì mai tôi mua."),
         # 2 needing a new light bulb
         ("Ms Denise", "We need a new light bulb for the hallway.", "Mình cần một bóng đèn mới cho hành lang."),
-        ("Ms Lan", "I will pick one up on my way home.", "Tôi sẽ mua trên đường về nhà."),
+        ("Ms Lan", "The hallway light really needs it, I will grab one.", "Đèn hành lang cần lắm rồi, để tôi mua ngay."),
         ("Ms Denise", "Great, that hallway is quite dark right now.", "Tuyệt, hành lang bây giờ tối lắm."),
         # 3 needing extra toilet paper
         ("Ms Lan", "We are running low on toilet paper.", "Giấy vệ sinh nhà mình sắp hết rồi."),

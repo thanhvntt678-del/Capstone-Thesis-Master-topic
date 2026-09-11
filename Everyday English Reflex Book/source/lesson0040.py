@@ -197,7 +197,7 @@ LESSON_0040 = {
         # 42 an extension cord
         ("Ms Lan", "Where is the extension cord? I need it for the fan.", "Dây nối điện ở đâu vậy? Tôi cần dùng cho quạt."),
         ("Ms Paula", "It is coiled up behind the bookshelf.", "Nó cuộn lại sau kệ sách."),
-        ("Ms Lan", "Found it, thank you for remembering.", "Tìm thấy rồi, cảm ơn chị đã nhớ."),
+        ("Ms Lan", "Found it, right where I left it.", "Tìm thấy rồi, đúng chỗ tôi để lúc trước."),
         # 43 sunglasses
         ("Ms Paula", "Where did I leave my sunglasses this morning?", "Sáng nay tôi để kính râm ở đâu vậy?"),
         ("Ms Lan", "They are on top of the shoe cabinet.", "Nó ở trên nóc tủ giày."),

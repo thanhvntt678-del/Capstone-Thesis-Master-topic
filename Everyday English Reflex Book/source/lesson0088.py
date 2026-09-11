@@ -194,7 +194,7 @@ LESSON_0088 = {
         # 37 asking a colleague for help with a task
         ("Ms Marilyn", "Could you help me with this report? I am a bit stuck.", "Chị giúp tôi với bản báo cáo này được không? Tôi hơi bí."),
         ("Ms Lan", "Sure, let me take a look at it now.", "Được, để tôi xem qua ngay."),
-        ("Ms Marilyn", "Thank you, I really appreciate it.", "Cảm ơn chị, tôi thật sự biết ơn."),
+        ("Ms Marilyn", "Thank you, this report was giving me a headache.", "Cảm ơn chị, bản báo cáo này làm tôi đau đầu quá."),
         # 38 apologising for being late to a meeting
         ("Ms Lan", "Sorry I am late, the previous call ran over.", "Xin lỗi tôi đến trễ, cuộc gọi trước kéo dài quá giờ."),
         ("Ms Marilyn", "No problem, we just started a few minutes ago.", "Không sao, tụi tôi mới bắt đầu vài phút thôi."),
@@ -209,7 +209,7 @@ LESSON_0088 = {
         ("Ms Lan", "Thank you, your feedback always helps a lot.", "Cảm ơn chị, góp ý của chị luôn hữu ích lắm."),
         # 41 thanking a colleague for covering for you
         ("Ms Marilyn", "Thank you for covering my calls yesterday afternoon.", "Cảm ơn chị đã trực điện thoại giúp tôi chiều qua."),
-        ("Ms Lan", "It was no trouble at all, happy to help.", "Không phiền gì đâu, giúp được là vui rồi."),
+        ("Ms Lan", "Anytime, that is what colleagues are for.", "Lúc nào cũng được, đồng nghiệp là để giúp nhau mà."),
         ("Ms Marilyn", "I owe you one, seriously.", "Tôi nợ chị một lần đấy, thật lòng."),
         # 42 asking about the status of a project
         ("Ms Lan", "How is the new project coming along so far?", "Dự án mới tiến triển đến đâu rồi vậy?"),

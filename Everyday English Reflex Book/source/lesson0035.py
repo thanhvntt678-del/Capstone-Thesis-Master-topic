@@ -99,7 +99,7 @@ LESSON_0035 = {
         ("Ms Lan", "Thanks, I will call as soon as I am free.", "Cảm ơn anh, xong việc tôi sẽ gọi ngay."),
         # 16 muting a call
         ("Mr Charles", "Could you mute your side, there is an echo.", "Chị tắt tiếng bên đó được không, đang bị vọng."),
-        ("Ms Lan", "Sorry about that, muting it now.", "Xin lỗi về điều đó, tôi tắt tiếng ngay."),
+        ("Ms Lan", "Sorry, there is background noise on my end.", "Xin lỗi, bên tôi đang ồn quá."),
         ("Mr Charles", "Thanks, that sounds much clearer now.", "Cảm ơn chị, giờ nghe rõ hơn nhiều rồi."),
         # 17 a call with an echo
         ("Ms Lan", "I keep hearing an echo on this call.", "Tôi cứ nghe thấy tiếng vọng trong cuộc gọi này."),

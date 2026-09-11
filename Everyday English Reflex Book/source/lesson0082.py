@@ -196,14 +196,14 @@ LESSON_0082 = {
         # 38 asking if a seat is free
         ("Ms Lan", "Excuse me, is this seat free?", "Xin lỗi, ghế này còn trống không ạ?"),
         ("Ms Wanda", "Yes, please, go ahead and sit down.", "Còn, mời chị ngồi đi."),
-        ("Ms Lan", "Thank you, I appreciate it.", "Cảm ơn chị nhiều."),
+        ("Ms Lan", "Thank you, my legs were getting tired.", "Cảm ơn chị, chân tôi mỏi quá rồi."),
         # 39 asking where to buy a ticket
         ("Ms Wanda", "Where can we buy tickets before boarding?", "Mình mua vé ở đâu trước khi lên tàu vậy?"),
-        ("Ms Lan", "There is a machine right by the entrance.", "Có máy bán vé ngay lối vào."),
+        ("Ms Lan", "The kiosk near the platform sells them.", "Quầy gần sân ga có bán vé đấy."),
         ("Ms Wanda", "Good, let us buy them there then.", "Tốt, vậy mình mua ở đó."),
         # 40 asking if this bus goes to a specific place
         ("Ms Lan", "Does this bus go to the hospital?", "Xe buýt này có tới bệnh viện không vậy?"),
-        ("Ms Wanda", "Yes, it stops right outside the entrance.", "Có, nó dừng ngay trước cổng bệnh viện."),
+        ("Ms Wanda", "Yes, the driver announces every stop clearly.", "Có, tài xế báo rõ từng trạm dừng."),
         ("Ms Lan", "Perfect, that is exactly where I need to go.", "Tuyệt, đúng chỗ tôi cần tới."),
         # 41 asking about the next departure time
         ("Ms Wanda", "When does the next train leave?", "Chuyến tàu kế tiếp khởi hành lúc mấy giờ vậy?"),

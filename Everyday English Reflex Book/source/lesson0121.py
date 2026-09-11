@@ -61,7 +61,7 @@ LESSON_0121 = {
         ("Ms Lan", "It should reach around thirty-two degrees.", "Chắc sẽ tới khoảng ba mươi hai độ."),
         ("Mr Bertram", "That is quite warm, I should dress lightly.", "Vậy khá nóng, tôi nên mặc đồ mỏng."),
         # 3 asking if an umbrella is needed
-        ("Ms Lan", "Do you think I need an umbrella today?", "Anh nghĩ hôm nay tôi có cần mang dù không?"),
+        ("Ms Lan", "Should I bring an umbrella with me today?", "Hôm nay tôi có nên mang theo dù không?"),
         ("Mr Bertram", "It would not hurt, just in case.", "Mang theo cũng không sao, phòng khi cần."),
         ("Ms Lan", "Good advice, better safe than sorry.", "Lời khuyên hay, cẩn thận vẫn hơn."),
         # 4 asking if it is windy enough to cancel a picnic

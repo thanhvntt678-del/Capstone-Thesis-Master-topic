@@ -76,7 +76,7 @@ LESSON_0158 = {
         ("Ms Marcella", "Great, one less thing to do today.", "Tuyệt, hôm nay đỡ được một việc."),
         # 7 if the trash was taken out
         ("Ms Lan", "Can you check if the trash was taken out this morning?", "Chị kiểm tra giúp sáng nay rác đã mang ra chưa được không?"),
-        ("Ms Marcella", "Yes, I took it out before breakfast.", "Rồi, tôi mang ra trước bữa sáng."),
+        ("Ms Marcella", "Yes, the bin was already at the curb by seven.", "Rồi, thùng rác đã ở lề đường từ bảy giờ."),
         ("Ms Lan", "Good, thanks for handling that.", "Tốt, cảm ơn bạn đã lo việc đó."),
         # 8 if the plants were watered
         ("Ms Marcella", "Can you check if the plants were watered today?", "Bạn kiểm tra giúp hôm nay cây đã tưới chưa được không?"),
@@ -205,7 +205,7 @@ LESSON_0158 = {
         # 39 swapping a chore for the week
         ("Ms Marcella", "Can you check if we can swap chores this week? I am busy on Friday.", "Bạn kiểm tra giúp tuần này mình đổi việc nhà được không? Thứ Sáu tôi bận."),
         ("Ms Lan", "Yes, that is fine, I will do the laundry instead.", "Được chứ, không sao, tôi giặt đồ thay bạn."),
-        ("Ms Marcella", "Thank you, I really appreciate that.", "Cảm ơn bạn, tôi cảm kích lắm."),
+        ("Ms Marcella", "Thank you, Friday plans just got easier.", "Cảm ơn bạn, vậy kế hoạch thứ Sáu dễ hơn rồi."),
         # 40 checking a routine reminder notification
         ("Ms Lan", "Can you check if the routine reminder app sent tonight's notification?", "Chị kiểm tra giúp ứng dụng nhắc việc tối nay đã gửi thông báo chưa được không?"),
         ("Ms Marcella", "Yes, it buzzed on my phone a few minutes ago.", "Rồi, vài phút trước điện thoại tôi rung rồi."),

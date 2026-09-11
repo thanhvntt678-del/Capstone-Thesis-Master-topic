@@ -94,7 +94,7 @@ LESSON_0157 = {
         ("Mr Alistair", "Good to know, I will leave earlier then.", "Biết vậy tốt rồi, mai tôi đi sớm hơn."),
         # 11 if the pollen count is high
         ("Ms Lan", "Can you check if the pollen count is high today?", "Anh kiểm tra giúp hôm nay mức phấn hoa có cao không được không?"),
-        ("Mr Alistair", "Yes, it is quite high this time of year.", "Được, mùa này mức phấn hoa khá cao."),
+        ("Mr Alistair", "Yes, the spring bloom has pushed it way up.", "Được, hoa nở mùa xuân đẩy mức phấn hoa lên cao lắm."),
         ("Ms Lan", "Good to know, I will take my allergy medicine.", "Biết vậy tốt rồi, tôi uống thuốc dị ứng."),
         # 12 if there's a chance of hail
         ("Mr Alistair", "Can you check if there is any chance of hail today?", "Bạn kiểm tra giúp hôm nay có khả năng mưa đá không được không?"),
@@ -211,7 +211,7 @@ LESSON_0157 = {
         # 40 deciding to postpone a plan because of a storm warning
         ("Mr Alistair", "Given tomorrow's storm warning, should we postpone the hike?", "Với cảnh báo bão ngày mai, mình có nên hoãn chuyến leo núi không?"),
         ("Ms Lan", "Yes, let us postpone it until the weather clears.", "Được, mình hoãn lại tới khi thời tiết tốt hơn."),
-        ("Mr Alistair", "Good call, safety comes first.", "Quyết định đúng, an toàn vẫn là trên hết."),
+        ("Mr Alistair", "Good call, the trail gets slippery in storms anyway.", "Quyết định đúng, đường mòn trơn lắm khi có bão."),
         # 41 closing on why checking weather details matters
         ("Mr Alistair", "Why does checking these weather details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết thời tiết này lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us prepare properly and keeps our daily plans running smoothly.", "Nó giúp mình chuẩn bị đúng cách và giữ cho kế hoạch hằng ngày trôi chảy."),

@@ -153,7 +153,7 @@ LESSON_0067 = {
         # 24 understanding fog conditions before driving
         ("Mr Barry", "Could you help me understand how thick this fog is before I drive?", "Chị giúp tôi xem sương mù dày cỡ nào trước khi tôi lái xe được không?"),
         ("Ms Lan", "Visibility is quite low, drive slowly and carefully.", "Tầm nhìn khá kém đấy, lái xe chậm và cẩn thận nhé."),
-        ("Mr Barry", "Thank you, I will take it slow.", "Cảm ơn chị, tôi sẽ lái chậm."),
+        ("Mr Barry", "Thank you, I will turn my headlights on too.", "Cảm ơn chị, tôi sẽ bật đèn pha luôn."),
         # 25 deciding whether to walk or take a taxi in the rain
         ("Ms Lan", "Can you help me decide whether to walk or take a taxi in this rain?", "Anh giúp tôi quyết định nên đi bộ hay bắt taxi trong mưa này không?"),
         ("Mr Barry", "Take a taxi, this rain does not look like it will stop.", "Bắt taxi đi, mưa này chắc chưa tạnh đâu."),

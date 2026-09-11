@@ -110,7 +110,7 @@ LESSON_0098 = {
         ("Ms Rosalind", "Good idea, I will take it back tomorrow.", "Ý hay, mai tôi mang trả lại."),
         # 17 a watch stopping unexpectedly
         ("Ms Lan", "My watch just stopped working out of nowhere.", "Đồng hồ của tôi bất ngờ ngừng chạy."),
-        ("Ms Rosalind", "It might just need a new battery.", "Có thể nó chỉ cần thay pin thôi."),
+        ("Ms Rosalind", "The battery is probably just dead.", "Chắc là hết pin thôi."),
         ("Ms Lan", "Good point, I will take it to be checked.", "Chị nói đúng, tôi mang đi kiểm tra."),
         # 18 a bag strap breaking
         ("Ms Rosalind", "The strap on my bag just snapped while I was carrying it.", "Dây quai túi của tôi vừa đứt khi tôi đang xách."),

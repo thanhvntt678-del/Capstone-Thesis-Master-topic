@@ -196,7 +196,7 @@ LESSON_0154 = {
         # 36 checking what to do if they miss the train
         ("Ms Lan", "Can you check what we should do if we miss this train?", "Chị kiểm tra giúp nếu mình lỡ chuyến tàu này thì làm sao được không?"),
         ("Ms Rosalie", "Yes, the next one leaves in twenty minutes.", "Được, chuyến tiếp theo chạy sau hai mươi phút."),
-        ("Ms Lan", "Good, that is not too long to wait.", "Tốt, vậy chờ cũng không lâu lắm."),
+        ("Ms Lan", "Good, we can grab a coffee while we wait.", "Tốt, mình tranh thủ uống cà phê trong lúc chờ."),
         # 37 checking if a paper ticket can still be bought
         ("Ms Rosalie", "Can you check if we can still buy a paper ticket at the counter?", "Bạn kiểm tra giúp mình còn mua vé giấy ở quầy được không được không?"),
         ("Ms Lan", "Yes, the counter is open until the last train.", "Được, quầy vé mở tới chuyến tàu cuối."),

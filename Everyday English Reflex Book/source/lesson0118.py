@@ -88,7 +88,7 @@ LESSON_0118 = {
         # 11 asking if a bus is going the right direction
         ("Ms Lan", "Is this bus heading toward the hospital?", "Xe buýt này có đi về hướng bệnh viện không?"),
         ("Ms Rosamund", "Yes, this one passes right by it.", "Có, xe này đi ngang qua đó."),
-        ("Ms Lan", "Perfect, that is exactly where I need to go.", "Hoàn hảo, đúng chỗ tôi cần tới."),
+        ("Ms Lan", "Great, I will just stay on then.", "Tuyệt, vậy tôi cứ ngồi yên thôi."),
         # 12 asking how many stops until arrival
         ("Ms Rosamund", "How many stops until we reach downtown?", "Còn bao nhiêu trạm nữa thì tới trung tâm vậy?"),
         ("Ms Lan", "There are three more stops to go.", "Còn ba trạm nữa thôi."),
@@ -196,7 +196,7 @@ LESSON_0118 = {
         # 38 asking if a cancelled trip can be refunded
         ("Ms Rosamund", "If a trip gets cancelled, can I get a refund?", "Nếu chuyến đi bị hủy, tôi có được hoàn tiền không?"),
         ("Ms Lan", "Yes, cancelled trips are refunded automatically.", "Có, chuyến bị hủy sẽ được hoàn tiền tự động."),
-        ("Ms Rosamund", "Good, that puts my mind at ease.", "Tốt, vậy tôi yên tâm hơn rồi."),
+        ("Ms Rosamund", "Good, I was worried about wasting that money.", "Tốt, tôi cứ lo mất khoản tiền đó."),
         # 39 asking if a receipt is given after buying a ticket
         ("Ms Lan", "Do I get a receipt after buying a ticket?", "Mua vé xong tôi có được nhận biên lai không?"),
         ("Ms Rosamund", "Yes, the machine prints one automatically.", "Có, máy tự in biên lai luôn."),

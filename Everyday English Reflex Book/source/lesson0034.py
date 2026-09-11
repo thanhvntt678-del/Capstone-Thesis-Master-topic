@@ -51,7 +51,7 @@ LESSON_0034 = {
         # 4 a slow computer
         ("Ms Wendy", "My computer has been really slow all morning.", "Máy tính của tôi sáng nay chạy chậm quá."),
         ("Ms Lan", "You could try restarting it, that usually helps.", "Chị thử khởi động lại xem, thường thì sẽ đỡ hơn."),
-        ("Ms Wendy", "Good idea, let me try that now.", "Ý hay đấy, để tôi thử ngay."),
+        ("Ms Wendy", "Good idea, restarting usually fixes it.", "Ý hay đấy, khởi động lại thường là hết."),
         # 5 forwarding an email
         ("Ms Lan", "Could you forward me that email from the client?", "Chị chuyển tiếp email đó từ khách hàng cho tôi được không?"),
         ("Ms Wendy", "Sure, sending it over right now.", "Được chứ, tôi gửi ngay bây giờ."),

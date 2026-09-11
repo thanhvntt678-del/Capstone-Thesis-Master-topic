@@ -179,7 +179,7 @@ LESSON_0097 = {
         # 34 a misunderstanding about a return policy
         ("Mr Herbert", "I misunderstood the return policy, I thought it was thirty days.", "Tôi hiểu nhầm chính sách trả hàng, tôi tưởng là ba mươi ngày."),
         ("Ms Lan", "It is actually fourteen days, but let me check an exception.", "Thật ra là mười bốn ngày, nhưng để tôi xem có ngoại lệ không."),
-        ("Mr Herbert", "Thank you, I appreciate you checking for me.", "Cảm ơn chị đã kiểm tra giúp tôi."),
+        ("Mr Herbert", "Thank you, fourteen days still works for me.", "Cảm ơn chị, mười bốn ngày vẫn kịp cho tôi."),
         # 35 a card machine running out of paper mid-transaction
         ("Ms Lan", "The card machine just ran out of paper mid-transaction.", "Máy quẹt thẻ vừa hết giấy giữa giao dịch."),
         ("Mr Herbert", "No worries, let me load a new roll quickly.", "Không sao đâu, để tôi nạp cuộn giấy mới nhanh."),

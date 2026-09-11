@@ -202,7 +202,7 @@ LESSON_0152 = {
         # 38 checking the ironing instructions
         ("Ms Lan", "Can you check if this shirt can be ironed on high heat?", "Chị kiểm tra giúp áo này ủi nhiệt cao được không được không?"),
         ("Ms Marguerite", "No, the label says use a low heat setting only.", "Không, nhãn ghi chỉ nên ủi ở nhiệt thấp thôi."),
-        ("Ms Lan", "Good to know, I will be careful with it.", "Biết vậy tốt rồi, tôi sẽ cẩn thận khi ủi."),
+        ("Ms Lan", "Good, I will set the iron to low then.", "Tốt, vậy tôi để bàn ủi ở nhiệt thấp."),
         # 39 checking a personal item for water resistance
         ("Ms Marguerite", "Can you check if this watch is water resistant?", "Bạn kiểm tra giúp đồng hồ này có chống nước không được không?"),
         ("Ms Lan", "Yes, it can handle splashes but not full swimming.", "Được, chịu được nước bắn nhưng không nên bơi lội với nó."),

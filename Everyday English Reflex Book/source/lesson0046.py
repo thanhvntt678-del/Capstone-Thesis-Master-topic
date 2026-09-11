@@ -106,7 +106,7 @@ LESSON_0046 = {
         ("Ms Sandra", "Thanks, let us find that carriage now.", "Cảm ơn chị, mình tìm toa đó ngay."),
         # 15 confirming a bike is allowed on board
         ("Ms Lan", "Could you confirm if bikes are allowed on this train?", "Chị xác nhận giúp tàu này có cho mang xe đạp lên không?"),
-        ("Ms Sandra", "Yes, but only in the last carriage.", "Có chứ, nhưng chỉ ở toa cuối thôi."),
+        ("Ms Sandra", "Yes, the designated carriage is at the very back.", "Có chứ, toa dành riêng nằm tít cuối tàu."),
         ("Ms Lan", "Good to know, thanks for looking into it.", "Tốt quá, cảm ơn chị đã kiểm tra."),
         # 16 checking a ticket's expiry time
         ("Ms Sandra", "Could you check what time this ticket expires?", "Chị kiểm tra giúp vé này hết hạn lúc mấy giờ không?"),

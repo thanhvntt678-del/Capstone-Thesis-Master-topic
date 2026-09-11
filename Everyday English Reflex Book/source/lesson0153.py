@@ -210,7 +210,7 @@ LESSON_0153 = {
         # 39 checking the distance to the hospital
         ("Mr Quentin", "Can you check how far the nearest hospital is from our street?", "Bạn kiểm tra giúp từ đường mình tới bệnh viện gần nhất bao xa được không?"),
         ("Ms Lan", "Yes, it is about fifteen minutes away by car.", "Được, đi xe khoảng mười lăm phút."),
-        ("Mr Quentin", "Good, that is reassuring to know.", "Tốt, biết vậy tôi yên tâm hơn."),
+        ("Mr Quentin", "Good, I will keep that in mind for emergencies.", "Tốt, tôi sẽ nhớ điều đó phòng khi khẩn cấp."),
         # 40 checking a landmark used for giving directions
         ("Ms Lan", "Can you check if there is a landmark near the new cafe, so I do not get lost?", "Anh kiểm tra giúp gần quán cà phê mới có mốc gì dễ nhận ra không, để tôi khỏi lạc?"),
         ("Mr Quentin", "Yes, it is right next to the big yellow mural on the wall.", "Được, ngay cạnh bức tranh tường màu vàng lớn."),

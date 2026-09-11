@@ -206,12 +206,12 @@ LESSON_0096 = {
         ("Ms Lan", "Let us order the pork dish then.", "Vậy mình gọi món heo đi."),
         # 41 changing the meal choice at the last moment
         ("Ms Wilma", "Actually, can we change to the noodle soup instead?", "Thật ra, mình đổi sang phở được không?"),
-        ("Ms Lan", "Sure, that works fine for me too.", "Được chứ, tôi cũng thích món đó."),
+        ("Ms Lan", "Sure, noodle soup sounds even better tonight.", "Được chứ, tối nay ăn phở nghe còn ngon hơn."),
         ("Ms Wilma", "Great, let us tell the staff before they cook.", "Tuyệt, mình báo nhân viên trước khi họ nấu."),
         # 42 asking to leave out a disliked ingredient
         ("Ms Lan", "Can we skip the mushrooms? I do not really like them.", "Bỏ nấm ra được không? Tôi không thích lắm."),
         ("Ms Wilma", "Of course, we can just ask them to leave it out.", "Được chứ, mình nhờ họ bỏ ra là được."),
-        ("Ms Lan", "Thank you, that would be perfect.", "Cảm ơn chị, vậy thì tuyệt quá."),
+        ("Ms Lan", "Thank you, mushrooms always upset my stomach.", "Cảm ơn chị, nấm luôn làm bụng tôi khó chịu."),
         # 43 confirming the final order before it is placed
         ("Ms Wilma", "So, to confirm, two bowls of noodles and one tea?", "Vậy để xác nhận, hai tô mì và một trà nhé?"),
         ("Ms Lan", "Yes, that is exactly right, thank you.", "Đúng vậy, chính xác rồi, cảm ơn chị."),

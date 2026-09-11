@@ -217,7 +217,7 @@ LESSON_0139 = {
         # 38 if a scheduled outdoor delivery needs rescheduling for weather
         ("Mr Osbert", "Does our scheduled outdoor delivery need rescheduling because of the storm?", "Chuyến giao hàng ngoài trời đã lên lịch của mình có cần dời vì cơn bão không vậy?"),
         ("Ms Lan", "Yes, let us move it to tomorrow instead.", "Có, mình dời sang mai thay vào đi."),
-        ("Mr Osbert", "Good idea, I will contact them now.", "Ý hay, tôi liên hệ họ ngay."),
+        ("Mr Osbert", "Good idea, the driver should not be out in this.", "Ý hay, tài xế không nên ra ngoài lúc này."),
         # 39 if the wind is too strong for flying kites with the kids
         ("Ms Lan", "Is the wind too strong for flying kites with the kids today?", "Hôm nay gió có mạnh quá để thả diều với bọn trẻ không vậy?"),
         ("Mr Osbert", "Yes, maybe we should wait for a calmer day.", "Có, chắc mình nên chờ ngày lặng gió hơn."),

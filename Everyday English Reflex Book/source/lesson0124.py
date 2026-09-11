@@ -158,7 +158,7 @@ LESSON_0124 = {
         # 28 how to reset a computer password
         ("Ms Araminta", "How do I reset my computer password if I forget it?", "Tôi đặt lại mật khẩu máy tính nếu quên thì thế nào?"),
         ("Ms Lan", "Call the IT helpline, they can reset it remotely.", "Gọi đường dây hỗ trợ IT, họ có thể đặt lại từ xa."),
-        ("Ms Araminta", "Thank you, I will call them now.", "Cảm ơn chị, tôi sẽ gọi ngay."),
+        ("Ms Araminta", "Thank you, I keep forgetting that number.", "Cảm ơn chị, tôi cứ quên số đó hoài."),
         # 29 what time the mail gets delivered
         ("Ms Lan", "What time does the mail usually get delivered here?", "Thư ở đây thường được giao lúc mấy giờ vậy?"),
         ("Ms Araminta", "It usually arrives around eleven in the morning.", "Thường tới khoảng mười một giờ sáng."),
@@ -206,7 +206,7 @@ LESSON_0124 = {
         # 40 asking where the smoking area is located
         ("Ms Lan", "Where is the designated smoking area located?", "Khu vực hút thuốc được chỉ định nằm ở đâu vậy?"),
         ("Ms Araminta", "It is just outside the back entrance.", "Nó ở ngay ngoài cửa sau."),
-        ("Ms Lan", "Thank you, that is easy to remember.", "Cảm ơn chị, chỗ đó dễ nhớ."),
+        ("Ms Lan", "Thank you, good to know it is close by.", "Cảm ơn chị, biết vậy tốt, chỗ đó gần đây."),
         # 41 asking how to book time off in the system
         ("Ms Araminta", "How do I book time off in the company system?", "Tôi xin nghỉ phép trong hệ thống công ty thế nào vậy?"),
         ("Ms Lan", "Just submit a request through the leave portal.", "Chỉ cần gửi yêu cầu qua cổng xin nghỉ phép."),

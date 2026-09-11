@@ -48,11 +48,11 @@ LESSON_0112 = {
         # 1 finding where the kitchen is
         ("Ms Lan", "Excuse me, which room is the kitchen in this house?", "Xin lỗi chị, bếp ở phòng nào trong nhà này?"),
         ("Ms Prudence", "The kitchen is right past the hallway.", "Bếp nằm ngay sau hành lang đó."),
-        ("Ms Lan", "Thank you, that is easy to find.", "Cảm ơn chị, vậy dễ tìm rồi."),
+        ("Ms Lan", "Thank you, the hallway is a helpful marker.", "Cảm ơn chị, hành lang là mốc dễ nhớ đấy."),
         # 2 finding where the bathroom is
         ("Ms Prudence", "Could you tell me which room the bathroom is in?", "Chị cho tôi biết phòng tắm ở phòng nào được không?"),
         ("Ms Lan", "The bathroom is the second door on the left.", "Phòng tắm là cửa thứ hai bên trái."),
-        ("Ms Prudence", "Got it, thank you for showing me.", "Được rồi, cảm ơn chị đã chỉ."),
+        ("Ms Prudence", "Got it, second door, I will remember.", "Được rồi, cửa thứ hai, tôi sẽ nhớ."),
         # 3 finding where the bedroom is
         ("Ms Lan", "Which room is your bedroom in this apartment?", "Phòng ngủ của chị ở phòng nào trong căn hộ này?"),
         ("Ms Prudence", "My bedroom is at the very end of the hall.", "Phòng ngủ của tôi ở cuối hành lang."),

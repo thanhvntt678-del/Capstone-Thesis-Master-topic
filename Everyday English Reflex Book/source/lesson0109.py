@@ -175,7 +175,7 @@ LESSON_0109 = {
         ("Mr Reginald", "Thank you, your teacher is ready for you.", "Cảm ơn chị, giáo viên đã sẵn sàng cho chị."),
         # 36 optician's shop
         ("Mr Reginald", "Good morning, could I have your name for this eye exam?", "Chào chị, cho tôi xin tên của chị để làm hồ sơ khám mắt?"),
-        ("Ms Lan", "Yes, it is Lan.", "Vâng, là Lan."),
+        ("Ms Lan", "Lan, that is my full name.", "Lan, đó là tên đầy đủ của tôi."),
         ("Mr Reginald", "Thank you, the optician will call you shortly.", "Cảm ơn chị, bác sĩ nhãn khoa sẽ gọi chị sớm thôi."),
         # 37 art class sign-up
         ("Ms Lan", "Hi, what name should I write on your art class badge?", "Chào anh, tôi nên viết tên gì lên thẻ lớp vẽ của anh?"),

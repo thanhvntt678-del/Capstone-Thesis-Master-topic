@@ -164,7 +164,7 @@ LESSON_0072 = {
         # 29 changing a notification sound
         ("Ms Lan", "Can you help me change my notification sound? It is too loud.", "Chị giúp tôi đổi âm thanh thông báo được không? Nó to quá."),
         ("Ms Gloria", "Go to settings and pick a softer tone.", "Vào cài đặt rồi chọn âm nhẹ nhàng hơn."),
-        ("Ms Lan", "Thank you, that is much better now.", "Cảm ơn chị, giờ dễ chịu hơn nhiều."),
+        ("Ms Lan", "Thank you, that will not startle me anymore.", "Cảm ơn chị, giờ nó sẽ không làm tôi giật mình nữa."),
         # 30 finding a contact online
         ("Ms Gloria", "Could you help me find our cousin's account online?", "Chị giúp tôi tìm tài khoản của em họ mình trên mạng được không?"),
         ("Ms Lan", "Search her full name in the app's search bar.", "Gõ tên đầy đủ của cô ấy vào thanh tìm kiếm ứng dụng đi."),

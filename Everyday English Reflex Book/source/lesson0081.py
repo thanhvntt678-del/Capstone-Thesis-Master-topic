@@ -193,14 +193,14 @@ LESSON_0081 = {
         # 37 asking for directions to the post office
         ("Mr Russell", "Excuse me, how do I get to the post office from here?", "Xin lỗi, từ đây tôi đến bưu điện thế nào vậy?"),
         ("Ms Lan", "Go straight, then turn left at the pharmacy.", "Anh đi thẳng, rồi rẽ trái ở nhà thuốc."),
-        ("Mr Russell", "Thank you, that is easy to remember.", "Cảm ơn chị, vậy dễ nhớ đấy."),
+        ("Mr Russell", "Thank you, the pharmacy is a good landmark.", "Cảm ơn chị, nhà thuốc làm mốc dễ tìm đấy."),
         # 38 giving directions using a landmark
         ("Ms Lan", "The new bakery is right next to the blue gate.", "Tiệm bánh mới ngay cạnh cổng màu xanh."),
         ("Mr Russell", "Ah, I know that gate well.", "À, tôi biết rõ cổng đó."),
         ("Ms Lan", "Good, you will find it easily then.", "Tốt, vậy anh sẽ dễ tìm thấy."),
         # 39 asking how far something is
         ("Mr Russell", "Is the clinic far from the bus stop?", "Phòng khám có xa trạm xe buýt không?"),
-        ("Ms Lan", "No, it is only a five-minute walk.", "Không, chỉ đi bộ năm phút thôi."),
+        ("Ms Lan", "No, you can walk there in five minutes easily.", "Không, đi bộ tới đó chỉ mất năm phút thôi."),
         ("Mr Russell", "Perfect, I can walk there then.", "Tuyệt, vậy tôi đi bộ tới đó được."),
         # 40 asking someone to repeat directions
         ("Ms Lan", "Sorry, could you say that again? I missed the last part.", "Xin lỗi, anh nói lại được không? Tôi lỡ mất đoạn cuối."),

@@ -211,7 +211,7 @@ LESSON_0155 = {
         # 40 checking a lost and found service
         ("Ms Lan", "Can you check if the ride service has a lost and found service?", "Anh kiểm tra giúp dịch vụ này có bộ phận tìm đồ thất lạc không được không?"),
         ("Mr Baldwin", "Yes, you can report a lost item directly in the app.", "Được, có thể báo đồ thất lạc ngay trong ứng dụng."),
-        ("Ms Lan", "Good, useful to know just in case.", "Tốt, biết vậy hữu ích phòng khi cần."),
+        ("Ms Lan", "Good, that eases my mind about losing things.", "Tốt, vậy tôi đỡ lo bị mất đồ."),
         # 41 closing on why checking taxi details matters
         ("Mr Baldwin", "Why does checking these taxi details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết taxi này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us safe and helps us avoid unexpected costs or confusion along the way.", "Nó giúp mình an toàn và tránh chi phí bất ngờ hay nhầm lẫn dọc đường."),

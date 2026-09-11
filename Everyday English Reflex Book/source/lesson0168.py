@@ -73,7 +73,7 @@ LESSON_0168 = {
         # 7 hungry waiting for a delayed bus
         ("Ms Lan", "I am getting hungry waiting for this delayed bus.", "Chờ xe buýt trễ khiến tôi thấy đói rồi."),
         ("Ms Miranda", "Yes, I have a snack in my bag if you want.", "Ừ, tôi có đồ ăn nhẹ trong túi nếu bạn muốn."),
-        ("Ms Lan", "That would be wonderful, thank you.", "Vậy thì tuyệt quá, cảm ơn bạn."),
+        ("Ms Lan", "That would really hit the spot right now.", "Vậy thì đúng lúc tôi cần luôn."),
         # 8 thirsty during a hot afternoon
         ("Ms Miranda", "I am so thirsty in this hot afternoon sun.", "Trời nắng chiều nóng thế này tôi khát nước quá."),
         ("Ms Lan", "Yes, let us find some shade and drink water.", "Ừ, mình tìm chỗ mát rồi uống nước đi."),

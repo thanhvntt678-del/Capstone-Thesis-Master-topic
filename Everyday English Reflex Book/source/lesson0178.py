@@ -136,7 +136,7 @@ LESSON_0178 = {
         ("Ms Euphemia", "Yes, it is extension three-one-two on the directory.", "Được, số nội bộ là ba-một-hai trong danh bạ."),
         ("Ms Lan", "Thank you, I will call him now.", "Cảm ơn chị, tôi gọi anh ấy ngay."),
         # 22 understanding a new software tool
-        ("Ms Euphemia", "Could you help me understand how this new software tool works?", "Chị giúp tôi hiểu công cụ phần mềm mới này hoạt động sao được không?"),
+        ("Ms Euphemia", "Could you help me figure out this new software tool the team just adopted?", "Chị giúp tôi hiểu công cụ phần mềm mới nhóm vừa dùng này được không?"),
         ("Ms Lan", "Yes, you click here to create a new task first.", "Được, chị bấm vào đây để tạo tác vụ mới trước."),
         ("Ms Euphemia", "Good, that seems easy enough to follow.", "Tốt, vậy cũng dễ làm theo."),
         # 23 preparing an agenda for tomorrow

@@ -184,7 +184,7 @@ LESSON_0156 = {
         ("Ms Genevieve", "Good, I will pick up my medicine then.", "Tốt, vậy tôi ghé lấy thuốc."),
         # 33 if the trail has drinking water stations
         ("Ms Lan", "Can you check if this trail has any drinking water stations?", "Chị kiểm tra giúp đường mòn này có trạm nước uống không được không?"),
-        ("Ms Genevieve", "Yes, there is one near the halfway point.", "Được, có một trạm gần điểm giữa đường."),
+        ("Ms Genevieve", "Yes, right where the trail splits in two.", "Được, ngay chỗ đường mòn tách làm hai."),
         ("Ms Lan", "Good, I will refill my bottle there.", "Tốt, tôi đổ đầy bình nước ở đó."),
         # 34 if this walk is safe alone at dusk
         ("Ms Genevieve", "Can you check if this walk is safe to do alone at dusk?", "Bạn kiểm tra giúp chuyến đi bộ này một mình lúc chạng vạng có an toàn không được không?"),

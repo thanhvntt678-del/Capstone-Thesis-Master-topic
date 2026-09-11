@@ -215,7 +215,7 @@ LESSON_0117 = {
         # 43 asking where to find a taxi stand
         ("Mr Humphrey", "Where can I find a taxi stand near your street?", "Tôi có thể tìm trạm taxi gần con phố của chị ở đâu?"),
         ("Ms Lan", "There is a small stand just outside the hotel lobby.", "Có một trạm nhỏ ngay ngoài sảnh khách sạn."),
-        ("Mr Humphrey", "Thank you, I will head there now.", "Cảm ơn chị, tôi sẽ đến đó ngay."),
+        ("Mr Humphrey", "Thank you, that saves me searching online.", "Cảm ơn chị, vậy tôi khỏi cần tìm trên mạng."),
         # 44 closing on why direction questions matter
         ("Mr Humphrey", "Why do simple direction questions matter so much in a new area anyway?", "Vậy vì sao những câu hỏi chỉ đường đơn giản lại quan trọng đến thế khi ở khu vực mới?"),
         ("Ms Lan", "They help us settle in quickly and feel less lost.", "Chúng giúp mình ổn định nhanh và đỡ lạc lối hơn."),

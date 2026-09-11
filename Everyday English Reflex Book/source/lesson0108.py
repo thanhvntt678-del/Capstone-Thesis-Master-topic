@@ -224,7 +224,7 @@ LESSON_0108 = {
         # 43 two devices both getting the same message notification confusingly
         ("Ms Millicent", "Both of my devices got the same message notification, it was confusing.", "Cả hai thiết bị của tôi đều nhận thông báo tin nhắn giống nhau, rối quá."),
         ("Ms Lan", "That happens when both are logged into the same account.", "Vậy là do cả hai đều đăng nhập cùng một tài khoản."),
-        ("Ms Millicent", "Ah, that makes sense now, thank you.", "À, giờ hợp lý rồi, cảm ơn chị."),
+        ("Ms Millicent", "Ah, I will log out of one device then.", "À, vậy tôi đăng xuất bớt một thiết bị."),
         # 44 explaining why re-reading a message before sending matters
         ("Ms Millicent", "Why does re-reading a message before sending matter so much to you?", "Vì sao việc đọc lại tin nhắn trước khi gửi lại quan trọng với chị vậy?"),
         ("Ms Lan", "It helps avoid small mistakes that can cause big misunderstandings.", "Nó giúp tránh những lỗi nhỏ có thể gây ra hiểu lầm lớn."),

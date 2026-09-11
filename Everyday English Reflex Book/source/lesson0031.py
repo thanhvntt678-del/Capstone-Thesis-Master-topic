@@ -128,7 +128,7 @@ LESSON_0031 = {
         # 23 checking pollen count
         ("Ms Lan", "The pollen count is high today, be careful.", "Chỉ số phấn hoa hôm nay cao lắm, anh cẩn thận nhé."),
         ("Mr Frank", "Thanks, I will take my allergy medicine.", "Cảm ơn chị, tôi sẽ uống thuốc dị ứng."),
-        ("Ms Lan", "Good idea, better to be prepared.", "Ý hay đấy, chuẩn bị trước thì tốt hơn."),
+        ("Ms Lan", "Good idea, allergy season is rough this year.", "Ý hay đấy, mùa dị ứng năm nay khắc nghiệt thật."),
         # 24 planning a road trip
         ("Mr Frank", "Does the weather look clear for our road trip?", "Thời tiết cho chuyến đi phượt của mình có quang đãng không?"),
         ("Ms Lan", "Yes, clear skies all the way there.", "Có chứ, quang đãng suốt đường đi."),

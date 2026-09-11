@@ -195,7 +195,7 @@ LESSON_0071 = {
         # 37 understanding a phone insurance claim call
         ("Ms Lan", "Harold, can you help me understand this call about my phone insurance claim?", "Anh Harold, anh giúp tôi hiểu cuộc gọi về yêu cầu bảo hiểm điện thoại này được không?"),
         ("Mr Harold", "They said your replacement phone ships this week.", "Họ nói điện thoại thay thế sẽ được gửi tuần này đấy."),
-        ("Ms Lan", "Thank you, that is a relief to hear.", "Cảm ơn anh, nghe vậy tôi nhẹ cả người."),
+        ("Ms Lan", "Thank you, I was worried about the cost.", "Cảm ơn anh, tôi lo về khoản phí lắm."),
         # 38 finding the right SIM card settings
         ("Mr Harold", "Could you help me find the SIM card settings on this new phone?", "Chị giúp tôi tìm cài đặt thẻ SIM trên điện thoại mới này được không?"),
         ("Ms Lan", "Go to network settings and select your carrier there.", "Vào cài đặt mạng rồi chọn nhà mạng của anh ở đó."),
@@ -215,6 +215,6 @@ LESSON_0071 = {
         # 42 understanding an unfamiliar international code
         ("Mr Harold", "Could you help me understand this unfamiliar country code on my screen?", "Chị giúp tôi hiểu mã quốc gia lạ này trên màn hình được không?"),
         ("Ms Lan", "That code belongs to a number calling from overseas.", "Mã đó thuộc về một số gọi từ nước ngoài đấy."),
-        ("Mr Harold", "Ah, that explains it, thank you.", "À, ra vậy, cảm ơn chị."),
+        ("Mr Harold", "Ah, then I will answer it after all.", "À, vậy thì tôi sẽ nghe máy vậy."),
     ],
 }

@@ -204,7 +204,7 @@ LESSON_0090 = {
         # 39 apologising for a late reply
         ("Ms Lan", "Sorry for the late reply, work was hectic today.", "Xin lỗi trả lời trễ, hôm nay công việc bận quá."),
         ("Ms Cassandra", "No worries at all, I understand completely.", "Không sao đâu, tôi hiểu mà."),
-        ("Ms Lan", "Thank you for being so understanding.", "Cảm ơn chị đã thông cảm nhiều."),
+        ("Ms Lan", "Thank you, today was really nonstop.", "Cảm ơn chị, hôm nay bận tối tăm mặt mũi luôn."),
         # 40 asking someone to check their messages
         ("Ms Cassandra", "Could you check your messages? I sent something important.", "Chị kiểm tra tin nhắn giúp tôi nhé? Tôi gửi việc quan trọng đấy."),
         ("Ms Lan", "Sure, let me open the app right now.", "Được, để tôi mở ứng dụng xem ngay."),

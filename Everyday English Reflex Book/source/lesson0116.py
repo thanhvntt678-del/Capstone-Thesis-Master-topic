@@ -76,7 +76,7 @@ LESSON_0116 = {
         # 8 asking if a belt can be shortened
         ("Ms Octavia", "Can this belt be shortened a little?", "Cái thắt lưng này sửa ngắn được không?"),
         ("Ms Lan", "Yes, we can shorten it for a small fee.", "Được, chúng tôi có thể sửa ngắn với phí nhỏ."),
-        ("Ms Octavia", "That works well for me, thank you.", "Vậy hợp với tôi, cảm ơn chị."),
+        ("Ms Octavia", "Good, that is a fair price for it.", "Tốt, giá đó hợp lý đấy."),
         # 9 asking for a different length of trousers
         ("Ms Lan", "Do you have these trousers in a shorter length?", "Chị có quần này ở độ dài ngắn hơn không?"),
         ("Ms Octavia", "Yes, we carry a shorter length as well.", "Có, chúng tôi cũng có độ dài ngắn hơn."),

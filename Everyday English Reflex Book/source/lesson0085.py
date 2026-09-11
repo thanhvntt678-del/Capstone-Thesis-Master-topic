@@ -198,7 +198,7 @@ LESSON_0085 = {
         # 37 asking for today's weather forecast
         ("Mr Curtis", "What does the forecast say for today?", "Dự báo hôm nay nói thế nào vậy?"),
         ("Ms Lan", "Mostly sunny, with a small chance of rain later.", "Chủ yếu nắng, chiều có thể mưa nhẹ."),
-        ("Mr Curtis", "Good to know, I will plan around that.", "Biết vậy tốt, tôi sẽ sắp xếp theo đó."),
+        ("Mr Curtis", "Good, I will bring an umbrella just to be safe.", "Tốt, tôi sẽ mang ô phòng khi vậy."),
         # 38 asking if it will rain later
         ("Ms Lan", "Do you think it will rain before we get home?", "Chị nghĩ trời sẽ mưa trước khi mình về nhà không?"),
         ("Mr Curtis", "Maybe, those clouds look quite dark now.", "Có thể, mấy đám mây trông khá đen rồi."),
@@ -206,7 +206,7 @@ LESSON_0085 = {
         # 39 describing that it is sunny right now
         ("Mr Curtis", "It is so sunny out here right now!", "Trời nắng quá ngay lúc này luôn!"),
         ("Ms Lan", "It really is, perfect weather for a walk.", "Đúng vậy, thời tiết đẹp để đi bộ quá."),
-        ("Mr Curtis", "Let us enjoy it while it lasts.", "Mình tranh thủ tận hưởng trong lúc này đi."),
+        ("Mr Curtis", "This is exactly the kind of day I love.", "Đúng kiểu ngày tôi thích luôn đấy."),
         # 40 asking what to wear because of the cold
         ("Ms Lan", "What should I wear? It feels quite cold this morning.", "Tôi nên mặc gì đây? Sáng nay trời khá lạnh."),
         ("Mr Curtis", "A warm jacket should be enough for today.", "Một cái áo khoác ấm là đủ cho hôm nay rồi."),
