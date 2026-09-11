@@ -187,7 +187,39 @@ LESSON_0113 = {
         ("Ms Lan", "Who would you say is the best cook in your family?", "Anh nghĩ ai nấu ăn ngon nhất trong gia đình mình vậy?"),
         ("Mr Aloysius", "My mother is easily the best cook we have.", "Mẹ tôi chắc chắn là người nấu ăn ngon nhất."),
         ("Ms Lan", "I would love to try her cooking sometime.", "Lúc nào đó tôi muốn thử món mẹ anh nấu."),
-        # 36 closing on why knowing family members matters
+        # 36 who taught someone to swim
+        ("Ms Lan", "Who taught you how to swim when you were small?", "Ai đã dạy anh bơi hồi còn nhỏ vậy?"),
+        ("Mr Aloysius", "My father taught me at the village river.", "Ba tôi dạy tôi ở con sông ngoài quê."),
+        ("Ms Lan", "That must be a lovely memory.", "Chắc đó là một kỷ niệm đẹp."),
+        # 37 who is allergic to something at a family dinner
+        ("Mr Aloysius", "Who in your family is allergic to shellfish at dinner?", "Ai trong gia đình chị bị dị ứng hải sản trong bữa tối vậy?"),
+        ("Ms Lan", "My youngest brother cannot eat shellfish at all.", "Em trai út của tôi không ăn được hải sản chút nào."),
+        ("Mr Aloysius", "Good to know before we plan the menu.", "Biết vậy tốt trước khi lên thực đơn."),
+        # 38 who gave a family heirloom
+        ("Ms Lan", "Who gave you this beautiful old family heirloom?", "Ai đã cho anh món đồ gia truyền đẹp này vậy?"),
+        ("Mr Aloysius", "My grandmother passed it down to me.", "Bà tôi đã truyền lại cho tôi."),
+        ("Ms Lan", "What a precious thing to own.", "Đó là món đồ đáng quý thật."),
+        # 39 who is studying abroad
+        ("Mr Aloysius", "Who in your family is studying abroad this year?", "Ai trong gia đình chị đang du học năm nay vậy?"),
+        ("Ms Lan", "My cousin is studying abroad in another country.", "Em họ tôi đang du học ở nước khác."),
+        ("Mr Aloysius", "That must be an exciting experience for her.", "Chắc là một trải nghiệm thú vị với cô ấy."),
+        # 40 who fixed the family car
+        ("Ms Lan", "Who fixed your family's car last weekend?", "Ai đã sửa xe gia đình anh cuối tuần trước vậy?"),
+        ("Mr Aloysius", "My brother-in-law fixed it himself.", "Anh rể tôi tự sửa lấy."),
+        ("Ms Lan", "That saved you quite a lot of money.", "Vậy tiết kiệm được kha khá tiền đấy."),
+        # 41 who sings the best in the family
+        ("Mr Aloysius", "Who would you say sings the best in your family?", "Chị nghĩ ai hát hay nhất trong gia đình mình vậy?"),
+        ("Ms Lan", "My younger sister sings beautifully at every gathering.", "Em gái tôi hát rất hay mỗi lần họp mặt."),
+        ("Mr Aloysius", "I would love to hear her sometime.", "Lúc nào đó tôi muốn nghe cô ấy hát."),
+        # 42 who raised the family dog as a puppy
+        ("Ms Lan", "Who raised your family dog when it was just a puppy?", "Ai đã nuôi con chó nhà anh từ khi còn là chó con vậy?"),
+        ("Mr Aloysius", "My eldest daughter raised him from the very start.", "Con gái lớn của tôi nuôi nó từ đầu."),
+        ("Ms Lan", "That explains why he follows her everywhere.", "Thảo nào nó theo cô ấy khắp nơi."),
+        # 43 who is the family's peacemaker
+        ("Mr Aloysius", "Who would you call the peacemaker in your family?", "Chị gọi ai là người hòa giải trong gia đình mình vậy?"),
+        ("Ms Lan", "My mother always calms everyone down gently.", "Mẹ tôi luôn nhẹ nhàng làm dịu mọi người."),
+        ("Mr Aloysius", "Every family needs someone like that.", "Gia đình nào cũng cần một người như vậy."),
+        # 44 closing on why knowing family members matters
         ("Mr Aloysius", "Why does knowing who is who in a family matter so much anyway?", "Vậy vì sao biết rõ ai là ai trong gia đình lại quan trọng đến thế?"),
         ("Ms Lan", "It helps every conversation feel warmer and more personal.", "Nó giúp mọi cuộc trò chuyện trở nên ấm áp và gần gũi hơn."),
         ("Mr Aloysius", "That is a lovely way to put it, thank you.", "Chị nói hay thật, cảm ơn chị."),

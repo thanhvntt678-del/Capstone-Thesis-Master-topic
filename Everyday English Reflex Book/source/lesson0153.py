@@ -195,7 +195,27 @@ LESSON_0153 = {
         ("Ms Lan", "Can you check if this building has visitor parking available?", "Anh kiểm tra giúp tòa nhà này có chỗ đậu xe cho khách không được không?"),
         ("Mr Quentin", "Yes, there are a few spots by the entrance.", "Được, có vài chỗ gần lối vào."),
         ("Ms Lan", "Good, our guests can park there then.", "Tốt, vậy khách của mình đậu ở đó."),
-        # 36 closing on why checking neighbourhood details matters
+        # 36 checking actual walking directions to a place
+        ("Ms Lan", "Can you check how to get to the new bakery from here?", "Anh kiểm tra giúp từ đây đi tới tiệm bánh mới thế nào được không?"),
+        ("Mr Quentin", "Yes, just turn left at the next corner, then it is on the right.", "Được, rẽ trái ở góc đường tới, rồi tiệm nằm bên phải."),
+        ("Ms Lan", "Good, that sounds easy enough to follow.", "Tốt, nghe cũng dễ đi theo."),
+        # 37 checking how far a place is
+        ("Mr Quentin", "Can you check how far the train station is from here?", "Bạn kiểm tra giúp từ đây tới ga tàu bao xa không được không?"),
+        ("Ms Lan", "Yes, it is about a ten minute walk from here.", "Được, từ đây đi bộ khoảng mười phút."),
+        ("Mr Quentin", "Good, that is close enough to walk then.", "Tốt, vậy đi bộ được rồi."),
+        # 38 a negative check, nobody knows yet
+        ("Ms Lan", "Can you check if this new road has an official name yet?", "Anh kiểm tra giúp con đường mới này đã có tên chính thức chưa được không?"),
+        ("Mr Quentin", "No, I do not know, it might not have one yet.", "Không, tôi không biết, có thể chưa có tên."),
+        ("Ms Lan", "That is fine, we can ask the city office later.", "Không sao, mình hỏi văn phòng thành phố sau vậy."),
+        # 39 checking the distance to the hospital
+        ("Mr Quentin", "Can you check how far the nearest hospital is from our street?", "Bạn kiểm tra giúp từ đường mình tới bệnh viện gần nhất bao xa được không?"),
+        ("Ms Lan", "Yes, it is about fifteen minutes away by car.", "Được, đi xe khoảng mười lăm phút."),
+        ("Mr Quentin", "Good, that is reassuring to know.", "Tốt, biết vậy tôi yên tâm hơn."),
+        # 40 checking a landmark used for giving directions
+        ("Ms Lan", "Can you check if there is a landmark near the new cafe, so I do not get lost?", "Anh kiểm tra giúp gần quán cà phê mới có mốc gì dễ nhận ra không, để tôi khỏi lạc?"),
+        ("Mr Quentin", "Yes, it is right next to the big yellow mural on the wall.", "Được, ngay cạnh bức tranh tường màu vàng lớn."),
+        ("Ms Lan", "Perfect, that will be easy to spot then.", "Hoàn hảo, vậy dễ nhận ra lắm."),
+        # 41 closing on why checking neighbourhood details matters
         ("Mr Quentin", "Why does checking these neighbourhood details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết khu phố này lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us feel safe and confident getting around our own neighbourhood.", "Nó giúp mình cảm thấy an toàn và tự tin khi di chuyển trong khu phố của mình."),
         ("Mr Quentin", "That is very true, knowing these details really does make daily life smoother.", "Đúng vậy thật, biết những chi tiết này thật sự giúp cuộc sống hằng ngày trôi chảy hơn."),

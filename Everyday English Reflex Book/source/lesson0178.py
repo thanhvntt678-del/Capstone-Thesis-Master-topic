@@ -191,7 +191,31 @@ LESSON_0178 = {
         ("Ms Lan", "Could you help me prepare for my performance goal discussion next week?", "Chị giúp tôi chuẩn bị cho buổi trao đổi mục tiêu công việc tuần sau được không?"),
         ("Ms Euphemia", "Yes, let us list three clear goals you achieved this year.", "Được, mình liệt kê ba mục tiêu rõ ràng chị đã đạt được năm nay."),
         ("Ms Lan", "Good, that will help me feel more prepared.", "Tốt, vậy tôi sẽ cảm thấy sẵn sàng hơn."),
-        # 36 closing on why asking for help with workplace communication matters
+        # 36 understanding a deadline extension request
+        ("Ms Euphemia", "Could you help me understand this deadline extension request from the client?", "Chị giúp tôi hiểu yêu cầu gia hạn thời hạn này từ khách hàng được không?"),
+        ("Ms Lan", "Yes, they are asking for three extra days to review the contract.", "Được, họ xin thêm ba ngày để xem lại hợp đồng."),
+        ("Ms Euphemia", "Good, that seems reasonable, I will approve it.", "Tốt, nghe hợp lý, tôi sẽ chấp thuận."),
+        # 37 reciprocal - offering help before the end of the day
+        ("Ms Lan", "Is there anything on your plate today I can help you finish before we leave?", "Hôm nay chị có việc gì tôi giúp hoàn thành trước khi mình về không?"),
+        ("Ms Euphemia", "Actually yes, could you proofread this email before I send it?", "Thật ra là có, chị soát lại giúp email này trước khi tôi gửi được không?"),
+        ("Ms Lan", "Of course, give me just a minute to read it.", "Được chứ, cho tôi một phút đọc qua nhé."),
+        # 38 finding the Wi-Fi password for a visiting client
+        ("Ms Euphemia", "Could you help me find the Wi-Fi password for our client visiting today?", "Chị giúp tôi tìm mật khẩu wifi cho khách hàng ghé thăm hôm nay được không?"),
+        ("Ms Lan", "Yes, it is written on the whiteboard in the meeting room.", "Được, nó được ghi trên bảng trắng trong phòng họp."),
+        ("Ms Euphemia", "Good, I will write it down for her now.", "Tốt, tôi ghi lại cho chị ấy ngay."),
+        # 39 understanding a new expense approval limit
+        ("Ms Lan", "Could you help me understand the new expense approval limit for our team?", "Chị giúp tôi hiểu hạn mức chi phí cần phê duyệt mới cho nhóm mình được không?"),
+        ("Ms Euphemia", "Yes, anything under two hundred dollars no longer needs sign-off.", "Được, khoản dưới hai trăm đô la giờ không cần phê duyệt nữa."),
+        ("Ms Lan", "Good, that will speed up small purchases a lot.", "Tốt, vậy mua đồ nhỏ sẽ nhanh hơn nhiều."),
+        # 40 booking a desk in the shared hot-desk area
+        ("Ms Euphemia", "Could you help me book a desk in the shared hot-desk area for tomorrow?", "Chị giúp tôi đặt bàn ở khu bàn làm việc chung cho ngày mai được không?"),
+        ("Ms Lan", "Yes, just reserve one through the office booking app.", "Được, chỉ cần đặt qua ứng dụng đặt chỗ văn phòng."),
+        ("Ms Euphemia", "Good, I will do that before I forget.", "Tốt, tôi làm ngay trước khi quên mất."),
+        # 41 figuring out why a badge is not opening a door
+        ("Ms Lan", "Could you help me figure out why my badge is not opening the side door?", "Chị giúp tôi tìm hiểu vì sao thẻ tôi không mở được cửa bên hông không được không?"),
+        ("Ms Euphemia", "Yes, let us ask security to reset it for you.", "Được, mình nhờ bảo vệ cài lại thẻ cho chị."),
+        ("Ms Lan", "Good, I will head to the front desk now.", "Tốt, tôi ra quầy lễ tân ngay."),
+        # 42 closing on why asking for help with workplace communication matters
         ("Ms Euphemia", "Why does asking for help with workplace communication matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về giao tiếp công sở lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps everyone on the same page and helps work move forward smoothly.", "Nó giúp mọi người hiểu nhau và công việc tiến triển suôn sẻ hơn."),
         ("Ms Euphemia", "That is very true, asking for help really does make office life so much easier.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp cuộc sống công sở dễ dàng hơn nhiều."),

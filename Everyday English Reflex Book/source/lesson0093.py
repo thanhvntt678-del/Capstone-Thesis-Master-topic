@@ -191,5 +191,37 @@ LESSON_0093 = {
         ("Ms Lan", "Did daylight saving time change the hour recently?", "Giờ tiết kiệm ánh sáng ban ngày gần đây có đổi giờ không?"),
         ("Mr Terrence", "Yes, we moved the clocks forward last weekend.", "Có, cuối tuần trước mình đã chỉnh đồng hồ tới trước."),
         ("Ms Lan", "Ah, that explains why everything feels off, thank you.", "À, thảo nào mọi thứ có vẻ lệch giờ, cảm ơn anh."),
+        # 37 asking how much time is left before an event starts
+        ("Mr Terrence", "How much time is left before the show starts?", "Còn bao nhiêu thời gian nữa thì buổi diễn bắt đầu vậy?"),
+        ("Ms Lan", "About fifteen minutes, we should head in now.", "Khoảng mười lăm phút, mình nên vào chỗ ngồi thôi."),
+        ("Mr Terrence", "Good, let us not miss the beginning.", "Tốt, mình đừng bỏ lỡ phần đầu."),
+        # 38 telling the time using quarter past
+        ("Ms Lan", "What time is it exactly right now?", "Bây giờ chính xác là mấy giờ vậy?"),
+        ("Mr Terrence", "It is a quarter past nine.", "Chín giờ mười lăm phút rồi."),
+        ("Ms Lan", "Thank you, that gives us plenty of time.", "Cảm ơn anh, vậy mình vẫn còn nhiều thời gian."),
+        # 39 asking if it is too late to call someone
+        ("Mr Terrence", "Is it too late to call your mother now?", "Bây giờ gọi mẹ chị có quá trễ không?"),
+        ("Ms Lan", "It is nine, that should still be fine.", "Chín giờ rồi, vẫn còn ổn để gọi."),
+        ("Mr Terrence", "Good, she is probably still awake then.", "Tốt, chắc mẹ chị vẫn còn thức."),
+        # 40 confirming whether it is morning or afternoon
+        ("Ms Lan", "Wait, is it still morning, or already afternoon?", "Khoan, vẫn còn buổi sáng hay đã qua chiều rồi vậy?"),
+        ("Mr Terrence", "Still morning, it is only eleven o'clock.", "Vẫn còn sáng, mới mười một giờ thôi."),
+        ("Ms Lan", "Oh good, I thought it was later than that.", "Ồ tốt quá, tôi cứ tưởng trễ hơn thế."),
+        # 41 asking if there is enough time to grab lunch
+        ("Mr Terrence", "Do we have enough time to grab lunch before the meeting?", "Mình có đủ thời gian ăn trưa trước cuộc họp không?"),
+        ("Ms Lan", "Just barely, if we go right now.", "Vừa đủ thôi, nếu mình đi ngay bây giờ."),
+        ("Mr Terrence", "Let us hurry then, I am starving.", "Vậy mình đi nhanh lên, tôi đói lắm rồi."),
+        # 42 describing that time is passing very quickly today
+        ("Ms Lan", "Time is really flying by today, is it not?", "Hôm nay thời gian trôi nhanh thật đấy nhỉ?"),
+        ("Mr Terrence", "It really is, I cannot believe it is already noon.", "Đúng vậy, không ngờ đã trưa rồi."),
+        ("Ms Lan", "Same here, the morning went by so fast.", "Tôi cũng vậy, buổi sáng trôi nhanh quá."),
+        # 43 asking someone to set a timer for a task
+        ("Mr Terrence", "Could you set a timer for ten minutes for the soup?", "Chị hẹn giờ mười phút cho nồi súp giúp được không?"),
+        ("Ms Lan", "Sure, setting it now on my phone.", "Được, tôi hẹn giờ ngay trên điện thoại."),
+        ("Mr Terrence", "Thank you, I always forget and let it boil over.", "Cảm ơn chị, tôi hay quên rồi để súp trào ra."),
+        # 44 confirming what time a friend will arrive
+        ("Ms Lan", "What time did she say she would arrive?", "Chị ấy nói mấy giờ sẽ tới vậy?"),
+        ("Mr Terrence", "Around half past six, according to her last message.", "Khoảng sáu giờ rưỡi, theo tin nhắn cuối cùng của chị ấy."),
+        ("Ms Lan", "Perfect, that gives us time to tidy up first.", "Tuyệt, vậy mình còn thời gian dọn dẹp trước."),
     ],
 }

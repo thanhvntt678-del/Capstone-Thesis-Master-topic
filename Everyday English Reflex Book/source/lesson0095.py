@@ -191,5 +191,37 @@ LESSON_0095 = {
         ("Mr Malcolm", "Should we start a new family tradition for New Year's this time?", "Năm mới này mình bắt đầu một truyền thống gia đình mới nhé?"),
         ("Ms Lan", "I love that idea, maybe a yearly family trip.", "Tôi thích ý đó, có thể là chuyến đi gia đình hằng năm."),
         ("Mr Malcolm", "Perfect, let us make that our new tradition.", "Tuyệt, mình biến nó thành truyền thống mới nhé."),
+        # 37 asking who will bring dessert to the gathering
+        ("Mr Malcolm", "Who is bringing dessert to the gathering this time?", "Lần này ai mang tráng miệng vậy?"),
+        ("Ms Lan", "I will bring a fruit cake, if that works.", "Tôi mang bánh trái cây được không?"),
+        ("Mr Malcolm", "Perfect, everyone loves your fruit cake.", "Tuyệt, ai cũng thích bánh trái cây của chị."),
+        # 38 confirming a family member's dietary restriction
+        ("Ms Lan", "Does your father still avoid spicy food these days?", "Bố anh có còn kiêng đồ cay không vậy?"),
+        ("Mr Malcolm", "Yes, please keep his portion mild.", "Có, làm ơn để phần anh ấy nhạt hơn."),
+        ("Ms Lan", "Got it, I will cook his portion separately.", "Rõ rồi, tôi sẽ nấu riêng phần đó."),
+        # 39 planning transportation to a family event
+        ("Mr Malcolm", "How should we get to your parents' house on Sunday?", "Mình đi thế nào tới nhà ba mẹ chị chủ nhật vậy?"),
+        ("Ms Lan", "Let us take my car, there is room for everyone.", "Mình đi xe tôi đi, đủ chỗ cho mọi người."),
+        ("Mr Malcolm", "Good idea, that saves us booking two rides.", "Ý hay, vậy đỡ phải đặt hai chuyến xe."),
+        # 40 asking what time everyone should arrive
+        ("Ms Lan", "What time should we tell everyone to arrive?", "Mình nên báo mọi người tới lúc mấy giờ vậy?"),
+        ("Mr Malcolm", "Let us say five, so we have time before dinner.", "Nói năm giờ đi, vậy có thời gian trước bữa tối."),
+        ("Ms Lan", "Good plan, I will message the family group chat.", "Kế hoạch hay, tôi sẽ nhắn nhóm gia đình."),
+        # 41 planning what gift to buy for a relative's birthday
+        ("Mr Malcolm", "What should we get your aunt for her birthday?", "Mình nên tặng gì cho dì nhân sinh nhật vậy?"),
+        ("Ms Lan", "She mentioned wanting a new tea set recently.", "Gần đây dì có nói muốn một bộ ấm trà mới."),
+        ("Mr Malcolm", "Perfect, let us go pick one out together.", "Tuyệt, mình cùng đi chọn một bộ đi."),
+        # 42 confirming an RSVP for a family event
+        ("Ms Lan", "Did you confirm with your cousin that we are coming?", "Anh xác nhận với em họ là mình sẽ tới chưa vậy?"),
+        ("Mr Malcolm", "Yes, I replied to her message this morning.", "Rồi, sáng nay tôi trả lời tin nhắn cô ấy rồi."),
+        ("Ms Lan", "Good, now she can plan the seating properly.", "Tốt, vậy cô ấy sắp xếp chỗ ngồi được rồi."),
+        # 43 asking who is picking up grandma
+        ("Mr Malcolm", "Who is picking up grandma for the dinner tonight?", "Tối nay ai đón bà đi ăn tối vậy?"),
+        ("Ms Lan", "I will go, her place is on my way.", "Tôi đi đón, nhà bà tiện đường tôi mà."),
+        ("Mr Malcolm", "Thank you, she will be so happy to see you.", "Cảm ơn chị, bà sẽ vui lắm khi thấy chị."),
+        # 44 planning where to seat everyone at the table
+        ("Ms Lan", "Where should the children sit at the family table?", "Bọn trẻ nên ngồi đâu ở bàn ăn gia đình vậy?"),
+        ("Mr Malcolm", "Let us put them together near the window.", "Cho tụi nhỏ ngồi cạnh nhau gần cửa sổ đi."),
+        ("Ms Lan", "Good idea, they will enjoy sitting together.", "Ý hay, tụi nhỏ sẽ thích ngồi cạnh nhau."),
     ],
 }

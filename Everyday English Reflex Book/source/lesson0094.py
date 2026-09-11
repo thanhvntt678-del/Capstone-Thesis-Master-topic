@@ -186,5 +186,37 @@ LESSON_0094 = {
         ("Ms Loretta", "Could you remind me to clean the bathroom tomorrow?", "Chị nhắc tôi dọn phòng tắm ngày mai giúp được không?"),
         ("Ms Lan", "Sure, I will remind you first thing in the morning.", "Được, sáng mai tôi nhắc ngay."),
         ("Ms Loretta", "Thank you, I always forget that chore.", "Cảm ơn chị, tôi hay quên việc đó lắm."),
+        # 37 asking where the broom is kept
+        ("Ms Loretta", "Where do you keep the broom? I cannot find it.", "Chị để cây chổi ở đâu vậy? Tôi tìm không ra."),
+        ("Ms Lan", "It is behind the kitchen door, on the hook.", "Nó ở sau cửa bếp, treo trên móc."),
+        ("Ms Loretta", "Ah, found it, thank you.", "À, thấy rồi, cảm ơn chị."),
+        # 38 asking how to turn on the washing machine
+        ("Ms Lan", "How do you turn on this washing machine?", "Máy giặt này bật thế nào vậy?"),
+        ("Ms Loretta", "Press the round button, then choose the cycle.", "Chị nhấn nút tròn, rồi chọn chu trình giặt."),
+        ("Ms Lan", "Got it, thank you for showing me.", "Rõ rồi, cảm ơn chị đã chỉ."),
+        # 39 asking for help moving a heavy box
+        ("Ms Loretta", "Could you help me lift this box? It is quite heavy.", "Chị giúp tôi khiêng cái thùng này được không? Khá nặng đấy."),
+        ("Ms Lan", "Sure, let us carry it together.", "Được, mình cùng khiêng nhé."),
+        ("Ms Loretta", "Thank you, that was much easier with two of us.", "Cảm ơn chị, hai người khiêng dễ hơn nhiều."),
+        # 40 asking someone to be careful with a fragile vase
+        ("Ms Lan", "Please be careful with that vase, it is quite fragile.", "Làm ơn cẩn thận với cái bình đó, nó dễ vỡ lắm."),
+        ("Ms Loretta", "Understood, I will hold it with both hands.", "Rõ rồi, tôi sẽ cầm bằng cả hai tay."),
+        ("Ms Lan", "Thank you, that vase means a lot to me.", "Cảm ơn chị, cái bình đó có ý nghĩa lắm với tôi."),
+        # 41 checking if the trash was taken out
+        ("Ms Loretta", "Did you already take the trash out this morning?", "Sáng nay chị đổ rác chưa vậy?"),
+        ("Ms Lan", "Yes, I took it out before breakfast.", "Rồi, tôi đổ trước khi ăn sáng."),
+        ("Ms Loretta", "Perfect, one less thing to worry about.", "Tuyệt, vậy đỡ lo một việc rồi."),
+        # 42 asking a guest to take off their shoes
+        ("Ms Lan", "Could you take off your shoes before coming in, please?", "Anh chị làm ơn tháo giày trước khi vào nhà nhé?"),
+        ("Ms Loretta", "Of course, sorry, I almost forgot.", "Được chứ, xin lỗi, tôi suýt quên."),
+        ("Ms Lan", "No worries, the rack is right by the door.", "Không sao, kệ giày ngay cạnh cửa đó."),
+        # 43 asking someone to adjust the air conditioner
+        ("Ms Loretta", "Could you turn the air conditioner up a little? It is cold.", "Chị tăng nhiệt độ máy lạnh lên chút được không? Lạnh quá."),
+        ("Ms Lan", "Sure, let me adjust it right now.", "Được, để tôi chỉnh ngay đây."),
+        ("Ms Loretta", "Thank you, that feels much better already.", "Cảm ơn chị, giờ dễ chịu hơn nhiều rồi."),
+        # 44 asking someone to replace a burned-out lightbulb
+        ("Ms Lan", "The kitchen bulb burned out, could you replace it?", "Bóng đèn bếp cháy rồi, anh chị thay giúp được không?"),
+        ("Ms Loretta", "Sure, I have a spare one in the drawer.", "Được, tôi có bóng dự phòng trong ngăn kéo."),
+        ("Ms Lan", "Thank you, the kitchen is far too dark right now.", "Cảm ơn chị, giờ bếp tối quá đi."),
     ],
 }

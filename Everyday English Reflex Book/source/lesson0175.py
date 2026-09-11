@@ -192,7 +192,31 @@ LESSON_0175 = {
         ("Ms Lan", "Could you help me decide whether we should move the event indoors?", "Anh giúp tôi quyết định có nên chuyển sự kiện vào trong nhà không?"),
         ("Mr Crispin", "Yes, with rain expected, moving it indoors is safer.", "Được, với dự báo mưa, chuyển vào trong nhà an toàn hơn."),
         ("Ms Lan", "Good, I will inform the guests about the change.", "Tốt, tôi sẽ báo khách về sự thay đổi này."),
-        # 36 closing on why asking for help with weather & daily plans matters
+        # 36 checking the current temperature right now
+        ("Mr Crispin", "Could you help me check the current temperature outside right now?", "Chị giúp tôi xem nhiệt độ hiện tại bên ngoài lúc này được không?"),
+        ("Ms Lan", "Yes, it is twenty-two degrees at the moment.", "Được, hiện tại là hai mươi hai độ."),
+        ("Mr Crispin", "Good, that is comfortable enough for a short walk.", "Tốt, vậy đủ dễ chịu để đi bộ một đoạn ngắn."),
+        # 37 reciprocal - checking the commute forecast for the other person
+        ("Ms Lan", "Have you checked the forecast for your drive home later, or should I look?", "Anh xem dự báo cho chuyến lái xe về nhà lát nữa chưa, hay để tôi xem giúp?"),
+        ("Mr Crispin", "Actually, could you check? I have not had time yet.", "Thật ra, chị xem giúp được không? Tôi chưa có thời gian."),
+        ("Ms Lan", "Sure, it looks clear for your whole drive home.", "Được, cả chặng đường về nhà anh trời sẽ quang đãng."),
+        # 38 deciding whether to wear a hat for strong sun
+        ("Mr Crispin", "Could you help me decide if I should wear a hat, the sun looks strong today?", "Chị giúp tôi quyết định có nên đội mũ không, nắng hôm nay gắt quá?"),
+        ("Ms Lan", "Yes, definitely wear one, the UV levels are quite high.", "Được, chắc chắn nên đội, chỉ số tia cực tím khá cao đấy."),
+        ("Mr Crispin", "Good, I will grab my wide-brim hat then.", "Tốt, vậy tôi lấy cái mũ vành rộng."),
+        # 39 deciding whether to cover a market stall with a tarp
+        ("Ms Lan", "Could you help me decide if we should cover the market stall with a tarp?", "Anh giúp tôi quyết định có nên phủ bạt lên sạp chợ không được không?"),
+        ("Mr Crispin", "Yes, clouds are building up, better cover it now.", "Được, mây đang kéo tới, che lại ngay đi."),
+        ("Ms Lan", "Good call, I will grab the tarp from the car.", "Quyết định đúng, tôi lấy bạt từ trong xe ra."),
+        # 40 checking if the pool water will be too cold to swim
+        ("Mr Crispin", "Could you help me check if the water will be too cold for swimming today?", "Chị giúp tôi xem hôm nay nước có quá lạnh để bơi không được không?"),
+        ("Ms Lan", "Yes, the forecast says the water is around twenty degrees.", "Được, dự báo nói nước khoảng hai mươi độ."),
+        ("Mr Crispin", "Good, that should still be comfortable enough to swim.", "Tốt, vậy vẫn đủ dễ chịu để bơi."),
+        # 41 deciding whether to pack a spare set of dry clothes
+        ("Ms Lan", "Could you help me decide if I should pack a spare set of dry clothes?", "Anh giúp tôi quyết định có nên mang thêm bộ đồ khô dự phòng không được không?"),
+        ("Mr Crispin", "Yes, with rain likely later, it is worth packing one.", "Được, vì lát nữa có khả năng mưa, nên mang theo một bộ."),
+        ("Ms Lan", "Good thinking, I will add that to my bag now.", "Nghĩ hay đấy, tôi cho vào túi ngay đây."),
+        # 42 closing on why asking for help with weather & daily plans matters
         ("Mr Crispin", "Why does asking for help with weather and daily plans matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về thời tiết và kế hoạch hằng ngày lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us stay safe, prepared, and make the most of every kind of day.", "Nó giúp mình an toàn, chuẩn bị tốt, và tận dụng được mọi kiểu thời tiết."),
         ("Mr Crispin", "That is very true, asking for help really does make planning so much easier.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp việc lên kế hoạch dễ dàng hơn nhiều."),

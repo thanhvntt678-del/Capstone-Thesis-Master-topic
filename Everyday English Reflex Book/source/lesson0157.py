@@ -192,7 +192,27 @@ LESSON_0157 = {
         ("Ms Lan", "Can you check if there is a heat advisory today?", "Anh kiểm tra giúp hôm nay có cảnh báo nắng nóng không được không?"),
         ("Mr Alistair", "Yes, a heat advisory is in effect until evening.", "Được, cảnh báo nắng nóng có hiệu lực tới tối."),
         ("Ms Lan", "Good to know, I will avoid going out at noon.", "Biết vậy tốt rồi, tôi tránh ra ngoài lúc trưa."),
-        # 36 closing on why checking weather details matters
+        # 36 deciding to move an event indoors because of the forecast
+        ("Mr Alistair", "Since rain is expected, should we move the picnic indoors instead?", "Vì dự báo có mưa, mình nên chuyển buổi dã ngoại vào trong nhà không?"),
+        ("Ms Lan", "Yes, let us move it to my place to be safe.", "Được, để chắc ăn mình chuyển qua nhà tôi."),
+        ("Mr Alistair", "Good idea, better safe than soggy sandwiches.", "Ý hay, an toàn vẫn hơn để bánh mì bị ướt."),
+        # 37 checking the weather at the destination, not just locally
+        ("Ms Lan", "Can you check the weather at our destination, not just here?", "Anh kiểm tra giúp thời tiết ở điểm đến của mình, không chỉ ở đây được không?"),
+        ("Mr Alistair", "Yes, it looks sunny and warm over there.", "Được, chỗ đó trông nắng và ấm."),
+        ("Ms Lan", "Great, I will not need to pack a heavy coat then.", "Tuyệt, vậy tôi khỏi cần mang áo khoác dày."),
+        # 38 asking for clothing advice based on the forecast
+        ("Mr Alistair", "Given this forecast, what should I wear today?", "Với dự báo này, hôm nay tôi nên mặc gì vậy?"),
+        ("Ms Lan", "I would wear a light jacket, just in case it cools down.", "Tôi sẽ mặc áo khoác mỏng, phòng khi trời trở lạnh."),
+        ("Mr Alistair", "Good idea, I will grab one on the way out.", "Ý hay, tôi lấy một cái lúc ra ngoài."),
+        # 39 re-checking the forecast out of uncertainty
+        ("Ms Lan", "The sky looks dark, can you check the forecast again just to be sure?", "Trời trông âm u quá, anh kiểm tra lại dự báo cho chắc được không?"),
+        ("Mr Alistair", "Yes, I checked again, and rain is still not expected.", "Được, tôi kiểm tra lại rồi, vẫn không dự báo mưa."),
+        ("Ms Lan", "Good, then the dark clouds should pass quickly.", "Tốt, vậy chắc mây đen sẽ tan nhanh thôi."),
+        # 40 deciding to postpone a plan because of a storm warning
+        ("Mr Alistair", "Given tomorrow's storm warning, should we postpone the hike?", "Với cảnh báo bão ngày mai, mình có nên hoãn chuyến leo núi không?"),
+        ("Ms Lan", "Yes, let us postpone it until the weather clears.", "Được, mình hoãn lại tới khi thời tiết tốt hơn."),
+        ("Mr Alistair", "Good call, safety comes first.", "Quyết định đúng, an toàn vẫn là trên hết."),
+        # 41 closing on why checking weather details matters
         ("Mr Alistair", "Why does checking these weather details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết thời tiết này lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us prepare properly and keeps our daily plans running smoothly.", "Nó giúp mình chuẩn bị đúng cách và giữ cho kế hoạch hằng ngày trôi chảy."),
         ("Mr Alistair", "That is very true, checking first really does prevent a lot of surprises.", "Đúng vậy thật, kiểm tra trước thật sự giúp tránh nhiều bất ngờ."),

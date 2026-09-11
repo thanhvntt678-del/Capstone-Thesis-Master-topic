@@ -192,7 +192,27 @@ LESSON_0155 = {
         ("Ms Lan", "Can you check if the driver can wait a few more minutes?", "Anh kiểm tra giúp tài xế có đợi thêm vài phút được không được không?"),
         ("Mr Baldwin", "Yes, he said he is happy to wait.", "Được, anh ấy nói sẵn lòng chờ."),
         ("Ms Lan", "Good, I will grab my bag then.", "Tốt, vậy tôi lấy túi ngay."),
-        # 36 closing on why checking taxi details matters
+        # 36 checking if the fare can be split
+        ("Ms Lan", "Can you check if this fare can be split between the two of us?", "Anh kiểm tra giúp giá cước này có chia đôi cho hai mình được không được không?"),
+        ("Mr Baldwin", "Yes, the app has a split fare option built in.", "Được, ứng dụng có sẵn tính năng chia tiền."),
+        ("Ms Lan", "Good, that is fair for both of us.", "Tốt, vậy công bằng cho cả hai mình."),
+        # 37 noticing and correcting a wrong turn
+        ("Mr Baldwin", "Can you check if the driver just missed our turn?", "Bạn kiểm tra giúp tài xế có vừa lỡ khúc quẹo của mình không được không?"),
+        ("Ms Lan", "Yes, I think he missed our turn just now.", "Được, tôi nghĩ anh ấy vừa lỡ khúc quẹo của mình rồi."),
+        ("Mr Baldwin", "Good thing you noticed, let us tell him now.", "May mà bạn để ý, mình nói với anh ấy ngay."),
+        # 38 changing the destination mid-ride
+        ("Ms Lan", "Can you check if we can change the destination during this ride?", "Anh kiểm tra giúp giữa chuyến mình có đổi điểm đến được không được không?"),
+        ("Mr Baldwin", "Yes, you can update it any time in the app.", "Được, có thể cập nhật bất cứ lúc nào trong ứng dụng."),
+        ("Ms Lan", "Good, I will change it to the clinic instead.", "Tốt, vậy tôi đổi thành phòng khám."),
+        # 39 checking how to report a problem afterward
+        ("Mr Baldwin", "Can you check how to report a problem with this ride afterward?", "Bạn kiểm tra giúp sau chuyến này báo sự cố thế nào được không?"),
+        ("Ms Lan", "Yes, there is a help button right in the app.", "Được, có nút trợ giúp ngay trong ứng dụng."),
+        ("Mr Baldwin", "Good, I will use that if needed.", "Tốt, cần thì tôi sẽ dùng nó."),
+        # 40 checking a lost and found service
+        ("Ms Lan", "Can you check if the ride service has a lost and found service?", "Anh kiểm tra giúp dịch vụ này có bộ phận tìm đồ thất lạc không được không?"),
+        ("Mr Baldwin", "Yes, you can report a lost item directly in the app.", "Được, có thể báo đồ thất lạc ngay trong ứng dụng."),
+        ("Ms Lan", "Good, useful to know just in case.", "Tốt, biết vậy hữu ích phòng khi cần."),
+        # 41 closing on why checking taxi details matters
         ("Mr Baldwin", "Why does checking these taxi details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết taxi này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us safe and helps us avoid unexpected costs or confusion along the way.", "Nó giúp mình an toàn và tránh chi phí bất ngờ hay nhầm lẫn dọc đường."),
         ("Mr Baldwin", "That is very true, checking first really does make every ride worry-free.", "Đúng vậy thật, kiểm tra trước thật sự giúp mỗi chuyến đi không phải lo lắng gì."),

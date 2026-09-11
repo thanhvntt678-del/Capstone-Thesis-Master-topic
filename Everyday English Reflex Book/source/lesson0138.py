@@ -200,7 +200,31 @@ LESSON_0138 = {
         ("Ms Lan", "Are your walking shoes dry after yesterday's rain?", "Giày đi bộ của chị đã khô sau cơn mưa hôm qua chưa vậy?"),
         ("Ms Clementine", "Yes, they dried out overnight by the window.", "Rồi, chúng khô qua đêm cạnh cửa sổ."),
         ("Ms Lan", "Good, ready to go again then.", "Tốt, vậy sẵn sàng đi tiếp rồi."),
-        # 36 closing on why routine walking needs matter
+        # 36 if reflective gear is needed for an early walk
+        ("Ms Clementine", "Do we need reflective gear for such an early morning walk?", "Buổi đi bộ sớm thế này mình có cần đồ phản quang không vậy?"),
+        ("Ms Lan", "Yes, it is still quite dark out at this hour.", "Có, giờ này trời vẫn còn khá tối."),
+        ("Ms Clementine", "Good call, I have a spare vest for you.", "Nhắc hay đấy, tôi có áo dự phòng cho chị."),
+        # 37 if a walking friend needs directions to the meeting point
+        ("Ms Lan", "Does your new walking friend need directions to our meeting point?", "Bạn đi bộ mới của chị có cần chỉ đường tới điểm hẹn không vậy?"),
+        ("Ms Clementine", "Yes, I will send her the map right now.", "Có, tôi sẽ gửi bản đồ cho cô ấy ngay."),
+        ("Ms Lan", "Good, that should help her find us easily.", "Tốt, vậy cô ấy sẽ tìm mình dễ hơn."),
+        # 38 if the walk should pause for a phone call
+        ("Ms Clementine", "Should we pause the walk for this incoming phone call?", "Mình có nên tạm dừng đi bộ vì cuộc gọi đến này không vậy?"),
+        ("Ms Lan", "Yes, please, it might be something important.", "Có, cảm ơn chị, có thể là việc quan trọng đấy."),
+        ("Ms Clementine", "No problem, we can wait right here.", "Không sao, mình đợi ngay đây được."),
+        # 39 if the crosswalk signals are working
+        ("Ms Lan", "Are the crosswalk signals working along our usual route today?", "Tín hiệu qua đường trên tuyến quen của mình hôm nay có hoạt động không vậy?"),
+        ("Ms Clementine", "Yes, I noticed them changing normally earlier.", "Có, lúc nãy tôi thấy chúng đổi đèn bình thường."),
+        ("Ms Lan", "Good, that makes crossing much safer.", "Tốt, vậy qua đường an toàn hơn nhiều."),
+        # 40 if a new walking trail has been tried yet
+        ("Ms Clementine", "Have you tried the new walking trail near the river yet?", "Chị đã thử tuyến đi bộ mới gần bờ sông chưa vậy?"),
+        ("Ms Lan", "Not yet, but I have heard lovely things about it.", "Chưa, nhưng tôi nghe khen nhiều lắm."),
+        ("Ms Clementine", "Let us try it together this weekend then.", "Vậy cuối tuần này mình cùng thử đi."),
+        # 41 if today's walk should avoid a slippery patch of pavement
+        ("Ms Lan", "Should today's walk avoid that slippery patch of pavement?", "Buổi đi bộ hôm nay có nên tránh đoạn vỉa hè trơn trượt đó không vậy?"),
+        ("Ms Clementine", "Yes, it is still wet from last night's rain.", "Có, nó vẫn còn ướt từ cơn mưa tối qua."),
+        ("Ms Lan", "Good thinking, we will take the other side.", "Nghĩ hay đấy, mình đi bên kia vậy."),
+        # 42 closing on why routine walking needs matter
         ("Ms Clementine", "Why does keeping up with these routine walking needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu đi bộ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us healthy and gives us this lovely time to talk together.", "Nó giúp mình khỏe mạnh và có thời gian trò chuyện cùng nhau thật dễ chịu."),
         ("Ms Clementine", "That is very true, I always look forward to our walks.", "Đúng vậy thật, tôi luôn mong tới những buổi đi bộ của mình."),

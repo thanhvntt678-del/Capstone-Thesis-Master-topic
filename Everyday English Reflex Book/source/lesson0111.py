@@ -179,7 +179,39 @@ LESSON_0111 = {
         ("Ms Lan", "Can you show the number three using your fingers?", "Anh có thể dùng ngón tay để chỉ số ba không?"),
         ("Mr Cornelius", "Sure, look, this is three fingers up.", "Được chứ, nhìn nè, đây là ba ngón tay."),
         ("Ms Lan", "That is a great way to teach children too.", "Đó cũng là cách dạy trẻ con rất hay."),
-        # 36 counting years, closing on why small numbers matter
+        # 36 counting jars of jam in the pantry
+        ("Ms Lan", "How many jars of jam are left in the pantry?", "Trong tủ đựng thức ăn còn lại bao nhiêu hũ mứt?"),
+        ("Mr Cornelius", "There are four jars left on the shelf.", "Còn lại bốn hũ trên kệ."),
+        ("Ms Lan", "Four, that should last a few weeks.", "Bốn hũ, vậy đủ dùng vài tuần."),
+        # 37 counting pillows on the bed
+        ("Mr Cornelius", "How many pillows are on your bed right now?", "Giường của chị hiện có bao nhiêu cái gối?"),
+        ("Ms Lan", "I have five pillows on my bed.", "Tôi có năm cái gối trên giường."),
+        ("Mr Cornelius", "Five, that sounds very comfortable.", "Năm cái, nghe thoải mái thật."),
+        # 38 counting magazines on a table
+        ("Ms Lan", "How many magazines are stacked on this table?", "Trên bàn này chồng bao nhiêu quyển tạp chí?"),
+        ("Mr Cornelius", "I count eight magazines in that stack.", "Tôi đếm được tám quyển trong chồng đó."),
+        ("Ms Lan", "Eight, we should recycle a few soon.", "Tám quyển, mình nên tái chế bớt vài quyển sớm."),
+        # 39 counting tools in a toolbox
+        ("Mr Cornelius", "How many tools are missing from this toolbox?", "Hộp dụng cụ này thiếu bao nhiêu món?"),
+        ("Ms Lan", "It looks like two tools are missing.", "Trông như thiếu hai món."),
+        ("Mr Cornelius", "Two, I will check the garage for them.", "Hai món, tôi sẽ kiểm tra trong ga-ra."),
+        # 40 counting stamps on a letter
+        ("Ms Lan", "How many stamps do I need for this letter?", "Tôi cần bao nhiêu con tem cho lá thư này?"),
+        ("Mr Cornelius", "This letter needs three stamps exactly.", "Lá thư này cần đúng ba con tem."),
+        ("Ms Lan", "Three, let me stick them on now.", "Ba con, để tôi dán vào ngay."),
+        # 41 counting picture frames on a shelf
+        ("Mr Cornelius", "How many picture frames are on this shelf?", "Trên kệ này có bao nhiêu khung ảnh?"),
+        ("Ms Lan", "There are seven picture frames up there.", "Có bảy khung ảnh trên đó."),
+        ("Mr Cornelius", "Seven, what a lovely little display.", "Bảy cái, một góc trưng bày đẹp thật."),
+        # 42 counting doors along a hallway
+        ("Ms Lan", "How many doors are along this hallway?", "Dọc hành lang này có bao nhiêu cánh cửa?"),
+        ("Mr Cornelius", "There are six doors along the hallway.", "Có sáu cánh cửa dọc hành lang."),
+        ("Ms Lan", "Six, that is quite a lot to remember.", "Sáu cánh, vậy cũng khá nhiều để nhớ."),
+        # 43 counting cups of coffee drunk today
+        ("Mr Cornelius", "How many cups of coffee have you had today?", "Hôm nay chị đã uống bao nhiêu tách cà phê rồi?"),
+        ("Ms Lan", "I have had two cups so far today.", "Hôm nay tôi mới uống hai tách."),
+        ("Mr Cornelius", "Two, that sounds like a reasonable amount.", "Hai tách, nghe hợp lý đấy."),
+        # 44 counting years, closing on why small numbers matter
         ("Mr Cornelius", "How many years have you lived in this neighbourhood now?", "Chị đã sống ở khu phố này bao nhiêu năm rồi?"),
         ("Ms Lan", "I have lived here for exactly five years.", "Tôi đã sống ở đây đúng năm năm."),
         ("Mr Cornelius", "Small numbers like these come up everywhere in daily life.", "Những con số nhỏ như vậy xuất hiện khắp nơi trong đời sống hằng ngày."),

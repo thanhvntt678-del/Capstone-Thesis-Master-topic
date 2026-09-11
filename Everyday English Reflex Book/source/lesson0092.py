@@ -196,5 +196,37 @@ LESSON_0092 = {
         ("Ms Priscilla", "Why does it matter so much to get someone's attention politely?", "Vì sao thu hút sự chú ý của ai đó lịch sự lại quan trọng vậy?"),
         ("Ms Lan", "It shows respect for what they were already doing.", "Nó thể hiện sự tôn trọng với việc họ đang làm."),
         ("Ms Priscilla", "That makes complete sense, thank you for explaining.", "Vậy hợp lý hoàn toàn, cảm ơn chị đã giải thích."),
+        # 37 getting attention by waving across a large parking lot
+        ("Ms Lan", "I saw Priscilla far across the parking lot, so I waved both arms.", "Tôi thấy Priscilla ở tuốt bên kia bãi đỗ xe nên vẫy cả hai tay."),
+        ("Ms Priscilla", "I noticed you right away, that big wave really worked.", "Tôi thấy chị ngay, vẫy tay to vậy hiệu quả thật."),
+        ("Ms Lan", "Good, I was worried you might not spot me.", "Tốt, tôi cứ lo chị không thấy tôi."),
+        # 38 getting attention by calling out someone's name
+        ("Ms Priscilla", "Over here, by the fruit stall, Lan!", "Ở đây nè, gần quầy trái cây, chị Lan ơi!"),
+        ("Ms Lan", "Oh, there you are, I almost walked right past.", "Ồ, chị đây rồi, suýt nữa tôi đi ngang qua mất."),
+        ("Ms Priscilla", "Good thing I called your name loudly.", "May mà tôi gọi tên chị lớn tiếng."),
+        # 39 getting attention by knocking gently before entering
+        ("Ms Lan", "I knocked gently before opening the office door.", "Tôi gõ nhẹ cửa trước khi mở cửa văn phòng."),
+        ("Ms Priscilla", "That was polite, she was on a call inside.", "Vậy lịch sự đấy, cô ấy đang gọi điện bên trong."),
+        ("Ms Lan", "Exactly, I did not want to startle her.", "Đúng vậy, tôi không muốn làm cô ấy giật mình."),
+        # 40 getting attention with a hand signal at a quiet cinema
+        ("Ms Priscilla", "It was too quiet to speak, so I just raised my hand.", "Trong rạp yên tĩnh quá nên tôi chỉ giơ tay lên thôi."),
+        ("Ms Lan", "I saw your hand right away in the dark.", "Tôi thấy tay chị ngay dù trong bóng tối."),
+        ("Ms Priscilla", "Good, a small signal was enough.", "Tốt, chỉ cần một tín hiệu nhỏ là đủ."),
+        # 41 getting attention of a jogger passing by
+        ("Ms Lan", "Excuse me! Could you slow down for a second?", "Xin lỗi anh! Anh chậm lại một chút được không?"),
+        ("Ms Priscilla", "He stopped right away when he heard you.", "Anh ấy dừng lại ngay khi nghe chị gọi."),
+        ("Ms Lan", "Good, I just needed to ask him something quick.", "Tốt, tôi chỉ cần hỏi anh ấy chuyện nhanh thôi."),
+        # 42 getting attention of someone behind a glass window
+        ("Ms Priscilla", "I tapped on the glass so the clerk would notice me.", "Tôi gõ nhẹ vào kính để nhân viên chú ý."),
+        ("Ms Lan", "Good idea, the window is too thick for shouting.", "Ý hay, cửa kính dày quá, hét cũng không nghe."),
+        ("Ms Priscilla", "Exactly, a light tap worked much better.", "Đúng vậy, gõ nhẹ hiệu quả hơn nhiều."),
+        # 43 getting attention politely before interrupting someone's story
+        ("Ms Lan", "Sorry to interrupt, but could I ask something quickly?", "Xin lỗi ngắt lời, nhưng tôi hỏi nhanh một chút được không?"),
+        ("Ms Priscilla", "Of course, go right ahead.", "Được chứ, chị cứ hỏi đi."),
+        ("Ms Lan", "Thank you, I did not want to be rude.", "Cảm ơn chị, tôi không muốn tỏ ra bất lịch sự."),
+        # 44 getting attention of someone wearing sunglasses and looking away
+        ("Ms Priscilla", "He had sunglasses on and was looking the other way, so I said his name twice.", "Anh ấy đeo kính râm và nhìn hướng khác nên tôi gọi tên anh ấy hai lần."),
+        ("Ms Lan", "Good thinking, that got his attention in the end.", "Nghĩ hay đấy, cuối cùng cũng khiến anh ấy chú ý."),
+        ("Ms Priscilla", "Yes, sometimes you just need to try twice.", "Đúng vậy, đôi khi phải thử hai lần mới được."),
     ],
 }

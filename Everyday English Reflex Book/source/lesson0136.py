@@ -196,7 +196,31 @@ LESSON_0136 = {
         ("Ms Lan", "Should our regular commute time be adjusted for the new schedule?", "Giờ đi lại thường lệ của mình có nên điều chỉnh cho lịch mới không vậy?"),
         ("Ms Hyacinth", "Yes, let us leave five minutes earlier from now on.", "Có, từ giờ mình đi sớm hơn năm phút."),
         ("Ms Lan", "Sounds good, I will remember that.", "Nghe được đấy, tôi sẽ nhớ điều đó."),
-        # 36 closing on why routine transport needs matter
+        # 36 if a mobile ticket QR code scans properly
+        ("Ms Hyacinth", "Does your mobile ticket QR code scan properly at the gate?", "Mã QR vé điện thoại của chị có quét được đúng ở cổng không vậy?"),
+        ("Ms Lan", "Yes, it worked perfectly this morning.", "Có, sáng nay hoạt động hoàn hảo."),
+        ("Ms Hyacinth", "Good, one less thing to worry about.", "Tốt, vậy đỡ lo một việc."),
+        # 37 if priority seating is available
+        ("Ms Lan", "Does this bus have priority seating available near the front?", "Xe buýt này có ghế ưu tiên gần phía trước không vậy?"),
+        ("Ms Hyacinth", "Yes, there are two seats reserved right there.", "Có, có hai ghế dành riêng ngay đó."),
+        ("Ms Lan", "Good, that is helpful to know.", "Tốt, biết vậy hữu ích đấy."),
+        # 38 if the night bus still runs this late
+        ("Ms Hyacinth", "Does the night bus service still run this late on weekdays?", "Chuyến xe buýt đêm ngày thường có còn chạy trễ vậy không vậy?"),
+        ("Ms Lan", "Yes, the last one leaves around midnight.", "Có, chuyến cuối chạy khoảng nửa đêm."),
+        ("Ms Hyacinth", "Good, that gives us plenty of time tonight.", "Tốt, vậy tối nay mình còn nhiều thời gian."),
+        # 39 if there is enough luggage space on the train
+        ("Ms Lan", "Is there enough luggage space on the train today?", "Hôm nay tàu có đủ chỗ để hành lý không vậy?"),
+        ("Ms Hyacinth", "Yes, the carriage looks fairly empty right now.", "Có, toa xe bây giờ trông khá vắng."),
+        ("Ms Lan", "Perfect, my suitcase will fit easily then.", "Hoàn hảo, vậy vali của tôi để vừa dễ dàng."),
+        # 40 if the real-time arrival board is working
+        ("Ms Hyacinth", "Is the real-time arrival board working at our stop today?", "Bảng hiển thị giờ đến thực tế ở trạm mình hôm nay có hoạt động không vậy?"),
+        ("Ms Lan", "Yes, it is showing the next bus in six minutes.", "Có, nó hiện chuyến xe buýt tiếp theo trong sáu phút."),
+        ("Ms Hyacinth", "Good, at least we know how long to wait.", "Tốt, ít ra mình biết phải chờ bao lâu."),
+        # 41 if a lost item was reported to the transport office
+        ("Ms Lan", "Did you report your lost umbrella to the transport office?", "Chị đã báo cây dù bị mất cho văn phòng giao thông chưa vậy?"),
+        ("Ms Hyacinth", "Yes, I filled out a form yesterday afternoon.", "Rồi, chiều qua tôi điền mẫu đơn rồi."),
+        ("Ms Lan", "Good, hopefully someone finds it soon.", "Tốt, mong sớm có người tìm thấy nó."),
+        # 42 closing on why routine transport needs matter
         ("Ms Hyacinth", "Why does keeping up with these routine transport needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu xe buýt thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our daily commute smooth and stress-free for both of us.", "Nó giúp chuyến đi hằng ngày của mình suôn sẻ và bớt căng thẳng cho cả hai."),
         ("Ms Hyacinth", "That is very true, a little planning really helps.", "Đúng vậy thật, lên kế hoạch một chút thật sự giúp ích."),

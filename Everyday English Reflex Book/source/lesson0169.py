@@ -197,7 +197,7 @@ LESSON_0169 = {
         ("Mr Bertrand", "Actually yes, I still cannot find the shampoo I usually buy.", "Thật ra là có, tôi vẫn chưa tìm ra loại dầu gội tôi hay mua."),
         ("Ms Lan", "Let us check the personal care aisle, it might be there.", "Mình qua dãy kệ chăm sóc cá nhân xem, có thể ở đó."),
         # 39 asking for a price check on an item with no tag
-        ("Mr Bertrand", "Could you help me? This jar of honey has no price tag at all.", "Chị giúp tôi với? Hũ mật ong này không có nhãn giá luôn."),
+        ("Mr Bertrand", "Could you help me with this jar of honey? It has no price tag at all.", "Chị giúp tôi với hũ mật ong này được không? Nó không có nhãn giá luôn."),
         ("Ms Lan", "Yes, let us ask the cashier to scan it for the price.", "Được, mình nhờ thu ngân quét mã để biết giá."),
         ("Mr Bertrand", "Good idea, she will know the exact price for sure.", "Ý hay đấy, chị ấy chắc biết chính xác giá luôn."),
         # 40 asking whether a jacket is in stock in a larger size

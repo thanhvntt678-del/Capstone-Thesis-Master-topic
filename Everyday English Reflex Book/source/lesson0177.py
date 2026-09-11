@@ -188,7 +188,31 @@ LESSON_0177 = {
         ("Ms Lan", "Could you help me understand the exam retake policy?", "Anh giúp tôi hiểu quy định thi lại được không?"),
         ("Mr Sebastian", "Yes, you can retake it once if you score below sixty.", "Được, chị có thể thi lại một lần nếu điểm dưới sáu mươi."),
         ("Ms Lan", "Good to know, that eases my worry a bit.", "Biết vậy cũng tốt, tôi đỡ lo hơn chút."),
-        # 36 closing on why asking for help with school & learning matters
+        # 36 preparing for a final presentation
+        ("Mr Sebastian", "Could you help me prepare for my final presentation next week?", "Chị giúp tôi chuẩn bị cho bài thuyết trình cuối kỳ tuần sau được không?"),
+        ("Ms Lan", "Yes, let us practice your opening line a few times.", "Được, mình luyện câu mở đầu vài lần nhé."),
+        ("Mr Sebastian", "Good, that always calms my nerves a little.", "Tốt, làm vậy luôn giúp tôi bớt hồi hộp."),
+        # 37 reciprocal - checking if a classmate needs help understanding a topic
+        ("Ms Lan", "Is there anything from today's lecture you are still unsure about?", "Có phần nào trong bài giảng hôm nay anh còn chưa chắc không?"),
+        ("Mr Sebastian", "Actually yes, the part about supply and demand confused me.", "Thật ra là có, phần cung và cầu làm tôi rối quá."),
+        ("Ms Lan", "Let us go over that section together right now.", "Mình cùng xem lại phần đó ngay bây giờ nhé."),
+        # 38 finding a missing pencil case
+        ("Mr Sebastian", "Could you help me find my pencil case? I cannot see it on my desk.", "Chị giúp tôi tìm hộp bút được không? Tôi không thấy nó trên bàn."),
+        ("Ms Lan", "Yes, it slipped down behind your backpack.", "Được, nó rơi xuống sau cặp sách của anh rồi."),
+        ("Mr Sebastian", "Found it, thank you for spotting that.", "Thấy rồi, cảm ơn chị đã tìm ra."),
+        # 39 understanding a plagiarism policy
+        ("Ms Lan", "Could you help me understand this plagiarism policy for the essay?", "Anh giúp tôi hiểu quy định đạo văn cho bài luận này được không?"),
+        ("Mr Sebastian", "Yes, you must credit any source you quote directly.", "Được, chị phải ghi nguồn cho bất kỳ đoạn nào trích dẫn trực tiếp."),
+        ("Ms Lan", "Good, I will add citations to my draft then.", "Tốt, vậy tôi sẽ thêm trích dẫn vào bản nháp."),
+        # 40 checking why the library Wi-Fi keeps disconnecting
+        ("Mr Sebastian", "Could you help me check why the library Wi-Fi keeps disconnecting?", "Chị giúp tôi xem vì sao wifi thư viện cứ bị ngắt không được không?"),
+        ("Ms Lan", "Yes, try switching to the guest network instead.", "Được, thử đổi sang mạng khách xem sao."),
+        ("Mr Sebastian", "Good, that connection seems much more stable now.", "Tốt, giờ kết nối có vẻ ổn định hơn nhiều."),
+        # 41 understanding how a group project grade gets split
+        ("Ms Lan", "Could you help me understand how the group project grade gets split between us?", "Anh giúp tôi hiểu điểm dự án nhóm sẽ chia sao giữa mọi người được không?"),
+        ("Mr Sebastian", "Yes, each member gets graded individually on their assigned part.", "Được, mỗi thành viên được chấm riêng theo phần mình phụ trách."),
+        ("Ms Lan", "Good, that makes the workload feel more fair.", "Tốt, vậy khối lượng công việc nghe công bằng hơn."),
+        # 42 closing on why asking for help with school & learning matters
         ("Mr Sebastian", "Why does asking for help with school and learning matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về học tập lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us understand faster and makes studying feel far less overwhelming.", "Nó giúp mình hiểu bài nhanh hơn và việc học bớt căng thẳng hơn nhiều."),
         ("Mr Sebastian", "That is very true, asking for help really does make learning so much easier.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp việc học dễ dàng hơn nhiều."),

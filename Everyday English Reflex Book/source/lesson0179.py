@@ -187,7 +187,31 @@ LESSON_0179 = {
         ("Ms Lan", "Could you help me find a working headset for this long call?", "Anh giúp tôi tìm tai nghe còn dùng được cho cuộc gọi dài này được không?"),
         ("Mr Reuben", "Yes, here is a spare one from my desk drawer.", "Được, đây là cái dự phòng trong ngăn bàn tôi."),
         ("Ms Lan", "Thank you, this one works perfectly.", "Cảm ơn anh, cái này dùng tốt lắm."),
-        # 36 closing on why asking for help with phone calls matters
+        # 36 reciprocal - offering help with a call before leaving
+        ("Mr Reuben", "Do you need any help with a call before I head out?", "Chị có cần tôi giúp gì với cuộc gọi nào trước khi tôi đi không?"),
+        ("Ms Lan", "Actually yes, could you double-check this number before I dial it?", "Thật ra là có, anh kiểm tra lại giúp số này trước khi tôi bấm gọi được không?"),
+        ("Mr Reuben", "Of course, let me read it back to you.", "Được chứ, để tôi đọc lại cho chị nghe."),
+        # 37 writing down a phone number spoken too quickly
+        ("Ms Lan", "Could you help me write down this number? He is speaking too fast for me.", "Anh giúp tôi ghi lại số này được không? Anh ấy nói nhanh quá tôi ghi không kịp."),
+        ("Mr Reuben", "Yes, I caught it, let me repeat it back slowly.", "Được, tôi nghe kịp rồi, để tôi đọc lại chậm cho chị."),
+        ("Ms Lan", "Good, that is exactly what I needed.", "Tốt, vậy đúng như tôi cần rồi."),
+        # 38 remembering to switch a phone to silent before a wedding
+        ("Mr Reuben", "Could you help me remember to switch my phone to silent before the wedding starts?", "Chị giúp tôi nhớ chuyển điện thoại sang chế độ im lặng trước khi đám cưới bắt đầu được không?"),
+        ("Ms Lan", "Yes, I will remind you right when we take our seats.", "Được, tôi sẽ nhắc anh ngay lúc mình ngồi vào chỗ."),
+        ("Mr Reuben", "Good, I do not want it ringing during the ceremony.", "Tốt, tôi không muốn nó reo lúc buổi lễ đang diễn ra."),
+        # 39 finding a message about rescheduling a call with the landlord
+        ("Ms Lan", "Could you help me find the message about rescheduling our call with the landlord?", "Anh giúp tôi tìm tin nhắn về việc dời cuộc gọi với chủ nhà được không?"),
+        ("Mr Reuben", "Yes, he sent it in our family chat this morning.", "Được, ông ấy gửi trong nhóm chat gia đình sáng nay."),
+        ("Ms Lan", "Found it, the new time works fine for me.", "Tìm ra rồi, giờ mới hợp với tôi lắm."),
+        # 40 fixing an echo during a call
+        ("Mr Reuben", "Could you help me figure out why there is an echo on this call?", "Chị giúp tôi tìm hiểu vì sao cuộc gọi này bị vọng âm được không?"),
+        ("Ms Lan", "Yes, try using your headset instead of the speaker.", "Được, thử dùng tai nghe thay vì loa ngoài xem."),
+        ("Mr Reuben", "Good, the echo is completely gone now.", "Tốt, giờ hết vọng âm hoàn toàn rồi."),
+        # 41 checking microphone permission for a video call app
+        ("Ms Lan", "Could you help me check why nobody can hear me on this video call?", "Anh giúp tôi xem vì sao không ai nghe được tôi trong cuộc gọi video này được không?"),
+        ("Mr Reuben", "Yes, the app needs microphone permission turned on in settings.", "Được, ứng dụng cần được cấp quyền micro trong phần cài đặt."),
+        ("Ms Lan", "Good, I can hear myself now, that fixed it.", "Tốt, giờ tôi nghe được giọng mình rồi, vậy là xong."),
+        # 42 closing on why asking for help with phone calls matters
         ("Mr Reuben", "Why does asking for help with phone calls matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về cuộc gọi điện thoại lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us connected to family and helps us solve small problems quickly.", "Nó giúp mình luôn kết nối với gia đình và giải quyết việc nhỏ nhanh hơn."),
         ("Mr Reuben", "That is very true, asking for help really does make every call go smoothly.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp mỗi cuộc gọi trôi chảy hơn."),

@@ -192,7 +192,31 @@ LESSON_0174 = {
         ("Ms Lan", "Could you help me find a safe route home now that it is dark?", "Chị giúp tôi tìm tuyến đường an toàn về nhà khi trời đã tối được không?"),
         ("Ms Temperance", "Yes, let us stick to the well-lit main roads tonight.", "Được, tối nay mình cứ đi theo đường chính sáng đèn."),
         ("Ms Lan", "Good, that feels much safer to me.", "Tốt, vậy tôi thấy an tâm hơn nhiều."),
-        # 36 closing on why asking for help with walking & getting around matters
+        # 36 finding your way back to the car after losing track of where it was parked
+        ("Ms Temperance", "Could you help me find our way back to the car? I have lost track of where we parked.", "Chị giúp tôi tìm đường về xe được không? Tôi quên mất mình đậu ở đâu rồi."),
+        ("Ms Lan", "Yes, we parked near the blue mailbox on Fifth Street.", "Được, mình đậu gần hộp thư màu xanh trên đường Fifth."),
+        ("Ms Temperance", "Good, I remember that mailbox now, this way then.", "Tốt, giờ tôi nhớ hộp thư đó rồi, vậy đi lối này."),
+        # 37 reciprocal - checking if a companion's feet are getting tired
+        ("Ms Lan", "Are your feet getting tired? We could sit down for a bit if you need to.", "Chân chị có mỏi không? Mình ngồi nghỉ một chút cũng được nếu cần."),
+        ("Ms Temperance", "Actually yes, my shoes are starting to rub a little.", "Thật ra là có, giày tôi bắt đầu cấn chân rồi."),
+        ("Ms Lan", "Then let us rest on that bench up ahead for a while.", "Vậy mình nghỉ ở ghế đằng trước một lát nhé."),
+        # 38 watching for a tripping hazard on the pavement
+        ("Ms Temperance", "Could you help me watch for uneven pavement ahead? I do not want to trip.", "Chị giúp tôi để ý vỉa hè gồ ghề phía trước được không? Tôi không muốn vấp ngã."),
+        ("Ms Lan", "Yes, there is a raised section right by that lamppost.", "Được, có đoạn gồ lên ngay gần cột đèn kia."),
+        ("Ms Temperance", "Thanks for the warning, I will step carefully there.", "Cảm ơn chị đã nhắc, tôi sẽ bước cẩn thận ở đó."),
+        # 39 finding a spot to refill a water bottle along a trail
+        ("Ms Lan", "Could you help me find a spot to refill my water bottle along this trail?", "Chị giúp tôi tìm chỗ đổ đầy bình nước dọc đường mòn này được không?"),
+        ("Ms Temperance", "Yes, there is a refill station near the visitor centre.", "Được, có trạm bơm nước gần trung tâm du khách đó."),
+        ("Ms Lan", "Good, I will fill it up before we continue walking.", "Tốt, tôi đổ đầy trước khi mình đi tiếp."),
+        # 40 estimating how far they have already walked
+        ("Ms Temperance", "Could you help me figure out how far we have already walked today?", "Chị giúp tôi tính xem hôm nay mình đi bộ được bao xa rồi được không?"),
+        ("Ms Lan", "Yes, according to my phone, about six kilometres so far.", "Được, theo điện thoại của tôi thì khoảng sáu cây số rồi."),
+        ("Ms Temperance", "Good, that explains why my legs feel so tired now.", "Tốt, vậy giải thích được vì sao chân tôi mỏi thế này."),
+        # 41 finding somewhere warm on a cold walk
+        ("Ms Lan", "Could you help me find somewhere warm? My hands are freezing on this walk.", "Chị giúp tôi tìm chỗ ấm được không? Tay tôi lạnh cóng trên đường đi này rồi."),
+        ("Ms Temperance", "Yes, that little cafe on the corner should still be open.", "Được, quán cà phê nhỏ ở góc phố chắc vẫn còn mở."),
+        ("Ms Lan", "Perfect, let us duck in there for a few minutes.", "Tuyệt vời, mình ghé vào đó vài phút nhé."),
+        # 42 closing on why asking for help with walking & getting around matters
         ("Ms Temperance", "Why does asking for help with walking and getting around matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về đi bộ và di chuyển lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us safe, saves time, and makes every walk far more enjoyable.", "Nó giúp mình an toàn, tiết kiệm thời gian, và làm mỗi chuyến đi bộ thú vị hơn nhiều."),
         ("Ms Temperance", "That is very true, asking for help really does make getting around so much smoother.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp việc di chuyển trôi chảy hơn nhiều."),

@@ -194,7 +194,27 @@ LESSON_0156 = {
         ("Ms Lan", "Can you check if the walking bridge ahead charges a toll?", "Chị kiểm tra giúp cầu đi bộ phía trước có thu phí không được không?"),
         ("Ms Genevieve", "No, it is completely free to cross.", "Không, qua cầu hoàn toàn miễn phí."),
         ("Ms Lan", "Good, that is one less thing to plan for.", "Tốt, vậy khỏi cần chuẩn bị thêm gì."),
-        # 36 closing on why checking walking details matters
+        # 36 checking the weather before finishing the walk
+        ("Ms Lan", "Can you check if it will rain before we finish our walk?", "Chị kiểm tra giúp trước khi mình đi bộ xong trời có mưa không được không?"),
+        ("Ms Genevieve", "No, the forecast says it stays dry until evening.", "Không, dự báo nói trời khô ráo tới tối."),
+        ("Ms Lan", "Good, then we do not need an umbrella.", "Tốt, vậy khỏi cần mang dù."),
+        # 37 checking if the footwear suits the route
+        ("Ms Genevieve", "Can you check if these sandals are okay for this walk?", "Bạn kiểm tra giúp dép này có ổn cho chuyến đi bộ này không được không?"),
+        ("Ms Lan", "Not really, the trail is rocky in a few places.", "Không hẳn, đường mòn có vài đoạn sỏi đá."),
+        ("Ms Genevieve", "Good thing you checked, I will change my shoes.", "May mà bạn kiểm tra, tôi đổi giày khác."),
+        # 38 checking the remaining distance mid-walk
+        ("Ms Lan", "Can you check how much farther we have left to go?", "Chị kiểm tra giúp mình còn phải đi bao xa nữa được không?"),
+        ("Ms Genevieve", "Yes, the app shows about ten more minutes.", "Được, ứng dụng hiện còn khoảng mười phút nữa."),
+        ("Ms Lan", "Good, my feet can manage that.", "Tốt, chân tôi vẫn chịu được."),
+        # 39 checking for a place to rest a tired companion
+        ("Ms Genevieve", "Can you check if there is somewhere close to sit down? My feet are tired.", "Bạn kiểm tra giúp gần đây có chỗ ngồi nghỉ không? Chân tôi mỏi quá."),
+        ("Ms Lan", "Yes, there is a bench just around this corner.", "Được, có một ghế ngay khúc quanh này."),
+        ("Ms Genevieve", "Perfect, let us rest there for a minute.", "Hoàn hảo, mình nghỉ ở đó một chút."),
+        # 40 checking if walking poles are allowed
+        ("Ms Lan", "Can you check if walking poles are allowed on this trail?", "Chị kiểm tra giúp đường mòn này có cho dùng gậy đi bộ không được không?"),
+        ("Ms Genevieve", "Yes, poles are welcome, many hikers use them.", "Được, gậy đi bộ được chào đón, nhiều người leo núi dùng lắm."),
+        ("Ms Lan", "Good, I will bring mine next time.", "Tốt, lần sau tôi mang gậy theo."),
+        # 41 closing on why checking walking details matters
         ("Ms Genevieve", "Why does checking these walking details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết đi bộ này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us safe and helps our walk feel smooth without any unpleasant surprises.", "Nó giúp mình an toàn và làm chuyến đi bộ trôi chảy mà không gặp bất ngờ khó chịu nào."),
         ("Ms Genevieve", "That is very true, checking first really does make every walk more pleasant.", "Đúng vậy thật, kiểm tra trước thật sự giúp mỗi chuyến đi bộ thêm dễ chịu."),

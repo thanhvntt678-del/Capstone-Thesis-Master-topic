@@ -206,7 +206,31 @@ LESSON_0139 = {
         ("Ms Lan", "Does our regular family outing depend on tomorrow's forecast?", "Chuyến đi chơi gia đình thường lệ của mình có phụ thuộc vào dự báo ngày mai không vậy?"),
         ("Mr Osbert", "Yes, we will decide once we see the morning report.", "Có, mình sẽ quyết định sau khi xem báo cáo buổi sáng."),
         ("Ms Lan", "Sounds sensible, let us wait and see.", "Nghe hợp lý đấy, mình chờ xem sao."),
-        # 36 closing on why routine weather needs matter
+        # 36 if a storm warning alert was received
+        ("Mr Osbert", "Did you receive the storm warning alert on your phone?", "Chị có nhận được cảnh báo bão trên điện thoại không vậy?"),
+        ("Ms Lan", "Yes, it came through about an hour ago.", "Có, khoảng một tiếng trước nó tới."),
+        ("Mr Osbert", "Good, we should bring the plants inside then.", "Tốt, vậy mình mang cây vào trong đi."),
+        # 37 if today's UV index is high enough for extra sunscreen
+        ("Ms Lan", "Is today's UV index high enough for extra sunscreen?", "Chỉ số UV hôm nay có cao đủ để cần bôi thêm kem chống nắng không vậy?"),
+        ("Mr Osbert", "Yes, the app shows it quite high this afternoon.", "Có, chiều nay ứng dụng hiện khá cao."),
+        ("Ms Lan", "Good to know, I will reapply before we go out.", "Biết vậy tốt rồi, tôi sẽ bôi lại trước khi mình ra ngoài."),
+        # 38 if a scheduled outdoor delivery needs rescheduling for weather
+        ("Mr Osbert", "Does our scheduled outdoor delivery need rescheduling because of the storm?", "Chuyến giao hàng ngoài trời đã lên lịch của mình có cần dời vì cơn bão không vậy?"),
+        ("Ms Lan", "Yes, let us move it to tomorrow instead.", "Có, mình dời sang mai thay vào đi."),
+        ("Mr Osbert", "Good idea, I will contact them now.", "Ý hay, tôi liên hệ họ ngay."),
+        # 39 if the wind is too strong for flying kites with the kids
+        ("Ms Lan", "Is the wind too strong for flying kites with the kids today?", "Hôm nay gió có mạnh quá để thả diều với bọn trẻ không vậy?"),
+        ("Mr Osbert", "Yes, maybe we should wait for a calmer day.", "Có, chắc mình nên chờ ngày lặng gió hơn."),
+        ("Ms Lan", "Good call, they will understand.", "Nhắc hay đấy, bọn trẻ sẽ hiểu thôi."),
+        # 40 if the dehumidifier is needed today
+        ("Mr Osbert", "Do we need the dehumidifier running today?", "Hôm nay mình có cần bật máy hút ẩm không vậy?"),
+        ("Ms Lan", "Yes, the air inside feels quite damp.", "Có, không khí trong nhà cảm giác khá ẩm."),
+        ("Mr Osbert", "I will switch it on right now then.", "Vậy tôi bật ngay bây giờ."),
+        # 41 if today is good weather for airing out the house
+        ("Ms Lan", "Is today good weather for airing out the house?", "Hôm nay thời tiết có tốt để mở cửa thoáng khí nhà không vậy?"),
+        ("Mr Osbert", "Yes, it is mild with a gentle breeze.", "Có, trời dịu và có gió nhẹ."),
+        ("Ms Lan", "Perfect, let us open all the windows then.", "Hoàn hảo, mình mở hết cửa sổ đi."),
+        # 42 closing on why routine weather needs matter
         ("Mr Osbert", "Why does keeping up with these routine weather needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu thời tiết thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us plan every part of the day without any unpleasant surprises.", "Nó giúp mình lên kế hoạch mọi phần trong ngày mà không gặp bất ngờ khó chịu nào."),
         ("Mr Osbert", "That is very true, checking ahead really saves us trouble.", "Đúng vậy thật, kiểm tra trước thật sự giúp tránh rắc rối."),

@@ -199,7 +199,31 @@ LESSON_0137 = {
         ("Ms Lan", "Does the app show any current service delays in our area?", "Ứng dụng có hiện chậm trễ dịch vụ hiện tại ở khu mình không vậy?"),
         ("Mr Torvald", "No, everything looks normal right now.", "Không, mọi thứ hiện trông bình thường."),
         ("Ms Lan", "Good, we can book without worry then.", "Tốt, vậy mình đặt xe không cần lo."),
-        # 36 closing on why routine taxi needs matter
+        # 36 if a car seat for a child can be requested
+        ("Mr Torvald", "Can we request a car seat for your niece on this ride?", "Mình có thể yêu cầu ghế ngồi trẻ em cho cháu gái chị trong chuyến này không vậy?"),
+        ("Ms Lan", "Yes, there is an option for that in the app.", "Có, ứng dụng có tùy chọn đó."),
+        ("Mr Torvald", "Good, let us select it before booking.", "Tốt, mình chọn trước khi đặt xe đi."),
+        # 37 if a ride can accommodate a large dog
+        ("Ms Lan", "Can this ride option accommodate your large dog comfortably?", "Loại xe này có đủ chỗ thoải mái cho con chó lớn của anh không vậy?"),
+        ("Mr Torvald", "Yes, I chose the bigger vehicle just for him.", "Có, tôi chọn xe lớn hơn riêng cho nó."),
+        ("Ms Lan", "Good thinking, he will have plenty of room.", "Nghĩ hay đấy, vậy nó sẽ có nhiều chỗ."),
+        # 38 if a driver accepts cash as backup payment
+        ("Mr Torvald", "Does this driver accept cash as a backup payment method?", "Tài xế này có nhận tiền mặt làm phương thức thanh toán dự phòng không vậy?"),
+        ("Ms Lan", "Yes, the app shows both options listed.", "Có, ứng dụng hiện cả hai lựa chọn."),
+        ("Mr Torvald", "Good, useful to know just in case.", "Tốt, biết vậy hữu ích phòng khi cần."),
+        # 39 if a scheduled ride notification arrived on time
+        ("Ms Lan", "Did the scheduled ride notification arrive on your phone on time?", "Thông báo chuyến đi đã lên lịch có tới điện thoại anh đúng giờ không vậy?"),
+        ("Mr Torvald", "Yes, it buzzed right when it was supposed to.", "Có, nó rung ngay đúng lúc dự kiến."),
+        ("Ms Lan", "Perfect, that gave us enough warning.", "Hoàn hảo, vậy mình có đủ thời gian chuẩn bị."),
+        # 40 if a fare can be split three ways
+        ("Mr Torvald", "Can this fare be split three ways instead of just two?", "Tiền cước này có thể chia ba thay vì chỉ hai không vậy?"),
+        ("Ms Lan", "Yes, the app allows adding a third rider now.", "Có, giờ ứng dụng cho thêm người thứ ba rồi."),
+        ("Mr Torvald", "Great, let us add your sister then.", "Tốt, vậy mình thêm em gái chị vào."),
+        # 41 if a wait-and-return trip can be booked
+        ("Ms Lan", "Can we book a wait-and-return trip for this quick errand?", "Mình có thể đặt chuyến chờ và quay lại cho việc vặt nhanh này không vậy?"),
+        ("Mr Torvald", "Yes, that option keeps the same driver waiting.", "Có, tùy chọn đó giữ cùng tài xế chờ mình."),
+        ("Ms Lan", "Perfect, that will save us time overall.", "Hoàn hảo, vậy sẽ tiết kiệm thời gian hơn."),
+        # 42 closing on why routine taxi needs matter
         ("Mr Torvald", "Why does keeping up with these routine ride needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu đặt xe thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our daily travel smooth and saves us both time and money.", "Nó giúp việc di chuyển hằng ngày của mình suôn sẻ và tiết kiệm cả thời gian lẫn tiền bạc."),
         ("Mr Torvald", "That is very true, a little checking really pays off.", "Đúng vậy thật, kiểm tra một chút thật sự có ích."),

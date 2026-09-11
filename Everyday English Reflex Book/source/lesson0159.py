@@ -194,7 +194,27 @@ LESSON_0159 = {
         ("Ms Lan", "Can you check if the orientation schedule was posted yet?", "Anh kiểm tra giúp lịch định hướng đã đăng chưa được không?"),
         ("Mr Sylvester", "Yes, it went up on the school website today.", "Rồi, hôm nay đã đăng lên trang web trường."),
         ("Ms Lan", "Good, I will check the times now.", "Tốt, tôi xem giờ giấc ngay."),
-        # 36 closing on why checking school details matters
+        # 36 checking if the child forgot something at school
+        ("Ms Lan", "Can you check if our son left his water bottle at school again?", "Anh kiểm tra giúp con trai mình có để quên bình nước ở trường lần nữa không được không?"),
+        ("Mr Sylvester", "Yes, he did, it is the second time this week.", "Có, con quên thật, lần thứ hai trong tuần rồi."),
+        ("Ms Lan", "Good thing you checked, I will remind him tonight.", "May mà anh kiểm tra, tối nay tôi sẽ nhắc con."),
+        # 37 checking the pickup arrangement for today
+        ("Mr Sylvester", "Can you check who is picking up the kids today, you or me?", "Bạn kiểm tra giúp hôm nay ai đón các con, bạn hay tôi được không?"),
+        ("Ms Lan", "I am picking them up today, you did it yesterday.", "Hôm nay tôi đón, hôm qua anh đón rồi."),
+        ("Mr Sylvester", "Good, that helps me plan my afternoon.", "Tốt, vậy giúp tôi sắp xếp buổi chiều."),
+        # 38 checking if the child needs help with homework
+        ("Ms Lan", "Can you check if he needs any help with tonight's homework?", "Anh kiểm tra giúp tối nay con có cần giúp bài tập không được không?"),
+        ("Mr Sylvester", "Yes, he asked for help with the math questions.", "Có, con nhờ giúp mấy câu toán."),
+        ("Ms Lan", "Good, I will sit with him after dinner.", "Tốt, sau bữa tối tôi sẽ ngồi cùng con."),
+        # 39 checking how the school day went
+        ("Mr Sylvester", "Can you check how his day at school went today?", "Bạn kiểm tra giúp hôm nay con đi học thế nào được không?"),
+        ("Ms Lan", "Yes, he said it went well, and he made a new friend.", "Có, con nói vui lắm, còn kết bạn mới nữa."),
+        ("Mr Sylvester", "Wonderful, that is lovely to hear.", "Tuyệt quá, nghe vậy vui thật."),
+        # 40 checking if a form needs both parents' signatures
+        ("Ms Lan", "Can you check if this form needs both our signatures?", "Anh kiểm tra giúp tờ đơn này có cần cả hai chữ ký của mình không được không?"),
+        ("Mr Sylvester", "Yes, it needs both parents to sign.", "Có, cần cả hai phụ huynh ký."),
+        ("Ms Lan", "Good, I will sign it right after you.", "Tốt, tôi ký ngay sau anh."),
+        # 41 closing on why checking school details matters
         ("Mr Sylvester", "Why does checking these school details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết học hành này lại quan trọng đến thế?"),
         ("Ms Lan", "It helps our children stay prepared and keeps us from missing anything important.", "Nó giúp con mình luôn chuẩn bị sẵn sàng và tránh bỏ sót điều gì quan trọng."),
         ("Mr Sylvester", "That is very true, checking first really does make school life easier for everyone.", "Đúng vậy thật, kiểm tra trước thật sự giúp việc học dễ dàng hơn cho mọi người."),

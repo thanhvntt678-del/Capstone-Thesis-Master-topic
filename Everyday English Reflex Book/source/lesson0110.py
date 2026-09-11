@@ -185,7 +185,39 @@ LESSON_0110 = {
         ("Ms Lan", "What should I say greeting the security guard at the entrance?", "Nên nói gì khi chào bảo vệ ở cổng vào?"),
         ("Ms Beatrice", "A polite good morning as you walk past is enough.", "Một câu good morning lịch sự khi đi ngang qua là đủ."),
         ("Ms Lan", "Simple and respectful, thank you.", "Đơn giản mà tôn trọng, cảm ơn chị."),
-        # 36 greeting a postal worker, closing on why greetings matter
+        # 36 greeting a landlord on move-in day
+        ("Ms Lan", "How should I greet my landlord on move-in day?", "Tôi nên chào chủ nhà thế nào vào ngày dọn vào?"),
+        ("Ms Beatrice", "A polite hello along with a handshake works nicely.", "Một câu hello lịch sự kèm cái bắt tay là hợp."),
+        ("Ms Lan", "That sounds like a good first impression.", "Nghe như một ấn tượng đầu tốt đấy."),
+        # 37 greeting a barista ordering coffee
+        ("Ms Beatrice", "What is a friendly way to greet the barista each morning?", "Cách chào nhân viên pha cà phê mỗi sáng sao cho thân thiện?"),
+        ("Ms Lan", "A cheerful good morning before ordering feels natural.", "Một câu good morning vui vẻ trước khi gọi món là tự nhiên."),
+        ("Ms Beatrice", "I will try that at my usual café.", "Tôi sẽ thử ở quán cà phê quen của mình."),
+        # 38 greeting through a car window at a drive-through
+        ("Ms Lan", "How do people usually greet someone through a car window?", "Mọi người thường chào ai đó qua cửa sổ xe hơi thế nào?"),
+        ("Ms Beatrice", "A quick hello before placing your order is common.", "Một câu hello nhanh trước khi gọi món là phổ biến."),
+        ("Ms Lan", "Short and simple, easy to remember.", "Ngắn gọn và đơn giản, dễ nhớ."),
+        # 39 greeting while jogging past a neighbour
+        ("Ms Beatrice", "What do joggers usually say when passing a neighbour?", "Người chạy bộ thường nói gì khi chạy ngang qua hàng xóm?"),
+        ("Ms Lan", "Often just a quick hi with a wave works.", "Thường chỉ cần một câu hi nhanh kèm vẫy tay."),
+        ("Ms Beatrice", "That is easy even when out of breath.", "Vậy dễ thôi ngay cả khi đang thở hổn hển."),
+        # 40 greeting a substitute teacher
+        ("Ms Lan", "How should my child greet a substitute teacher today?", "Con tôi nên chào giáo viên dạy thay hôm nay thế nào?"),
+        ("Ms Beatrice", "A respectful good morning, teacher is always appropriate.", "Một câu good morning, teacher lễ phép luôn phù hợp."),
+        ("Ms Lan", "That should make a good impression.", "Vậy chắc sẽ tạo ấn tượng tốt."),
+        # 41 greeting an online customer support agent
+        ("Ms Beatrice", "What is polite to type first to an online support agent?", "Nên gõ gì lịch sự trước tiên cho nhân viên hỗ trợ trực tuyến?"),
+        ("Ms Lan", "Typing hello before your question is a nice start.", "Gõ hello trước khi hỏi là một khởi đầu tốt."),
+        ("Ms Beatrice", "I always forget to do that.", "Tôi hay quên làm vậy lắm."),
+        # 42 greeting family members quietly at a funeral
+        ("Ms Lan", "How should I greet family members quietly at a funeral?", "Tôi nên chào người thân một cách lặng lẽ ở đám tang thế nào?"),
+        ("Ms Beatrice", "A soft I am so sorry along with a gentle hello works.", "Một câu I am so sorry nhẹ nhàng kèm hello nhỏ là hợp."),
+        ("Ms Lan", "That feels respectful and warm at the same time.", "Vậy vừa trang trọng vừa ấm áp."),
+        # 43 greeting a food delivery rider at the gate
+        ("Ms Beatrice", "What should I say greeting a food delivery rider at the gate?", "Tôi nên nói gì khi chào người giao đồ ăn ở cổng?"),
+        ("Ms Lan", "A quick hello along with thank you feels right.", "Một câu hello nhanh kèm thank you là hợp."),
+        ("Ms Beatrice", "Short and appreciative, I like that.", "Ngắn gọn mà trân trọng, tôi thích vậy."),
+        # 44 greeting a postal worker, closing on why greetings matter
         ("Ms Beatrice", "And why does saying hello properly matter so much anyway?", "Vậy vì sao chào hỏi đúng cách lại quan trọng đến thế?"),
         ("Ms Lan", "A warm greeting starts every conversation off on the right foot.", "Một lời chào ấm áp giúp mọi cuộc trò chuyện bắt đầu suôn sẻ."),
         ("Ms Beatrice", "That is very true, small words really do matter.", "Đúng vậy thật, những lời nhỏ thật sự có ý nghĩa lớn."),

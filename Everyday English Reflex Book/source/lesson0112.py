@@ -185,7 +185,39 @@ LESSON_0112 = {
         ("Ms Lan", "Which room would work best as a home office?", "Phòng nào hợp nhất để làm văn phòng tại nhà?"),
         ("Ms Prudence", "The small spare room could work perfectly.", "Phòng trống nhỏ có thể rất hợp."),
         ("Ms Lan", "That sounds like a great idea.", "Nghe là một ý tưởng hay đấy."),
-        # 36 closing on why knowing rooms matters
+        # 36 which room the main trash bin is kept in
+        ("Ms Lan", "Which room do you keep the main trash bin in?", "Chị để thùng rác chính ở phòng nào?"),
+        ("Ms Prudence", "It is kept in the kitchen by the door.", "Nó để trong bếp, gần cửa."),
+        ("Ms Lan", "That makes it easy to empty often.", "Vậy dễ đổ thường xuyên."),
+        # 37 which room a sewing machine sits in
+        ("Ms Prudence", "Which room do you keep your sewing machine in?", "Máy may của chị để ở phòng nào?"),
+        ("Ms Lan", "It sits in the study by the window.", "Nó để ở phòng học, cạnh cửa sổ."),
+        ("Ms Prudence", "That must get good light for sewing.", "Chắc chỗ đó đủ sáng để may."),
+        # 38 which room guest towels are kept in
+        ("Ms Lan", "Which room are the guest towels kept in?", "Khăn tắm cho khách để ở phòng nào?"),
+        ("Ms Prudence", "They are folded in the closet in the guest room.", "Chúng được gấp gọn trong tủ ở phòng khách ngủ."),
+        ("Ms Lan", "Perfect, guests will always have a fresh one.", "Hoàn hảo, khách lúc nào cũng có khăn sạch."),
+        # 39 which room the thermostat control is mounted in
+        ("Ms Prudence", "Which room is the thermostat control mounted in?", "Bộ điều khiển nhiệt độ gắn ở phòng nào?"),
+        ("Ms Lan", "It is mounted in the hallway near the kitchen.", "Nó gắn ở hành lang gần bếp."),
+        ("Ms Prudence", "Easy to reach for everyone in the house.", "Vậy tiện cho cả nhà điều chỉnh."),
+        # 40 which room a treadmill is set up in
+        ("Ms Lan", "Which room did you set up your treadmill in?", "Chị đặt máy chạy bộ ở phòng nào?"),
+        ("Ms Prudence", "I set it up in the small spare room.", "Tôi đặt ở phòng trống nhỏ."),
+        ("Ms Lan", "That is a great use of that space.", "Vậy tận dụng không gian đó khéo lắm."),
+        # 41 which room luggage is stored in
+        ("Ms Prudence", "Which room do you store your luggage in?", "Vali của chị để ở phòng nào?"),
+        ("Ms Lan", "It is stored on top of the closet in the bedroom.", "Nó để trên nóc tủ trong phòng ngủ."),
+        ("Ms Prudence", "That is a smart spot before a trip.", "Chỗ đó khéo thật trước một chuyến đi."),
+        # 42 which room a fish tank sits in
+        ("Ms Lan", "Which room did you put the new fish tank in?", "Chị đặt bể cá mới ở phòng nào?"),
+        ("Ms Prudence", "I put it in the living room by the shelf.", "Tôi đặt ở phòng khách, cạnh kệ."),
+        ("Ms Lan", "That must look so calming there.", "Chắc để ở đó trông thư giãn lắm."),
+        # 43 which room needs a smoke detector battery changed
+        ("Ms Prudence", "Which room needs its smoke detector battery changed?", "Phòng nào cần thay pin báo khói?"),
+        ("Ms Lan", "The one in the kitchen keeps beeping.", "Cái trong bếp cứ kêu bíp bíp."),
+        ("Ms Prudence", "Let us change that battery today then.", "Vậy hôm nay mình thay pin đó đi."),
+        # 44 closing on why knowing rooms matters
         ("Ms Prudence", "Why does knowing every room in a home matter so much anyway?", "Vậy vì sao biết rõ từng phòng trong nhà lại quan trọng đến thế?"),
         ("Ms Lan", "It helps everyone find things quickly and feel at home.", "Nó giúp mọi người tìm đồ nhanh và cảm thấy như ở nhà mình."),
         ("Ms Prudence", "That is very true, thank you for explaining it all.", "Đúng vậy thật, cảm ơn chị đã giải thích hết."),

@@ -190,7 +190,27 @@ LESSON_0158 = {
         ("Ms Lan", "Can you check if the schedule for tomorrow is confirmed?", "Chị kiểm tra giúp lịch trình ngày mai đã xác nhận chưa được không?"),
         ("Ms Marcella", "Yes, everything is confirmed and set.", "Rồi, mọi thứ đã xác nhận và sẵn sàng."),
         ("Ms Lan", "Good, ready for tomorrow then.", "Tốt, vậy sẵn sàng cho ngày mai rồi."),
-        # 36 closing on why checking daily routine details matters
+        # 36 checking whose turn it is for a shared chore
+        ("Ms Lan", "Can you check whose turn it is to take out the trash this week?", "Chị kiểm tra giúp tuần này tới lượt ai mang rác ra được không?"),
+        ("Ms Marcella", "Yes, it is my turn this week, not yours.", "Đúng rồi, tuần này tới lượt tôi, không phải bạn."),
+        ("Ms Lan", "Good, I will remember for next week then.", "Tốt, tuần sau tôi sẽ nhớ."),
+        # 37 discovering a forgotten task urgently
+        ("Ms Marcella", "Can you check if we forgot to turn off the iron this morning?", "Bạn kiểm tra giúp sáng nay mình có quên tắt bàn ủi không được không?"),
+        ("Ms Lan", "Oh no, I think we did forget it, let me check now.", "Ôi không, chắc mình quên thật rồi, để tôi kiểm tra ngay."),
+        ("Ms Marcella", "Good, hurry, better safe than sorry.", "Tốt, nhanh lên, cẩn thận vẫn hơn."),
+        # 38 checking a weekly routine pattern
+        ("Ms Lan", "Can you check which day we usually clean the bathroom?", "Chị kiểm tra giúp mình thường dọn nhà tắm vào ngày nào được không?"),
+        ("Ms Marcella", "We usually clean it every Saturday morning.", "Mình thường dọn vào sáng thứ Bảy."),
+        ("Ms Lan", "Good, that means today is the day then.", "Tốt, vậy hôm nay đúng ngày rồi."),
+        # 39 swapping a chore for the week
+        ("Ms Marcella", "Can you check if we can swap chores this week? I am busy on Friday.", "Bạn kiểm tra giúp tuần này mình đổi việc nhà được không? Thứ Sáu tôi bận."),
+        ("Ms Lan", "Yes, that is fine, I will do the laundry instead.", "Được chứ, không sao, tôi giặt đồ thay bạn."),
+        ("Ms Marcella", "Thank you, I really appreciate that.", "Cảm ơn bạn, tôi cảm kích lắm."),
+        # 40 checking a routine reminder notification
+        ("Ms Lan", "Can you check if the routine reminder app sent tonight's notification?", "Chị kiểm tra giúp ứng dụng nhắc việc tối nay đã gửi thông báo chưa được không?"),
+        ("Ms Marcella", "Yes, it buzzed on my phone a few minutes ago.", "Rồi, vài phút trước điện thoại tôi rung rồi."),
+        ("Ms Lan", "Good, then we are on track for tonight.", "Tốt, vậy tối nay mình đang đúng kế hoạch."),
+        # 41 closing on why checking daily routine details matters
         ("Ms Marcella", "Why does checking these daily routine details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết sinh hoạt hằng ngày này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our home running smoothly and prevents small things from turning into problems.", "Nó giúp nhà mình vận hành trôi chảy và ngăn những việc nhỏ biến thành rắc rối."),
         ("Ms Marcella", "That is very true, checking first really does give us peace of mind.", "Đúng vậy thật, kiểm tra trước thật sự giúp mình yên tâm hơn."),

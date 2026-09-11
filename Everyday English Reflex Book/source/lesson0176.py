@@ -186,7 +186,31 @@ LESSON_0176 = {
         ("Ms Lan", "Could you help me plan our chores for this weekend?", "Chị giúp tôi lên kế hoạch việc nhà cuối tuần này được không?"),
         ("Ms Honoria", "Yes, let us split the list so it does not feel like too much.", "Được, mình chia danh sách ra để đỡ thấy nhiều việc quá."),
         ("Ms Lan", "Good, that sounds much more manageable.", "Tốt, vậy nghe dễ thở hơn nhiều."),
-        # 36 closing on why asking for help with daily routines matters
+        # 36 remembering to check the mailbox
+        ("Ms Honoria", "Could you help me remember to check the mailbox this afternoon?", "Chị giúp tôi nhớ kiểm tra hộp thư chiều nay được không?"),
+        ("Ms Lan", "Yes, I will grab the mail on my way back from work.", "Được, tôi lấy thư trên đường về từ chỗ làm."),
+        ("Ms Honoria", "Thanks, we are expecting an important letter today.", "Cảm ơn chị, hôm nay mình đang chờ một lá thư quan trọng."),
+        # 37 reciprocal - checking on things before bed
+        ("Ms Lan", "Do you need help with anything else before we turn in for the night?", "Chị có cần tôi giúp gì thêm trước khi mình đi ngủ không?"),
+        ("Ms Honoria", "Actually yes, could you double-check that the stove is off?", "Thật ra là có, chị kiểm tra lại giúp xem bếp đã tắt chưa?"),
+        ("Ms Lan", "Of course, let me go check it right now.", "Được chứ, để tôi đi kiểm tra ngay đây."),
+        # 38 remembering to move meat from the freezer to thaw
+        ("Ms Honoria", "Could you help me remember to take the chicken out of the freezer this morning?", "Chị giúp tôi nhớ lấy thịt gà ra khỏi tủ đông sáng nay được không?"),
+        ("Ms Lan", "Yes, I already moved it to the fridge to thaw.", "Được, tôi đã chuyển nó vào tủ lạnh để rã đông rồi."),
+        ("Ms Honoria", "Great, that saves me from forgetting it again.", "Tuyệt, vậy đỡ cho tôi lại quên lần nữa."),
+        # 39 remembering to water the herbs on the windowsill
+        ("Ms Lan", "Could you help me remember to water the herbs on the windowsill?", "Chị giúp tôi nhớ tưới mấy chậu rau thơm trên bệ cửa sổ được không?"),
+        ("Ms Honoria", "Yes, I will give them a little water after breakfast.", "Được, tôi sẽ tưới chút nước sau bữa sáng."),
+        ("Ms Lan", "Good, the basil was looking a bit dry yesterday.", "Tốt, hôm qua chậu húng quế trông hơi khô rồi."),
+        # 40 remembering to restock the first aid kit
+        ("Ms Honoria", "Could you help me remember to restock our first aid kit this week?", "Chị giúp tôi nhớ bổ sung hộp sơ cứu tuần này được không?"),
+        ("Ms Lan", "Yes, I will pick up bandages at the pharmacy today.", "Được, hôm nay tôi mua băng gạc ở nhà thuốc."),
+        ("Ms Honoria", "Thank you, ours has been almost empty for a while.", "Cảm ơn chị, hộp của mình gần hết đồ lâu rồi."),
+        # 41 deciding whose turn it is to take out the recycling
+        ("Ms Lan", "Could you help me figure out whose turn it is to take out the recycling?", "Chị giúp tôi xem tới lượt ai đổ rác tái chế được không?"),
+        ("Ms Honoria", "Yes, it is my turn this week, I will handle it.", "Được, tuần này tới lượt tôi, tôi lo việc đó."),
+        ("Ms Lan", "Good, that keeps the schedule fair for both of us.", "Tốt, vậy lịch phân công công bằng cho cả hai."),
+        # 42 closing on why asking for help with daily routines matters
         ("Ms Honoria", "Why does asking for help with daily routines matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về thói quen hằng ngày lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our home running smoothly and makes sure nothing important gets forgotten.", "Nó giúp nhà mình vận hành trơn tru và không bỏ sót việc gì quan trọng."),
         ("Ms Honoria", "That is very true, asking for help really does make daily life so much lighter.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp cuộc sống hằng ngày nhẹ nhàng hơn nhiều."),

@@ -199,7 +199,31 @@ LESSON_0135 = {
         ("Ms Lan", "Does our usual route avoid the closed road today?", "Tuyến đường quen của mình hôm nay có tránh được con đường đóng không?"),
         ("Mr Anselm", "Yes, we just need one small detour.", "Có, chỉ cần đi vòng một chút."),
         ("Ms Lan", "Good, that should not add much time.", "Tốt, vậy sẽ không mất nhiều thời gian thêm."),
-        # 36 closing on why routine neighbourhood needs matter
+        # 36 if a routine visit to the barber is due
+        ("Mr Anselm", "Is a routine visit to the barber nearby due for you soon?", "Sắp tới hạn ghé tiệm cắt tóc gần đây thường lệ cho chị chưa vậy?"),
+        ("Ms Lan", "Yes, my hair could use a trim this week.", "Có, tuần này tóc tôi cần tỉa rồi."),
+        ("Mr Anselm", "Good, he usually has an opening on Tuesdays.", "Tốt, anh ấy thường có lịch trống vào thứ Ba."),
+        # 37 if a community car park permit needs renewing
+        ("Ms Lan", "Does our community car park permit need renewing this month?", "Giấy phép đậu xe khu phố của mình có cần gia hạn tháng này không vậy?"),
+        ("Mr Anselm", "Yes, it expires at the end of the week.", "Có, nó hết hạn vào cuối tuần này."),
+        ("Ms Lan", "I will renew it online this afternoon.", "Chiều nay tôi sẽ gia hạn online."),
+        # 38 if a routine stop at the ATM is needed
+        ("Mr Anselm", "Do we need a routine stop at the ATM before the shops close?", "Mình có cần ghé cây ATM thường lệ trước khi cửa hàng đóng cửa không vậy?"),
+        ("Ms Lan", "Yes, I am completely out of cash.", "Có, tôi hết sạch tiền mặt rồi."),
+        ("Mr Anselm", "There is one right along our usual route.", "Có một cây ngay trên tuyến đường quen của mình."),
+        # 39 if the street sweeper has been through this week
+        ("Ms Lan", "Has the street sweeper been through our road this week?", "Tuần này xe quét đường đã đi qua đường mình chưa vậy?"),
+        ("Mr Anselm", "Yes, I saw it pass by yesterday morning.", "Có, hôm qua tôi thấy nó đi ngang qua."),
+        ("Ms Lan", "Good, the road looks much cleaner now.", "Tốt, đường trông sạch hơn nhiều rồi."),
+        # 40 if a school run carpool is planned
+        ("Mr Anselm", "Is the school run carpool with the neighbours planned for tomorrow?", "Chuyến đưa đón học sinh chung với hàng xóm có kế hoạch cho mai không vậy?"),
+        ("Ms Lan", "Yes, it is my turn to drive this time.", "Có, lần này tới lượt tôi lái."),
+        ("Mr Anselm", "Good luck, that can be a lively ride.", "Chúc may mắn, chuyến đó chắc sôi nổi lắm."),
+        # 41 if the usual chat with the newspaper vendor happened
+        ("Ms Lan", "Did you have your usual chat with the newspaper vendor today?", "Hôm nay anh có trò chuyện với người bán báo quen như mọi khi không vậy?"),
+        ("Mr Anselm", "Yes, we talked about the weather for a while.", "Có, mình nói chuyện về thời tiết một lúc."),
+        ("Ms Lan", "That sounds like a nice little routine.", "Nghe như một thói quen nhỏ dễ thương đấy."),
+        # 42 closing on why routine neighbourhood needs matter
         ("Mr Anselm", "Why does keeping up with these routine neighbourhood needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu khu phố thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our little community connected and looking out for each other.", "Nó giúp khu phố nhỏ của mình gắn kết và quan tâm lẫn nhau."),
         ("Mr Anselm", "Well said, that is exactly why I enjoy these routines.", "Nói hay đấy, đó chính là lý do tôi thích những việc thường lệ này."),

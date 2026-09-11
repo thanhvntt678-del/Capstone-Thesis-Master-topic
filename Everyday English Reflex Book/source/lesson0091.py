@@ -189,5 +189,37 @@ LESSON_0091 = {
         ("Ms Lan", "Why does it matter so much to get a phone number exactly right?", "Vì sao việc lấy đúng số điện thoại lại quan trọng vậy?"),
         ("Mr Nelson", "One wrong digit and the call goes to a stranger entirely.", "Sai một số là cuộc gọi tới người lạ hoàn toàn."),
         ("Ms Lan", "That makes total sense, thank you for explaining.", "Vậy hợp lý hoàn toàn, cảm ơn anh đã giải thích."),
+        # 37 asking if a number has a messaging app
+        ("Mr Nelson", "Does this number have Zalo, or should I call it instead?", "Số này có Zalo không, hay tôi phải gọi trực tiếp vậy?"),
+        ("Ms Lan", "Yes, it has Zalo, you can message me there too.", "Có Zalo đấy, anh nhắn tin cho tôi qua đó cũng được."),
+        ("Mr Nelson", "Good, that is often easier than calling.", "Tốt, vậy thường tiện hơn gọi điện."),
+        # 38 giving an extension number at the workplace
+        ("Ms Lan", "My office number is 3821, then dial extension 205.", "Số văn phòng tôi là 3821, rồi bấm số nội bộ 205."),
+        ("Mr Nelson", "Got it, main number first, then two-oh-five.", "Rõ rồi, số chính trước, rồi tới hai không năm."),
+        ("Ms Lan", "Exactly right, that will reach my desk directly.", "Đúng chính xác, vậy sẽ gọi thẳng tới bàn tôi."),
+        # 39 asking to save a number under a nickname
+        ("Mr Nelson", "How should I save your number, under Lan or something else?", "Tôi nên lưu số chị dưới tên Lan hay tên khác vậy?"),
+        ("Ms Lan", "Just save it as Lan, that is simplest.", "Cứ lưu là Lan thôi, vậy đơn giản nhất."),
+        ("Mr Nelson", "Done, saved right under that name.", "Xong rồi, lưu đúng dưới tên đó."),
+        # 40 reading a number back in pairs to double-check
+        ("Ms Lan", "Let me read it back in pairs: zero-nine, three-eight, one-two.", "Để tôi đọc lại theo cặp số: không chín, ba tám, một hai."),
+        ("Mr Nelson", "That matches exactly what I have written.", "Đúng khớp với những gì tôi ghi rồi."),
+        ("Ms Lan", "Perfect, reading it in pairs really helps.", "Tuyệt, đọc theo cặp số giúp ích thật."),
+        # 41 politely declining to share a number with a stranger
+        ("Mr Nelson", "Could I have your number? We just met.", "Tôi xin số điện thoại chị được không? Mình mới gặp mà."),
+        ("Ms Lan", "Sorry, I would rather not share it with someone new.", "Xin lỗi, tôi không muốn cho số người mới quen."),
+        ("Mr Nelson", "That is completely understandable, no problem at all.", "Vậy hoàn toàn hợp lý, không sao cả."),
+        # 42 asking if a number accepts international calls
+        ("Ms Lan", "Can this number receive calls from abroad?", "Số này có nhận được cuộc gọi từ nước ngoài không?"),
+        ("Mr Nelson", "Yes, just add the country code before it.", "Có, chỉ cần thêm mã quốc gia phía trước."),
+        ("Ms Lan", "Thank you, that is useful to know before I travel.", "Cảm ơn anh, biết vậy hữu ích trước khi tôi đi."),
+        # 43 giving a number loudly over noise at a market
+        ("Mr Nelson", "It is too noisy here, can you shout the number slowly?", "Ở đây ồn quá, chị đọc to số từ từ được không?"),
+        ("Ms Lan", "Zero-nine-one, seven-seven-seven, four-four-four!", "Không chín một, bảy bảy bảy, bốn bốn bốn!"),
+        ("Mr Nelson", "Got every digit, thank you for shouting it clearly.", "Tôi ghi đủ hết rồi, cảm ơn chị đã đọc rõ."),
+        # 44 asking a colleague to confirm their number matches the directory
+        ("Ms Lan", "Does your number in the office directory still match this one?", "Số của anh trong danh bạ văn phòng có còn đúng như số này không?"),
+        ("Mr Nelson", "Yes, it has stayed exactly the same for years.", "Có, nó vẫn giữ nguyên nhiều năm rồi."),
+        ("Ms Lan", "Good, then the directory does not need updating.", "Tốt, vậy danh bạ không cần cập nhật gì."),
     ],
 }

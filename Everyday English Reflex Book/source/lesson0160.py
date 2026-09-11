@@ -195,7 +195,27 @@ LESSON_0160 = {
         ("Ms Lan", "Can you check if the department budget was finalized?", "Chị kiểm tra giúp ngân sách phòng ban đã chốt chưa được không?"),
         ("Ms Philomena", "Yes, it was signed off this afternoon.", "Được, chiều nay đã ký duyệt rồi."),
         ("Ms Lan", "Great, we can move ahead with our plans then.", "Tuyệt, vậy mình tiến hành kế hoạch được rồi."),
-        # 36 closing on why checking workplace details matters
+        # 36 a check that reveals a mismatch, a negative outcome
+        ("Ms Lan", "Can you check if the numbers in this report actually match the spreadsheet?", "Chị kiểm tra giúp số liệu trong báo cáo này có khớp với bảng tính không được không?"),
+        ("Ms Philomena", "No, actually two figures do not match at all.", "Không, thật ra có hai số không khớp chút nào."),
+        ("Ms Lan", "Good thing you caught that, let us fix it before sending.", "May mà chị phát hiện ra, mình sửa trước khi gửi."),
+        # 37 checking who is responsible for a task today
+        ("Ms Philomena", "Can you check who is supposed to handle today's client email?", "Bạn kiểm tra giúp hôm nay ai phụ trách email khách hàng được không?"),
+        ("Ms Lan", "I am handling it today, you took it yesterday.", "Hôm nay tôi phụ trách, hôm qua bạn làm rồi."),
+        ("Ms Philomena", "Good, that is one less thing on my plate.", "Tốt, vậy đỡ được một việc cho tôi."),
+        # 38 checking if a piece of office equipment is working
+        ("Ms Lan", "Can you check if the printer on our floor is working again?", "Chị kiểm tra giúp máy in ở tầng mình đã hoạt động lại chưa được không?"),
+        ("Ms Philomena", "Yes, someone from IT fixed it an hour ago.", "Được, bên IT đã sửa xong một tiếng trước."),
+        ("Ms Lan", "Good, I can print the contracts now.", "Tốt, vậy tôi in hợp đồng ngay."),
+        # 39 confirming before sending something important
+        ("Ms Philomena", "Can you check this email one more time before I send it to the client?", "Bạn kiểm tra giúp email này một lần nữa trước khi tôi gửi khách hàng được không?"),
+        ("Ms Lan", "Yes, it looks correct, you can send it now.", "Được, trông ổn rồi, bạn gửi được luôn."),
+        ("Ms Philomena", "Good, thanks for double-checking with me.", "Tốt, cảm ơn bạn đã kiểm tra lại giúp tôi."),
+        # 40 checking that an affected colleague was informed
+        ("Ms Lan", "Can you check if Mr Dobson was told about the schedule change?", "Chị kiểm tra giúp anh Dobson đã được báo về thay đổi lịch chưa được không?"),
+        ("Ms Philomena", "Yes, I messaged him about it this morning.", "Được, sáng nay tôi nhắn cho anh ấy rồi."),
+        ("Ms Lan", "Good, so he will not be caught by surprise.", "Tốt, vậy anh ấy sẽ không bị bất ngờ."),
+        # 41 closing on why checking workplace details matters
         ("Ms Philomena", "Why does checking these workplace details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết công sở này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our work accurate and helps the whole team avoid costly misunderstandings.", "Nó giúp công việc chính xác và giúp cả nhóm tránh những hiểu lầm tốn kém."),
         ("Ms Philomena", "That is very true, checking first really does make everything run smoothly.", "Đúng vậy thật, kiểm tra trước thật sự giúp mọi việc trôi chảy."),

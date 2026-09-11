@@ -193,7 +193,27 @@ LESSON_0154 = {
         ("Ms Lan", "Can you check if this is the correct direction to board?", "Chị kiểm tra giúp đây có phải hướng đúng để lên xe không được không?"),
         ("Ms Rosalie", "Yes, this side is definitely the right direction.", "Được, bên này đúng là hướng cần đi."),
         ("Ms Lan", "Good, let us wait right here then.", "Tốt, vậy mình chờ ngay đây."),
-        # 36 closing on why checking transport details matters
+        # 36 checking what to do if they miss the train
+        ("Ms Lan", "Can you check what we should do if we miss this train?", "Chị kiểm tra giúp nếu mình lỡ chuyến tàu này thì làm sao được không?"),
+        ("Ms Rosalie", "Yes, the next one leaves in twenty minutes.", "Được, chuyến tiếp theo chạy sau hai mươi phút."),
+        ("Ms Lan", "Good, that is not too long to wait.", "Tốt, vậy chờ cũng không lâu lắm."),
+        # 37 checking if a paper ticket can still be bought
+        ("Ms Rosalie", "Can you check if we can still buy a paper ticket at the counter?", "Bạn kiểm tra giúp mình còn mua vé giấy ở quầy được không được không?"),
+        ("Ms Lan", "Yes, the counter is open until the last train.", "Được, quầy vé mở tới chuyến tàu cuối."),
+        ("Ms Rosalie", "Good, some of us do not have the app.", "Tốt, có vài người trong mình không có ứng dụng."),
+        # 38 reporting a lost item on the bus
+        ("Ms Lan", "Can you check where to report a lost umbrella on the bus?", "Chị kiểm tra giúp báo mất dù trên xe buýt thì báo ở đâu được không?"),
+        ("Ms Rosalie", "Yes, the driver said to call the depot office.", "Được, tài xế nói gọi cho văn phòng bến xe."),
+        ("Ms Lan", "Good, I will call them this evening.", "Tốt, tối nay tôi sẽ gọi họ."),
+        # 39 checking the reason for a delay
+        ("Ms Rosalie", "Can you check why this train is delayed today?", "Bạn kiểm tra giúp hôm nay sao tàu này bị trễ được không?"),
+        ("Ms Lan", "Yes, the announcement said there is a signal problem ahead.", "Được, thông báo nói phía trước có sự cố tín hiệu."),
+        ("Ms Rosalie", "Good to know, at least we understand why now.", "Biết vậy tốt rồi, ít nhất giờ mình hiểu lý do."),
+        # 40 checking whether to line up before boarding
+        ("Ms Lan", "Can you check if we need to line up before boarding this bus?", "Chị kiểm tra giúp lên xe buýt này có cần xếp hàng trước không được không?"),
+        ("Ms Rosalie", "Yes, everyone lines up in front of the door.", "Được, mọi người xếp hàng trước cửa xe."),
+        ("Ms Lan", "Good, let us join the line now.", "Tốt, vậy mình vào xếp hàng ngay."),
+        # 41 closing on why checking transport details matters
         ("Ms Rosalie", "Why does checking these transport details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết phương tiện công cộng này lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us time and helps us avoid ending up on the wrong train or bus.", "Nó giúp mình tiết kiệm thời gian và tránh lên nhầm tàu hay xe buýt."),
         ("Ms Rosalie", "That is very true, checking first really does make every trip smoother.", "Đúng vậy thật, kiểm tra trước thật sự giúp mỗi chuyến đi trôi chảy hơn."),
