@@ -197,7 +197,35 @@ LESSON_0052 = {
         ("Ms Lan", "Could you confirm what is left on today's schedule?", "Chị xác nhận giúp lịch trình hôm nay còn gì nữa không?"),
         ("Ms Cheryl", "Yes, just the client call at four o'clock.", "Vâng, chỉ còn cuộc gọi khách hàng lúc bốn giờ."),
         ("Ms Lan", "Good, I will prepare for that now.", "Tốt, tôi chuẩn bị ngay đây."),
-        # 38 closing - why confirming these details matters
+        # 38 confirming a whiteboard was booked for brainstorming
+        ("Ms Cheryl", "Could you confirm the whiteboard room is free for our brainstorm?", "Chị xác nhận giúp phòng có bảng trắng còn trống cho buổi động não không?"),
+        ("Ms Lan", "Yes, nobody has booked it this afternoon.", "Có chứ, chiều nay chưa ai đặt cả."),
+        ("Ms Cheryl", "Great, I will grab it before someone else does.", "Tuyệt, tôi sẽ đặt trước khi ai đó lấy mất."),
+        # 39 checking the recipient list for a company-wide email
+        ("Ms Lan", "Could you check the recipient list on this company-wide email?", "Chị kiểm tra giúp danh sách người nhận trong email gửi toàn công ty này không?"),
+        ("Ms Cheryl", "Yes, it includes every department correctly.", "Có chứ, đã bao gồm đúng tất cả các phòng ban."),
+        ("Ms Lan", "Good, I will send it out now then.", "Tốt, vậy tôi gửi đi ngay."),
+        # 40 confirming a badge access request was approved
+        ("Ms Cheryl", "Could you confirm my badge access to the server room was approved?", "Chị xác nhận giúp yêu cầu quyền vào phòng máy chủ của tôi đã được duyệt chưa không?"),
+        ("Ms Lan", "Yes, security approved it late yesterday.", "Vâng, bộ phận an ninh đã duyệt chiều qua."),
+        ("Ms Cheryl", "Great, I can go in whenever I need to now.", "Tuyệt, vậy giờ tôi vào bất cứ lúc nào cũng được."),
+        # 41 checking the venue address for an offsite meeting
+        ("Ms Lan", "Could you check the exact address for the offsite meeting?", "Chị kiểm tra giúp địa chỉ chính xác của buổi họp ngoài văn phòng không?"),
+        ("Ms Cheryl", "Yes, it is at the hotel on Le Loi Street.", "Có chứ, ở khách sạn trên đường Lê Lợi."),
+        ("Ms Lan", "Thanks, I will put that into the map now.", "Cảm ơn chị, tôi sẽ tìm đường theo địa chỉ đó."),
+        # 42 confirming a new hire's start date
+        ("Ms Cheryl", "Could you confirm the new hire's official start date?", "Chị xác nhận giúp ngày bắt đầu chính thức của nhân viên mới không?"),
+        ("Ms Lan", "Yes, she starts on the first Monday of next month.", "Vâng, cô ấy bắt đầu vào thứ hai đầu tháng sau."),
+        ("Ms Cheryl", "Good, I will prepare her desk before then.", "Tốt, tôi sẽ chuẩn bị bàn làm việc cho cô ấy trước đó."),
+        # 43 checking the photocopier access code
+        ("Ms Lan", "Could you check the access code for the new photocopier?", "Chị kiểm tra giúp mã truy cập cho máy photocopy mới không?"),
+        ("Ms Cheryl", "Yes, it is printed on a sticker by the screen.", "Có chứ, mã được dán trên nhãn cạnh màn hình."),
+        ("Ms Lan", "Great, I will note it down for the team.", "Tuyệt, tôi sẽ ghi lại cho cả nhóm."),
+        # 44 confirming who ordered the office coffee supplies
+        ("Ms Cheryl", "Could you confirm who ordered the coffee supplies this month?", "Chị xác nhận giúp tháng này ai đặt đồ uống cà phê cho văn phòng không?"),
+        ("Ms Lan", "Yes, the admin assistant placed that order already.", "Vâng, trợ lý hành chính đã đặt hàng rồi."),
+        ("Ms Cheryl", "Good, I was worried we had run out.", "Tốt, tôi cứ lo là hết hàng rồi."),
+        # 45 closing - why confirming these details matters
         ("Ms Cheryl", "Confirming these small details really keeps our office running smoothly.", "Xác nhận những chi tiết nhỏ này thật sự giúp văn phòng mình vận hành suôn sẻ."),
         ("Ms Lan", "It does, it prevents so many little mix-ups.", "Đúng vậy, tránh được bao nhiêu nhầm lẫn nhỏ."),
         ("Ms Cheryl", "That is exactly why I always double-check with you first.", "Chính vì vậy mà tôi luôn kiểm tra lại với chị trước."),

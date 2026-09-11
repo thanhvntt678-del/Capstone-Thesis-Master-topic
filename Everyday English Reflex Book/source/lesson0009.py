@@ -185,5 +185,21 @@ LESSON_0009 = {
         ("Mr Michael", "Lan, is there a phone repair shop nearby?", "Chị Lan, gần đây có tiệm sửa điện thoại không?"),
         ("Ms Lan", "Yes, it is across from the bookstore.", "Có chứ, nó đối diện hiệu sách."),
         ("Mr Michael", "Thank you, my screen is cracked.", "Cảm ơn chị, màn hình tôi bị nứt rồi."),
+        # 40 a corner store
+        ("Mr Michael", "Lan, is there a small corner store close to my flat?", "Chị Lan, gần căn hộ tôi có tiệm tạp hóa nhỏ nào không?"),
+        ("Ms Lan", "Yes, right on the corner of this street.", "Có chứ, ngay góc con đường này đấy."),
+        ("Mr Michael", "Perfect, that is handy for small things.", "Tuyệt, vậy tiện cho những thứ lặt vặt quá."),
+        # 41 a public restroom
+        ("Mr Michael", "Lan, is there a public restroom in this area?", "Chị Lan, khu này có nhà vệ sinh công cộng không?"),
+        ("Ms Lan", "Yes, there is one inside the community centre.", "Có chứ, có một cái trong trung tâm cộng đồng."),
+        ("Mr Michael", "Good to know, thank you.", "Biết vậy tốt quá, cảm ơn chị."),
+        # 42 a bike lane
+        ("Mr Michael", "Lan, does this street have a bike lane?", "Chị Lan, con đường này có làn đường xe đạp không?"),
+        ("Ms Lan", "Yes, it runs along the right side.", "Có chứ, nó chạy dọc bên phải đấy."),
+        ("Mr Michael", "Great, I will cycle to work then.", "Tuyệt, vậy tôi sẽ đạp xe đi làm."),
+        # 43 a community notice board
+        ("Mr Michael", "Lan, what is that board with papers on it?", "Chị Lan, cái bảng có nhiều tờ giấy kia là gì vậy?"),
+        ("Ms Lan", "That is the community notice board.", "Đó là bảng thông báo của khu phố đấy."),
+        ("Mr Michael", "I should check it for local news.", "Tôi nên xem thử để biết tin tức khu vực."),
     ],
 }

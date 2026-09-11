@@ -184,5 +184,21 @@ LESSON_0012 = {
         ("Ms Anna", "Lan, do you use an app to track your steps?", "Chị Lan, chị có dùng ứng dụng đếm bước chân không?"),
         ("Ms Lan", "Yes, I check it every evening.", "Có chứ, tối nào tôi cũng xem lại."),
         ("Ms Anna", "I should start using one too.", "Tôi cũng nên bắt đầu dùng thử."),
+        # 39 a water fountain
+        ("Ms Lan", "Anna, is there a water fountain along this path?", "Chị Anna, dọc lối đi này có vòi nước uống không?"),
+        ("Ms Anna", "Yes, there is one just past the trees.", "Có chứ, có một cái ngay sau hàng cây."),
+        ("Ms Lan", "Good, I am getting thirsty.", "Tốt, tôi đang khát rồi."),
+        # 40 a path closed for an event
+        ("Ms Anna", "Lan, this path is closed for an event today.", "Chị Lan, lối này bị chặn vì có sự kiện hôm nay."),
+        ("Ms Lan", "Let us walk around through the side street.", "Mình đi vòng qua con đường bên đi."),
+        ("Ms Anna", "Good thinking, that should still be quick.", "Nghĩ hay đấy, vậy vẫn nhanh thôi."),
+        # 41 an uneven curb
+        ("Ms Lan", "Anna, mind the curb, it drops down suddenly here.", "Chị Anna, coi chừng lề đường, ở đây nó hạ đột ngột đấy."),
+        ("Ms Anna", "Thanks, I nearly missed that.", "Cảm ơn chị, suýt nữa tôi không để ý."),
+        ("Ms Lan", "Better to be careful on this stretch.", "Đoạn này nên cẩn thận hơn."),
+        # 42 walking with an umbrella
+        ("Ms Anna", "Lan, could you hold the umbrella for a moment?", "Chị Lan, chị cầm giúp tôi cái ô một lát được không?"),
+        ("Ms Lan", "Sure, I have got it.", "Được chứ, tôi cầm rồi đây."),
+        ("Ms Anna", "Thank you, my hands were full.", "Cảm ơn chị, tay tôi đang bận cầm đồ."),
     ],
 }

@@ -182,5 +182,21 @@ LESSON_0011 = {
         ("Ms Lan", "Henry, is there somewhere to stop right outside?", "Anh Henry, có chỗ dừng ngay trước cửa không?"),
         ("Mr Henry", "Yes, there is space just by the entrance.", "Có chứ, có chỗ ngay cạnh lối vào."),
         ("Ms Lan", "Wonderful, that saves us a walk.", "Tuyệt vời, vậy đỡ phải đi bộ."),
+        # 39 asking for the air conditioning
+        ("Ms Lan", "Henry, could you turn the air conditioning up a bit?", "Anh Henry, anh tăng máy lạnh lên một chút được không?"),
+        ("Mr Henry", "Of course, is this better for you?", "Được chứ, vậy đã dễ chịu chưa?"),
+        ("Ms Lan", "Much better, thank you.", "Dễ chịu hơn nhiều rồi, cảm ơn anh."),
+        # 40 an app glitch
+        ("Ms Lan", "Henry, the app shows the wrong pickup point.", "Anh Henry, ứng dụng hiện sai điểm đón rồi."),
+        ("Mr Henry", "Do not worry, just tell me where you are.", "Đừng lo, chị cứ nói vị trí của chị cho tôi."),
+        ("Ms Lan", "Thank you, I am outside the pharmacy.", "Cảm ơn anh, tôi đang ở ngoài hiệu thuốc."),
+        # 41 a toll road
+        ("Mr Henry", "Lan, this route has a small toll fee.", "Chị Lan, tuyến này có một khoản phí đường bộ nhỏ."),
+        ("Ms Lan", "That is fine, please take the faster way.", "Không sao đâu, anh cứ đi đường nhanh hơn."),
+        ("Mr Henry", "Good, it will save us ten minutes.", "Tốt, vậy sẽ tiết kiệm được mười phút."),
+        # 42 confirming the license plate
+        ("Ms Lan", "Henry, could you confirm your license plate number?", "Anh Henry, anh xác nhận giúp tôi biển số xe được không?"),
+        ("Mr Henry", "Of course, it matches the one on the app.", "Được chứ, nó khớp với số trên ứng dụng đấy."),
+        ("Ms Lan", "Perfect, I can see your car now.", "Tuyệt, tôi thấy xe anh rồi."),
     ],
 }

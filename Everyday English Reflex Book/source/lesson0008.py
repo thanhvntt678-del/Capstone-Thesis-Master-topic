@@ -193,5 +193,21 @@ LESSON_0008 = {
         ("Ms Sophie", "Lan, do we have a spare button anywhere?", "Chị Lan, mình có nút áo dự phòng ở đâu không?"),
         ("Ms Lan", "Yes, there is a small box in the drawer.", "Có chứ, có một hộp nhỏ trong ngăn kéo."),
         ("Ms Sophie", "Perfect, that will save the shirt.", "Tuyệt, vậy cứu được cái áo rồi."),
+        # 42 a stuck zipper
+        ("Ms Lan", "Sophie, my zipper is stuck on this jacket.", "Chị Sophie, khóa kéo áo khoác của tôi bị kẹt rồi."),
+        ("Ms Sophie", "Hold still, let me pull it gently.", "Chị đứng yên, để tôi kéo nhẹ thử xem."),
+        ("Ms Lan", "There, it moved. Thank you.", "Được rồi, nó chạy rồi. Cảm ơn chị."),
+        # 43 a full laundry basket
+        ("Ms Sophie", "Lan, the laundry basket is completely full again.", "Chị Lan, giỏ đồ giặt lại đầy ắp rồi."),
+        ("Ms Lan", "Let us wash a load tonight then.", "Vậy tối nay mình giặt một mẻ nhé."),
+        ("Ms Sophie", "Good idea, I will sort the colours first.", "Ý hay đấy, để tôi phân loại màu trước."),
+        # 44 checking a care label
+        ("Ms Lan", "Sophie, does this sweater need to be hand-washed?", "Chị Sophie, cái áo len này có cần giặt tay không?"),
+        ("Ms Sophie", "Let me check the care label for you.", "Để tôi xem nhãn hướng dẫn giặt giúp chị."),
+        ("Ms Lan", "Thank you, I do not want to ruin it.", "Cảm ơn chị, tôi không muốn làm hỏng nó."),
+        # 45 a mirror check before leaving
+        ("Ms Sophie", "Lan, could you check my outfit in the mirror?", "Chị Lan, chị nhìn giúp tôi bộ đồ trong gương được không?"),
+        ("Ms Lan", "You look great, nothing out of place.", "Chị trông đẹp lắm, không có gì lệch cả."),
+        ("Ms Sophie", "Thank you, now I feel ready.", "Cảm ơn chị, giờ tôi thấy sẵn sàng rồi."),
     ],
 }

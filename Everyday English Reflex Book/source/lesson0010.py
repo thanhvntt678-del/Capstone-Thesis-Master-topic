@@ -186,5 +186,21 @@ LESSON_0010 = {
         ("Ms Lan", "Grace, is there a park and ride near your house?", "Chị Grace, gần nhà chị có bãi gửi xe kết hợp không?"),
         ("Ms Grace", "Yes, I use it every morning.", "Có chứ, sáng nào tôi cũng dùng."),
         ("Ms Lan", "That sounds like a smart way to commute.", "Nghe có vẻ là cách đi làm thông minh đấy."),
+        # 40 a return ticket
+        ("Ms Grace", "Lan, should we buy a return ticket instead?", "Chị Lan, mình mua vé khứ hồi luôn không?"),
+        ("Ms Lan", "Good idea, it is cheaper than two single tickets.", "Ý hay đấy, rẻ hơn mua hai vé một chiều."),
+        ("Ms Grace", "Let us get two return tickets then.", "Vậy mình mua hai vé khứ hồi nhé."),
+        # 41 a broken escalator
+        ("Ms Lan", "Grace, the escalator here is out of service.", "Chị Grace, thang cuốn ở đây bị hỏng rồi."),
+        ("Ms Grace", "No problem, let us use the stairs instead.", "Không sao đâu, mình đi cầu thang bộ vậy."),
+        ("Ms Lan", "Good idea, it is not too many steps.", "Ý hay đấy, cũng không nhiều bậc lắm."),
+        # 42 lost and found
+        ("Ms Grace", "Lan, I think I left my scarf on the last train.", "Chị Lan, tôi nghĩ tôi để quên khăn trên tàu lúc nãy rồi."),
+        ("Ms Lan", "Let us ask at the lost and found office.", "Mình hỏi ở quầy đồ thất lạc thử xem."),
+        ("Ms Grace", "Thank you, I hope they still have it.", "Cảm ơn chị, mong là họ vẫn còn giữ."),
+        # 43 checking the app for live updates
+        ("Ms Lan", "Grace, could you check the app for any delays?", "Chị Grace, chị xem giúp ứng dụng có báo trễ giờ không?"),
+        ("Ms Grace", "Everything looks on time right now.", "Hiện giờ mọi thứ vẫn đúng giờ đấy."),
+        ("Ms Lan", "Great, let us head to the platform then.", "Tốt, vậy mình ra sân ga thôi."),
     ],
 }

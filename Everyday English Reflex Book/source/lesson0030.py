@@ -185,7 +185,35 @@ LESSON_0030 = {
         ("Ms Lan", "The walk signal should turn green any moment now.", "Đèn tín hiệu đi bộ sắp chuyển xanh rồi."),
         ("Ms Susan", "Good, let us wait right here patiently.", "Tốt, mình đứng đây chờ kiên nhẫn nhé."),
         ("Ms Lan", "There it goes, let us cross now.", "Xanh rồi kìa, mình qua đường thôi."),
-        # 38 closing - why walking together matters
+        # 38 a fork in the path
+        ("Ms Susan", "The path splits here, which way should we go?", "Lối đi chia hai ở đây, mình đi hướng nào?"),
+        ("Ms Lan", "Let us take the left one, it leads past the fountain.", "Mình đi bên trái, hướng đó dẫn qua đài phun nước."),
+        ("Ms Susan", "Good choice, I like that spot.", "Lựa chọn hay đấy, tôi thích chỗ đó."),
+        # 39 a loose shoelace
+        ("Ms Lan", "Wait a second, my shoelace has come undone.", "Chờ chút, dây giày tôi bị tuột rồi."),
+        ("Ms Susan", "No hurry, I will hold your bag while you tie it.", "Không vội đâu, để tôi cầm túi cho chị buộc lại."),
+        ("Ms Lan", "Thanks, all fixed now, let us continue.", "Cảm ơn chị, xong rồi, mình đi tiếp nhé."),
+        # 40 walking on the shady side because of hot sun
+        ("Ms Susan", "The sun is quite strong on this side of the street.", "Bên đường này nắng gắt quá."),
+        ("Ms Lan", "Let us cross over and walk in the shade instead.", "Mình qua bên kia đi trong bóng râm vậy."),
+        ("Ms Susan", "Much better, that feels cooler already.", "Đỡ hơn nhiều rồi, mát hẳn luôn."),
+        # 41 a stray dog on the path
+        ("Ms Lan", "There is a stray dog resting right on the path.", "Có một con chó hoang đang nằm ngay trên lối đi."),
+        ("Ms Susan", "Let us walk around it slowly and calmly.", "Mình đi vòng qua từ từ và bình tĩnh nhé."),
+        ("Ms Lan", "Good idea, he does not seem bothered by us.", "Ý hay đấy, nó có vẻ không để ý đến mình."),
+        # 42 walking through an underpass
+        ("Ms Susan", "We can cross under the road through that underpass.", "Mình có thể qua đường dưới hầm chui kia."),
+        ("Ms Lan", "Good, that is safer than crossing up top.", "Tốt, vậy an toàn hơn qua đường phía trên."),
+        ("Ms Susan", "Exactly, and it is much quicker too.", "Đúng vậy, lại nhanh hơn nữa."),
+        # 43 stopping at a water fountain
+        ("Ms Lan", "There is a water fountain, shall we fill our bottles?", "Có vòi nước công cộng kìa, mình đổ đầy bình nước nhé?"),
+        ("Ms Susan", "Yes please, I am getting quite thirsty.", "Vâng, tôi cũng đang khát nước rồi."),
+        ("Ms Lan", "Same here, let us take a short stop.", "Tôi cũng vậy, mình dừng một chút nhé."),
+        # 44 checking the time to avoid being late
+        ("Ms Susan", "What time is it? I do not want us to be late.", "Mấy giờ rồi nhỉ? Tôi không muốn mình đến trễ."),
+        ("Ms Lan", "It is half past four, we still have plenty of time.", "Bốn giờ rưỡi rồi, mình vẫn còn nhiều thời gian."),
+        ("Ms Susan", "Good, then let us keep this easy pace.", "Tốt, vậy mình cứ giữ tốc độ thoải mái này."),
+        # 45 closing - why walking together matters
         ("Ms Susan", "I always enjoy our walks together so much.", "Tôi lúc nào cũng thích những buổi đi dạo cùng chị."),
         ("Ms Lan", "So do I, it clears my mind completely.", "Tôi cũng vậy, nó giúp đầu óc tôi thư thái hẳn."),
         ("Ms Susan", "That is exactly why I try to walk every day.", "Chính vì vậy mà tôi cố gắng đi bộ mỗi ngày."),

@@ -185,7 +185,35 @@ LESSON_0031 = {
         ("Ms Lan", "Lovely weather we are having this week, isn't it?", "Tuần này thời tiết đẹp thật đấy nhỉ?"),
         ("Mr Frank", "It really is, perfect for being outdoors.", "Đúng vậy, hợp để ra ngoài lắm."),
         ("Ms Lan", "Let us make the most of it then.", "Vậy mình tận dụng tối đa thôi."),
-        # 38 closing - why weather matters for plans
+        # 38 a weather alert notification on the phone
+        ("Ms Lan", "My phone just sent a severe weather alert.", "Điện thoại tôi vừa báo cảnh báo thời tiết nguy hiểm."),
+        ("Mr Frank", "What does it say exactly, should we worry?", "Nó báo gì vậy, mình có cần lo không?"),
+        ("Ms Lan", "Just heavy rain expected, nothing too serious.", "Chỉ báo mưa lớn thôi, không nghiêm trọng lắm."),
+        # 39 hail
+        ("Mr Frank", "Is that hail hitting the window right now?", "Đó có phải mưa đá đang đập vào cửa sổ không?"),
+        ("Ms Lan", "It is, let us move the car under the carport.", "Đúng vậy, mình dời xe vào mái che đi."),
+        ("Mr Frank", "Good thinking, before it dents the roof.", "Nghĩ hay đấy, kẻo móp mái xe mất."),
+        # 40 planning to fly a kite
+        ("Ms Lan", "Is it windy enough to fly a kite this afternoon?", "Chiều nay có đủ gió để thả diều không?"),
+        ("Mr Frank", "Yes, a steady breeze all afternoon.", "Có chứ, gió đều suốt cả chiều."),
+        ("Ms Lan", "Perfect, let us head to the field then.", "Tuyệt, vậy mình ra bãi đất trống nhé."),
+        # 41 checking the overnight low temperature
+        ("Mr Frank", "How low will it get tonight?", "Tối nay nhiệt độ sẽ xuống thấp cỡ nào?"),
+        ("Ms Lan", "Down to about fifteen degrees, quite chilly.", "Xuống khoảng mười lăm độ, khá lạnh đấy."),
+        ("Mr Frank", "I will set out an extra blanket then.", "Vậy tôi lấy thêm cái chăn ra."),
+        # 42 misty glasses moving from cold to warm
+        ("Ms Lan", "My glasses keep fogging up coming in from the cold.", "Kính tôi cứ mờ khi từ ngoài lạnh vào trong."),
+        ("Mr Frank", "Here, wipe them with this cloth.", "Đây, lau bằng cái khăn này đi."),
+        ("Ms Lan", "Thanks, that clears it up nicely.", "Cảm ơn anh, giờ rõ hẳn rồi."),
+        # 43 a drought affecting water use
+        ("Mr Frank", "The drought means we should use less water this month.", "Đợt hạn hán này nghĩa là mình nên dùng ít nước hơn tháng này."),
+        ("Ms Lan", "Agreed, I will shorten my showers a little.", "Đồng ý, tôi sẽ tắm nhanh hơn một chút."),
+        ("Mr Frank", "Good, every little bit helps.", "Tốt, tiết kiệm chút nào hay chút đó."),
+        # 44 a rain check for a sports match
+        ("Ms Lan", "Will the match still go ahead in this drizzle?", "Trận đấu có vẫn diễn ra trong mưa phùn này không?"),
+        ("Mr Frank", "The organizers say light rain will not stop it.", "Ban tổ chức nói mưa nhỏ sẽ không làm hoãn."),
+        ("Ms Lan", "Good, let us grab our raincoats and go.", "Tốt, mình lấy áo mưa rồi đi thôi."),
+        # 45 closing - why weather matters for plans
         ("Mr Frank", "Checking the weather really helps our plans go smoothly.", "Xem thời tiết thật sự giúp kế hoạch của mình suôn sẻ."),
         ("Ms Lan", "It does, we avoid so many surprises that way.", "Đúng vậy, mình tránh được bao nhiêu bất ngờ nhờ vậy."),
         ("Mr Frank", "That is exactly why I check it every morning now.", "Chính vì vậy mà giờ sáng nào tôi cũng xem thời tiết."),

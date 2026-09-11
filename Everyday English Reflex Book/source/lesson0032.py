@@ -185,7 +185,35 @@ LESSON_0032 = {
         ("Ms Lan", "Did you check the weather before getting ready?", "Chị xem thời tiết trước khi chuẩn bị chưa?"),
         ("Ms Fiona", "Yes, it looks mild, no jacket needed.", "Rồi, trời ôn hòa, không cần áo khoác."),
         ("Ms Lan", "Good, that makes getting ready easier.", "Tốt, vậy chuẩn bị dễ hơn."),
-        # 38 closing - why routines matter
+        # 38 making the bed
+        ("Ms Lan", "Have you made your bed yet this morning?", "Sáng nay chị dọn giường chưa?"),
+        ("Ms Fiona", "Not yet, I will do it right after breakfast.", "Chưa, tôi làm ngay sau bữa sáng."),
+        ("Ms Lan", "Good, it makes the room feel tidier.", "Tốt, vậy phòng trông gọn hơn hẳn."),
+        # 39 taking vitamins in the morning
+        ("Ms Fiona", "Did you take your vitamins with breakfast?", "Chị uống vitamin cùng bữa sáng chưa?"),
+        ("Ms Lan", "Not yet, thanks for reminding me.", "Chưa, cảm ơn chị đã nhắc."),
+        ("Ms Fiona", "No problem, they are on the shelf.", "Không có gì, chúng ở trên kệ đấy."),
+        # 40 checking the mail
+        ("Ms Lan", "Has the mail arrived yet this morning?", "Sáng nay có thư chưa vậy?"),
+        ("Ms Fiona", "Yes, there is a parcel for you downstairs.", "Có rồi, có một gói hàng cho chị ở dưới nhà."),
+        ("Ms Lan", "Great, I will bring it up after lunch.", "Tuyệt, tôi sẽ mang lên sau bữa trưa."),
+        # 41 packing a bag the night before
+        ("Ms Fiona", "Have you packed your bag for tomorrow already?", "Chị chuẩn bị túi cho ngày mai chưa?"),
+        ("Ms Lan", "Yes, I always pack it the night before.", "Rồi, tôi luôn chuẩn bị từ tối hôm trước."),
+        ("Ms Fiona", "Smart habit, it saves so much rushing.", "Thói quen khôn ngoan đấy, đỡ vội vàng nhiều."),
+        # 42 vacuuming the floor
+        ("Ms Lan", "Could you vacuum the hallway while I mop the kitchen?", "Chị hút bụi hành lang trong khi tôi lau bếp được không?"),
+        ("Ms Fiona", "Sure, I will start right now.", "Được chứ, tôi bắt đầu ngay đây."),
+        ("Ms Lan", "Thanks, we should finish quickly this way.", "Cảm ơn chị, làm vậy chắc xong nhanh thôi."),
+        # 43 a leftover food decision
+        ("Ms Fiona", "Should we finish last night's leftovers for dinner?", "Tối nay mình ăn hết đồ ăn thừa tối qua nhé?"),
+        ("Ms Lan", "Good idea, no need to cook something new.", "Ý hay đấy, khỏi cần nấu món mới."),
+        ("Ms Fiona", "I will heat it up in a few minutes.", "Tôi hâm nóng trong vài phút nữa."),
+        # 44 planning tomorrow before bed
+        ("Ms Lan", "Let us quickly plan tomorrow before we sleep.", "Mình lên kế hoạch nhanh cho ngày mai trước khi ngủ nhé."),
+        ("Ms Fiona", "Good idea, I just need to check my morning meeting time.", "Ý hay đấy, tôi chỉ cần xem giờ họp sáng mai."),
+        ("Ms Lan", "Once that is settled, we can both rest easy.", "Xong việc đó rồi, mình yên tâm nghỉ ngơi."),
+        # 45 closing - why routines matter
         ("Ms Fiona", "Having a steady routine really makes life feel calmer.", "Có một thói quen ổn định thật sự làm cuộc sống thấy nhẹ nhàng hơn."),
         ("Ms Lan", "It does, even small habits add up over time.", "Đúng vậy, những thói quen nhỏ cũng tích lại theo thời gian."),
         ("Ms Fiona", "That is exactly why I try to stick to mine.", "Chính vì vậy mà tôi luôn cố giữ thói quen của mình."),

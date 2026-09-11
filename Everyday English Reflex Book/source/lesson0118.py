@@ -185,7 +185,31 @@ LESSON_0118 = {
         ("Ms Lan", "Where can I report an item I lost on the bus?", "Tôi báo mất đồ trên xe buýt ở đâu vậy?"),
         ("Ms Rosamund", "You can report it at the lost and found counter.", "Chị có thể báo ở quầy đồ thất lạc."),
         ("Ms Lan", "Thank you, I will go there right away.", "Cảm ơn chị, tôi sẽ tới đó ngay."),
-        # 36 closing on why public transport questions matter
+        # 36 asking if there is a mobile app to check bus times
+        ("Ms Rosamund", "Is there a mobile app to check bus arrival times?", "Có ứng dụng nào để xem giờ xe buýt tới không?"),
+        ("Ms Lan", "Yes, the transport app shows live arrival times.", "Có, ứng dụng giao thông hiện giờ xe đến trực tiếp."),
+        ("Ms Rosamund", "That will save me from waiting outside.", "Vậy tôi khỏi phải đứng chờ ngoài đường."),
+        # 37 asking if a monthly pass is available
+        ("Ms Lan", "Is there a monthly pass for regular commuters?", "Có vé tháng cho người đi thường xuyên không?"),
+        ("Ms Rosamund", "Yes, a monthly pass covers unlimited rides.", "Có, vé tháng cho đi không giới hạn số chuyến."),
+        ("Ms Lan", "That sounds much cheaper than single tickets.", "Vậy chắc rẻ hơn nhiều so với mua vé lẻ."),
+        # 38 asking if a cancelled trip can be refunded
+        ("Ms Rosamund", "If a trip gets cancelled, can I get a refund?", "Nếu chuyến đi bị hủy, tôi có được hoàn tiền không?"),
+        ("Ms Lan", "Yes, cancelled trips are refunded automatically.", "Có, chuyến bị hủy sẽ được hoàn tiền tự động."),
+        ("Ms Rosamund", "Good, that puts my mind at ease.", "Tốt, vậy tôi yên tâm hơn rồi."),
+        # 39 asking if a receipt is given after buying a ticket
+        ("Ms Lan", "Do I get a receipt after buying a ticket?", "Mua vé xong tôi có được nhận biên lai không?"),
+        ("Ms Rosamund", "Yes, the machine prints one automatically.", "Có, máy tự in biên lai luôn."),
+        ("Ms Lan", "I will keep it in case I need it later.", "Tôi sẽ giữ lại phòng khi cần dùng sau."),
+        # 40 asking if the bus gets crowded during rush hour
+        ("Ms Rosamund", "Does this bus usually get crowded during rush hour?", "Xe buýt này giờ cao điểm có đông không?"),
+        ("Ms Lan", "Yes, it gets quite full between five and six.", "Có, từ năm đến sáu giờ khá đông."),
+        ("Ms Rosamund", "Then I will try to avoid that time.", "Vậy tôi sẽ cố tránh giờ đó."),
+        # 41 asking if there is an announcement before each stop
+        ("Ms Lan", "Is there an announcement before each stop?", "Trước mỗi trạm có thông báo không?"),
+        ("Ms Rosamund", "Yes, a voice announces the next stop clearly.", "Có, có giọng thông báo trạm kế tiếp rõ ràng."),
+        ("Ms Lan", "That makes it easy not to miss my stop.", "Vậy dễ dàng không bị lỡ trạm của mình."),
+        # 42 closing on why public transport questions matter
         ("Ms Rosamund", "Why do simple public transport questions matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về xe buýt lại quan trọng đến thế?"),
         ("Ms Lan", "They help us travel confidently without wasting time or getting lost.", "Chúng giúp mình di chuyển tự tin mà không mất thời gian hay bị lạc."),
         ("Ms Rosamund", "That is very true, I feel much more prepared now.", "Đúng vậy thật, giờ tôi thấy chuẩn bị kỹ hơn nhiều."),

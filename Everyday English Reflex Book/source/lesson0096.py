@@ -188,5 +188,32 @@ LESSON_0096 = {
         ("Ms Wilma", "Should we buy watermelon or mango for dessert today?", "Hôm nay mình mua dưa hấu hay xoài để tráng miệng vậy?"),
         ("Ms Lan", "Mango, it is perfectly in season right now.", "Xoài đi, đúng mùa lắm bây giờ."),
         ("Ms Wilma", "Good choice, let us buy a few then.", "Chọn hay đấy, mình mua vài trái vậy."),
+        # 37 unable to decide, asking the other to choose
+        ("Ms Wilma", "I really cannot decide today, what do you think?", "Hôm nay tôi không quyết được, chị nghĩ sao?"),
+        ("Ms Lan", "Let us just go with the fried rice, it is quick.", "Vậy mình chọn cơm chiên đi, nhanh gọn."),
+        ("Ms Wilma", "Good, that settles it for me.", "Được đấy, vậy là xong cho tôi rồi."),
+        # 38 asking for a recommendation
+        ("Ms Lan", "What would you recommend from this menu?", "Chị gợi ý món gì trong thực đơn này cho tôi không?"),
+        ("Ms Wilma", "I recommend the grilled fish, it is very fresh here.", "Tôi gợi ý món cá nướng, ở đây cá tươi lắm."),
+        ("Ms Lan", "Thanks for the tip, I will order that then.", "Cảm ơn chị mách nước, vậy tôi gọi món đó."),
+        # 39 checking spice tolerance before ordering
+        ("Ms Wilma", "Is this dish very spicy? I cannot eat spicy food.", "Món này cay lắm không? Tôi không ăn cay được đâu."),
+        ("Ms Lan", "No, it is quite mild here, do not worry.", "Không đâu, ở đây làm khá nhạt, chị đừng lo."),
+        ("Ms Wilma", "That is a relief, I will try it then.", "Vậy thì yên tâm rồi, tôi thử món đó vậy."),
+        # 40 comparing price before choosing
+        ("Ms Lan", "Which one is cheaper, the beef dish or the pork dish?", "Món bò hay món heo rẻ hơn vậy?"),
+        ("Ms Wilma", "The pork dish is a little cheaper, I just checked the board.", "Món heo rẻ hơn chút, tôi vừa xem bảng giá xong."),
+        ("Ms Lan", "Let us order the pork dish then.", "Vậy mình gọi món heo đi."),
+        # 41 changing the meal choice at the last moment
+        ("Ms Wilma", "Actually, can we change to the noodle soup instead?", "Thật ra, mình đổi sang phở được không?"),
+        ("Ms Lan", "Sure, that works fine for me too.", "Được chứ, tôi cũng thích món đó."),
+        ("Ms Wilma", "Great, let us tell the staff before they cook.", "Tuyệt, mình báo nhân viên trước khi họ nấu."),
+        # 42 asking to leave out a disliked ingredient
+        ("Ms Lan", "Can we skip the mushrooms? I do not really like them.", "Bỏ nấm ra được không? Tôi không thích lắm."),
+        ("Ms Wilma", "Of course, we can just ask them to leave it out.", "Được chứ, mình nhờ họ bỏ ra là được."),
+        ("Ms Lan", "Thank you, that would be perfect.", "Cảm ơn chị, vậy thì tuyệt quá."),
+        # 43 confirming the final order before it is placed
+        ("Ms Wilma", "So, to confirm, two bowls of noodles and one tea?", "Vậy để xác nhận, hai tô mì và một trà nhé?"),
+        ("Ms Lan", "Yes, that is exactly right, thank you.", "Đúng vậy, chính xác rồi, cảm ơn chị."),
     ],
 }

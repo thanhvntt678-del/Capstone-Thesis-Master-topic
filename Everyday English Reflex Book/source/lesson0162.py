@@ -193,7 +193,19 @@ LESSON_0162 = {
         ("Ms Lan", "Can you check if this message was flagged as important?", "Chị kiểm tra giúp tin nhắn này đã được đánh dấu quan trọng chưa được không?"),
         ("Ms Delphine", "Yes, it has the important star marked already.", "Có, đã đánh dấu sao quan trọng rồi."),
         ("Ms Lan", "Good, it should not get lost then.", "Tốt, vậy sẽ không bị thất lạc."),
-        # 36 closing on why checking messaging details matters
+        # 36 if the voice message recorded all the way through
+        ("Ms Delphine", "Can you check if my voice message actually recorded all the way through?", "Bạn kiểm tra giúp tin nhắn thoại của tôi có ghi âm trọn vẹn không được không?"),
+        ("Ms Lan", "Yes, it plays for the full forty seconds.", "Có, nghe đủ bốn mươi giây luôn."),
+        ("Ms Delphine", "Great, then she got the whole story.", "Tuyệt, vậy chị ấy nghe được hết câu chuyện rồi."),
+        # 37 if the verification code arrived by text message
+        ("Ms Lan", "Can you check if the verification code arrived by text message yet?", "Chị kiểm tra giúp mã xác minh đã gửi qua tin nhắn chưa được không?"),
+        ("Ms Delphine", "Yes, a six-digit code just came in.", "Có, mã sáu số vừa tới rồi."),
+        ("Ms Lan", "Perfect, I can log in before it expires.", "Tuyệt vời, vậy tôi đăng nhập kịp trước khi mã hết hạn."),
+        # 38 if the screen recording caught the whole video call
+        ("Ms Delphine", "Can you check if the screen recording caught the whole video call?", "Bạn kiểm tra giúp bản ghi màn hình có quay đủ cả cuộc gọi video không được không?"),
+        ("Ms Lan", "Yes, it starts right from the first minute.", "Có, bắt đầu ngay từ phút đầu tiên."),
+        ("Ms Delphine", "Wonderful, we will not miss any details then.", "Tuyệt vời, vậy sẽ không bỏ lỡ chi tiết nào."),
+        # 39 closing on why checking messaging details matters
         ("Ms Delphine", "Why does checking these messaging details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết nhắn tin này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our communication clear and stops important messages from getting lost or missed.", "Nó giúp giao tiếp rõ ràng và tránh tin nhắn quan trọng bị thất lạc hay bỏ lỡ."),
         ("Ms Delphine", "That is very true, checking first really does make messaging more reliable.", "Đúng vậy thật, kiểm tra trước thật sự giúp việc nhắn tin đáng tin cậy hơn."),
