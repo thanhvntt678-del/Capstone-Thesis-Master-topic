@@ -2,7 +2,41 @@
 
 Master reference: `source/CLAUDE_BOOK_MASTER_2000_LESSONS_FINAL_LOCKED.xlsx`
 (sheet `02_MASTER_2000_LESSONS` has the row-by-row Lesson ID / CEFR / domain /
-scenario / title / secondary-character spec for all 2000 lessons.)
+scenario / title / secondary-character spec for all 2000 lessons.
+Sheet `01_LEVEL_ROADMAP` has the per-CEFR-level page/word target: A0/Pre-A1
+[0001-0250] and A1 [0251-0600] = 5 English-only A4 pages/lesson,
+~1,000-1,200 words; A2 [0601-1000] through B2 [1701-2000] = 16 English-only
+A4 pages/lesson — the jump to 16 pages happens at Lesson 0601, not 0251.)
+
+## FINAL ADDITIONAL LOCK — cumulative book, continuous pagination, no blank pages
+(added 2026-09-11, permanent from here through Lesson 2000, does not replace
+any earlier rule): the deliverable is now ONE CONTINUOUS BOOK FILE, not a
+series of disconnected per-delivery docs. `source/build_master_book.py`
+opens the literal approved `lesson0001_approved.docx` as its base Document
+object (Lesson 0001 is never regenerated) and appends every lesson 0002
+through `LAST_LESSON` (a constant at the top of the script, bumped each
+time the book grows) directly into that same document, in strict order,
+with NO forced page breaks between lessons — only a small paragraph
+spacer — so Word's natural pagination decides where each lesson starts and
+no artificial blank/half-empty pages are created. One continuous footer /
+PAGE field covers the whole file. Output is saved to
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_XXXX.docx` (XXXX =
+`LAST_LESSON`), overwriting/superseding the previous cumulative file each
+time — this is the ONE deliverable to send at every checkpoint from now on.
+Before saving, the script runs and prints a full cumulative QC block
+(book start/end, total lessons, missing/duplicate lesson IDs, lesson
+order, whole-book duplicate-line check, per-lesson duplicate check,
+merge/page continuity, blank-page count) — if anything fails, the fix must
+be made and the script rerun before the file is sent. **The old per-block
+`deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_XXXX-YYYY.docx` files and
+`source/build_deliveryN.py` scripts are retired as the primary output**
+(kept in the repo as historical record only, not deleted, not updated
+further) — `build_master_book.py` alone is the build step from Lesson 0180
+onward. First cumulative master book built and verified: Lessons
+0001-0179, `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0179.docx`,
+213,672 total English learning words, FINAL CUMULATIVE QC: PASS (0
+missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0 blank
+pages, lesson order 0001→0179 verified).
 
 ## Status
 
