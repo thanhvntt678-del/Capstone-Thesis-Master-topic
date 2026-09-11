@@ -76,6 +76,19 @@ different lessons, always run a full whole-book cross-lesson duplicate
 check afterward — new content written in parallel without shared
 visibility WILL collide with existing lines elsewhere in the book.
 
+**Master book updated after Block 0180-0189:** every new lesson from
+0180 onward is written at ~42 scenes / 126 turns from the very first
+draft (matching the density that reliably reaches 5 real pages) and
+verified with `render_check.py` immediately, so no repair pass has been
+needed since. Current cumulative state: Lessons 0001-0189,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0189.docx`,
+257,434 total English learning words, 945 total English-only A4 pages
+(189 lessons × 5 pages each, all real-rendered and verified), 977
+actual rendered bilingual A4 pages (real Chrome render of the full
+cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson
+IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson order
+0001→0189 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -255,16 +268,31 @@ visibility WILL collide with existing lines elsewhere in the book.
   public transport, taxi & ride services, walking & getting around,
   weather & daily plans, daily routines, school & learning, workplace
   communication, and phone calls.
-  Next block: **0180-0189**, to start only after the user responds
+  **BLOCK 0180-0189 is now COMPLETE** (10/10 lessons, written and QC'd
+  in one pass; each lesson written at ~42 scenes / 126 turns from the
+  first draft — per the real-rendering lesson learned above — and every
+  one confirmed at exactly 5 real English-only pages with 0 internal or
+  cross-lesson duplicate lines before moving to the next). Lesson 0180
+  closed out the "asking for help with X" wave (messages & everyday
+  digital communication); Lessons 0181-0189 opened a new wave of
+  early-topic single-premise/change-of-choice revisits: your age,
+  saying sorry, the day of the week, opening or closing something,
+  where a family member is, asking what something is, and a change or
+  choice involving shopping & payments / clothing & personal items /
+  neighbourhood & directions.
+  Next block: **0190-0199**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0179** (secondary character Mr Reuben).
-  Domain "Communication", scenario "asking for help with phone calls".
-  Confirmed zero duplicate lines against the whole book, 0001-0179.
-- **Next lesson to write on NEXT: 0180** (A0/Pre-A1 — check the master
-  workbook row 181 for exact domain/scenario/title before writing). The
-  full cumulative names-used list for secondary characters (do not reuse
-  any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
+- **Last completed lesson: 0189** (secondary character Ms Eugenia).
+  Domain "Neighbourhood", scenario "a change or choice involving
+  neighbourhood & directions". Confirmed zero duplicate lines against
+  the whole book, 0001-0189, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0190** (A0/Pre-A1 — check the master
+  workbook row 191 for exact domain/scenario/title before writing;
+  write at ~42 scenes / 126 turns from the first draft and verify with
+  `source/render_check.py` immediately — do not assume word count alone
+  reaches 5 real pages). The full cumulative names-used list for
+  secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
   Robert, Natalie, Simon, Diana, George, Laura, Edward, Claire, Nathan,
   Karen, Patrick, Helen, Victor, Susan, Frank, Fiona, Adam, Wendy,
@@ -286,8 +314,10 @@ visibility WILL collide with existing lines elsewhere in the book.
   Marguerite, Quentin, Rosalie, Baldwin, Genevieve, Alistair, Marcella,
   Sylvester, Philomena, Corwin, Delphine, Tobias, Arabella, Jasper,
   Cecily, Lucian, Miranda, Bertrand, Florentine, Emrys, Hepzibah,
-  Valentine, Temperance, Crispin, Honoria, Sebastian, Euphemia, Reuben.
-  Pick a fresh name for Lesson 0180's secondary character and note the
+  Valentine, Temperance, Crispin, Honoria, Sebastian, Euphemia, Reuben,
+  Cyrus, Ottoline, Frederick, Constance, Algernon, Josephine, Benedict,
+  Clarabelle, Zachary, Eugenia.
+  Pick a fresh name for Lesson 0190's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
