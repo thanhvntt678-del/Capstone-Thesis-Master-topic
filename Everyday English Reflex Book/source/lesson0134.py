@@ -190,7 +190,31 @@ LESSON_0134 = {
         ("Ms Lan", "Do these jeans need hemming before you wear them?", "Cái quần jean này có cần lên lai trước khi mặc không?"),
         ("Ms Evangeline", "Yes, they are a little too long.", "Có, hơi dài quá."),
         ("Ms Lan", "I can hem those for you tonight.", "Tối nay tôi có thể lên lai giúp chị."),
-        # 36 closing on why routine clothing needs matter
+        # 36 if a swimsuit needs replacing before summer
+        ("Ms Evangeline", "Does your swimsuit need replacing before summer arrives?", "Đồ bơi của chị có cần thay trước khi vào hè không vậy?"),
+        ("Ms Lan", "Yes, the elastic has gone quite loose.", "Có, dây thun đã giãn khá nhiều rồi."),
+        ("Ms Evangeline", "Good thing summer is still a few weeks away.", "May là mùa hè còn vài tuần nữa."),
+        # 37 if a winter hat needs washing before storage
+        ("Ms Lan", "Does this winter hat need washing before it goes back in storage?", "Cái mũ mùa đông này có cần giặt trước khi cất kho không vậy?"),
+        ("Ms Evangeline", "Yes, it picked up quite a bit of dust.", "Có, nó bám khá nhiều bụi rồi."),
+        ("Ms Lan", "I will wash it gently by hand tonight.", "Tối nay tôi sẽ giặt tay nhẹ nhàng."),
+        # 38 if a backpack strap needs adjusting
+        ("Ms Evangeline", "Does your backpack strap need adjusting for your son?", "Dây đeo ba lô của con trai chị có cần chỉnh lại không vậy?"),
+        ("Ms Lan", "Yes, it is sitting a little too high on his shoulders.", "Có, nó hơi cao so với vai cháu."),
+        ("Ms Evangeline", "I can help loosen it for him.", "Tôi có thể giúp nới lỏng cho cháu."),
+        # 39 if a matching glove can be found
+        ("Ms Lan", "Could you help me find the matching pair to this glove?", "Chị giúp tôi tìm chiếc găng tay còn lại khớp với cái này được không?"),
+        ("Ms Evangeline", "Of course, let me check the coat pockets.", "Được chứ, để tôi kiểm tra túi áo khoác."),
+        ("Ms Lan", "Thank you, I always lose just one somehow.", "Cảm ơn chị, tôi cứ hay làm mất một chiếc kiểu gì đó."),
+        # 40 if an apron needs washing before cooking
+        ("Ms Evangeline", "Does your apron need washing before we start cooking?", "Tạp dề của chị có cần giặt trước khi mình bắt đầu nấu không vậy?"),
+        ("Ms Lan", "Yes, it still has yesterday's stains on it.", "Có, nó vẫn còn vết bẩn từ hôm qua."),
+        ("Ms Evangeline", "I have a spare one you can borrow.", "Tôi có cái dự phòng cho chị mượn."),
+        # 41 if a jewellery box needs sorting
+        ("Ms Lan", "Does your jewellery box need sorting through sometime soon?", "Hộp trang sức của chị có cần sắp xếp lại sớm không vậy?"),
+        ("Ms Evangeline", "Yes, the necklaces keep getting tangled together.", "Có, mấy sợi dây chuyền cứ rối vào nhau."),
+        ("Ms Lan", "I can help you untangle them this evening.", "Tối nay tôi có thể giúp chị gỡ rối."),
+        # 42 closing on why routine clothing needs matter
         ("Ms Evangeline", "Why does keeping up with these routine clothing needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu quần áo thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us feeling put together without any last-minute panic.", "Nó giúp mình luôn chỉn chu mà không phải hoảng loạn phút chót."),
         ("Ms Evangeline", "That is very true, a little upkeep really goes a long way.", "Đúng vậy thật, chăm chút một chút cũng có ích nhiều."),

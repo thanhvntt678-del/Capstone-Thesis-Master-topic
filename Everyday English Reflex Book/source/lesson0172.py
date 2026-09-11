@@ -190,7 +190,31 @@ LESSON_0172 = {
         ("Ms Lan", "Could you help me figure out where the shuttle bus stops?", "Chị giúp tôi biết xe đưa đón dừng ở đâu được không?"),
         ("Ms Hepzibah", "Yes, it picks up right outside gate three.", "Được, nó đón khách ngay ngoài cổng ba."),
         ("Ms Lan", "Good, I will wait there then.", "Tốt, tôi chờ ở đó."),
-        # 36 closing on why asking for help with public transport matters
+        # 36 reciprocal - offering to help a companion find their stop
+        ("Ms Lan", "Do you need any help figuring out where you should get off?", "Bạn có cần tôi giúp biết chỗ nào nên xuống không?"),
+        ("Ms Hepzibah", "Actually yes, I always mix up this stop with the next one.", "Thật ra là có, tôi hay nhầm trạm này với trạm kế tiếp."),
+        ("Ms Lan", "No problem, I will tell you exactly when to stand up.", "Không sao, tôi sẽ báo đúng lúc để bạn đứng dậy."),
+        # 37 asking whether pets are allowed on the train
+        ("Ms Hepzibah", "Could you help me find out if dogs are allowed on this train?", "Bạn giúp tôi tìm hiểu xem chó có được lên tàu này không được không?"),
+        ("Ms Lan", "Yes, small pets in a carrier are allowed in this car.", "Được, thú cưng nhỏ trong lồng được phép ở toa này."),
+        ("Ms Hepzibah", "Good, then my dog can travel with us today.", "Tốt, vậy chó của tôi có thể đi cùng hôm nay."),
+        # 38 understanding a contactless tap card
+        ("Ms Lan", "Could you help me understand how this contactless tap card works?", "Chị giúp tôi hiểu thẻ chạm không tiếp xúc này hoạt động sao được không?"),
+        ("Ms Hepzibah", "Yes, just tap it on the yellow reader as you board.", "Được, chỉ cần chạm vào đầu đọc màu vàng khi lên tàu."),
+        ("Ms Lan", "Good, that looks much faster than buying a paper ticket.", "Tốt, vậy nhanh hơn nhiều so với mua vé giấy."),
+        # 39 finding luggage storage lockers at the station
+        ("Ms Hepzibah", "Could you help me find the luggage lockers at this station?", "Bạn giúp tôi tìm tủ khóa hành lý ở nhà ga này được không?"),
+        ("Ms Lan", "Yes, they are near the south entrance, past the cafe.", "Được, chúng ở gần lối vào phía nam, qua khỏi quán cà phê."),
+        ("Ms Hepzibah", "Perfect, I will store my suitcase there for a few hours.", "Tuyệt vời, tôi sẽ gửi vali ở đó vài tiếng."),
+        # 40 finding out how often trains run on weekends
+        ("Ms Lan", "Could you help me find out how often trains run on weekends?", "Chị giúp tôi biết cuối tuần tàu chạy bao lâu một chuyến được không?"),
+        ("Ms Hepzibah", "Yes, they run every twenty minutes instead of every ten.", "Được, cuối tuần chạy mỗi hai mươi phút thay vì mười phút."),
+        ("Ms Lan", "Good to know, I will plan around that gap.", "Biết vậy cũng tốt, tôi sẽ tính toán theo khoảng cách đó."),
+        # 41 finding an outlet to charge a phone before boarding
+        ("Ms Hepzibah", "Could you help me find an outlet to charge my phone before boarding?", "Bạn giúp tôi tìm ổ cắm sạc điện thoại trước khi lên tàu được không?"),
+        ("Ms Lan", "Yes, there are charging points near the waiting benches.", "Được, có chỗ sạc gần khu ghế chờ đó."),
+        ("Ms Hepzibah", "Great, my battery was almost completely dead.", "Tuyệt, pin tôi sắp cạn sạch rồi."),
+        # 42 closing on why asking for help with public transport matters
         ("Ms Hepzibah", "Why does asking for help with public transport matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về phương tiện công cộng lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us time and helps us avoid getting lost or missing our stop.", "Nó giúp mình tiết kiệm thời gian và tránh bị lạc hay lỡ trạm."),
         ("Ms Hepzibah", "That is very true, asking for help really does make every trip smoother.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp mỗi chuyến đi trôi chảy hơn."),

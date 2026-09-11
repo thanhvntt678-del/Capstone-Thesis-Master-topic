@@ -207,7 +207,7 @@ LESSON_0071 = {
         # 40 declining a call politely mid-meeting
         ("Mr Harold", "Could you help me decline this call politely? I am in a meeting.", "Chị giúp tôi từ chối cuộc gọi này lịch sự được không? Tôi đang họp."),
         ("Ms Lan", "Just send a quick text saying you will call back later.", "Cứ nhắn tin nhanh nói sẽ gọi lại sau là được."),
-        ("Mr Harold", "Thank you, that sounds polite enough.", "Cảm ơn chị, nghe vậy lịch sự rồi."),
+        ("Mr Harold", "Thank you, a text message will not seem rude at all.", "Cảm ơn chị, nhắn tin vậy sẽ không nghe thô lỗ đâu."),
         # 41 checking call history for a specific date
         ("Ms Lan", "Can you help me check my call history for last Tuesday?", "Anh giúp tôi kiểm tra lịch sử cuộc gọi thứ Ba tuần trước được không?"),
         ("Mr Harold", "Scroll down, it shows calls sorted by date.", "Kéo xuống đi, nó hiện cuộc gọi sắp theo ngày đấy."),

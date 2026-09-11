@@ -193,7 +193,39 @@ LESSON_0108 = {
         ("Ms Lan", "I lost my whole draft message right before I could send it.", "Tôi mất hết bản nháp tin nhắn ngay trước khi kịp gửi."),
         ("Ms Millicent", "That is frustrating, take your time to write it again.", "Bực thật, chị cứ từ từ viết lại."),
         ("Ms Lan", "Thank you for your patience with me.", "Cảm ơn chị đã kiên nhẫn với tôi."),
-        # 36 explaining why re-reading a message before sending matters
+        # 36 a message reaction being misunderstood as something else
+        ("Ms Lan", "I think you misunderstood my heart reaction on your message.", "Tôi nghĩ chị hiểu nhầm biểu tượng trái tim tôi thả trên tin nhắn."),
+        ("Ms Millicent", "Oh, I thought it meant something different, let me ask.", "Ồ, tôi tưởng nó có ý khác, để tôi hỏi lại."),
+        ("Ms Lan", "It just meant I loved the photo, nothing more.", "Nó chỉ có nghĩa là tôi thích tấm ảnh thôi, không gì khác."),
+        # 37 a shared photo album invite not going through
+        ("Ms Millicent", "I think my shared photo album invite never reached you.", "Tôi nghĩ lời mời album ảnh chung của tôi không tới chị."),
+        ("Ms Lan", "Let me check my messages once more for it.", "Để tôi kiểm tra lại tin nhắn xem có không."),
+        ("Ms Millicent", "Let me just resend the invite to be safe.", "Để tôi gửi lại lời mời cho chắc."),
+        # 38 a contact saved under the wrong name entirely
+        ("Ms Lan", "I think I saved your number under the wrong name entirely.", "Tôi nghĩ mình đã lưu số của chị dưới một cái tên hoàn toàn khác."),
+        ("Ms Millicent", "That explains why you called me something odd.", "Thảo nào chị gọi tôi bằng cái tên lạ vậy."),
+        ("Ms Lan", "Sorry about that, fixing it right now.", "Xin lỗi chị, tôi sửa ngay bây giờ."),
+        # 39 a message accidentally sent in the wrong language by an app setting
+        ("Ms Millicent", "My phone's settings sent that message in the wrong language.", "Cài đặt điện thoại tôi đã gửi tin nhắn đó bằng ngôn ngữ khác."),
+        ("Ms Lan", "Ah, that explains why I could not read it.", "À, thảo nào tôi đọc không hiểu."),
+        ("Ms Millicent", "Sorry, let me resend it in English now.", "Xin lỗi chị, để tôi gửi lại bằng tiếng Anh."),
+        # 40 a calendar invite sent through chat with the wrong date
+        ("Ms Lan", "This calendar invite you sent through chat has the wrong date.", "Lời mời lịch chị gửi qua chat ghi sai ngày rồi."),
+        ("Ms Millicent", "Sorry, let me send the correct date right away.", "Xin lỗi chị, để tôi gửi lại ngày đúng ngay."),
+        ("Ms Lan", "Thank you, updating my calendar now.", "Cảm ơn chị, tôi cập nhật lịch ngay đây."),
+        # 41 a chat backup restoring old messages unexpectedly
+        ("Ms Millicent", "My chat backup just restored a bunch of old messages unexpectedly.", "Bản sao lưu chat của tôi vừa khôi phục một loạt tin nhắn cũ bất ngờ."),
+        ("Ms Lan", "That must feel strange scrolling through old chats.", "Chắc thấy lạ khi lướt lại mấy đoạn chat cũ."),
+        ("Ms Millicent", "It really does, some of them made me laugh.", "Đúng vậy thật, vài tin làm tôi bật cười."),
+        # 42 a message app crashing right before sending
+        ("Ms Lan", "My message app crashed right before I could send that.", "Ứng dụng nhắn tin của tôi bị treo ngay trước khi tôi kịp gửi."),
+        ("Ms Millicent", "Let me wait while you restart it.", "Để tôi chờ trong lúc chị khởi động lại."),
+        ("Ms Lan", "Thank you, sending it again now.", "Cảm ơn chị, giờ tôi gửi lại đây."),
+        # 43 two devices both getting the same message notification confusingly
+        ("Ms Millicent", "Both of my devices got the same message notification, it was confusing.", "Cả hai thiết bị của tôi đều nhận thông báo tin nhắn giống nhau, rối quá."),
+        ("Ms Lan", "That happens when both are logged into the same account.", "Vậy là do cả hai đều đăng nhập cùng một tài khoản."),
+        ("Ms Millicent", "Ah, that makes sense now, thank you.", "À, giờ hợp lý rồi, cảm ơn chị."),
+        # 44 explaining why re-reading a message before sending matters
         ("Ms Millicent", "Why does re-reading a message before sending matter so much to you?", "Vì sao việc đọc lại tin nhắn trước khi gửi lại quan trọng với chị vậy?"),
         ("Ms Lan", "It helps avoid small mistakes that can cause big misunderstandings.", "Nó giúp tránh những lỗi nhỏ có thể gây ra hiểu lầm lớn."),
         ("Ms Millicent", "That is good advice, I will start doing that too.", "Lời khuyên hay đấy, tôi cũng sẽ bắt đầu làm vậy."),

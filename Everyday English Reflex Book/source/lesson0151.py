@@ -189,7 +189,27 @@ LESSON_0151 = {
         ("Ms Lan", "Can you check the delivery date for this order?", "Anh kiểm tra giúp ngày giao hàng cho đơn này được không?"),
         ("Mr Peregrine", "Yes, it should arrive by next Tuesday.", "Được, dự kiến tới trước thứ Ba tới."),
         ("Ms Lan", "Good, that works well for us.", "Tốt, vậy hợp với mình lắm."),
-        # 36 closing on why checking details before shopping matters
+        # 36 a check that comes back negative
+        ("Ms Lan", "Can you check if this shop accepts foreign currency?", "Anh kiểm tra giúp cửa hàng này có nhận ngoại tệ không được không?"),
+        ("Mr Peregrine", "No, unfortunately they only accept local currency here.", "Không, tiếc là ở đây chỉ nhận tiền nội tệ thôi."),
+        ("Ms Lan", "That is fine, I have local cash with me anyway.", "Không sao, dù gì tôi cũng có mang tiền mặt nội tệ."),
+        # 37 a price discrepancy between the tag and the register
+        ("Mr Peregrine", "Can you check why the register shows a different price from the tag?", "Bạn kiểm tra giúp tại sao máy tính tiền hiện giá khác với nhãn giá được không?"),
+        ("Ms Lan", "Let me ask the cashier, the tag might be outdated.", "Để tôi hỏi thu ngân xem, có thể nhãn giá cũ rồi."),
+        ("Mr Peregrine", "Good idea, better to clear that up now.", "Ý hay, làm rõ ngay bây giờ cho chắc."),
+        # 38 checking an item for damage before buying
+        ("Ms Lan", "Can you check this box for any damage before we buy it?", "Anh kiểm tra giúp hộp này có bị hư gì không trước khi mình mua được không?"),
+        ("Mr Peregrine", "Yes, I checked, and it looks perfectly fine.", "Được, tôi kiểm tra rồi, hộp còn nguyên vẹn."),
+        ("Ms Lan", "Great, let us take this one then.", "Tuyệt, vậy mình lấy cái này."),
+        # 39 checking whether payment can be split
+        ("Mr Peregrine", "Can you check if I can pay part by card and part by cash?", "Bạn kiểm tra giúp tôi có thể trả một phần bằng thẻ, một phần bằng tiền mặt không được không?"),
+        ("Ms Lan", "Yes, the cashier said split payment is allowed here.", "Được, thu ngân nói ở đây cho phép trả tách như vậy."),
+        ("Mr Peregrine", "Good, that works better for my budget.", "Tốt, vậy hợp với ngân sách của tôi hơn."),
+        # 40 checking a student discount
+        ("Ms Lan", "Can you check if a student discount applies to this ticket?", "Anh kiểm tra giúp vé này có giảm giá cho sinh viên không được không?"),
+        ("Mr Peregrine", "Yes, with a student ID you get fifteen percent off.", "Được, có thẻ sinh viên thì giảm mười lăm phần trăm."),
+        ("Ms Lan", "Great, I have my student ID right here.", "Tuyệt, thẻ sinh viên của tôi đây rồi."),
+        # 41 closing on why checking details before shopping matters
         ("Mr Peregrine", "Why does checking these details before shopping matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết này trước khi mua sắm lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us money and helps us avoid mistakes we might regret later.", "Nó giúp mình tiết kiệm tiền và tránh những sai lầm có thể hối tiếc sau này."),
         ("Mr Peregrine", "That is very true, checking first really does make shopping easier.", "Đúng vậy thật, kiểm tra trước thật sự giúp việc mua sắm dễ dàng hơn."),

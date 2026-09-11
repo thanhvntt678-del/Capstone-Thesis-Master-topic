@@ -187,7 +187,31 @@ LESSON_0171 = {
         ("Ms Lan", "Could you help me find directions to that new store?", "Anh giúp tôi tìm đường tới cửa hàng mới đó được không?"),
         ("Mr Emrys", "Yes, just follow this road until the second light.", "Được, cứ đi theo đường này tới đèn giao thông thứ hai."),
         ("Ms Lan", "Good, I will follow those directions now.", "Tốt, tôi đi theo hướng dẫn đó ngay."),
-        # 36 closing on why asking for help around the neighbourhood matters
+        # 36 finding a new neighbour's apartment number
+        ("Ms Lan", "Could you help me find out which apartment number belongs to our new neighbour?", "Anh giúp tôi tìm số căn hộ của hàng xóm mới được không?"),
+        ("Mr Emrys", "Yes, the building directory in the lobby lists it as 4C.", "Được, bảng danh sách ở sảnh ghi là căn 4C."),
+        ("Ms Lan", "Good, I will drop off a welcome card there today.", "Tốt, hôm nay tôi ghé để lại thiệp chào mừng."),
+        # 37 reciprocal - offering help around the building
+        ("Mr Emrys", "Is there anything around the building you need a hand with today?", "Hôm nay bạn có cần tôi giúp gì quanh tòa nhà không?"),
+        ("Ms Lan", "Actually yes, my porch light bulb burned out last night.", "Thật ra là có, bóng đèn hiên nhà tôi cháy tối qua rồi."),
+        ("Mr Emrys", "I have a spare bulb, let me bring it over now.", "Tôi có bóng dự phòng, để tôi mang qua ngay."),
+        # 38 remembering the trash pickup schedule
+        ("Ms Lan", "Could you help me remember which days the trash truck comes this week?", "Anh giúp tôi nhớ tuần này xe rác đến ngày nào được không?"),
+        ("Mr Emrys", "Yes, it comes every Tuesday and Friday morning.", "Được, xe rác đến mỗi sáng thứ Ba và thứ Sáu."),
+        ("Ms Lan", "Good, I will set the bins out tonight then.", "Tốt, vậy tối nay tôi để thùng rác ra ngoài."),
+        # 39 checking the start time of a neighbourhood meeting
+        ("Mr Emrys", "Could you help me find out what time the neighbourhood meeting starts tonight?", "Bạn giúp tôi biết cuộc họp khu phố tối nay bắt đầu mấy giờ được không?"),
+        ("Ms Lan", "Yes, the flyer says seven o'clock in the community room.", "Được, tờ rơi ghi bảy giờ tối ở phòng cộng đồng."),
+        ("Mr Emrys", "Good, that gives me enough time to finish dinner first.", "Tốt, vậy đủ thời gian để tôi ăn tối xong trước."),
+        # 40 remembering where a spare key is kept for emergencies
+        ("Ms Lan", "Could you help me remember where you keep the spare key, just in case?", "Anh giúp tôi nhớ chỗ anh giấu chìa khóa dự phòng, phòng khi cần được không?"),
+        ("Mr Emrys", "Yes, it is hidden under the flowerpot by the door.", "Được, nó giấu dưới chậu hoa cạnh cửa."),
+        ("Ms Lan", "Good, I will remember that in case of an emergency.", "Tốt, tôi sẽ nhớ chỗ đó phòng khi khẩn cấp."),
+        # 41 investigating a strange noise together
+        ("Mr Emrys", "Could you help me figure out where that strange noise outside is coming from?", "Bạn giúp tôi tìm xem tiếng động lạ ngoài kia phát ra từ đâu được không?"),
+        ("Ms Lan", "Yes, it sounds like it is coming from the garage.", "Được, nghe như phát ra từ nhà xe đó."),
+        ("Mr Emrys", "Good, let us go check it out together now.", "Tốt, mình cùng ra xem thử ngay đi."),
+        # 42 closing on why asking for help around the neighbourhood matters
         ("Mr Emrys", "Why does asking for help around the neighbourhood matter so much anyway?", "Vậy vì sao nhờ giúp đỡ quanh khu phố lại quan trọng đến thế?"),
         ("Ms Lan", "It brings neighbours closer together and makes everyday problems much easier to solve.", "Nó giúp hàng xóm gắn kết hơn và làm những vấn đề hằng ngày dễ giải quyết hơn nhiều."),
         ("Mr Emrys", "That is very true, helping each other really does make the whole neighbourhood feel like home.", "Đúng vậy thật, giúp đỡ lẫn nhau thật sự làm cả khu phố cảm giác như một mái nhà."),

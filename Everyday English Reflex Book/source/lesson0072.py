@@ -214,7 +214,7 @@ LESSON_0072 = {
         ("Ms Gloria", "Tap your profile, then edit the name field.", "Chạm vào hồ sơ, rồi sửa ô tên đấy."),
         ("Ms Lan", "Thank you, that name suits me much better.", "Cảm ơn chị, tên đó hợp với tôi hơn nhiều."),
         # 42 understanding a broken image in a chat
-        ("Ms Gloria", "Could you help me? This photo in the chat will not load at all.", "Chị giúp tôi được không? Tấm ảnh trong đoạn chat này không tải được."),
+        ("Ms Gloria", "This photo in the chat will not load at all, can you help me?", "Tấm ảnh trong đoạn chat này không tải được, chị giúp tôi được không?"),
         ("Ms Lan", "Ask them to resend it, the file might be corrupted.", "Nhờ họ gửi lại đi, tệp có thể bị lỗi rồi."),
         ("Ms Gloria", "Thank you, I will ask her to resend it.", "Cảm ơn chị, tôi sẽ nhờ cô ấy gửi lại."),
     ],

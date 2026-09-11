@@ -191,5 +191,37 @@ LESSON_0088 = {
         ("Ms Marilyn", "Why did today's whole plan end up changing so much?", "Vì sao kế hoạch hôm nay lại thay đổi nhiều vậy?"),
         ("Ms Lan", "The client's priorities shifted unexpectedly this morning.", "Ưu tiên của khách hàng thay đổi bất ngờ sáng nay."),
         ("Ms Marilyn", "Ah, no wonder the day felt so hectic, thank you.", "À, thảo nào hôm nay bận rộn thế, cảm ơn chị."),
+        # 37 asking a colleague for help with a task
+        ("Ms Marilyn", "Could you help me with this report? I am a bit stuck.", "Chị giúp tôi với bản báo cáo này được không? Tôi hơi bí."),
+        ("Ms Lan", "Sure, let me take a look at it now.", "Được, để tôi xem qua ngay."),
+        ("Ms Marilyn", "Thank you, I really appreciate it.", "Cảm ơn chị, tôi thật sự biết ơn."),
+        # 38 apologising for being late to a meeting
+        ("Ms Lan", "Sorry I am late, the previous call ran over.", "Xin lỗi tôi đến trễ, cuộc gọi trước kéo dài quá giờ."),
+        ("Ms Marilyn", "No problem, we just started a few minutes ago.", "Không sao, tụi tôi mới bắt đầu vài phút thôi."),
+        ("Ms Lan", "Thank you for understanding, let me catch up quickly.", "Cảm ơn chị đã thông cảm, để tôi bắt kịp nhanh."),
+        # 39 asking to reschedule a call
+        ("Ms Marilyn", "Could we move our call to three instead of two?", "Mình dời cuộc gọi sang ba giờ thay vì hai giờ được không?"),
+        ("Ms Lan", "That works fine, I will update the calendar.", "Được đấy, tôi sẽ cập nhật lịch."),
+        ("Ms Marilyn", "Thanks, that gives me time to prepare.", "Cảm ơn chị, vậy tôi có thời gian chuẩn bị."),
+        # 40 asking a colleague to review your work
+        ("Ms Lan", "Would you mind reviewing this before I send it?", "Chị xem qua giúp tôi trước khi tôi gửi được không?"),
+        ("Ms Marilyn", "Of course, send it over and I will check now.", "Được chứ, gửi qua đi, tôi kiểm tra ngay."),
+        ("Ms Lan", "Thank you, your feedback always helps a lot.", "Cảm ơn chị, góp ý của chị luôn hữu ích lắm."),
+        # 41 thanking a colleague for covering for you
+        ("Ms Marilyn", "Thank you for covering my calls yesterday afternoon.", "Cảm ơn chị đã trực điện thoại giúp tôi chiều qua."),
+        ("Ms Lan", "It was no trouble at all, happy to help.", "Không phiền gì đâu, giúp được là vui rồi."),
+        ("Ms Marilyn", "I owe you one, seriously.", "Tôi nợ chị một lần đấy, thật lòng."),
+        # 42 asking about the status of a project
+        ("Ms Lan", "How is the new project coming along so far?", "Dự án mới tiến triển đến đâu rồi vậy?"),
+        ("Ms Marilyn", "Right on schedule, we finish the first phase Friday.", "Đúng tiến độ, thứ Sáu tụi tôi xong giai đoạn đầu."),
+        ("Ms Lan", "Great to hear, keep up the good work.", "Nghe hay quá, cố lên nhé."),
+        # 43 requesting a day off
+        ("Ms Marilyn", "Could I take Friday off for a family matter?", "Tôi xin nghỉ thứ Sáu vì việc gia đình được không?"),
+        ("Ms Lan", "Sure, I will cover your tasks that day.", "Được chứ, hôm đó tôi lo giúp việc của chị."),
+        ("Ms Marilyn", "Thank you so much, that really helps.", "Cảm ơn chị nhiều lắm, vậy giúp tôi rất nhiều."),
+        # 44 giving a quick status update
+        ("Ms Lan", "Just a quick update, the client approved the proposal.", "Cập nhật nhanh, khách hàng đã duyệt đề xuất rồi."),
+        ("Ms Marilyn", "Wonderful news, thanks for letting me know so fast.", "Tin tuyệt vời, cảm ơn chị đã báo nhanh vậy."),
+        ("Ms Lan", "Of course, I wanted you to hear it right away.", "Không có gì, tôi muốn chị biết ngay lập tức."),
     ],
 }

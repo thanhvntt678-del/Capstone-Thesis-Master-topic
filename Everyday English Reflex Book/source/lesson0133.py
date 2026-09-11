@@ -192,7 +192,31 @@ LESSON_0133 = {
         ("Ms Lan", "Are the shopping bags still in the car from yesterday?", "Túi mua sắm từ hôm qua còn ở trong xe không?"),
         ("Mr Ezekiel", "Yes, I forgot to bring them inside.", "Có, tôi quên mang vào nhà."),
         ("Ms Lan", "No worries, we can grab them now.", "Không sao đâu, mình lấy vào bây giờ."),
-        # 36 closing on why routine shopping needs matter
+        # 36 if store credit from a return arrived yet
+        ("Mr Ezekiel", "Did the store credit from last week's return arrive yet?", "Tiền hoàn trả từ lần trả hàng tuần trước đã về chưa vậy?"),
+        ("Ms Lan", "Yes, it showed up in the app this morning.", "Rồi, sáng nay tôi thấy hiện trong ứng dụng."),
+        ("Mr Ezekiel", "Good, we can use that on today's shopping then.", "Tốt, vậy mình dùng khoản đó cho lần mua sắm hôm nay."),
+        # 37 if a QR code payment worked at checkout
+        ("Ms Lan", "Did the QR code payment work properly at checkout?", "Thanh toán bằng mã QR lúc thanh toán có ổn không vậy?"),
+        ("Mr Ezekiel", "Yes, it scanned on the very first try.", "Có, quét ngay lần đầu luôn."),
+        ("Ms Lan", "Perfect, no fumbling with cash today.", "Hoàn hảo, hôm nay khỏi lục ví tiền mặt."),
+        # 38 if a gift card balance needs checking
+        ("Mr Ezekiel", "Does the gift card balance need checking before we buy this?", "Số dư thẻ quà tặng có cần kiểm tra trước khi mình mua món này không vậy?"),
+        ("Ms Lan", "Yes, let me check it on my phone first.", "Có, để tôi kiểm tra trên điện thoại trước đã."),
+        ("Mr Ezekiel", "Good idea, better to know before we pay.", "Ý hay, biết trước khi trả tiền vẫn hơn."),
+        # 39 if a multi-pack gives a bulk discount
+        ("Ms Lan", "Does buying the multi-pack give us a bulk discount today?", "Mua gói nhiều món hôm nay có được giảm giá theo số lượng không vậy?"),
+        ("Mr Ezekiel", "Yes, it works out cheaper per bottle.", "Có, tính ra mỗi chai rẻ hơn."),
+        ("Ms Lan", "Good, let us grab the multi-pack then.", "Tốt, vậy mình lấy gói nhiều món đi."),
+        # 40 if a return needs dropping at customer service
+        ("Mr Ezekiel", "Does this return need dropping off at customer service?", "Món trả hàng này có cần mang tới quầy chăm sóc khách hàng không vậy?"),
+        ("Ms Lan", "Yes, the desk is right near the entrance.", "Có, quầy đó ở ngay gần lối vào."),
+        ("Mr Ezekiel", "I will drop it off on our way out.", "Tôi sẽ mang tới đó lúc mình ra về."),
+        # 41 if a price-match request was submitted
+        ("Ms Lan", "Was the price-match request submitted for that item?", "Yêu cầu khớp giá cho món đó đã gửi chưa vậy?"),
+        ("Mr Ezekiel", "Yes, I sent it in through the app yesterday.", "Rồi, hôm qua tôi gửi qua ứng dụng rồi."),
+        ("Ms Lan", "Good, hopefully they approve it soon.", "Tốt, mong họ duyệt sớm."),
+        # 42 closing on why routine shopping needs matter
         ("Mr Ezekiel", "Why does keeping up with these routine shopping needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu mua sắm thường xuyên như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our home running smoothly without any sudden surprises.", "Nó giúp nhà mình vận hành suôn sẻ mà không có bất ngờ nào."),
         ("Mr Ezekiel", "That is very true, staying organised really pays off.", "Đúng vậy thật, sắp xếp gọn gàng thật sự có ích."),

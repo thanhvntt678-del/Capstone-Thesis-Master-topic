@@ -197,7 +197,7 @@ LESSON_0069 = {
         ("Mr Neil", "Grammar counts for half, and ideas count for the rest.", "Ngữ pháp chiếm một nửa, còn lại là ý tưởng đấy."),
         ("Ms Lan", "Thank you, I will focus on both parts now.", "Cảm ơn anh, giờ tôi sẽ chú trọng cả hai phần."),
         # 38 finding a lost pencil case
-        ("Mr Neil", "Could you help me? I cannot find my pencil case anywhere.", "Chị giúp tôi được không? Tôi tìm hộp bút mãi không ra."),
+        ("Mr Neil", "I cannot find my pencil case anywhere, can you help me look?", "Tôi tìm hộp bút mãi không ra, chị giúp tôi tìm được không?"),
         ("Ms Lan", "Check under your chair, I saw something there.", "Xem dưới ghế chị ngồi đi, tôi thấy có gì đó ở đó."),
         ("Mr Neil", "Found it, thank you for noticing that.", "Tìm thấy rồi, cảm ơn chị đã để ý."),
         # 39 understanding an idiom in the reading text
