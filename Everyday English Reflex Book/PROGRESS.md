@@ -38,6 +38,44 @@ onward. First cumulative master book built and verified: Lessons
 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0 blank
 pages, lesson order 0001→0179 verified).
 
+**Real-rendering page audit and per-lesson repair (2026-09-11, same day):**
+the ~26.6-paragraph-units-per-page heuristic used for all prior page-count
+estimates turned out to be wrong for the 36-scene/108-turn lesson format
+used since Lesson 0008 — real rendering (headless Chromium via
+`source/render_check.py`, calibrated against the approved Lesson 0001
+which renders to exactly 5 pages) showed Lessons 0008-0179 (172 lessons)
+each independently rendered to only **4** English-only A4 pages, not 5,
+despite meeting the word-count target. Root cause: Lesson 0001's format
+(132 short turns) has more fixed per-paragraph spacing overhead per word
+than the later 108-turn format, so the later format packs more words per
+page and falls short on page count even with more total words. Installed
+`fonts-crosextra-carlito` (exact Calibri metric clone) to remove font-
+substitution uncertainty from the measurement before trusting it.
+Repaired all 172 lessons by dispatching 8 parallel agents (each assigned
+a contiguous lesson range) to add genuine new communicative scenes (not
+formatting changes, not padding) until each lesson independently reached
+>=5 real pages, verified via `render_check.py` after every edit. This
+surfaced 58 cross-lesson duplicate lines afterward (agents writing new
+content in parallel without visibility into each other's work, or into
+the rest of the 213k-word book) — all fixed in a consolidated pass by
+rewording the later-appearing line with scene-specific detail, then the
+whole-book check was rerun clean. Final state: all 179 lessons render to
+exactly 5 real English-only A4 pages each (895 total), 0 cross-lesson
+duplicates, 242,981 total English learning words. Master book rebuilt
+and the real bilingual page count re-measured by rendering the full
+cumulative HTML through the same Chromium pipeline: **925 actual
+rendered bilingual A4 pages** for Lessons 0001-0179.
+**Lesson learned (important, applies to every future lesson):** the
+paragraph-count/word-count heuristic is NOT a reliable proxy for real
+page count when the turn-count-per-lesson format differs from the
+approved Lesson 0001's structure — always verify new lessons against
+`source/render_check.py` (real headless-Chrome rendering, not an
+estimate) rather than assuming word count alone satisfies the 5-page
+target. Also: when dispatching multiple parallel agents to edit
+different lessons, always run a full whole-book cross-lesson duplicate
+check afterward — new content written in parallel without shared
+visibility WILL collide with existing lines elsewhere in the book.
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
