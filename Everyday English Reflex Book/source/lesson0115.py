@@ -184,7 +184,39 @@ LESSON_0115 = {
         ("Ms Lan", "Can this shop deliver an order on the same day?", "Cửa hàng này giao hàng trong ngày được không?"),
         ("Mr Barnaby", "Yes, same-day delivery is available before noon.", "Có, giao hàng trong ngày nếu đặt trước buổi trưa."),
         ("Ms Lan", "Perfect, I will order right now then.", "Hoàn hảo, vậy tôi đặt ngay bây giờ."),
-        # 36 closing on why simple shopping questions matter
+        # 36 asking if a store price-matches other stores
+        ("Ms Lan", "Does this shop price-match other stores nearby?", "Cửa hàng này có khớp giá với cửa hàng khác gần đây không?"),
+        ("Mr Barnaby", "Yes, just show us the other price.", "Có, chị chỉ cần cho xem giá bên kia."),
+        ("Ms Lan", "Great, I have a screenshot right here.", "Tuyệt, tôi có ảnh chụp màn hình ngay đây."),
+        # 37 asking if there is a minimum for card payment
+        ("Mr Barnaby", "Is there a minimum amount needed for card payment?", "Thanh toán thẻ có yêu cầu mức tối thiểu không?"),
+        ("Ms Lan", "Yes, the minimum is five dollars.", "Có, mức tối thiểu là năm đô."),
+        ("Mr Barnaby", "Alright, I will add one more item then.", "Được, vậy tôi lấy thêm một món nữa."),
+        # 38 asking for a paper bag instead of plastic
+        ("Ms Lan", "Could I have a paper bag instead of plastic, please?", "Tôi xin túi giấy thay vì túi nhựa được không?"),
+        ("Mr Barnaby", "Of course, here is a paper bag for you.", "Được chứ, đây là túi giấy cho chị."),
+        ("Ms Lan", "Thank you, that is better for the environment.", "Cảm ơn anh, vậy tốt cho môi trường hơn."),
+        # 39 asking if a gift can be shipped to another address
+        ("Mr Barnaby", "Can this gift be shipped directly to another address?", "Món quà này có thể giao thẳng đến địa chỉ khác không?"),
+        ("Ms Lan", "Yes, just write the address on this form.", "Có, anh chỉ cần ghi địa chỉ vào mẫu này."),
+        ("Mr Barnaby", "Perfect, my sister will love this.", "Hoàn hảo, em gái tôi sẽ thích lắm."),
+        # 40 asking about a student discount
+        ("Ms Lan", "Do you offer any discount for students here?", "Cửa hàng có giảm giá cho sinh viên không?"),
+        ("Mr Barnaby", "Yes, ten percent off with a valid student card.", "Có, giảm mười phần trăm nếu có thẻ sinh viên."),
+        ("Ms Lan", "Wonderful, let me show you my card.", "Tuyệt quá, để tôi cho anh xem thẻ."),
+        # 41 asking if cash back is available
+        ("Mr Barnaby", "Is cash back available when I pay by card?", "Có rút tiền mặt khi thanh toán thẻ không?"),
+        ("Ms Lan", "Yes, up to twenty dollars cash back.", "Có, rút được tối đa hai mươi đô."),
+        ("Mr Barnaby", "That is handy, I will take ten.", "Vậy tiện lắm, tôi lấy mười đô thôi."),
+        # 42 asking if a display item can be bought
+        ("Ms Lan", "Could I buy this display item instead of a boxed one?", "Tôi mua món hàng trưng bày này thay vì hộp mới được không?"),
+        ("Mr Barnaby", "Sure, I can give you a small discount for it.", "Được chứ, tôi có thể giảm giá nhỏ cho món này."),
+        ("Ms Lan", "That works well for me, thank you.", "Vậy hợp với tôi, cảm ơn anh."),
+        # 43 asking about a price after using a promo code
+        ("Mr Barnaby", "What is the final price after using this promo code?", "Giá cuối cùng sau khi dùng mã giảm giá này là bao nhiêu?"),
+        ("Ms Lan", "It comes to eighteen dollars after the code.", "Sau khi áp mã là mười tám đô."),
+        ("Mr Barnaby", "Great, that code really helped.", "Tốt quá, mã đó giúp được nhiều đấy."),
+        # 44 closing on why simple shopping questions matter
         ("Mr Barnaby", "Why do simple shopping questions like these matter so much anyway?", "Vậy vì sao những câu hỏi mua sắm đơn giản như vầy lại quan trọng đến thế?"),
         ("Ms Lan", "They help us shop confidently without any confusion at all.", "Chúng giúp mình mua sắm tự tin mà không hề bối rối."),
         ("Mr Barnaby", "That is very true, small questions save a lot of trouble.", "Đúng vậy thật, những câu hỏi nhỏ giúp tránh được rất nhiều rắc rối."),
