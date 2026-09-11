@@ -184,7 +184,39 @@ LESSON_0114 = {
         ("Ms Lan", "How would I ask for water just to wash my hands?", "Tôi nên xin nước chỉ để rửa tay thế nào?"),
         ("Ms Fenella", "You can ask where can I wash my hands with water.", "Chị có thể hỏi where can I wash my hands with water."),
         ("Ms Lan", "Where can I wash my hands with water, very practical.", "Where can I wash my hands with water, thực tế lắm."),
-        # 36 closing on why asking for water politely matters
+        # 36 asking for water while waiting at a car wash
+        ("Ms Lan", "How should I ask for water while waiting at the car wash?", "Tôi nên xin nước khi chờ ở tiệm rửa xe thế nào?"),
+        ("Ms Fenella", "You can simply ask is there any water while I wait.", "Chị có thể hỏi is there any water while I wait."),
+        ("Ms Lan", "Is there any water while I wait, easy to ask.", "Is there any water while I wait, dễ hỏi thật."),
+        # 37 asking for water for a musician right after a show
+        ("Ms Fenella", "What should a singer say needing water right after a show?", "Ca sĩ nên nói gì khi cần nước ngay sau buổi diễn?"),
+        ("Ms Lan", "You can say I badly need some water backstage.", "Chị có thể nói I badly need some water backstage."),
+        ("Ms Fenella", "I badly need some water backstage, very direct.", "I badly need some water backstage, rất thẳng thắn."),
+        # 38 asking for water during a long photo shoot
+        ("Ms Lan", "How would I ask for water during a long photo shoot?", "Tôi nên xin nước trong một buổi chụp ảnh dài thế nào?"),
+        ("Ms Fenella", "You can quietly ask could someone bring some water over.", "Chị có thể hỏi nhỏ could someone bring some water over."),
+        ("Ms Lan", "Could someone bring some water over, discreet enough.", "Could someone bring some water over, kín đáo vừa đủ."),
+        # 39 asking for water right after doing yoga
+        ("Ms Fenella", "What can I say if I need water right after yoga?", "Tôi nên nói gì nếu cần nước ngay sau khi tập yoga?"),
+        ("Ms Lan", "You can say some water would be great right now.", "Chị có thể nói some water would be great right now."),
+        ("Ms Fenella", "Some water would be great right now, perfect timing.", "Some water would be great right now, đúng lúc quá."),
+        # 40 asking for water quietly inside an art gallery
+        ("Ms Lan", "How would I quietly ask for water inside an art gallery?", "Tôi nên xin nước lặng lẽ trong phòng triển lãm nghệ thuật thế nào?"),
+        ("Ms Fenella", "A soft is there water somewhere here usually works.", "Một câu is there water somewhere here nhẹ nhàng thường được."),
+        ("Ms Lan", "Is there water somewhere here, perfectly quiet.", "Is there water somewhere here, đủ nhỏ nhẹ."),
+        # 41 asking for water right after a fire drill
+        ("Ms Fenella", "What can I say if I need water right after a fire drill?", "Tôi nên nói gì nếu cần nước ngay sau buổi diễn tập cháy?"),
+        ("Ms Lan", "You can say that drill made me so thirsty.", "Chị có thể nói that drill made me so thirsty."),
+        ("Ms Fenella", "That drill made me so thirsty, very relatable.", "That drill made me so thirsty, ai cũng hiểu được."),
+        # 42 asking for water for a swollen throat after shouting
+        ("Ms Lan", "How would I ask for water after shouting too much?", "Tôi nên xin nước sau khi la hét nhiều thế nào?"),
+        ("Ms Fenella", "You can say my throat really needs some water.", "Chị có thể nói my throat really needs some water."),
+        ("Ms Lan", "My throat really needs some water, very fitting.", "My throat really needs some water, đúng tình huống lắm."),
+        # 43 asking for water at a night market stall
+        ("Ms Fenella", "What should I say asking a night market stall for water?", "Tôi nên nói gì khi xin nước ở quầy chợ đêm?"),
+        ("Ms Lan", "You can ask do you sell bottled water here.", "Chị có thể hỏi do you sell bottled water here."),
+        ("Ms Fenella", "Do you sell bottled water here, very practical.", "Do you sell bottled water here, thực tế lắm."),
+        # 44 closing on why asking for water politely matters
         ("Ms Fenella", "Why does knowing how to ask for water politely matter so much anyway?", "Vậy vì sao biết cách xin nước lịch sự lại quan trọng đến thế?"),
         ("Ms Lan", "It is such a small thing, but it shows good manners everywhere.", "Đó là điều nhỏ thôi, nhưng thể hiện phép lịch sự ở khắp mọi nơi."),
         ("Ms Fenella", "That is very true, small words carry a lot of meaning.", "Đúng vậy thật, những lời nhỏ mang nhiều ý nghĩa."),

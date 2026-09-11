@@ -194,7 +194,27 @@ LESSON_0161 = {
         ("Ms Lan", "Can you check if the phone settings block spam calls now?", "Anh kiểm tra giúp cài đặt điện thoại bây giờ có chặn cuộc gọi rác không được không?"),
         ("Mr Corwin", "Yes, the spam filter is switched on.", "Có, bộ lọc cuộc gọi rác đã bật rồi."),
         ("Ms Lan", "Good, fewer annoying calls then.", "Tốt, vậy đỡ bị làm phiền hơn."),
-        # 36 closing on why checking phone call details matters
+        # 36 checking if it is too late to call
+        ("Ms Lan", "Can you check if it is too late to call Mom right now?", "Anh kiểm tra giúp bây giờ gọi mẹ có trễ quá không được không?"),
+        ("Mr Corwin", "No, it is only eight, that should still be fine.", "Không, mới tám giờ thôi, vẫn ổn mà."),
+        ("Ms Lan", "Good, I will call her now then.", "Tốt, vậy tôi gọi mẹ ngay."),
+        # 37 checking if a call should be redialed because of a bad connection
+        ("Mr Corwin", "Can you check if I need to call back because the line kept cutting out?", "Bạn kiểm tra giúp tôi có cần gọi lại vì đường truyền cứ bị ngắt không được không?"),
+        ("Ms Lan", "Yes, better to call back, it cut out three times.", "Có, nên gọi lại, nó bị ngắt tới ba lần rồi."),
+        ("Mr Corwin", "Good idea, I will try again in a minute.", "Ý hay, lát nữa tôi thử gọi lại."),
+        # 38 checking that a message was left for someone unavailable
+        ("Ms Lan", "Can you check if we left a message since he did not answer?", "Anh kiểm tra giúp mình đã để lại tin nhắn chưa vì anh ấy không bắt máy được không?"),
+        ("Mr Corwin", "Yes, I left a short message asking him to call back.", "Có, tôi để lại tin nhắn ngắn nhờ anh ấy gọi lại."),
+        ("Ms Lan", "Good, now we just wait for his reply.", "Tốt, giờ mình chỉ cần chờ anh ấy phản hồi."),
+        # 39 checking the area code before dialing another city
+        ("Mr Corwin", "Can you check the area code before I call that number in Da Nang?", "Bạn kiểm tra giúp mã vùng trước khi tôi gọi số ở Đà Nẵng được không?"),
+        ("Ms Lan", "Yes, it starts with zero two three six.", "Được, bắt đầu bằng không hai ba sáu."),
+        ("Mr Corwin", "Good, I will add that in front then.", "Tốt, vậy tôi thêm số đó vào trước."),
+        # 40 checking if it is too early to call
+        ("Ms Lan", "Can you check if it is too early to call the office right now?", "Anh kiểm tra giúp bây giờ gọi văn phòng có sớm quá không được không?"),
+        ("Mr Corwin", "Yes, they do not open until nine, so it is a bit early.", "Có, họ chín giờ mới mở cửa, nên hơi sớm."),
+        ("Ms Lan", "Good to know, I will wait half an hour.", "Biết vậy tốt rồi, tôi chờ thêm nửa tiếng."),
+        # 41 closing on why checking phone call details matters
         ("Mr Corwin", "Why does checking these phone call details matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết cuộc gọi này lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps communication clear and helps us avoid misunderstandings with the people we call.", "Nó giúp giao tiếp rõ ràng và tránh hiểu lầm với người mình gọi."),
         ("Mr Corwin", "That is very true, checking first really does make every call go smoothly.", "Đúng vậy thật, kiểm tra trước thật sự giúp mỗi cuộc gọi diễn ra suôn sẻ."),
