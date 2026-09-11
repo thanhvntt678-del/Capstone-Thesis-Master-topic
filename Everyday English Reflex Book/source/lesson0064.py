@@ -193,5 +193,29 @@ LESSON_0064 = {
         ("Ms Sharon", "Could you remind me to get off at the right time?", "Chị nhắc tôi xuống đúng lúc được không?"),
         ("Ms Lan", "Of course, I will tell you two stops before.", "Được chứ, tôi báo trước hai trạm cho."),
         ("Ms Sharon", "Thank you, I always lose track on this line.", "Cảm ơn chị, tôi cứ hay bị lẫn trên tuyến này."),
+        # 37 understanding which fare zone a ticket covers
+        ("Ms Lan", "Sharon, could you help me understand which fare zone this ticket covers?", "Chị Sharon, chị giúp tôi hiểu vé này thuộc vùng giá nào được không?"),
+        ("Ms Sharon", "It covers zones one and two, up to the river bridge.", "Nó bao gồm vùng một và hai, tới tận cầu sông đấy."),
+        ("Ms Lan", "Thank you, now I know it covers my whole trip.", "Cảm ơn chị, giờ tôi biết nó đủ cho cả chuyến đi."),
+        # 38 finding a wallet dropped on the last bus
+        ("Ms Sharon", "Can you help me? I think I dropped my wallet on the last bus.", "Anh giúp tôi được không? Tôi nghĩ mình làm rơi ví trên chuyến xe buýt vừa rồi."),
+        ("Ms Lan", "Call the bus company's lost and found office right now.", "Gọi ngay cho bộ phận đồ thất lạc của hãng xe buýt đi."),
+        ("Ms Sharon", "Thank you, I will call them straight away.", "Cảm ơn chị, tôi gọi ngay bây giờ."),
+        # 39 understanding an out-of-service sign
+        ("Ms Lan", "Could you help me understand this out-of-service sign on the bus?", "Chị giúp tôi hiểu biển ngừng phục vụ trên xe buýt này được không?"),
+        ("Ms Sharon", "It means this bus is not taking passengers right now.", "Nó nghĩa là xe này hiện không nhận khách đâu."),
+        ("Ms Lan", "Ah, I should wait for the next one then, thank you.", "À, vậy tôi nên chờ chuyến kế tiếp, cảm ơn chị."),
+        # 40 finding a carriage good for children
+        ("Ms Sharon", "Can you help me find a carriage that is good for my kids?", "Anh giúp tôi tìm toa tàu hợp cho các con tôi được không?"),
+        ("Ms Lan", "The middle carriage has more space for strollers.", "Toa ở giữa có nhiều chỗ cho xe đẩy hơn đấy."),
+        ("Ms Sharon", "Thank you, that will be much easier for us.", "Cảm ơn chị, vậy sẽ dễ hơn nhiều cho mẹ con tôi."),
+        # 41 understanding a last-minute platform change
+        ("Ms Lan", "Could you help me? They just announced a platform change.", "Chị giúp tôi được không? Họ vừa thông báo đổi sân ga."),
+        ("Ms Sharon", "We need to move to platform six now, quickly.", "Mình cần chuyển sang sân ga sáu ngay, nhanh lên."),
+        ("Ms Lan", "Thank you, I almost missed hearing that.", "Cảm ơn chị, tôi suýt không nghe kịp."),
+        # 42 finding a wheelchair-accessible entrance
+        ("Ms Sharon", "Can you help me find the wheelchair-accessible entrance here?", "Anh giúp tôi tìm lối vào dành cho xe lăn ở đây được không?"),
+        ("Ms Lan", "It is around the side, past the ticket office.", "Nó ở phía hông, qua khỏi quầy vé đó."),
+        ("Ms Sharon", "Thank you, my father will need that entrance.", "Cảm ơn chị, bố tôi sẽ cần lối vào đó."),
     ],
 }

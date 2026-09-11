@@ -185,7 +185,27 @@ LESSON_0042 = {
         ("Ms Lan", "What simple food makes you feel comforted the most?", "Món ăn đơn giản nào khiến chị thấy dễ chịu nhất?"),
         ("Ms Vivian", "A warm bowl of rice porridge, honestly.", "Thật lòng mà nói, một tô cháo ấm."),
         ("Ms Lan", "That is a lovely, simple comfort food choice.", "Đó là một lựa chọn món ăn đơn giản và ấm lòng."),
-        # 38 closing - why simple food choices matter
+        # 38 cannot decide, asking for a recommendation
+        ("Ms Vivian", "I really cannot decide what to eat, Lan.", "Tôi thật sự không biết ăn gì luôn, chị Lan."),
+        ("Ms Lan", "Since you like something warm, try the noodle soup.", "Vì chị thích món ấm, cứ thử tô súp mì xem."),
+        ("Ms Vivian", "Good idea, I will trust your pick this time.", "Ý hay đấy, lần này tôi tin lựa chọn của chị."),
+        # 39 checking a dish is not too spicy or oily
+        ("Ms Lan", "Is this dish too spicy or oily for you?", "Món này có cay hay nhiều dầu mỡ quá với chị không?"),
+        ("Ms Vivian", "A little spicy is fine, but not too oily, please.", "Hơi cay thì được, nhưng đừng nhiều dầu mỡ quá nhé."),
+        ("Ms Lan", "Understood, I will ask the cook to go easy on oil.", "Hiểu rồi, tôi sẽ nhờ đầu bếp bớt dầu lại."),
+        # 40 first choice sold out, picking an alternative
+        ("Ms Vivian", "They say the fried rice is sold out today.", "Họ nói cơm chiên hôm nay hết rồi."),
+        ("Ms Lan", "No problem, let us just choose the noodle soup instead.", "Không sao, mình chọn súp mì thay thế vậy."),
+        ("Ms Vivian", "Fine with me, that is a good backup choice.", "Tôi đồng ý, đó là lựa chọn thay thế tốt."),
+        # 41 asking for a smaller portion
+        ("Ms Lan", "I am not very hungry, can I get a smaller portion?", "Tôi không đói lắm, cho tôi phần nhỏ hơn được không?"),
+        ("Ms Vivian", "Of course, a half portion should be enough for you.", "Được chứ, nửa phần chắc đủ cho chị rồi."),
+        ("Ms Lan", "Perfect, that is exactly the right amount for me.", "Tuyệt, đúng lượng vừa phải cho tôi luôn."),
+        # 42 comparing two pieces of fruit for freshness
+        ("Ms Vivian", "Which mango looks fresher, this one or that one?", "Quả xoài nào trông tươi hơn, quả này hay quả kia?"),
+        ("Ms Lan", "This one feels firmer, so let us pick this one.", "Quả này cứng tay hơn, nên mình chọn quả này đi."),
+        ("Ms Vivian", "Good eye, freshness really matters for fruit like this.", "Mắt tinh đấy, độ tươi rất quan trọng với loại trái cây này."),
+        # 43 closing - why simple food choices matter
         ("Ms Vivian", "Choosing simple food really makes everyday meals easier.", "Chọn món ăn đơn giản thật sự làm bữa ăn hằng ngày dễ dàng hơn."),
         ("Ms Lan", "It does, and it still tastes wonderful most of the time.", "Đúng vậy, và hầu hết vẫn ngon miệng."),
         ("Ms Vivian", "That is exactly why I keep our meals uncomplicated.", "Chính vì vậy mà tôi luôn giữ bữa ăn của mình đơn giản."),

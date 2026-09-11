@@ -179,7 +179,39 @@ LESSON_0022 = {
         ("Ms Lan", "This doorknob keeps squeaking every time I open it.", "Cái tay nắm cửa này cứ kêu cót két mỗi lần tôi mở."),
         ("Ms Laura", "A little oil should stop that noise.", "Nhỏ chút dầu vào sẽ hết kêu thôi."),
         ("Ms Lan", "I will grab the oil from the shed.", "Tôi đi lấy dầu ở nhà kho đây."),
-        # 38 closing - shaking out a rug
+        # 38 refrigerator not cooling
+        ("Ms Lan", "The fridge does not feel cold inside today.", "Tủ lạnh hôm nay không thấy mát bên trong."),
+        ("Ms Laura", "Let us check if the door was left open overnight.", "Để mình xem có phải cửa tủ mở qua đêm không."),
+        ("Ms Lan", "You are right, it was not shut properly.", "Chị nói đúng, cửa không đóng kín."),
+        # 39 washing machine rattling
+        ("Ms Laura", "The washing machine is making a strange rattling sound.", "Máy giặt đang phát ra tiếng lạch cạch lạ."),
+        ("Ms Lan", "Maybe a coin got stuck inside the drum.", "Có thể có đồng xu bị kẹt trong lồng giặt."),
+        ("Ms Laura", "Good guess, I will check the pockets first.", "Đoán hay đấy, để tôi kiểm tra túi áo trước."),
+        # 40 stove will not light
+        ("Ms Lan", "The gas stove will not light for some reason.", "Bếp gas không bật lửa được không hiểu sao."),
+        ("Ms Laura", "Try turning the knob a little longer this time.", "Chị thử xoay núm lâu hơn một chút xem."),
+        ("Ms Lan", "There it goes, it caught this time.", "Được rồi, lần này bắt lửa rồi."),
+        # 41 doorbell not working
+        ("Ms Laura", "I do not think the doorbell is working anymore.", "Hình như chuông cửa không còn hoạt động nữa."),
+        ("Ms Lan", "It might just need a new battery.", "Chắc chỉ cần thay pin mới thôi."),
+        ("Ms Laura", "I will pick one up on my way home.", "Tôi sẽ mua trên đường về."),
+        # 42 dish rack full
+        ("Ms Lan", "The dish rack is completely full again.", "Giá để bát đĩa lại đầy kín rồi."),
+        ("Ms Laura", "I will dry these and put them away now.", "Để tôi lau khô và cất đi ngay."),
+        ("Ms Lan", "Thanks, that frees up some space.", "Cảm ơn chị, vậy có thêm chỗ trống rồi."),
+        # 43 window blinds stuck
+        ("Ms Laura", "These window blinds will not go all the way up.", "Rèm cửa sổ này không kéo lên hết được."),
+        ("Ms Lan", "The cord might be tangled at the top.", "Chắc dây bị rối ở trên đầu."),
+        ("Ms Laura", "You are right, I have untangled it now.", "Chị nói đúng, tôi gỡ rối được rồi."),
+        # 44 trash bag torn
+        ("Ms Lan", "This trash bag has a hole in the bottom.", "Túi rác này bị thủng ở đáy."),
+        ("Ms Laura", "There is a fresh roll under the sink.", "Có một cuộn mới ở dưới bồn rửa đấy."),
+        ("Ms Lan", "Perfect, I will swap it out now.", "Tuyệt, tôi thay ngay bây giờ."),
+        # 45 curtain slipping off hooks
+        ("Ms Laura", "This curtain keeps slipping off its hooks.", "Cái rèm này cứ tuột ra khỏi móc treo."),
+        ("Ms Lan", "Let me help you hook it back up properly.", "Để tôi giúp chị móc lại cho chắc."),
+        ("Ms Laura", "Thanks, it looks much tidier now.", "Cảm ơn chị, giờ trông gọn gàng hơn nhiều."),
+        # 46 closing - shaking out a rug
         ("Ms Laura", "This rug looks like it needs a good shake outside.", "Tấm thảm này chắc cần giũ bụi ngoài trời rồi."),
         ("Ms Lan", "Let us carry it out together.", "Mình cùng khiêng ra ngoài nhé."),
         ("Ms Laura", "It always feels so much cleaner afterward.", "Sau đó lúc nào cũng thấy sạch sẽ hẳn."),

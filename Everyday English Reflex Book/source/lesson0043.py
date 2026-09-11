@@ -192,7 +192,27 @@ LESSON_0043 = {
         ("Ms Lan", "Is there anything else we should double-check before paying?", "Còn gì nữa mình nên kiểm tra lại trước khi thanh toán không?"),
         ("Mr Gordon", "I think we have covered everything important now.", "Tôi nghĩ mình đã kiểm tra hết những điều quan trọng rồi."),
         ("Ms Lan", "Great, let us go ahead and pay then.", "Tuyệt, vậy mình thanh toán thôi."),
-        # 38 closing - why checking details matters
+        # 38 checking if payment can be split between cash and card
+        ("Ms Lan", "Could you check if I can pay part cash, part card?", "Anh kiểm tra giúp tôi có thể trả một phần tiền mặt, một phần thẻ không?"),
+        ("Mr Gordon", "Yes, the cashier says split payment is fine here.", "Có chứ, thu ngân nói ở đây trả kiểu đó được."),
+        ("Ms Lan", "Good, that makes it easier to manage my cash.", "Tốt, vậy dễ xoay tiền mặt hơn cho tôi."),
+        # 39 checking the security tag was removed before leaving
+        ("Mr Gordon", "Could you check if the security tag was removed?", "Chị kiểm tra giúp thẻ chống trộm đã được tháo chưa?"),
+        ("Ms Lan", "Yes, the cashier already clipped it off.", "Rồi, thu ngân đã cắt bỏ nó rồi."),
+        ("Mr Gordon", "Good, then the alarm will not go off at the door.", "Tốt, vậy cửa ra sẽ không kêu báo động."),
+        # 40 checking whether original packaging is needed for a return
+        ("Ms Lan", "Could you check if I need the original box to return this?", "Anh kiểm tra giúp tôi có cần giữ hộp gốc để đổi trả không?"),
+        ("Mr Gordon", "Yes, they ask for the original packaging and receipt.", "Có chứ, họ yêu cầu hộp gốc và hóa đơn."),
+        ("Ms Lan", "Good, I will keep the box just in case.", "Tốt, tôi sẽ giữ hộp lại phòng khi cần."),
+        # 41 checking an online order for in-store pickup
+        ("Mr Gordon", "Could you confirm this online order can be picked up here?", "Chị xác nhận giúp đơn hàng online này có thể lấy tại đây không?"),
+        ("Ms Lan", "Yes, the counter for pickup is right over there.", "Có chứ, quầy nhận hàng ở ngay đằng kia."),
+        ("Mr Gordon", "Thanks, I will show them my order number.", "Cảm ơn chị, tôi đưa mã đơn hàng cho họ."),
+        # 42 checking if gift-wrapping is available
+        ("Ms Lan", "Could you check if this shop offers gift-wrapping?", "Anh kiểm tra giúp cửa hàng này có gói quà không?"),
+        ("Mr Gordon", "Yes, and it looks like it is free of charge.", "Có chứ, và hình như miễn phí luôn."),
+        ("Ms Lan", "Perfect, let us get it wrapped for the birthday gift.", "Tuyệt, mình nhờ gói quà sinh nhật luôn."),
+        # 43 closing - why checking details matters
         ("Mr Gordon", "Checking these details really avoids surprises later.", "Kiểm tra kỹ những chi tiết này thật sự tránh được bất ngờ về sau."),
         ("Ms Lan", "It does, a few extra questions save a lot of trouble.", "Đúng vậy, hỏi thêm vài câu đỡ được nhiều rắc rối."),
         ("Mr Gordon", "That is exactly why I always double-check before paying.", "Chính vì vậy mà tôi luôn kiểm tra lại trước khi thanh toán."),
