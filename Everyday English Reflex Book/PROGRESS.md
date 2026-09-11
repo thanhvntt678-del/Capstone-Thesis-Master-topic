@@ -104,6 +104,20 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lessons 0136-0139
   do NOT belong to this delivery; they open Delivery #17.
+- **DELIVERY #17 CLOSED: Lessons 0136-0144**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0136-0144.docx`. Built with
+  `source/build_delivery17.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#16 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0145-0149
+  do NOT belong to this delivery; they open Delivery #18.
+- **DELIVERY #18 OPEN: Lessons 0145-0149** so far, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0145-0149.docx`. Built with
+  `source/build_delivery18.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#17 plus this one, 0 dups
+  confirmed for 0001-0149). Structural page estimate so far: **~20.5
+  pages** (5 lessons) — under the ~36-38 target, so this delivery stays
+  open and Block 0150-0159's lessons will be added to it next.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -117,23 +131,24 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099
   completed** (10/10). **BLOCK 0100-0109 completed** (10/10). **BLOCK
   0110-0119 completed** (10/10). **BLOCK 0120-0129 completed** (10/10).
-  **BLOCK 0130-0139 is now COMPLETE** (10/10 lessons, written and QC'd
-  in one pass per the user's "next" authorization at the prior
-  checkpoint, no per-lesson confirmation). This block continued the
-  "Asking and Answering Very Simple Questions About X" pattern,
-  revisiting Lessons 0022-0031: Lesson 0130 (a common household object),
-  Lesson 0131 (a family member's name), Lesson 0132 (choosing a drink),
-  and Lessons 0133-0139 (a routine everyday need involving shopping &
-  payments, clothing & personal items, neighbourhood & directions,
-  public transport, taxi & ride services, walking & getting around, and
-  weather & daily plans). Next block: **0140-0149**, to start only
-  after the user responds (any reply, including "NEXT" or "next",
-  authorizes it; specific feedback is applied first).
-- **Last completed lesson: 0139** (secondary character Mr Osbert).
-  Domain "Weather", scenario "a routine everyday need involving weather
-  & daily plans". Confirmed zero duplicate lines against the whole book.
-- **Next lesson to write on NEXT: 0140** (A0/Pre-A1 — check the master
-  workbook row 141 for exact domain/scenario/title before writing). The
+  **BLOCK 0130-0139 completed** (10/10). **BLOCK 0140-0149 is now
+  COMPLETE** (10/10 lessons, written and QC'd in one pass per the user's
+  "next" authorization at the prior checkpoint, no per-lesson
+  confirmation). This block continued the "Asking and Answering Very
+  Simple Questions About X" pattern: Lessons 0140-0144 covered a routine
+  everyday need involving daily routines, school & learning, workplace
+  communication, phone calls, and messages & digital communication;
+  Lessons 0145-0149 revisited early single-topic lessons with fresh
+  premises — where you are from, saying goodbye, a price, where an
+  object is, and how many people are in the family. Next block:
+  **0150-0159**, to start only after the user responds (any reply,
+  including "NEXT" or "next", authorizes it; specific feedback is
+  applied first).
+- **Last completed lesson: 0149** (secondary character Mr Oswin).
+  Domain "Family", scenario "how many people are in the family".
+  Confirmed zero duplicate lines against the whole book, 0001-0149.
+- **Next lesson to write on NEXT: 0150** (A0/Pre-A1 — check the master
+  workbook row 151 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -152,8 +167,10 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Octavia, Humphrey, Rosamund, Bartholomew, Theodora, Bertram, Felicity,
   Montgomery, Araminta, Cuthbert, Philippa, Ignatius, Seraphina, Leopold,
   Wilhelmina, Cordelia, Ezekiel, Perpetua, Anselm, Hyacinth, Evangeline,
-  Torvald, Clementine, Osbert. Pick a fresh name for Lesson 0140's
-  secondary character and note the substitution here when it's written.
+  Torvald, Clementine, Osbert, Eulalia, Thaddeus, Cressida, Alaric,
+  Dorothea, Silas, Amabel, Gideon, Verity, Oswin. Pick a fresh name for
+  Lesson 0150's secondary character and note the substitution here when
+  it's written.
   **Lesson learned for future "misunderstanding or problem" lessons:**
   this scenario pattern (spanned 0097-0108) is prone to
   short-acknowledgement collision risk — vary "thank you" / "found it" /
@@ -179,10 +196,22 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   back a specific detail from the answer (e.g. "Room B, thank you, I
   will find it." instead of "Thank you, I will head there now.") to keep
   them naturally unique from the first draft. This pattern is now
-  confirmed to run at least through Lesson 0139 and likely continues
-  into the next block — keep applying this rule proactively, especially
+  confirmed to run at least through Lesson 0149 and likely continues
+  into future blocks — keep applying this rule proactively, especially
   when two lessons in the same block share a very similar "collect a
   detail" structure (e.g. spelling a name and giving a phone number).
+  **Lesson learned from Block 0140-0149:** for single-premise
+  "revisit" lessons built around a fixed-format answer (a place name, a
+  price, a family headcount), reusing the exact same underlying value
+  or composition across multiple scenes causes INTERNAL duplication
+  even when the surrounding sentence differs only by pronoun or
+  reaction — e.g. Lesson 0149 ("how many people are in the family")
+  first drafted several third-party families with identical headcounts
+  and compositions ("five, parents and three kids" used three times),
+  caught and fixed only at the internal `qc_report()` stage. Plan the
+  full list of 36 distinct underlying values (names, prices, locations,
+  headcounts) BEFORE drafting the dialogue lines for any such lesson,
+  not just the surrounding phrasing.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -726,6 +755,68 @@ closers. When drafting such lessons, check the other lessons already
 planned for the same block for structural similarity and pre-vary the
 closer phrasing accordingly, in addition to the existing "echo a
 specific detail" rule.
+
+## Per-lesson QC record — DELIVERY #17 (CLOSED)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0136 | Transport | routine everyday need — public transport | Ms Hyacinth | 1262 | 108 | 0 |
+| 0137 | Transport | routine everyday need — taxi & ride services | Mr Torvald | 1274 | 108 | 0 |
+| 0138 | Mobility | routine everyday need — walking & getting around | Ms Clementine | 1271 | 108 | 0 |
+| 0139 | Weather | routine everyday need — weather & daily plans | Mr Osbert | 1331 | 108 | 0 |
+| 0140 | Daily Life | routine everyday need — daily routines | Ms Eulalia | 1251 | 108 | 0 |
+| 0141 | Learning | routine everyday need — school & learning | Mr Thaddeus | 1256 | 108 | 0 |
+| 0142 | Work | routine everyday need — workplace communication | Ms Cressida | 1256 | 108 | 0 |
+| 0143 | Communication | routine everyday need — phone calls | Mr Alaric | 1333 | 108 | 0 |
+| 0144 | Communication | routine everyday need — messages & digital communication | Ms Dorothea | 1242 | 108 | 0 |
+
+Total English learning words, Delivery #17: **11,476**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target, so
+Delivery #17 is closed here. Do not add Lessons 0145-0149 to this
+table; they open Delivery #18 (documented individually below).
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery17.py`'s `WHOLE_BOOK` list — 15 first-pass collisions
+on the final whole-book check, spread across Lessons 0136-0139 (which
+had never been through a whole-book cross-check before, since Delivery
+#16 closed at 0135) and Lessons 0143/0144, mostly generic reply lines
+("good, that is a relief to hear.", "great, one less thing to worry
+about.", "good, i will read it before we start.") colliding with much
+earlier lessons. All fixed by rewording the later-appearing line to
+echo a specific detail from its own answer. A second whole-book pass
+after fixes found 0 remaining collisions. Result: **0 duplicates
+across the whole book, 0001-0144.**
+
+## Per-lesson QC record — DELIVERY #18 (OPEN)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0145 | Personal Identity | where you are from | Mr Silas | 1275 | 108 | 0 |
+| 0146 | Social Basics | saying goodbye | Ms Amabel | 1293 | 108 | 0 |
+| 0147 | Numbers and Time | a price | Mr Gideon | 1338 | 108 | 0 |
+| 0148 | Home | where an object is | Ms Verity | 1142 | 108 | 0 |
+| 0149 | Family | how many people are in the family | Mr Oswin | 1457 | 108 | 0 |
+
+Total English learning words, Delivery #18 so far: **6,505**.
+Structural page estimate so far ≈ **20.5 pages** — under the ~36-38
+target, so this delivery stays OPEN; Lessons from Block 0150-0159 will
+be appended to it next via a rebuilt `build_delivery18.py`.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery18.py`'s `WHOLE_BOOK` list (Deliveries #1-#17 plus these
+5 lessons) — **0 first-pass collisions**, all five lessons were clean
+against the whole book on the first whole-book check. Result: **0
+duplicates across the whole book, 0001-0149.**
+**Lesson learned:** Lessons 0145, 0147, and 0149 are single-premise
+"revisit" lessons (where you are from / a price / family headcount)
+built around 36 distinct third-party subjects or values planned BEFORE
+drafting dialogue — this upfront planning is what kept them clean on
+the first whole-book pass, in contrast to earlier single-premise
+lessons (0109, 0127, 0129) that needed full rewrites after the fact.
+Lesson 0149 still needed one round of INTERNAL fixes for repeated
+family compositions (see the Block 0140-0149 note in the Status
+section above) — planning distinct openers is not enough on its own;
+the underlying values themselves must all be distinct too.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132

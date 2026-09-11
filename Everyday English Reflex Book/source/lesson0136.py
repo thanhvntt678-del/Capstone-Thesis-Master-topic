@@ -62,7 +62,7 @@ LESSON_0136 = {
         ("Ms Lan", "Good, we should not have to rush then.", "Tốt, vậy mình không cần vội."),
         # 2 if a monthly transport pass needs renewing
         ("Ms Hyacinth", "Does your monthly transport pass need renewing soon?", "Vé tháng của chị có cần gia hạn sớm không vậy?"),
-        ("Ms Lan", "Yes, it expires at the end of this week.", "Có, nó hết hạn vào cuối tuần này."),
+        ("Ms Lan", "Yes, the pass runs out this coming Friday.", "Có, vé tháng hết hạn vào thứ Sáu tới."),
         ("Ms Hyacinth", "Good to know, I will renew mine too.", "Biết vậy tốt rồi, tôi cũng sẽ gia hạn."),
         # 3 if the regular seat is available
         ("Ms Lan", "Is our regular seat near the front still available?", "Ghế quen gần đầu xe của mình có còn trống không vậy?"),
@@ -91,7 +91,7 @@ LESSON_0136 = {
         # 9 if the daily route has any delays
         ("Ms Lan", "Does the daily route have any delays reported today?", "Tuyến đường hằng ngày hôm nay có báo trễ nào không vậy?"),
         ("Ms Hyacinth", "None so far, everything looks smooth.", "Chưa có, mọi thứ trông suôn sẻ."),
-        ("Ms Lan", "Good, that is a relief to hear.", "Tốt, nghe vậy nhẹ cả người."),
+        ("Ms Lan", "Good, nice to hear an easy commute today.", "Tốt, hôm nay nghe được đi làm thoải mái."),
         # 10 if the usual driver is on shift today
         ("Ms Hyacinth", "Is the usual friendly driver on shift today?", "Hôm nay tài xế thân thiện quen có trực không vậy?"),
         ("Ms Lan", "Yes, I saw him at the wheel earlier.", "Có, lúc nãy tôi thấy anh ấy lái xe rồi."),
@@ -155,7 +155,7 @@ LESSON_0136 = {
         # 25 if the usual route is affected by a public holiday
         ("Ms Lan", "Is our usual route affected by tomorrow's public holiday?", "Tuyến quen của mình có bị ảnh hưởng bởi ngày lễ mai không vậy?"),
         ("Ms Hyacinth", "Yes, it follows the Sunday schedule instead.", "Có, nó chạy theo lịch Chủ Nhật thay vào."),
-        ("Ms Lan", "Good to know, I will plan accordingly.", "Biết vậy tốt rồi, tôi sẽ sắp xếp cho phù hợp."),
+        ("Ms Lan", "Good to know, the Sunday schedule it is then.", "Biết vậy tốt rồi, vậy chạy theo lịch Chủ Nhật nhé."),
         # 26 if a daily transfer point has changed
         ("Ms Hyacinth", "Has our daily transfer point changed at all recently?", "Điểm chuyển tuyến hằng ngày của mình gần đây có đổi không vậy?"),
         ("Ms Lan", "No, it is still the same central station.", "Không, vẫn là ga trung tâm như cũ."),
@@ -183,7 +183,7 @@ LESSON_0136 = {
         # 32 if a regular commute companion prefers the front or back of the train
         ("Ms Hyacinth", "Does our commute companion prefer the front or back of the train?", "Bạn đi chung tuyến thường lệ thích ngồi đầu hay cuối tàu vậy?"),
         ("Ms Lan", "She usually prefers the back, it is quieter there.", "Cô ấy thường thích ngồi cuối, ở đó yên tĩnh hơn."),
-        ("Ms Hyacinth", "Good to know, let us head there then.", "Biết vậy tốt rồi, mình tới đó đi."),
+        ("Ms Hyacinth", "Good to know, the back carriage it is.", "Biết vậy tốt rồi, vậy ngồi toa cuối nhé."),
         # 33 if the daily route includes a transfer today
         ("Ms Lan", "Does today's daily route include a transfer somewhere?", "Tuyến đường hằng ngày hôm nay có chuyển tuyến ở đâu không vậy?"),
         ("Ms Hyacinth", "Yes, we change lines at the next stop.", "Có, mình đổi tuyến ở trạm tiếp theo."),

@@ -89,8 +89,8 @@ LESSON_0137 = {
         ("Ms Lan", "Wonderful, let us select him then.", "Tuyệt quá, mình chọn anh ấy đi."),
         # 8 if a routine airport pickup is confirmed
         ("Mr Torvald", "Is our routine airport pickup confirmed for Friday?", "Chuyến đón sân bay thường lệ thứ Sáu đã xác nhận chưa vậy?"),
-        ("Ms Lan", "Yes, I got the confirmation email today.", "Rồi, hôm nay tôi nhận email xác nhận rồi."),
-        ("Mr Torvald", "Great, one less thing to worry about.", "Tốt, vậy đỡ lo một việc."),
+        ("Ms Lan", "Yes, the driver is booked for six o'clock.", "Rồi, tài xế đã đặt cho sáu giờ rồi."),
+        ("Mr Torvald", "Great, six o'clock is noted then.", "Tốt, vậy ghi nhận sáu giờ nhé."),
         # 9 if a saved address needs updating
         ("Ms Lan", "Does your saved home address need updating on the app?", "Địa chỉ nhà đã lưu trên ứng dụng của anh có cần cập nhật không vậy?"),
         ("Mr Torvald", "Yes, we moved to the new flat last month.", "Có, tháng trước mình chuyển tới căn hộ mới rồi."),
@@ -130,7 +130,7 @@ LESSON_0137 = {
         # 18 if a regular ride credit balance needs checking
         ("Mr Torvald", "Does your regular ride credit balance need checking before we book?", "Số dư tín dụng chuyến đi thường lệ của chị có cần kiểm tra trước khi đặt không vậy?"),
         ("Ms Lan", "Good idea, let me check it now.", "Ý hay, để tôi kiểm tra ngay."),
-        ("Mr Torvald", "Take your time, no rush at all.", "Chị cứ từ từ, không vội đâu."),
+        ("Mr Torvald", "Sure, the app should show it quickly.", "Được, ứng dụng sẽ hiện ra nhanh thôi."),
         # 19 if a saved promo code still applies
         ("Ms Lan", "Does this saved promo code still apply to our regular ride?", "Mã giảm giá đã lưu này có còn áp dụng cho chuyến đi thường lệ của mình không vậy?"),
         ("Mr Torvald", "Yes, it still shows as valid.", "Có, vẫn hiện còn hiệu lực."),

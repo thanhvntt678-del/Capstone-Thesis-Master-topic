@@ -94,7 +94,7 @@ LESSON_0138 = {
         ("Ms Clementine", "Perfect, let us head there then.", "Hoàn hảo, mình tới đó đi."),
         # 9 if a routine evening stroll is still happening
         ("Ms Lan", "Is our routine evening stroll still happening tonight?", "Buổi đi dạo tối thường lệ tối nay có còn diễn ra không vậy?"),
-        ("Ms Clementine", "Yes, right after dinner as usual.", "Có, ngay sau bữa tối như mọi khi."),
+        ("Ms Clementine", "Yes, we still plan to head out around seven.", "Có, mình vẫn định đi khoảng bảy giờ."),
         ("Ms Lan", "Great, I will meet you outside then.", "Tốt, tôi sẽ gặp chị ở ngoài."),
         # 10 if comfortable socks were packed for a long walk
         ("Ms Clementine", "Did you pack comfortable socks for our long walk today?", "Chị đã chuẩn bị vớ thoải mái cho chuyến đi bộ dài hôm nay chưa vậy?"),
@@ -135,7 +135,7 @@ LESSON_0138 = {
         # 19 if the regular walking path has good lighting this evening
         ("Ms Lan", "Does the regular walking path have good lighting for this evening?", "Lối đi bộ quen tối nay có đủ sáng không vậy?"),
         ("Ms Clementine", "Yes, the lamps along it work well.", "Có, đèn dọc đường hoạt động tốt."),
-        ("Ms Lan", "Good, that puts my mind at ease.", "Tốt, vậy tôi yên tâm hơn."),
+        ("Ms Lan", "Good, the lamps make a real difference.", "Tốt, đèn đường tạo khác biệt thật đấy."),
         # 20 if a walking companion prefers a faster or slower pace
         ("Ms Clementine", "Does your other walking companion prefer a faster or slower pace?", "Bạn đi bộ chung khác của chị thích nhanh hơn hay chậm hơn vậy?"),
         ("Ms Lan", "She actually prefers a slower, relaxed pace.", "Thật ra cô ấy thích chậm rãi, thư giãn hơn."),
@@ -163,7 +163,7 @@ LESSON_0138 = {
         # 26 if a routine walk to the bus stop takes the usual time
         ("Ms Clementine", "Does our routine walk to the bus stop take the usual time today?", "Chuyến đi bộ tới trạm xe buýt thường lệ hôm nay có mất thời gian như mọi khi không vậy?"),
         ("Ms Lan", "Yes, about ten minutes as always.", "Có, khoảng mười phút như mọi khi."),
-        ("Ms Clementine", "Good, we can leave at the usual time.", "Tốt, vậy mình đi vào giờ như mọi khi."),
+        ("Ms Clementine", "Good, ten minutes is easy to plan around.", "Tốt, mười phút thì dễ sắp xếp thôi."),
         # 27 if comfortable weather is expected for the walk
         ("Ms Lan", "Is comfortable weather expected for our walk later?", "Lát nữa buổi đi bộ có được dự báo thời tiết dễ chịu không vậy?"),
         ("Ms Clementine", "Yes, mild and sunny according to the forecast.", "Có, theo dự báo là dịu và có nắng."),

@@ -73,11 +73,11 @@ LESSON_0139 = {
         # 2 if an umbrella should be packed today
         ("Mr Osbert", "Should we pack an umbrella just in case today?", "Hôm nay mình có nên mang dù phòng khi cần không vậy?"),
         ("Ms Lan", "Yes, better safe than caught in the rain.", "Có, cẩn thận vẫn hơn bị mưa ướt."),
-        ("Mr Osbert", "Good point, I will grab one now.", "Nói vậy đúng, tôi lấy ngay đây."),
+        ("Mr Osbert", "Good point, the umbrella stand is right there.", "Nói vậy đúng, giá để dù ở ngay đó."),
         # 3 if the daily laundry can be hung outside
         ("Ms Lan", "Can today's laundry be hung outside safely?", "Đồ giặt hôm nay phơi ngoài trời có an toàn không vậy?"),
         ("Mr Osbert", "Yes, no rain expected until this evening.", "Có, chưa dự báo mưa cho tới tối nay."),
-        ("Ms Lan", "Great, I will hang it out now.", "Tốt, tôi phơi ra ngay."),
+        ("Ms Lan", "Great, the balcony line is free right now.", "Tốt, dây phơi ngoài ban công đang trống."),
         # 4 if a routine outdoor errand needs rescheduling for rain
         ("Mr Osbert", "Does our routine outdoor errand need rescheduling because of the rain later?", "Việc vặt ngoài trời thường lệ của mình có cần dời vì mưa lát nữa không vậy?"),
         ("Ms Lan", "Yes, let us go earlier this morning instead.", "Có, sáng nay mình đi sớm hơn thay vào."),
@@ -145,7 +145,7 @@ LESSON_0139 = {
         # 20 if the daily forecast changed since this morning
         ("Mr Osbert", "Did the daily forecast change at all since this morning?", "Dự báo hằng ngày có đổi gì so với sáng nay không vậy?"),
         ("Ms Lan", "Yes, it now says rain later tonight.", "Có, giờ báo có mưa tối nay."),
-        ("Mr Osbert", "Good to know, I will plan around that.", "Biết vậy tốt rồi, tôi sẽ lên kế hoạch dựa vào đó."),
+        ("Mr Osbert", "Good to know, rain tonight it is then.", "Biết vậy tốt rồi, vậy tối nay có mưa nhé."),
         # 21 if a routine weekend hike should be postponed for weather
         ("Ms Lan", "Should our routine weekend hike be postponed because of the weather?", "Chuyến leo núi cuối tuần thường lệ có nên dời vì thời tiết không vậy?"),
         ("Mr Osbert", "Yes, let us push it to next weekend.", "Có, mình dời sang cuối tuần sau đi."),
