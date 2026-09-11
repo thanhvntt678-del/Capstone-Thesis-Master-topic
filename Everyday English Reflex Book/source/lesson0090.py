@@ -193,5 +193,37 @@ LESSON_0090 = {
         ("Ms Cassandra", "Why did our whole messaging routine end up changing lately?", "Vì sao thói quen nhắn tin của tụi mình lại thay đổi gần đây vậy?"),
         ("Ms Lan", "We both got tired of the constant notifications.", "Cả hai mình đều chán thông báo liên tục rồi."),
         ("Ms Cassandra", "Ah, that explains the new habits, thank you.", "À, thảo nào thói quen mới xuất hiện, cảm ơn chị."),
+        # 37 sending a text to confirm you arrived safely
+        ("Ms Lan", "I just texted Cassandra that I arrived home safely.", "Tôi vừa nhắn cho Cassandra là tôi về nhà an toàn rồi."),
+        ("Ms Cassandra", "Good, I was starting to worry a little.", "Tốt, tôi cũng hơi lo lo đấy."),
+        ("Ms Lan", "Sorry for the wait, traffic was heavy tonight.", "Xin lỗi để chị đợi, tối nay kẹt xe quá."),
+        # 38 asking if a message was received
+        ("Ms Cassandra", "Did you get the message I sent this morning?", "Chị nhận được tin nhắn tôi gửi sáng nay chưa?"),
+        ("Ms Lan", "Yes, I saw it, just have not replied yet.", "Rồi, tôi thấy rồi, chỉ chưa trả lời thôi."),
+        ("Ms Cassandra", "No rush, whenever you get a chance.", "Không vội đâu, khi nào rảnh thì trả lời."),
+        # 39 apologising for a late reply
+        ("Ms Lan", "Sorry for the late reply, work was hectic today.", "Xin lỗi trả lời trễ, hôm nay công việc bận quá."),
+        ("Ms Cassandra", "No worries at all, I understand completely.", "Không sao đâu, tôi hiểu mà."),
+        ("Ms Lan", "Thank you for being so understanding.", "Cảm ơn chị đã thông cảm nhiều."),
+        # 40 asking someone to check their messages
+        ("Ms Cassandra", "Could you check your messages? I sent something important.", "Chị kiểm tra tin nhắn giúp tôi nhé? Tôi gửi việc quan trọng đấy."),
+        ("Ms Lan", "Sure, let me open the app right now.", "Được, để tôi mở ứng dụng xem ngay."),
+        ("Ms Cassandra", "Thanks, let me know once you have read it.", "Cảm ơn chị, đọc xong thì báo tôi nhé."),
+        # 41 sending a photo update
+        ("Ms Lan", "I will send you a photo of the finished cake.", "Tôi sẽ gửi chị ảnh cái bánh làm xong."),
+        ("Ms Cassandra", "Please do, I am curious how it turned out.", "Gửi đi, tôi tò mò nó ra sao lắm."),
+        ("Ms Lan", "Sending it now, tell me what you think.", "Gửi ngay đây, chị xem rồi cho ý kiến nhé."),
+        # 42 confirming plans by text
+        ("Ms Cassandra", "I will text you to confirm dinner plans tonight.", "Tối nay tôi sẽ nhắn xác nhận kế hoạch ăn tối nhé."),
+        ("Ms Lan", "Perfect, just message me the exact time.", "Được, chị chỉ cần nhắn giờ chính xác thôi."),
+        ("Ms Cassandra", "Will do, I will send it after work.", "Sẽ nhắn, tôi gửi sau khi tan làm."),
+        # 43 reacting with a quick thumbs up
+        ("Ms Lan", "I do not have time to type a long reply, so I sent a thumbs up.", "Tôi không có thời gian gõ trả lời dài, nên gửi biểu tượng like thôi."),
+        ("Ms Cassandra", "That works fine, I understood what you meant.", "Vậy được rồi, tôi hiểu ý chị mà."),
+        ("Ms Lan", "Good, I will reply properly once I am free.", "Tốt, khi nào rảnh tôi sẽ trả lời đầy đủ hơn."),
+        # 44 asking someone to call instead because typing is hard right now
+        ("Ms Cassandra", "Could you just call me instead? Typing is hard while I am cooking.", "Chị gọi điện luôn được không? Tôi đang nấu ăn, gõ chữ khó quá."),
+        ("Ms Lan", "Of course, calling you right now.", "Được chứ, tôi gọi ngay đây."),
+        ("Ms Cassandra", "Perfect, that is much easier for me.", "Tuyệt, vậy dễ cho tôi hơn nhiều."),
     ],
 }

@@ -173,7 +173,39 @@ LESSON_0109 = {
         ("Mr Reginald", "May I confirm the name on this music lesson booking?", "Cho tôi xác nhận tên trên đơn đặt buổi học nhạc này?"),
         ("Ms Lan", "Yes, it is booked under Lan.", "Vâng, đặt dưới tên Lan."),
         ("Mr Reginald", "Thank you, your teacher is ready for you.", "Cảm ơn chị, giáo viên đã sẵn sàng cho chị."),
-        # 36 moving company booking, closing on why names matter
+        # 36 optician's shop
+        ("Mr Reginald", "Good morning, could I have your name for this eye exam?", "Chào chị, cho tôi xin tên của chị để làm hồ sơ khám mắt?"),
+        ("Ms Lan", "Yes, it is Lan.", "Vâng, là Lan."),
+        ("Mr Reginald", "Thank you, the optician will call you shortly.", "Cảm ơn chị, bác sĩ nhãn khoa sẽ gọi chị sớm thôi."),
+        # 37 art class sign-up
+        ("Ms Lan", "Hi, what name should I write on your art class badge?", "Chào anh, tôi nên viết tên gì lên thẻ lớp vẽ của anh?"),
+        ("Mr Reginald", "You can put Reginald on it.", "Chị ghi Reginald là được rồi."),
+        ("Ms Lan", "Done, welcome to the art class.", "Xong rồi, chào mừng anh đến lớp vẽ."),
+        # 38 blood donation desk
+        ("Mr Reginald", "Excuse me, could I get your name for the donor form?", "Xin lỗi, cho tôi xin tên của chị để ghi vào phiếu hiến máu?"),
+        ("Ms Lan", "Of course, my name is Lan.", "Được chứ, tên tôi là Lan."),
+        ("Mr Reginald", "Thank you, please take a seat over there.", "Cảm ơn chị, mời chị ngồi ở đằng kia."),
+        # 39 notary office
+        ("Ms Lan", "Good afternoon, may I confirm the name on this document?", "Chào anh, cho tôi xác nhận tên trên tài liệu này được không?"),
+        ("Mr Reginald", "Yes, Reginald is the name on it.", "Vâng, tên trên đó là Reginald."),
+        ("Ms Lan", "Thank you, that matches perfectly.", "Cảm ơn anh, khớp hoàn toàn."),
+        # 40 farmers market loyalty list
+        ("Mr Reginald", "Hello, may I have your name for our market loyalty list?", "Xin chào, cho tôi xin tên của chị để ghi vào danh sách khách quen chợ?"),
+        ("Ms Lan", "Sure, that would be Lan.", "Được chứ, là Lan."),
+        ("Mr Reginald", "Thank you, you will get a small discount now.", "Cảm ơn chị, giờ chị sẽ được giảm giá nhỏ."),
+        # 41 choir sign-up
+        ("Ms Lan", "Hi, what name should I put on the choir sign-up sheet?", "Chào anh, tôi nên ghi tên gì vào tờ đăng ký hợp xướng?"),
+        ("Mr Reginald", "Just put down Reginald for the choir.", "Cứ ghi Reginald cho đội hợp xướng nhé."),
+        ("Ms Lan", "Got it, rehearsal starts on Thursday.", "Được rồi, buổi tập bắt đầu vào thứ Năm."),
+        # 42 passport photo counter
+        ("Mr Reginald", "Excuse me, could I have your name for this passport photo order?", "Xin lỗi, cho tôi xin tên của chị để ghi vào đơn chụp ảnh hộ chiếu?"),
+        ("Ms Lan", "Of course, it is Lan.", "Được chứ, là Lan."),
+        ("Mr Reginald", "Thank you, your photos will be ready in ten minutes.", "Cảm ơn chị, ảnh của chị sẽ xong trong mười phút."),
+        # 43 dry cleaner drop-off
+        ("Ms Lan", "Good morning, what name should I write on this dry cleaning ticket?", "Chào anh, tôi nên viết tên gì lên phiếu giặt ủi này?"),
+        ("Mr Reginald", "You can write down Reginald.", "Chị cứ ghi là Reginald nhé."),
+        ("Ms Lan", "Done, it will be ready by Wednesday.", "Xong rồi, sẽ xong vào thứ Tư."),
+        # 44 moving company booking, closing on why names matter
         ("Ms Lan", "Good morning, could I have your name for this moving order?", "Chào anh, cho tôi xin tên của anh để ghi vào đơn chuyển nhà?"),
         ("Mr Reginald", "Certainly, my name is Reginald, and thank you for always asking so politely.", "Được chứ, tên tôi là Reginald, cảm ơn chị vì luôn hỏi lịch sự như vậy."),
         ("Ms Lan", "Getting a name right shows real respect for the person.", "Gọi đúng tên ai đó thể hiện sự tôn trọng thật sự với họ."),

@@ -191,7 +191,27 @@ LESSON_0152 = {
         ("Ms Lan", "Can you check if this wallet has enough card slots?", "Chị kiểm tra giúp ví này có đủ ngăn đựng thẻ không được không?"),
         ("Ms Marguerite", "Yes, it has eight card slots inside.", "Được, bên trong có tám ngăn đựng thẻ."),
         ("Ms Lan", "Good, that should fit everything I carry.", "Tốt, vậy đủ chỗ cho hết đồ tôi mang theo."),
-        # 36 closing on why checking these details matters
+        # 36 checking if a fitting room is free
+        ("Ms Lan", "Can you check if there is a fitting room free right now?", "Chị kiểm tra giúp có phòng thử đồ nào trống ngay bây giờ không được không?"),
+        ("Ms Marguerite", "Yes, the second one just became free.", "Được, phòng số hai vừa trống."),
+        ("Ms Lan", "Great, I will try this dress on then.", "Tuyệt, tôi vào thử váy này ngay."),
+        # 37 a negative check, the size is sold out
+        ("Ms Marguerite", "Can you check if this shirt comes in a large size?", "Bạn kiểm tra giúp áo này có size lớn không được không?"),
+        ("Ms Lan", "No, unfortunately large is sold out right now.", "Không, tiếc là size lớn hết hàng rồi."),
+        ("Ms Marguerite", "That is a shame, maybe I will check online instead.", "Tiếc quá, chắc tôi kiểm tra trên mạng vậy."),
+        # 38 checking the ironing instructions
+        ("Ms Lan", "Can you check if this shirt can be ironed on high heat?", "Chị kiểm tra giúp áo này ủi nhiệt cao được không được không?"),
+        ("Ms Marguerite", "No, the label says use a low heat setting only.", "Không, nhãn ghi chỉ nên ủi ở nhiệt thấp thôi."),
+        ("Ms Lan", "Good to know, I will be careful with it.", "Biết vậy tốt rồi, tôi sẽ cẩn thận khi ủi."),
+        # 39 checking a personal item for water resistance
+        ("Ms Marguerite", "Can you check if this watch is water resistant?", "Bạn kiểm tra giúp đồng hồ này có chống nước không được không?"),
+        ("Ms Lan", "Yes, it can handle splashes but not full swimming.", "Được, chịu được nước bắn nhưng không nên bơi lội với nó."),
+        ("Ms Marguerite", "Good, that is enough for everyday use.", "Tốt, vậy đủ dùng cho hằng ngày rồi."),
+        # 40 checking if a later exchange for a different size is possible
+        ("Ms Lan", "Can you check if I can exchange this for a bigger size next week?", "Chị kiểm tra giúp tuần sau tôi có đổi được size lớn hơn không được không?"),
+        ("Ms Marguerite", "Yes, exchanges are fine within thirty days with the receipt.", "Được, có hóa đơn thì đổi trong ba mươi ngày là được."),
+        ("Ms Lan", "Perfect, I will keep the receipt safe then.", "Hoàn hảo, tôi sẽ giữ hóa đơn cẩn thận."),
+        # 41 closing on why checking these details matters
         ("Ms Marguerite", "Why does checking these details before buying clothing matter so much anyway?", "Vậy vì sao kiểm tra những chi tiết này trước khi mua quần áo lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us avoid disappointment and makes sure what we buy actually fits our needs.", "Nó giúp mình tránh thất vọng và chắc chắn món mua thật sự phù hợp với nhu cầu."),
         ("Ms Marguerite", "That is very true, checking first really does save us from regret later.", "Đúng vậy thật, kiểm tra trước thật sự giúp tránh hối tiếc về sau."),

@@ -191,7 +191,31 @@ LESSON_0173 = {
         ("Ms Lan", "Could you help me figure out which app will be fastest right now?", "Anh giúp tôi tìm ứng dụng nào nhanh nhất lúc này được không?"),
         ("Mr Valentine", "Yes, this one shows a car only two minutes away.", "Được, ứng dụng này báo có xe chỉ cách hai phút."),
         ("Ms Lan", "Perfect, let us book through that one.", "Tuyệt vời, vậy mình đặt qua ứng dụng đó."),
-        # 36 closing on why asking for help with taxi & ride services matters
+        # 36 asking the driver to wait a couple more minutes
+        ("Ms Lan", "Could you help me ask the driver to wait two more minutes? Our colleague is running late.", "Anh giúp tôi nhờ tài xế chờ thêm hai phút được không? Đồng nghiệp mình đang tới trễ."),
+        ("Mr Valentine", "Yes, I will let him know through the app chat now.", "Được, tôi báo anh ấy qua khung chat của ứng dụng ngay."),
+        ("Ms Lan", "That is a relief, I did not want to leave without her.", "Vậy tôi mới an tâm, chứ không muốn đi mà thiếu cô ấy."),
+        # 37 checking the license plate matches the app before boarding
+        ("Mr Valentine", "Could you help me check if this car's license plate matches the one in the app?", "Chị giúp tôi kiểm tra biển số xe này có khớp với ứng dụng không được không?"),
+        ("Ms Lan", "Yes, it shows the same plate number, we are good to go.", "Được, biển số trùng khớp, mình lên xe được rồi."),
+        ("Mr Valentine", "Good, it is always safer to double-check before getting in.", "Tốt, kiểm tra kỹ trước khi lên xe vẫn an toàn hơn."),
+        # 38 adding a tip for the driver through the app
+        ("Ms Lan", "Could you help me add a tip for the driver through the app?", "Anh giúp tôi thêm tiền tip cho tài xế qua ứng dụng được không?"),
+        ("Mr Valentine", "Yes, there is a tip option right after you rate the trip.", "Được, có mục thêm tip ngay sau khi chị đánh giá chuyến đi."),
+        ("Ms Lan", "Good, he really deserves something extra for today.", "Tốt, anh ấy xứng đáng được thêm chút gì đó hôm nay."),
+        # 39 reciprocal - offering to help book a ride home
+        ("Mr Valentine", "Do you need any help booking a ride home later tonight?", "Chị có cần tôi giúp đặt xe về nhà tối nay không?"),
+        ("Ms Lan", "Actually yes, could you set one up for around eleven?", "Thật ra là có, anh đặt giúp tôi khoảng mười một giờ được không?"),
+        ("Mr Valentine", "Of course, I will schedule it right now.", "Được chứ, tôi đặt lịch ngay đây."),
+        # 40 booking an early-morning ride to catch a flight
+        ("Ms Lan", "Could you help me book a ride for four in the morning to catch my flight?", "Anh giúp tôi đặt xe lúc bốn giờ sáng để kịp chuyến bay được không?"),
+        ("Mr Valentine", "Yes, scheduled rides are available under the calendar icon.", "Được, đặt xe theo giờ có trong mục biểu tượng lịch đó."),
+        ("Ms Lan", "Perfect, I do not want to risk oversleeping.", "Tuyệt vời, tôi không muốn lỡ ngủ quên."),
+        # 41 checking trunk space for two large suitcases
+        ("Mr Valentine", "Could you help me check if this car has enough trunk space for two large suitcases?", "Chị giúp tôi xem cốp xe này có đủ chỗ cho hai vali lớn không được không?"),
+        ("Ms Lan", "Yes, the trunk looks big enough for both of them.", "Được, cốp xe trông đủ rộng cho cả hai cái."),
+        ("Mr Valentine", "Good, then we will not need a second car.", "Tốt, vậy mình khỏi cần gọi thêm xe thứ hai."),
+        # 42 closing on why asking for help with taxi & ride services matters
         ("Mr Valentine", "Why does asking for help with taxi and ride services matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về taxi và xe đặt qua ứng dụng lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us money and stress, and it keeps every ride safe and smooth.", "Nó giúp mình tiết kiệm tiền bạc, đỡ căng thẳng, và giữ cho mỗi chuyến đi an toàn, suôn sẻ."),
         ("Mr Valentine", "That is very true, asking for help really does make travelling so much easier.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp việc di chuyển dễ dàng hơn nhiều."),
