@@ -125,13 +125,32 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lessons 0163-0169
   do NOT belong to this delivery; they open Delivery #20.
-- **DELIVERY #20 OPEN: Lessons 0163-0169** so far, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0163-0169.docx`. Built with
+- **DELIVERY #20 CLOSED: Lessons 0163-0171**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0163-0171.docx`. Built with
   `source/build_delivery20.py` (same no-base-docx pattern, cross-checking
-  against the WHOLE book across Deliveries #1-#19 plus this one, 0 dups
-  confirmed for 0001-0169). Structural page estimate so far: **~28.7
-  pages** (7 lessons) — under the ~36-38 target, so this delivery stays
-  open and Block 0170-0179's lessons will be added to it next.
+  against the WHOLE book across Deliveries #1-#19 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0172-0179
+  do NOT belong to this delivery; they open Delivery #21.
+  **Important fix made while closing this delivery:** the `WHOLE_BOOK`
+  list in `build_delivery20.py` (inherited unchanged from
+  `build_delivery19.py`'s sed-generated copy) was missing `DELIVERY19`
+  from its concatenation, meaning the cross-lesson duplicate check run
+  when Delivery #19/Block 0160-0169 was closed never actually compared
+  Lessons 0154-0162 against the rest of the book. Fixed by adding
+  `+ DELIVERY19` to the list; re-running the check with the fix in place
+  surfaced 9 real cross-lesson duplicates (against 0170-0171), all fixed
+  by rewording. **Standing rule going forward:** whenever extending a
+  `build_deliveryN.py` (via sed from the prior script), always verify the
+  `WHOLE_BOOK` line includes EVERY prior `DELIVERYx` constant, not just
+  spot-check the printed dup count.
+- **DELIVERY #21 OPEN: Lessons 0172-0179** so far, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0172-0179.docx`. Built with
+  `source/build_delivery21.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#20 plus this one, 0 dups
+  confirmed for 0001-0179). Structural page estimate so far: **~32.8
+  pages** (8 lessons) — under the ~36-38 target, so this delivery stays
+  open and Block 0180-0189's lessons will be added to it next.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -156,15 +175,22 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   0163-0169: where you live, saying thank you, today's date, something
   you need at home, a simple family relationship, saying you are
   hungry or thirsty, and asking for help with shopping & payments.
-  Next block: **0170-0179**, to start only after the user responds
+  **BLOCK 0170-0179 is now COMPLETE** (10/10 lessons, written and QC'd
+  in one pass per the user's "next" authorization at the prior
+  checkpoint, no per-lesson confirmation). This block continued the
+  "asking for help with X" pattern (started 0169) across Lessons
+  0170-0179: clothing & personal items, neighbourhood & directions,
+  public transport, taxi & ride services, walking & getting around,
+  weather & daily plans, daily routines, school & learning, workplace
+  communication, and phone calls.
+  Next block: **0180-0189**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0169** (secondary character Mr David).
-  Domain "Shopping", scenario "asking for help with shopping &
-  payments". Confirmed zero duplicate lines against the whole book,
-  0001-0169.
-- **Next lesson to write on NEXT: 0170** (A0/Pre-A1 — check the master
-  workbook row 171 for exact domain/scenario/title before writing). The
+- **Last completed lesson: 0179** (secondary character Mr Reuben).
+  Domain "Communication", scenario "asking for help with phone calls".
+  Confirmed zero duplicate lines against the whole book, 0001-0179.
+- **Next lesson to write on NEXT: 0180** (A0/Pre-A1 — check the master
+  workbook row 181 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -187,9 +213,10 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Dorothea, Silas, Amabel, Gideon, Verity, Oswin, Isolde, Peregrine,
   Marguerite, Quentin, Rosalie, Baldwin, Genevieve, Alistair, Marcella,
   Sylvester, Philomena, Corwin, Delphine, Tobias, Arabella, Jasper,
-  Cecily, Lucian, Miranda, Bertrand. Pick a fresh name for Lesson
-  0170's secondary character and note the substitution here when it's
-  written.
+  Cecily, Lucian, Miranda, Bertrand, Florentine, Emrys, Hepzibah,
+  Valentine, Temperance, Crispin, Honoria, Sebastian, Euphemia, Reuben.
+  Pick a fresh name for Lesson 0180's secondary character and note the
+  substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
   the master workbook's suggested secondary-character names directly
@@ -260,6 +287,22 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   with much earlier lessons — apply the "echo a specific detail from
   the answer" rule proactively from the first draft here too, not just
   for the "asking and answering" wave.
+  **Lesson learned for the new "asking for help with X" pattern (started
+  0169, continued through Block 0170-0179):** same collision profile as
+  the two prior waves — a "Could you help me [X]?" / "Yes, [detail]." /
+  "[short reaction]." structure across 35-36 scenes. Lessons 0170-0171
+  (Delivery #20) and 0172-0179 (Delivery #21) all needed rounds of fixes
+  for short reactions ("good, I will head there now.", "thank you, that
+  puts my mind at ease.", "found it, thank you for the help.", "that
+  sounds much clearer now.") colliding with much earlier lessons — this
+  confirms the "echo a specific detail from the answer" rule must be
+  applied proactively across every wave of this book, not learned fresh
+  each time. Also confirmed in this block: even careful internal QC on
+  each lesson individually does not catch cross-lesson collisions —
+  always run the full whole-book `cross_lesson_duplicate_check()` via
+  the delivery build script before considering any lesson done, and
+  verify the script's `WHOLE_BOOK` list is actually complete (see the
+  Delivery #20 fix note above).
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -920,7 +963,7 @@ Also confirms that a reworded fix can itself introduce a NEW collision
 with a different earlier lesson — always re-run the whole-book check
 after every round of fixes, not just once.
 
-## Per-lesson QC record — DELIVERY #20 (OPEN)
+## Per-lesson QC record — DELIVERY #20 (CLOSED)
 
 | Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|---|
@@ -931,15 +974,17 @@ after every round of fixes, not just once.
 | 0167 | Family | a simple family relationship | Mr Lucian | 1482 | 108 | 0 |
 | 0168 | Food | saying you are hungry or thirsty | Ms Miranda | 1225 | 108 | 0 |
 | 0169 | Shopping | asking for help with shopping & payments | Mr Bertrand | 1272 | 108 | 0 |
+| 0170 | Clothing | asking for help with clothing & personal items | Ms Florentine | 1258 | 108 | 0 |
+| 0171 | Neighbourhood | asking for help with neighbourhood & directions | Mr Emrys | 1310 | 108 | 0 |
 
-Total English learning words, Delivery #20 so far: **9,076**.
-Structural page estimate so far ≈ **28.7 pages** — under the ~36-38
-target, so this delivery stays OPEN; Lessons from Block 0170-0179 will
-be appended to it next via a rebuilt `build_delivery20.py`.
+Total English learning words, Delivery #20: **11,644**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target,
+so Delivery #20 is closed here. Lessons 0172-0179 do NOT belong to
+this delivery; they open Delivery #21.
 
 Cross-lesson check ran against the entire book so far via
 `build_delivery20.py`'s `WHOLE_BOOK` list (Deliveries #1-#19 plus these
-7 lessons) — 19 first-pass collisions found across Lessons 0164-0169,
+9 lessons) — 19 first-pass collisions found across Lessons 0164-0169,
 mostly short generic reactions colliding with much earlier lessons.
 All fixed by rewording the later-appearing line to echo a specific
 detail from its own answer. Separately, a manual audit against the
@@ -950,13 +995,52 @@ David) without substituting a fresh name — all four names were already
 used many lessons earlier and this was NOT caught by the automated
 duplicate-line check, which has no visibility into character names.
 Fixed via find-and-replace to Cecily, Lucian, Miranda, and Bertrand.
-A final whole-book pass after all fixes found 0 remaining line
-collisions. Result: **0 duplicates across the whole book, 0001-0169.**
+When Lessons 0170-0171 were added and the delivery closed, the
+`WHOLE_BOOK` list was discovered to be missing `DELIVERY19` (a
+carry-over sed bug from `build_delivery19.py` — see the Status section
+note above); fixing it and re-running surfaced 9 more real collisions
+(2 internal to 0170, 6 against 0170-0171 crossing much earlier lessons,
+1 more internal to 0171 after the first round of fixes), all fixed by
+rewording. A final whole-book pass after all fixes found 0 remaining
+line collisions. Result: **0 duplicates across the whole book,
+0001-0171.**
 **Lesson learned:** see the Status section note above — always
 actively substitute a fresh secondary-character name for the master
 workbook's suggestion, and manually check both speaker names in every
 new lesson against the cumulative names-used list, since the automated
-QC tooling only checks dialogue text, never character names.
+QC tooling only checks dialogue text, never character names. Also
+always verify a sed-generated `build_deliveryN.py`'s `WHOLE_BOOK` list
+includes every prior `DELIVERYx` constant.
+
+## Per-lesson QC record — DELIVERY #21 (OPEN)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0172 | Transport | asking for help with public transport | Ms Hepzibah | 1345 | 108 | 0 |
+| 0173 | Transport (taxi & ride services) | asking for help with taxi & ride services | Mr Valentine | 1368 | 108 | 0 |
+| 0174 | Mobility | asking for help with walking & getting around | Ms Temperance | 1441 | 108 | 0 |
+| 0175 | Weather | asking for help with weather & daily plans | Mr Crispin | 1437 | 108 | 0 |
+| 0176 | Daily Life | asking for help with daily routines | Ms Honoria | 1345 | 108 | 0 |
+| 0177 | Learning | asking for help with school & learning | Mr Sebastian | 1339 | 108 | 0 |
+| 0178 | Work | asking for help with workplace communication | Ms Euphemia | 1355 | 108 | 0 |
+| 0179 | Communication | asking for help with phone calls | Mr Reuben | 1390 | 108 | 0 |
+
+Total English learning words, Delivery #21 so far: **11,020**.
+Structural page estimate so far ≈ **32.8 pages** — under the ~36-38
+target, so this delivery stays OPEN; Lessons from Block 0180-0189 will
+be appended to it next via a rebuilt `build_delivery21.py`.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery21.py`'s `WHOLE_BOOK` list (Deliveries #1-#20 plus these
+8 lessons) — 19 first-pass collisions found across Lessons 0172-0179,
+mostly short generic reactions ("found it, thank you for the...",
+"good, that ... clearer now.", "thank you, that puts my mind at
+ease.") colliding with much earlier lessons and, in a few cases, with
+0172 (the first lesson checked in this delivery). All fixed by
+rewording the later-appearing line to echo a specific detail from its
+own answer; re-confirmed 0 internal duplicates on all 8 lessons after
+fixing. A final whole-book pass after all fixes found 0 remaining line
+collisions. Result: **0 duplicates across the whole book, 0001-0179.**
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
