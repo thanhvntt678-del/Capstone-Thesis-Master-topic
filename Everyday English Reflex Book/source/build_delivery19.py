@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Builds Delivery #18 (Lessons 0145 onward) — same pattern as build_delivery17.py:
+"""Builds Delivery #19 (Lessons 0154 onward) — same pattern as build_delivery18.py:
 no pre-approved base docx, cross-checks duplicates against the WHOLE book so far
-(Deliveries #1-#17 plus whatever's in this delivery)."""
+(Deliveries #1-#18 plus whatever's in this delivery)."""
 import sys
 sys.path.insert(0, '.')
 import docx
@@ -164,6 +164,12 @@ from lesson0150 import LESSON_0150
 from lesson0151 import LESSON_0151
 from lesson0152 import LESSON_0152
 from lesson0153 import LESSON_0153
+from lesson0154 import LESSON_0154
+from lesson0155 import LESSON_0155
+from lesson0156 import LESSON_0156
+from lesson0157 import LESSON_0157
+from lesson0158 import LESSON_0158
+from lesson0159 import LESSON_0159
 
 DELIVERY1 = [LESSON_0002, LESSON_0003, LESSON_0004, LESSON_0005, LESSON_0006, LESSON_0007]
 DELIVERY2 = [LESSON_0008, LESSON_0009, LESSON_0010, LESSON_0011, LESSON_0012, LESSON_0013, LESSON_0014, LESSON_0015]
@@ -182,14 +188,15 @@ DELIVERY14 = [LESSON_0109, LESSON_0110, LESSON_0111, LESSON_0112, LESSON_0113, L
 DELIVERY15 = [LESSON_0118, LESSON_0119, LESSON_0120, LESSON_0121, LESSON_0122, LESSON_0123, LESSON_0124, LESSON_0125, LESSON_0126]
 DELIVERY16 = [LESSON_0127, LESSON_0128, LESSON_0129, LESSON_0130, LESSON_0131, LESSON_0132, LESSON_0133, LESSON_0134, LESSON_0135]
 DELIVERY17 = [LESSON_0136, LESSON_0137, LESSON_0138, LESSON_0139, LESSON_0140, LESSON_0141, LESSON_0142, LESSON_0143, LESSON_0144]
+DELIVERY18 = [LESSON_0145, LESSON_0146, LESSON_0147, LESSON_0148, LESSON_0149, LESSON_0150, LESSON_0151, LESSON_0152, LESSON_0153]
 
-LESSONS_DELIVERY18 = [LESSON_0145, LESSON_0146, LESSON_0147, LESSON_0148, LESSON_0149, LESSON_0150, LESSON_0151, LESSON_0152, LESSON_0153]  # 9 lessons closes near ~37 pages; 0154-0159 open Delivery #19
+LESSONS_DELIVERY19 = [LESSON_0154, LESSON_0155, LESSON_0156, LESSON_0157, LESSON_0158, LESSON_0159]  # 6 lessons so far, stays open until more lessons are added
 
 def main():
     doc = docx.Document()
     new_section_setup(doc)
 
-    for idx, lesson in enumerate(LESSONS_DELIVERY18):
+    for idx, lesson in enumerate(LESSONS_DELIVERY19):
         if idx != 0:
             doc.add_page_break()
         add_title_block(doc)
@@ -199,7 +206,7 @@ def main():
         for speaker, en, vi in lesson['turns']:
             add_dialogue_line(doc, speaker, en, vi)
 
-    lesson_range = f"{LESSONS_DELIVERY18[0]['lesson_id']}-{LESSONS_DELIVERY18[-1]['lesson_id']}"
+    lesson_range = f"{LESSONS_DELIVERY19[0]['lesson_id']}-{LESSONS_DELIVERY19[-1]['lesson_id']}"
 
     sec = doc.sections[0]
     ftr = sec.footer
@@ -215,22 +222,22 @@ def main():
     doc.save(out_path)
     print("Saved:", out_path)
 
-    print("\n=== PER-LESSON QC (Delivery #18) ===")
-    for lesson in LESSONS_DELIVERY18:
+    print("\n=== PER-LESSON QC (Delivery #19) ===")
+    for lesson in LESSONS_DELIVERY19:
         r = qc_report(lesson)
         print(f"Lesson {r['lesson_id']}: English words={r['english_words']}, turns={r['turns']}, "
               f"speakers={sorted(r['speakers'])}, duplicate_lines={r['duplicate_lines']}")
 
     lesson0001 = load_lesson0001_as_dict("lesson0001_approved.docx")
-    WHOLE_BOOK = [lesson0001] + DELIVERY1 + DELIVERY2 + DELIVERY3 + DELIVERY4 + DELIVERY5 + DELIVERY6 + DELIVERY7 + DELIVERY8 + DELIVERY9 + DELIVERY10 + DELIVERY11 + DELIVERY12 + DELIVERY13 + DELIVERY14 + DELIVERY15 + DELIVERY16 + DELIVERY17 + LESSONS_DELIVERY18
+    WHOLE_BOOK = [lesson0001] + DELIVERY1 + DELIVERY2 + DELIVERY3 + DELIVERY4 + DELIVERY5 + DELIVERY6 + DELIVERY7 + DELIVERY8 + DELIVERY9 + DELIVERY10 + DELIVERY11 + DELIVERY12 + DELIVERY13 + DELIVERY14 + DELIVERY15 + DELIVERY16 + DELIVERY17 + DELIVERY18 + LESSONS_DELIVERY19
     dups = cross_lesson_duplicate_check(WHOLE_BOOK)
-    print(f"\nCross-lesson duplicate English lines (whole book, 0001 through {LESSONS_DELIVERY18[-1]['lesson_id']}):", dups)
+    print(f"\nCross-lesson duplicate English lines (whole book, 0001 through {LESSONS_DELIVERY19[-1]['lesson_id']}):", dups)
 
-    total_words = sum(lesson_word_count(l) for l in LESSONS_DELIVERY18)
-    total_turns = sum(len(l['turns']) for l in LESSONS_DELIVERY18) + len(LESSONS_DELIVERY18)
+    total_words = sum(lesson_word_count(l) for l in LESSONS_DELIVERY19)
+    total_turns = sum(len(l['turns']) for l in LESSONS_DELIVERY19) + len(LESSONS_DELIVERY19)
     est_pages = total_turns / (133 / 5)
-    print(f"\nTotal English learning words, Delivery #18 ({lesson_range}):", total_words)
-    print(f"Structural page estimate for Delivery #18 so far: {est_pages:.1f} pages")
+    print(f"\nTotal English learning words, Delivery #19 ({lesson_range}):", total_words)
+    print(f"Structural page estimate for Delivery #19 so far: {est_pages:.1f} pages")
 
 if __name__ == "__main__":
     main()

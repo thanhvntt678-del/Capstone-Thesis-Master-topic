@@ -111,13 +111,20 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Structural page estimate reached **~36.9 pages** (9 lessons), inside
   the ~36-38 target, so this delivery is closed here. Lessons 0145-0149
   do NOT belong to this delivery; they open Delivery #18.
-- **DELIVERY #18 OPEN: Lessons 0145-0149** so far, file
-  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0145-0149.docx`. Built with
+- **DELIVERY #18 CLOSED: Lessons 0145-0153**, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0145-0153.docx`. Built with
   `source/build_delivery18.py` (same no-base-docx pattern, cross-checking
-  against the WHOLE book across Deliveries #1-#17 plus this one, 0 dups
-  confirmed for 0001-0149). Structural page estimate so far: **~20.5
-  pages** (5 lessons) — under the ~36-38 target, so this delivery stays
-  open and Block 0150-0159's lessons will be added to it next.
+  against the WHOLE book across Deliveries #1-#17 plus this one).
+  Structural page estimate reached **~36.9 pages** (9 lessons), inside
+  the ~36-38 target, so this delivery is closed here. Lessons 0154-0159
+  do NOT belong to this delivery; they open Delivery #19.
+- **DELIVERY #19 OPEN: Lessons 0154-0159** so far, file
+  `deliveries/EVERYDAY_ENGLISH_REFLEX_LESSONS_0154-0159.docx`. Built with
+  `source/build_delivery19.py` (same no-base-docx pattern, cross-checking
+  against the WHOLE book across Deliveries #1-#18 plus this one, 0 dups
+  confirmed for 0001-0159). Structural page estimate so far: **~24.6
+  pages** (6 lessons) — under the ~36-38 target, so this delivery stays
+  open and Block 0160-0169's lessons will be added to it next.
 - **CHECKPOINT CADENCE (per user instruction 2026-09-09): work proceeds
   in BLOCKS of 10 lessons.** After each block of 10 is written and QC'd, a
   checkpoint report is produced and the user is asked ONCE whether they
@@ -131,24 +138,26 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   (10/10). **BLOCK 0080-0089 completed** (10/10). **BLOCK 0090-0099
   completed** (10/10). **BLOCK 0100-0109 completed** (10/10). **BLOCK
   0110-0119 completed** (10/10). **BLOCK 0120-0129 completed** (10/10).
-  **BLOCK 0130-0139 completed** (10/10). **BLOCK 0140-0149 is now
-  COMPLETE** (10/10 lessons, written and QC'd in one pass per the user's
-  "next" authorization at the prior checkpoint, no per-lesson
-  confirmation). This block continued the "Asking and Answering Very
-  Simple Questions About X" pattern: Lessons 0140-0144 covered a routine
-  everyday need involving daily routines, school & learning, workplace
-  communication, phone calls, and messages & digital communication;
-  Lessons 0145-0149 revisited early single-topic lessons with fresh
-  premises — where you are from, saying goodbye, a price, where an
-  object is, and how many people are in the family. Next block:
-  **0150-0159**, to start only after the user responds (any reply,
-  including "NEXT" or "next", authorizes it; specific feedback is
-  applied first).
-- **Last completed lesson: 0149** (secondary character Mr Oswin).
-  Domain "Family", scenario "how many people are in the family".
-  Confirmed zero duplicate lines against the whole book, 0001-0149.
-- **Next lesson to write on NEXT: 0150** (A0/Pre-A1 — check the master
-  workbook row 151 for exact domain/scenario/title before writing). The
+  **BLOCK 0130-0139 completed** (10/10). **BLOCK 0140-0149 completed**
+  (10/10). **BLOCK 0150-0159 is now COMPLETE** (10/10 lessons, written
+  and QC'd in one pass per the user's "next" authorization at the prior
+  checkpoint, no per-lesson confirmation). This block opened a new
+  master-workbook scenario wave, "checking an important detail about
+  X": Lesson 0150 covered choosing a simple food (a single-premise
+  "revisit" lesson, planned with 35 distinct foods upfront), and
+  Lessons 0151-0159 covered checking an important detail about
+  shopping & payments, clothing & personal items, neighbourhood &
+  directions, public transport, taxi & ride services, walking &
+  getting around, weather & daily plans, daily routines, and school &
+  learning. Next block: **0160-0169**, to start only after the user
+  responds (any reply, including "NEXT" or "next", authorizes it;
+  specific feedback is applied first).
+- **Last completed lesson: 0159** (secondary character Mr Sylvester).
+  Domain "Learning", scenario "checking an important detail about
+  school & learning". Confirmed zero duplicate lines against the whole
+  book, 0001-0159.
+- **Next lesson to write on NEXT: 0160** (A0/Pre-A1 — check the master
+  workbook row 161 for exact domain/scenario/title before writing). The
   full cumulative names-used list for secondary characters (do not reuse
   any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -168,9 +177,10 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   Montgomery, Araminta, Cuthbert, Philippa, Ignatius, Seraphina, Leopold,
   Wilhelmina, Cordelia, Ezekiel, Perpetua, Anselm, Hyacinth, Evangeline,
   Torvald, Clementine, Osbert, Eulalia, Thaddeus, Cressida, Alaric,
-  Dorothea, Silas, Amabel, Gideon, Verity, Oswin. Pick a fresh name for
-  Lesson 0150's secondary character and note the substitution here when
-  it's written.
+  Dorothea, Silas, Amabel, Gideon, Verity, Oswin, Isolde, Peregrine,
+  Marguerite, Quentin, Rosalie, Baldwin, Genevieve, Alistair, Marcella,
+  Sylvester. Pick a fresh name for Lesson 0160's secondary character and
+  note the substitution here when it's written.
   **Lesson learned for future "misunderstanding or problem" lessons:**
   this scenario pattern (spanned 0097-0108) is prone to
   short-acknowledgement collision risk — vary "thank you" / "found it" /
@@ -212,6 +222,18 @@ scenario / title / secondary-character spec for all 2000 lessons.)
   full list of 36 distinct underlying values (names, prices, locations,
   headcounts) BEFORE drafting the dialogue lines for any such lesson,
   not just the surrounding phrasing.
+  **Lesson learned for the new "checking an important detail about X"
+  pattern (started 0151, continued through 0159):** this scenario
+  revisits every domain with a "Can you check if X?" / "Yes/No,
+  [detail]." / "Good, [reaction echoing the detail]." structure across
+  35 scenes — same generic-reply collision risk as the "asking and
+  answering" pattern applies here too. Lessons 0151-0153 (Delivery
+  #18) and 0154, 0156, 0158 (Delivery #19) needed rounds of fixes for
+  short reactions ("good, that gives us plenty of time.", "good, that
+  is a relief to hear.", "good, better safe than sorry.") colliding
+  with much earlier lessons — apply the "echo a specific detail from
+  the answer" rule proactively from the first draft here too, not just
+  for the "asking and answering" wave.
 - **Interpretation adopted for NEXT** (unchanged going forward): each NEXT
   writes and QCs one more complete lesson, adds it to the current OPEN
   delivery file (`build_delivery2.py` right now), and reports updated
@@ -787,7 +809,7 @@ echo a specific detail from its own answer. A second whole-book pass
 after fixes found 0 remaining collisions. Result: **0 duplicates
 across the whole book, 0001-0144.**
 
-## Per-lesson QC record — DELIVERY #18 (OPEN)
+## Per-lesson QC record — DELIVERY #18 (CLOSED)
 
 | Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
 |---|---|---|---|---|---|---|
@@ -796,17 +818,27 @@ across the whole book, 0001-0144.**
 | 0147 | Numbers and Time | a price | Mr Gideon | 1338 | 108 | 0 |
 | 0148 | Home | where an object is | Ms Verity | 1142 | 108 | 0 |
 | 0149 | Family | how many people are in the family | Mr Oswin | 1457 | 108 | 0 |
+| 0150 | Food | choosing a simple food | Ms Isolde | 1018 | 108 | 0 |
+| 0151 | Shopping | checking an important detail — shopping & payments | Mr Peregrine | 1177 | 108 | 0 |
+| 0152 | Clothing | checking an important detail — clothing & personal items | Ms Marguerite | 1221 | 108 | 0 |
+| 0153 | Neighbourhood | checking an important detail — neighbourhood & directions | Mr Quentin | 1290 | 108 | 0 |
 
-Total English learning words, Delivery #18 so far: **6,505**.
-Structural page estimate so far ≈ **20.5 pages** — under the ~36-38
-target, so this delivery stays OPEN; Lessons from Block 0150-0159 will
-be appended to it next via a rebuilt `build_delivery18.py`.
+Total English learning words, Delivery #18: **11,211**.
+Structural page estimate ≈ **36.9 pages** — inside the ~36-38 target,
+so Delivery #18 is closed here. Do not add Lessons 0154-0159 to this
+table; they open Delivery #19 (documented individually below).
 
 Cross-lesson check ran against the entire book so far via
-`build_delivery18.py`'s `WHOLE_BOOK` list (Deliveries #1-#17 plus these
-5 lessons) — **0 first-pass collisions**, all five lessons were clean
-against the whole book on the first whole-book check. Result: **0
-duplicates across the whole book, 0001-0149.**
+`build_delivery18.py`'s `WHOLE_BOOK` list — Lessons 0145-0149 were
+clean against the whole book on the first pass (0 collisions), but
+adding Lessons 0150-0153 to the same delivery surfaced 9 first-pass
+collisions on the final whole-book check, all short generic reactions
+("good, that gives us plenty of time.", "good, that matches what I
+expected.", "good, that is reassuring to hear.") colliding with much
+earlier lessons. All fixed by rewording the later-appearing line to
+echo a specific detail from its own answer. A second whole-book pass
+after fixes found 0 remaining collisions. Result: **0 duplicates
+across the whole book, 0001-0153.**
 **Lesson learned:** Lessons 0145, 0147, and 0149 are single-premise
 "revisit" lessons (where you are from / a price / family headcount)
 built around 36 distinct third-party subjects or values planned BEFORE
@@ -816,7 +848,43 @@ lessons (0109, 0127, 0129) that needed full rewrites after the fact.
 Lesson 0149 still needed one round of INTERNAL fixes for repeated
 family compositions (see the Block 0140-0149 note in the Status
 section above) — planning distinct openers is not enough on its own;
-the underlying values themselves must all be distinct too.
+the underlying values themselves must all be distinct too. Lesson 0150
+opened the new "checking an important detail about X" pattern
+(Lessons 0151-0153); this pattern's short "Good, [reaction]" closers
+are just as collision-prone as the earlier "asking and answering"
+pattern's closers.
+
+## Per-lesson QC record — DELIVERY #19 (OPEN)
+
+| Lesson | Domain | Scenario | Secondary character | EN words | Turns | Duplicate lines |
+|---|---|---|---|---|---|---|
+| 0154 | Transport | checking an important detail — public transport | Ms Rosalie | 1267 | 108 | 0 |
+| 0155 | Transport | checking an important detail — taxi & ride services | Mr Baldwin | 1286 | 108 | 0 |
+| 0156 | Mobility | checking an important detail — walking & getting around | Ms Genevieve | 1267 | 108 | 0 |
+| 0157 | Weather | checking an important detail — weather & daily plans | Mr Alistair | 1284 | 108 | 0 |
+| 0158 | Daily Life | checking an important detail — daily routines | Ms Marcella | 1222 | 108 | 0 |
+| 0159 | Learning | checking an important detail — school & learning | Mr Sylvester | 1288 | 108 | 0 |
+
+Total English learning words, Delivery #19 so far: **7,614**.
+Structural page estimate so far ≈ **24.6 pages** — under the ~36-38
+target, so this delivery stays OPEN; Lessons from Block 0160-0169 will
+be appended to it next via a rebuilt `build_delivery19.py`.
+
+Cross-lesson check ran against the entire book so far via
+`build_delivery19.py`'s `WHOLE_BOOK` list (Deliveries #1-#18 plus these
+6 lessons) — 11 first-pass collisions found across Lessons 0154, 0155,
+0156, and 0158, all short generic reactions ("good, we still have
+plenty of time then.", "great, one less thing to worry about.", "good,
+better safe than sorry.") colliding with much earlier lessons. All
+fixed by rewording the later-appearing line to echo a specific detail
+from its own answer. A second whole-book pass after fixes found 0
+remaining collisions. Result: **0 duplicates across the whole book,
+0001-0159.**
+**Lesson learned:** confirms the "checking an important detail about
+X" pattern's collision risk documented after Delivery #18 continues
+across domains — the short "Good, [reaction]" and "Yes/No, [detail]."
+lines need the "echo a specific detail" rule applied from the first
+draft in every one of these lessons, not just the single-premise ones.
 
 **Page-estimate calibration formula** (since real PDF rendering isn't
 available — see "Known environment limitation"): approved Lesson 0001 = 132
