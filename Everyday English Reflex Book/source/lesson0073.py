@@ -187,5 +187,37 @@ LESSON_0073 = {
         ("Mr Bernard", "Are you planning anything for your fortieth birthday?", "Anh có định làm gì cho sinh nhật bốn mươi tuổi không?"),
         ("Ms Lan", "We are actually planning a big family trip.", "Chúng tôi đang định đi du lịch cùng cả gia đình đấy."),
         ("Mr Bernard", "That sounds like a lovely milestone celebration.", "Nghe như một dịp kỷ niệm tuyệt vời đấy."),
+        # 36 asking about the age of retirement
+        ("Ms Lan", "Bernard, at what age do people usually retire here?", "Anh Bernard, mọi người ở đây thường nghỉ hưu lúc bao nhiêu tuổi vậy?"),
+        ("Mr Bernard", "Most people retire around sixty, give or take.", "Hầu hết mọi người nghỉ hưu khoảng sáu mươi tuổi, xê xích chút."),
+        ("Ms Lan", "That gives me plenty of time to plan then.", "Vậy tôi còn nhiều thời gian để lên kế hoạch."),
+        # 37 asking how old someone's younger sibling is
+        ("Mr Bernard", "How old is your younger brother these days?", "Em trai chị dạo này bao nhiêu tuổi rồi?"),
+        ("Ms Lan", "He just turned twenty-eight last spring.", "Cậu ấy vừa tròn hai mươi tám tuổi mùa xuân trước."),
+        ("Mr Bernard", "He is catching up to you quickly then.", "Vậy cậu ấy đang gần tuổi chị rồi đấy."),
+        # 38 explaining you don't know a rescued pet's exact age
+        ("Ms Lan", "Do you know exactly how old your rescue dog is?", "Anh có biết chính xác con chó anh nhận nuôi bao nhiêu tuổi không?"),
+        ("Mr Bernard", "Not exactly, the vet guessed around four years old.", "Không chính xác lắm, bác sĩ thú y đoán khoảng bốn tuổi."),
+        ("Ms Lan", "That is close enough to plan his care around.", "Vậy cũng đủ gần để chăm sóc phù hợp rồi."),
+        # 39 asking what age you started learning English
+        ("Mr Bernard", "What age did you start learning English, if you remember?", "Chị bắt đầu học tiếng Anh lúc bao nhiêu tuổi, nếu chị nhớ?"),
+        ("Ms Lan", "I started around twelve, back in secondary school.", "Tôi bắt đầu khoảng mười hai tuổi, hồi cấp hai."),
+        ("Mr Bernard", "That is a great age to start a language.", "Đó là độ tuổi tốt để bắt đầu học ngôn ngữ đấy."),
+        # 40 explaining how old a business is since founding
+        ("Ms Lan", "Do you know how old this coffee shop is, roughly?", "Anh có biết quán cà phê này mở được bao lâu rồi không?"),
+        ("Mr Bernard", "I believe it has been open for about fifteen years.", "Tôi nghĩ nó mở cửa được khoảng mười lăm năm rồi."),
+        ("Ms Lan", "That explains why it feels so familiar here.", "Thảo nào ở đây thấy quen thuộc vậy."),
+        # 41 asking the age gap between cousins
+        ("Mr Bernard", "What is the age gap between you and your cousin Mai?", "Khoảng cách tuổi giữa chị và em họ Mai là bao nhiêu?"),
+        ("Ms Lan", "She is exactly four years younger than me.", "Cô ấy nhỏ hơn tôi đúng bốn tuổi."),
+        ("Mr Bernard", "That is close enough to grow up together.", "Vậy đủ gần để cùng lớn lên với nhau rồi."),
+        # 42 explaining that age doesn't matter for friendship
+        ("Ms Lan", "Does it bother you that your best friend is much younger?", "Anh có thấy phiền khi bạn thân của mình nhỏ tuổi hơn nhiều không?"),
+        ("Mr Bernard", "Not at all, age never really mattered between us.", "Không hề, tuổi tác chưa bao giờ là vấn đề giữa hai đứa tôi."),
+        ("Ms Lan", "That is a lovely way to see friendship.", "Đó là cách nhìn tình bạn thật đẹp."),
+        # 43 asking what age you can legally vote
+        ("Mr Bernard", "What age can someone legally vote in an election here?", "Ở đây bao nhiêu tuổi thì được phép bỏ phiếu bầu cử vậy?"),
+        ("Ms Lan", "You need to be eighteen years old to vote.", "Cần đủ mười tám tuổi mới được bỏ phiếu."),
+        ("Mr Bernard", "That matches the rule where I grew up too.", "Quy định đó cũng giống nơi tôi lớn lên."),
     ],
 }

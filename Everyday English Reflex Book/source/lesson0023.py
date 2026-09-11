@@ -188,7 +188,39 @@ LESSON_0023 = {
         ("Ms Lan", "Everyone, I would like you to meet my father, Hai.", "Mọi người ơi, xin giới thiệu đây là bố tôi, Hải."),
         ("Mr Edward", "Wonderful to finally meet you, Mr Hai.", "Thật vui khi cuối cùng cũng được gặp bác, bác Hải."),
         ("Ms Lan", "He has heard so much about you, Edward.", "Bố đã nghe kể nhiều về anh rồi, Edward."),
-        # 38 closing - why getting names right matters
+        # 38 two generations sharing the same first name
+        ("Ms Lan", "My grandfather and my nephew share the exact same first name.", "Ông tôi và cháu trai tôi trùng tên đầu luôn."),
+        ("Mr Edward", "That must get confusing at big family dinners.", "Chắc là rối lắm trong mấy bữa cơm gia đình đông người."),
+        ("Ms Lan", "It does, so we call the little one 'Nam junior'.", "Đúng vậy, nên chúng tôi gọi bé là 'Nam con'."),
+        # 39 name order on a form abroad
+        ("Mr Edward", "Does this form want your family name or given name first?", "Mẫu đơn này muốn họ trước hay tên trước vậy?"),
+        ("Ms Lan", "In Vietnam we write the family name first, so it is Nguyen Lan.", "Ở Việt Nam mình viết họ trước, nên là Nguyễn Lan."),
+        ("Mr Edward", "Good to know, that explains the order on your passport.", "Tốt quá, vậy giải thích được thứ tự trên hộ chiếu của chị."),
+        # 40 a name with a diacritic hard to type
+        ("Ms Lan", "This online form will not accept the mark over my sister's name.", "Mẫu đơn trực tuyến này không chấp nhận dấu trên tên em gái tôi."),
+        ("Mr Edward", "Try typing it without the diacritic for now.", "Chị thử gõ không dấu tạm thời xem."),
+        ("Ms Lan", "That worked, though it looks a little strange without it.", "Được rồi, dù không dấu trông hơi lạ."),
+        # 41 a different name used at work
+        ("Mr Edward", "Does your brother go by a different name at his office?", "Anh trai chị ở văn phòng có dùng tên khác không?"),
+        ("Ms Lan", "Yes, colleagues call him Tony since Tuan is hard for them.", "Có chứ, đồng nghiệp gọi anh ấy là Tony vì Tuấn khó đọc với họ."),
+        ("Mr Edward", "Tony, that is a clever way to make it easier.", "Tony, đó là cách hay để dễ gọi hơn."),
+        # 42 a pet named after a family member
+        ("Ms Lan", "We accidentally named our dog after my uncle.", "Nhà tôi lỡ đặt tên con chó trùng tên bác tôi."),
+        ("Mr Edward", "Oh no, does your uncle know about that yet?", "Ôi không, bác chị biết chuyện đó chưa?"),
+        ("Ms Lan", "Not yet, we are still deciding how to tell him.", "Chưa, chúng tôi vẫn đang nghĩ cách nói với bác."),
+        # 43 repeating a name over a bad phone connection
+        ("Mr Edward", "Sorry, the line is bad, could you repeat your cousin's name?", "Xin lỗi, đường truyền không tốt, chị nhắc lại tên anh họ chị được không?"),
+        ("Ms Lan", "I said Phuc, spelled P-H-U-C.", "Tôi nói là Phúc, đánh vần P-H-U-C."),
+        ("Mr Edward", "Phuc, got it clearly this time.", "Phúc, lần này tôi nghe rõ rồi."),
+        # 44 a name chosen by a grandmother's tradition
+        ("Ms Lan", "My grandmother chose my youngest cousin's name for good luck.", "Bà tôi chọn tên cho em họ nhỏ nhất để lấy may."),
+        ("Mr Edward", "What name did she pick in the end?", "Cuối cùng bà chọn tên gì vậy?"),
+        ("Ms Lan", "She chose An, which means peace.", "Bà chọn An, nghĩa là bình an."),
+        # 45 a middle name used only on documents
+        ("Mr Edward", "I never knew you had a middle name until I saw your ID.", "Tôi không biết chị có tên đệm cho đến khi thấy căn cước."),
+        ("Ms Lan", "Most people only see it on official paperwork.", "Hầu hết mọi người chỉ thấy nó trên giấy tờ chính thức thôi."),
+        ("Mr Edward", "Interesting, it never comes up in everyday conversation.", "Thú vị thật, nó chẳng bao giờ xuất hiện trong trò chuyện thường ngày."),
+        # 46 closing - why getting names right matters
         ("Mr Edward", "It really means a lot when someone gets a name right.", "Việc ai đó gọi đúng tên thật sự có ý nghĩa lớn."),
         ("Ms Lan", "It does, a name carries a person's whole identity.", "Đúng vậy, một cái tên mang cả bản sắc của một con người."),
         ("Mr Edward", "That is why I always try to ask and remember.", "Chính vì vậy mà tôi luôn cố hỏi và ghi nhớ."),

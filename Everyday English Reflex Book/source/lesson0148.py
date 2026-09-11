@@ -179,7 +179,27 @@ LESSON_0148 = {
         ("Ms Lan", "Do you know where the old photographs are?", "Chị có biết những tấm ảnh cũ ở đâu không vậy?"),
         ("Ms Verity", "Yes, they are in a box in the attic.", "Có, nó đang trong một cái hộp trên gác mái."),
         ("Ms Lan", "Good, I will look through them tonight.", "Tốt, tối nay tôi xem lại chúng."),
-        # 36 closing on why knowing where things are matters
+        # 36 the object is not where expected
+        ("Ms Lan", "The keys are not on the counter, where else could they be?", "Chìa khóa không ở trên quầy, vậy có thể ở đâu nữa vậy?"),
+        ("Ms Verity", "Try the small bowl by the front door instead.", "Thử tìm trong cái chén nhỏ cạnh cửa trước xem."),
+        ("Ms Lan", "Found them there, thank you for remembering that spot.", "Tìm thấy rồi, cảm ơn bạn đã nhớ ra chỗ đó."),
+        # 37 nobody knows, the object seems truly lost
+        ("Ms Verity", "Do you know where my sunglasses are? I cannot find them anywhere.", "Bạn có biết kính râm của tôi ở đâu không? Tôi tìm khắp nơi không thấy."),
+        ("Ms Lan", "No, I have not seen them, maybe you left them at work.", "Không, tôi chưa thấy, có thể bạn để quên ở chỗ làm rồi."),
+        ("Ms Verity", "You might be right, I will check my bag tomorrow.", "Có thể bạn nói đúng, mai tôi kiểm tra túi xách xem."),
+        # 38 asking the other person to search together
+        ("Ms Lan", "Can you help me look for the missing remote right now?", "Bạn giúp tôi tìm cái điều khiển bị mất ngay bây giờ được không?"),
+        ("Ms Verity", "Of course, let us check under the cushions together.", "Được chứ, mình cùng kiểm tra dưới đệm ghế nhé."),
+        ("Ms Lan", "Good idea, two of us will find it faster.", "Ý hay, hai người tìm sẽ nhanh hơn."),
+        # 39 confirming an object is still in its place before leaving
+        ("Ms Verity", "Is the umbrella still by the door, or did someone move it?", "Cây dù còn ở cạnh cửa không, hay ai đó dời rồi vậy?"),
+        ("Ms Lan", "Yes, it is still there, I checked this morning.", "Có, nó vẫn ở đó, sáng nay tôi kiểm tra rồi."),
+        ("Ms Verity", "Perfect, I will grab it on my way out.", "Tốt quá, tôi lấy nó lúc ra ngoài."),
+        # 40 an object turning up in a strange place
+        ("Ms Lan", "Why are my glasses in the fridge, of all places?", "Sao kính của tôi lại nằm trong tủ lạnh vậy trời?"),
+        ("Ms Verity", "I think you put them down while getting some water this morning.", "Tôi nghĩ sáng nay bạn để nó xuống lúc lấy nước uống."),
+        ("Ms Lan", "That must be it, I was clearly half asleep.", "Chắc đúng vậy, lúc đó tôi còn ngái ngủ mà."),
+        # 41 closing on why knowing where things are matters
         ("Ms Verity", "Why does knowing where things are kept matter so much anyway?", "Vậy vì sao biết đồ vật được cất ở đâu lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us so much time and stops us from searching everywhere in a rush.", "Nó giúp mình tiết kiệm nhiều thời gian và khỏi phải tìm khắp nơi trong lúc vội."),
         ("Ms Verity", "That is very true, keeping things in their place really does make life easier.", "Đúng vậy thật, giữ đồ vật đúng chỗ thật sự giúp cuộc sống dễ dàng hơn."),

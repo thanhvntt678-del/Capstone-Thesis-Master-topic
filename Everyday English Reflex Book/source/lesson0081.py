@@ -190,5 +190,37 @@ LESSON_0081 = {
         ("Mr Russell", "Should we take the loop trail or the straight path today?", "Hôm nay mình đi đường vòng hay đường thẳng vậy?"),
         ("Ms Lan", "Let us take the loop, it has better scenery.", "Đi đường vòng đi, cảnh đẹp hơn."),
         ("Mr Russell", "Sounds lovely, let us go that way then.", "Nghe hay đấy, vậy mình đi hướng đó."),
+        # 37 asking for directions to the post office
+        ("Mr Russell", "Excuse me, how do I get to the post office from here?", "Xin lỗi, từ đây tôi đến bưu điện thế nào vậy?"),
+        ("Ms Lan", "Go straight, then turn left at the pharmacy.", "Anh đi thẳng, rồi rẽ trái ở nhà thuốc."),
+        ("Mr Russell", "Thank you, that is easy to remember.", "Cảm ơn chị, vậy dễ nhớ đấy."),
+        # 38 giving directions using a landmark
+        ("Ms Lan", "The new bakery is right next to the blue gate.", "Tiệm bánh mới ngay cạnh cổng màu xanh."),
+        ("Mr Russell", "Ah, I know that gate well.", "À, tôi biết rõ cổng đó."),
+        ("Ms Lan", "Good, you will find it easily then.", "Tốt, vậy anh sẽ dễ tìm thấy."),
+        # 39 asking how far something is
+        ("Mr Russell", "Is the clinic far from the bus stop?", "Phòng khám có xa trạm xe buýt không?"),
+        ("Ms Lan", "No, it is only a five-minute walk.", "Không, chỉ đi bộ năm phút thôi."),
+        ("Mr Russell", "Perfect, I can walk there then.", "Tuyệt, vậy tôi đi bộ tới đó được."),
+        # 40 asking someone to repeat directions
+        ("Ms Lan", "Sorry, could you say that again? I missed the last part.", "Xin lỗi, anh nói lại được không? Tôi lỡ mất đoạn cuối."),
+        ("Mr Russell", "Of course, turn right after the school.", "Được chứ, rẽ phải sau trường học."),
+        ("Ms Lan", "Got it, right after the school, thanks.", "Rõ rồi, rẽ phải sau trường học, cảm ơn anh."),
+        # 41 confirming directions by repeating them back
+        ("Mr Russell", "So I go past the market, then take the second street?", "Vậy tôi đi qua chợ, rồi rẽ vào con phố thứ hai đúng không?"),
+        ("Ms Lan", "That is exactly right, you have got it.", "Đúng chính xác, anh nhớ đúng rồi."),
+        ("Mr Russell", "Great, now I feel confident finding it.", "Tuyệt, giờ tôi tự tin tìm được rồi."),
+        # 42 asking if a place is within walking distance
+        ("Ms Lan", "Can we walk to the new pharmacy, or is it too far?", "Mình đi bộ tới nhà thuốc mới được không, hay xa quá?"),
+        ("Mr Russell", "We can walk, it is just past the school.", "Đi bộ được, nó chỉ qua trường học thôi."),
+        ("Ms Lan", "Perfect, let us walk over then.", "Tuyệt, vậy mình đi bộ qua đó."),
+        # 43 giving a landmark-based turn instruction
+        ("Mr Russell", "Which way after the traffic light?", "Sau đèn giao thông thì đi hướng nào vậy?"),
+        ("Ms Lan", "Turn left, the flower shop is right there.", "Rẽ trái, tiệm hoa ngay đó."),
+        ("Mr Russell", "Got it, left after the light.", "Rõ rồi, rẽ trái sau đèn giao thông."),
+        # 44 thanking someone for clear directions
+        ("Ms Lan", "Did my directions make sense, or was it confusing?", "Chỉ đường của tôi có dễ hiểu không, hay khó hiểu vậy?"),
+        ("Mr Russell", "Very clear, I found the place right away.", "Rất rõ ràng, tôi tìm thấy chỗ đó ngay."),
+        ("Ms Lan", "Wonderful, I am glad it helped.", "Tuyệt vời, tôi vui vì đã giúp được."),
     ],
 }

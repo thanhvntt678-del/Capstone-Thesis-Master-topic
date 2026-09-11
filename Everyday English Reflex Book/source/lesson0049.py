@@ -190,7 +190,27 @@ LESSON_0049 = {
         ("Ms Lan", "Could you confirm tomorrow's forecast before I pack my bag?", "Anh xác nhận giúp dự báo ngày mai trước khi tôi đóng gói hành lý không?"),
         ("Mr Alan", "Yes, mild weather with a slight chance of rain.", "Vâng, thời tiết ôn hòa với khả năng mưa nhẹ."),
         ("Ms Lan", "Good, I will pack a light raincoat then.", "Tốt, vậy tôi mang theo áo mưa mỏng."),
-        # 38 closing - why confirming weather details matters
+        # 38 confirming a seasonal transition date
+        ("Ms Lan", "Could you confirm when the cooler season officially starts?", "Anh xác nhận giúp mùa mát chính thức bắt đầu khi nào không?"),
+        ("Mr Alan", "Yes, the forecast says it begins next week.", "Vâng, dự báo nói bắt đầu từ tuần sau."),
+        ("Ms Lan", "Good, I will bring out my warmer clothes then.", "Tốt, vậy tôi lấy đồ ấm hơn ra."),
+        # 39 checking if roads might be icy this morning
+        ("Mr Alan", "Could you check if the roads might be icy this morning?", "Chị kiểm tra giúp sáng nay đường có bị đóng băng không?"),
+        ("Ms Lan", "Yes, there is a frost warning for early morning drivers.", "Có chứ, có cảnh báo sương giá cho người lái xe sớm."),
+        ("Mr Alan", "Good to know, I will drive slower on the bridge.", "Tốt quá, tôi sẽ lái chậm hơn trên cầu."),
+        # 40 checking whether to reschedule an outdoor party
+        ("Ms Lan", "Could you check if we should reschedule the birthday party?", "Anh kiểm tra giúp mình có nên dời buổi tiệc sinh nhật không?"),
+        ("Mr Alan", "Yes, a storm warning just came out for Saturday.", "Có chứ, vừa có cảnh báo bão cho thứ bảy."),
+        ("Ms Lan", "Good to know, I will move it indoors instead.", "Tốt quá, vậy tôi chuyển vào trong nhà."),
+        # 41 checking if the pressure drop means rain soon
+        ("Mr Alan", "Could you check if this pressure drop means rain is coming soon?", "Chị kiểm tra giúp áp suất giảm này có nghĩa sắp mưa không?"),
+        ("Ms Lan", "Yes, it usually signals rain within a few hours.", "Có chứ, thường báo hiệu mưa trong vài giờ tới."),
+        ("Mr Alan", "Good to know, I will bring the laundry in now.", "Tốt quá, tôi thu đồ phơi vào ngay."),
+        # 42 checking if it is cool enough to turn off the air conditioner
+        ("Ms Lan", "Could you check if it is cool enough to turn off the air conditioner tonight?", "Anh kiểm tra giúp tối nay có đủ mát để tắt máy lạnh không?"),
+        ("Mr Alan", "Yes, it has dropped to a comfortable twenty-four degrees.", "Có chứ, đã giảm xuống hai mươi bốn độ dễ chịu rồi."),
+        ("Ms Lan", "Great, I will just open the window instead.", "Tuyệt, vậy tôi mở cửa sổ thôi."),
+        # 43 closing - why confirming weather details matters
         ("Mr Alan", "Checking these weather details always helps our plans go smoothly.", "Kiểm tra những chi tiết thời tiết này luôn giúp kế hoạch của mình suôn sẻ."),
         ("Ms Lan", "It does, it saves us from so many last-minute surprises.", "Đúng vậy, giúp mình tránh được bao nhiêu bất ngờ phút chót."),
         ("Mr Alan", "That is exactly why I always check before deciding anything.", "Chính vì vậy mà tôi luôn kiểm tra trước khi quyết định bất cứ điều gì."),

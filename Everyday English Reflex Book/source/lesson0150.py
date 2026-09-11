@@ -171,7 +171,31 @@ LESSON_0150 = {
         ("Ms Lan", "Should we choose a sweet dessert soup to finish the meal?", "Mình chọn chè để kết thúc bữa ăn nhé?"),
         ("Ms Isolde", "Yes, a sweet soup sounds like the perfect ending.", "Có, chè nghe như cái kết hoàn hảo."),
         ("Ms Lan", "Good, I will warm it up now.", "Tốt, tôi hâm nóng ngay."),
-        # 36 closing on why choosing a simple food matters
+        # 36 declining a choice and asking for something milder
+        ("Ms Isolde", "Should we choose spicy noodles for lunch today?", "Hôm nay mình chọn mì cay cho bữa trưa nhé?"),
+        ("Ms Lan", "Actually, I would rather not, spicy food upsets my stomach today.", "Thật ra tôi không muốn ăn cay đâu, hôm nay bụng tôi hơi khó chịu."),
+        ("Ms Isolde", "No problem, let us choose something milder instead.", "Không sao, vậy mình chọn món nhẹ hơn nhé."),
+        # 37 asking what can be made with what is on hand
+        ("Ms Lan", "What simple food can we make with just eggs and rice?", "Chỉ có trứng với cơm thì mình làm món gì đơn giản được vậy?"),
+        ("Ms Isolde", "We could make fried rice with a fried egg on top.", "Mình có thể làm cơm chiên với một quả trứng chiên ở trên."),
+        ("Ms Lan", "Good idea, that sounds easy enough to make.", "Ý hay đấy, nghe đơn giản để làm."),
+        # 38 asking about someone's own preference, not proposing
+        ("Ms Isolde", "What simple food would you like to eat tonight?", "Tối nay bạn muốn ăn món gì đơn giản vậy?"),
+        ("Ms Lan", "I would really like some grilled fish, if that is okay.", "Tôi thật sự muốn ăn cá nướng, nếu được thì tốt."),
+        ("Ms Isolde", "Perfect, grilled fish sounds great to me too.", "Tuyệt, cá nướng tôi cũng thích luôn."),
+        # 39 agreeing on what to order together at a food stall
+        ("Ms Lan", "When we get to the stall, should I order chicken rice for both of us?", "Lúc tới sạp, tôi gọi cơm gà cho cả hai mình nhé?"),
+        ("Ms Isolde", "Yes please, chicken rice sounds perfect for both of us.", "Được đấy, cơm gà hợp cho cả hai mình lắm."),
+        ("Ms Lan", "Good, I will order two plates then.", "Tốt, vậy tôi gọi hai đĩa nhé."),
+        # 40 checking for an allergy before choosing shrimp
+        ("Ms Isolde", "Should we choose shrimp fried rice, or are you allergic to shrimp?", "Mình chọn cơm chiên tôm nhé, hay bạn dị ứng tôm?"),
+        ("Ms Lan", "No allergy, but let us still choose something else tonight.", "Không dị ứng đâu, nhưng tối nay mình chọn món khác nhé."),
+        ("Ms Isolde", "Sure, we can save shrimp for another day.", "Được, để dành tôm cho hôm khác vậy."),
+        # 41 asking whether there is enough food left for a third person
+        ("Ms Lan", "Do we have enough soup left if my cousin joins us for dinner?", "Nếu em họ tôi ăn tối cùng thì súp còn đủ không vậy?"),
+        ("Ms Isolde", "I think so, but let us add a little more water to be safe.", "Chắc là đủ, nhưng mình thêm chút nước cho chắc nhé."),
+        ("Ms Lan", "Good thinking, I will fill the pot a bit more.", "Nghĩ hay đấy, tôi đổ thêm vào nồi một chút."),
+        # 42 closing on why choosing a simple food matters
         ("Ms Isolde", "Why does choosing a simple food matter so much anyway?", "Vậy vì sao chọn một món ăn đơn giản lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps our meals enjoyable and makes cooking together feel easy and fun.", "Nó giúp bữa ăn của mình ngon miệng và nấu cùng nhau thấy dễ dàng, vui vẻ."),
         ("Ms Isolde", "That is very true, a simple choice really does make mealtime nicer.", "Đúng vậy thật, một lựa chọn đơn giản thật sự làm bữa ăn thêm vui."),

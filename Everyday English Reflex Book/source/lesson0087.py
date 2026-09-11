@@ -192,5 +192,37 @@ LESSON_0087 = {
         ("Mr Duane", "Why did our whole study plan end up changing this week?", "Vì sao kế hoạch học tập của tụi mình lại thay đổi hoàn toàn tuần này vậy?"),
         ("Ms Lan", "We both realised the old plan was not working well.", "Cả hai tụi mình đều nhận ra kế hoạch cũ không hiệu quả."),
         ("Mr Duane", "Ah, that makes sense, good thing we adjusted.", "À, vậy hợp lý, may là tụi mình điều chỉnh kịp."),
+        # 37 asking for help understanding a difficult concept
+        ("Mr Duane", "Could you help me understand this grammar rule?", "Anh chị giúp tôi hiểu quy tắc ngữ pháp này được không?"),
+        ("Ms Lan", "Sure, let me explain it with a simple example.", "Được, để tôi giải thích bằng một ví dụ đơn giản."),
+        ("Mr Duane", "Thank you, that makes it much clearer now.", "Cảm ơn chị, giờ rõ hơn nhiều rồi."),
+        # 38 asking how to pronounce a word
+        ("Ms Lan", "How do you pronounce this word? I always get it wrong.", "Từ này đọc thế nào vậy? Tôi luôn đọc sai."),
+        ("Mr Duane", "It is pronounced with the stress on the first part.", "Nó được đọc nhấn ở phần đầu."),
+        ("Ms Lan", "Ah, thank you, I will practise saying it that way.", "À, cảm ơn anh, tôi sẽ luyện đọc theo cách đó."),
+        # 39 asking a teacher a question after class
+        ("Mr Duane", "Should we ask the teacher about that after class?", "Mình hỏi giáo viên về điều đó sau giờ học nhé?"),
+        ("Ms Lan", "Good idea, she is usually free for a few minutes.", "Ý hay, cô ấy thường rảnh vài phút mà."),
+        ("Mr Duane", "Let us catch her before she leaves the room.", "Mình gặp cô trước khi cô rời phòng học đi."),
+        # 40 checking if homework answers are correct
+        ("Ms Lan", "Could you check if my answers for question five are correct?", "Anh kiểm tra giúp đáp án câu năm của tôi đúng không?"),
+        ("Mr Duane", "Let me see, yes, that all looks right.", "Để tôi xem, đúng, tất cả đều ổn đấy."),
+        ("Ms Lan", "Great, thank you for double-checking with me.", "Tuyệt, cảm ơn anh đã kiểm tra lại giúp tôi."),
+        # 41 asking to borrow class notes
+        ("Mr Duane", "Could I borrow your notes from yesterday's class?", "Tôi mượn vở ghi chép hôm qua của chị được không?"),
+        ("Ms Lan", "Of course, I will send you a photo of them tonight.", "Được chứ, tối nay tôi chụp gửi anh."),
+        ("Mr Duane", "Thank you so much, I missed a lot of that lesson.", "Cảm ơn chị nhiều, tôi bỏ lỡ khá nhiều buổi đó."),
+        # 42 asking about the exam format
+        ("Ms Lan", "Do you know what format the exam will be?", "Anh có biết bài thi sẽ theo dạng nào không?"),
+        ("Mr Duane", "Mostly multiple choice, with one short writing section.", "Chủ yếu trắc nghiệm, với một phần viết ngắn."),
+        ("Ms Lan", "Good to know, I will prepare for both then.", "Biết vậy tốt, tôi sẽ ôn cả hai dạng."),
+        # 43 asking for feedback on an essay
+        ("Mr Duane", "Could you give me feedback on my essay draft?", "Chị góp ý bản nháp bài luận của tôi được không?"),
+        ("Ms Lan", "Sure, the ideas are strong, just fix a few sentences.", "Được, ý tưởng hay lắm, chỉ cần sửa vài câu thôi."),
+        ("Mr Duane", "Thank you, I will revise it tonight.", "Cảm ơn chị, tối nay tôi sẽ sửa lại."),
+        # 44 encouraging someone struggling with a subject
+        ("Ms Lan", "I am really struggling with this math topic lately.", "Dạo này tôi thấy khó khăn với phần toán này quá."),
+        ("Mr Duane", "Do not worry, it gets easier with more practice.", "Đừng lo, luyện tập nhiều sẽ dễ hơn thôi."),
+        ("Ms Lan", "Thank you, that is encouraging to hear.", "Cảm ơn anh, nghe vậy tôi thấy có động lực hơn."),
     ],
 }

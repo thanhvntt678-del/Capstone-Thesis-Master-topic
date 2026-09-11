@@ -192,5 +192,29 @@ LESSON_0065 = {
         ("Mr Trevor", "Could you help me find the correct pickup gate here?", "Chị giúp tôi tìm đúng cổng đón ở đây được không?"),
         ("Ms Lan", "The app says gate seven, just ahead of us.", "Ứng dụng ghi cổng số bảy, ngay phía trước mình."),
         ("Mr Trevor", "Thank you, I would have missed that gate entirely.", "Cảm ơn chị, không thì tôi bỏ lỡ cổng đó hoàn toàn."),
+        # 37 understanding a driver's rating before booking
+        ("Ms Lan", "Trevor, can you help me understand this driver's rating before I book?", "Anh Trevor, anh giúp tôi hiểu điểm đánh giá tài xế này trước khi đặt xe được không?"),
+        ("Mr Trevor", "Four point eight stars is considered very reliable.", "Bốn phẩy tám sao được coi là rất đáng tin cậy đấy."),
+        ("Ms Lan", "Thank you, I will book with him then.", "Cảm ơn anh, vậy tôi đặt với tài xế đó."),
+        # 38 finding a wheelchair-accessible vehicle option
+        ("Mr Trevor", "Could you help me find a wheelchair-accessible vehicle option?", "Chị giúp tôi tìm loại xe phù hợp cho xe lăn được không?"),
+        ("Ms Lan", "There is a filter for that under vehicle type.", "Có một mục lọc cho việc đó trong loại xe đấy."),
+        ("Mr Trevor", "Thank you, my uncle will need exactly that.", "Cảm ơn chị, chú tôi sẽ cần đúng loại xe đó."),
+        # 39 understanding a flat-rate fare before a long trip
+        ("Ms Lan", "Can you help me understand this flat-rate fare for the airport trip?", "Anh giúp tôi hiểu giá cố định cho chuyến ra sân bay này được không?"),
+        ("Mr Trevor", "It stays the same no matter how heavy traffic gets.", "Nó không đổi dù kẹt xe nặng đến đâu đấy."),
+        ("Ms Lan", "Thank you, that feels much safer to book.", "Cảm ơn anh, vậy đặt xe yên tâm hơn nhiều."),
+        # 40 requesting a pet-friendly ride
+        ("Mr Trevor", "Could you help me request a pet-friendly ride for my cat?", "Chị giúp tôi yêu cầu xe cho phép mang thú cưng cho con mèo của tôi được không?"),
+        ("Ms Lan", "Turn on the pet option before you confirm booking.", "Bật tùy chọn thú cưng trước khi anh xác nhận đặt xe."),
+        ("Mr Trevor", "Thank you, I did not know that setting existed.", "Cảm ơn chị, tôi không biết có cài đặt đó."),
+        # 41 telling a driver he took a wrong turn
+        ("Ms Lan", "Can you help me tell the driver he just took a wrong turn?", "Anh giúp tôi nói với tài xế anh ấy vừa rẽ nhầm đường được không?"),
+        ("Mr Trevor", "I will point to the map and show him now.", "Tôi chỉ vào bản đồ cho anh ấy xem ngay đây."),
+        ("Ms Lan", "Thank you, I did not want to sound rude.", "Cảm ơn anh, tôi không muốn nghe có vẻ thô lỗ."),
+        # 42 finding a ride during a public holiday surge
+        ("Mr Trevor", "Could you help me find a ride? Everything is busy today because of the holiday.", "Chị giúp tôi tìm xe được không? Hôm nay lễ nên xe bận hết rồi."),
+        ("Ms Lan", "Try booking fifteen minutes earlier than usual.", "Thử đặt trước mười lăm phút so với bình thường xem."),
+        ("Mr Trevor", "Thank you, a car just accepted my request.", "Cảm ơn chị, có xe vừa nhận yêu cầu của tôi rồi."),
     ],
 }

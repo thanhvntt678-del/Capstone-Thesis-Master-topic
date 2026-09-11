@@ -189,7 +189,39 @@ LESSON_0104 = {
         ("Ms Lan", "I think we both ignored the calendar reminder for today.", "Tôi nghĩ hôm nay cả hai mình đều bỏ qua lời nhắc trên lịch."),
         ("Ms Geraldine", "Let us set a louder alert for next time.", "Lần sau mình đặt âm báo to hơn đi."),
         ("Ms Lan", "Good idea, that should help us both.", "Ý hay, vậy sẽ giúp được cả hai mình."),
-        # 36 explaining why talking things through calmly matters
+        # 36 mixing up the recycling bin and the trash bin
+        ("Ms Lan", "I think I mixed up the recycling bin with the trash bin again.", "Tôi nghĩ mình lại lẫn thùng tái chế với thùng rác chung rồi."),
+        ("Ms Geraldine", "No worries, let me help you sort it back now.", "Không sao đâu, để tôi giúp phân loại lại ngay."),
+        ("Ms Lan", "Thank you, I always forget which bin is which.", "Cảm ơn chị, tôi cứ hay quên thùng nào là thùng nào."),
+        # 37 the vacuum cleaner bag being completely full
+        ("Ms Geraldine", "The vacuum cleaner bag is completely full, it stopped working.", "Túi máy hút bụi đầy hoàn toàn rồi, nó ngừng chạy."),
+        ("Ms Lan", "Let me check if we have a spare bag.", "Để tôi xem mình còn túi dự phòng không."),
+        ("Ms Geraldine", "Found one, thank you for checking so quickly.", "Tìm thấy rồi, cảm ơn chị đã kiểm tra nhanh."),
+        # 38 a grocery delivery arriving with the wrong items
+        ("Ms Lan", "This grocery delivery has the wrong items in it.", "Đơn hàng đi chợ này giao nhầm đồ rồi."),
+        ("Ms Geraldine", "Let me check the receipt against what we ordered.", "Để tôi đối chiếu hóa đơn với đơn mình đặt."),
+        ("Ms Lan", "You are right, they swapped two of our items.", "Chị nói đúng, họ đổi nhầm hai món của mình."),
+        # 39 the shared streaming account password changing without warning
+        ("Ms Geraldine", "I think the streaming account password got changed without warning.", "Tôi nghĩ mật khẩu tài khoản xem phim bị đổi mà không báo."),
+        ("Ms Lan", "Sorry, I updated it after a strange login alert.", "Xin lỗi chị, tôi đổi sau khi thấy cảnh báo đăng nhập lạ."),
+        ("Ms Geraldine", "Ah, that makes sense, please send me the new one.", "À, vậy hợp lý rồi, gửi tôi mật khẩu mới nhé."),
+        # 40 the dish soap running out halfway through the dishes
+        ("Ms Lan", "The dish soap ran out halfway through washing these dishes.", "Nước rửa chén hết ngay giữa lúc tôi đang rửa."),
+        ("Ms Geraldine", "Let me grab the spare bottle under the sink.", "Để tôi lấy chai dự phòng dưới bồn rửa."),
+        ("Ms Lan", "Perfect, that solves it right away.", "Hoàn hảo, vậy giải quyết được ngay."),
+        # 41 the iron being left switched on in the bedroom
+        ("Ms Geraldine", "I think the iron was left switched on in your room.", "Tôi nghĩ bàn ủi bị để bật trong phòng chị."),
+        ("Ms Lan", "Oh no, let me go turn it off immediately.", "Ôi không, để tôi đi tắt ngay lập tức."),
+        ("Ms Geraldine", "Good thing I noticed the smell of hot metal.", "May mà tôi ngửi thấy mùi kim loại nóng."),
+        # 42 the shared umbrella going missing from the stand
+        ("Ms Lan", "Our shared umbrella is missing from the stand by the door.", "Cây dù chung của mình biến mất khỏi giá gần cửa rồi."),
+        ("Ms Geraldine", "Sorry, I took it out this morning and forgot to mention it.", "Xin lỗi chị, sáng nay tôi mang theo mà quên nói."),
+        ("Ms Lan", "No problem, just let me know next time.", "Không sao đâu, lần sau nhớ báo tôi nhé."),
+        # 43 the cereal box being finished without anyone mentioning it
+        ("Ms Geraldine", "The cereal box was finished, but nobody mentioned it was empty.", "Hộp ngũ cốc hết rồi, mà không ai nói là đã hết."),
+        ("Ms Lan", "Sorry, that was me, I will add it to the list.", "Xin lỗi chị, là tôi đấy, tôi sẽ thêm vào danh sách."),
+        ("Ms Geraldine", "Thanks, that way we will not run out again.", "Cảm ơn chị, vậy mình sẽ không hết bất ngờ nữa."),
+        # 44 explaining why talking things through calmly matters
         ("Ms Geraldine", "Why does talking things through calmly matter so much between roommates?", "Vì sao nói chuyện bình tĩnh lại quan trọng vậy giữa bạn cùng phòng?"),
         ("Ms Lan", "It keeps small mix-ups from turning into real problems.", "Nó giúp những nhầm lẫn nhỏ không biến thành vấn đề lớn."),
         ("Ms Geraldine", "That is very true, I appreciate how patient you are.", "Đúng vậy thật, tôi trân trọng sự kiên nhẫn của chị."),

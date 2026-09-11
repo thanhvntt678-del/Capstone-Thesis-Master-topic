@@ -193,5 +193,29 @@ LESSON_0070 = {
         ("Ms Donna", "Could you help me finish this task before the deadline today?", "Chị giúp tôi hoàn thành việc này trước hạn hôm nay được không?"),
         ("Ms Lan", "Sure, let us split the remaining sections.", "Được, mình chia phần còn lại ra làm nhé."),
         ("Ms Donna", "Thank you, we should make it in time now.", "Cảm ơn chị, giờ mình sẽ kịp giờ rồi."),
+        # 37 finding the fire escape route
+        ("Ms Lan", "Donna, can you help me find the fire escape route on this floor?", "Chị Donna, chị giúp tôi tìm lối thoát hiểm ở tầng này được không?"),
+        ("Ms Donna", "It is marked with green signs near the stairwell.", "Nó được đánh dấu bằng biển màu xanh gần cầu thang bộ đấy."),
+        ("Ms Lan", "Thank you, I should have learned that on my first day.", "Cảm ơn chị, lẽ ra tôi nên biết từ ngày đầu."),
+        # 38 understanding a new software tool
+        ("Ms Donna", "Could you help me understand how this new software tool works?", "Chị giúp tôi hiểu công cụ phần mềm mới này hoạt động thế nào được không?"),
+        ("Ms Lan", "Click here first, then choose your project name.", "Bấm vào đây trước, rồi chọn tên dự án của chị."),
+        ("Ms Donna", "Thank you, it makes more sense now.", "Cảm ơn chị, giờ tôi hiểu hợp lý hơn rồi."),
+        # 39 finding a mentor for onboarding
+        ("Ms Lan", "Can you help me find a mentor for the new colleague joining us?", "Chị giúp tôi tìm người hướng dẫn cho đồng nghiệp mới được không?"),
+        ("Ms Donna", "I can guide her through her first week myself.", "Tôi có thể hướng dẫn cô ấy tuần đầu luôn."),
+        ("Ms Lan", "Thank you, that will help her settle in fast.", "Cảm ơn chị, vậy giúp cô ấy quen việc nhanh hơn."),
+        # 40 finding a parking space at work
+        ("Ms Donna", "Could you help me find a parking space? The lot looks full today.", "Chị giúp tôi tìm chỗ đậu xe được không? Bãi xe hôm nay trông đầy quá."),
+        ("Ms Lan", "There is usually room on the level below.", "Tầng dưới thường vẫn còn chỗ đấy."),
+        ("Ms Donna", "Thank you, I will check down there now.", "Cảm ơn chị, tôi xuống đó xem ngay."),
+        # 41 understanding the expense reimbursement process
+        ("Ms Lan", "Can you help me understand how expense reimbursement works here?", "Chị giúp tôi hiểu quy trình hoàn tiền chi phí ở đây được không?"),
+        ("Ms Donna", "Submit your receipts through the finance portal each month.", "Nộp hóa đơn qua cổng tài chính mỗi tháng nhé."),
+        ("Ms Lan", "Thank you, I will upload mine tonight.", "Cảm ơn chị, tối nay tôi sẽ tải lên."),
+        # 42 finding who approves a purchase order
+        ("Ms Donna", "Could you help me find who approves this purchase order?", "Chị giúp tôi tìm người duyệt đơn mua hàng này được không?"),
+        ("Ms Lan", "Send it to our team lead for approval first.", "Gửi cho trưởng nhóm của mình duyệt trước đã."),
+        ("Ms Donna", "Thank you, I will send it right now.", "Cảm ơn chị, tôi gửi ngay bây giờ."),
     ],
 }

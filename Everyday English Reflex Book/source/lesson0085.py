@@ -195,5 +195,37 @@ LESSON_0085 = {
         ("Mr Curtis", "Why did today's whole schedule end up changing?", "Vì sao cả lịch trình hôm nay lại phải thay đổi vậy?"),
         ("Ms Lan", "The weather turned out far worse than forecast.", "Thời tiết hóa ra tệ hơn dự báo nhiều."),
         ("Mr Curtis", "Ah, that explains everything, thank you.", "À, vậy giải thích hết rồi, cảm ơn chị."),
+        # 37 asking for today's weather forecast
+        ("Mr Curtis", "What does the forecast say for today?", "Dự báo hôm nay nói thế nào vậy?"),
+        ("Ms Lan", "Mostly sunny, with a small chance of rain later.", "Chủ yếu nắng, chiều có thể mưa nhẹ."),
+        ("Mr Curtis", "Good to know, I will plan around that.", "Biết vậy tốt, tôi sẽ sắp xếp theo đó."),
+        # 38 asking if it will rain later
+        ("Ms Lan", "Do you think it will rain before we get home?", "Chị nghĩ trời sẽ mưa trước khi mình về nhà không?"),
+        ("Mr Curtis", "Maybe, those clouds look quite dark now.", "Có thể, mấy đám mây trông khá đen rồi."),
+        ("Ms Lan", "Let us hurry, just in case.", "Vậy mình đi nhanh lên, phòng khi mưa."),
+        # 39 describing that it is sunny right now
+        ("Mr Curtis", "It is so sunny out here right now!", "Trời nắng quá ngay lúc này luôn!"),
+        ("Ms Lan", "It really is, perfect weather for a walk.", "Đúng vậy, thời tiết đẹp để đi bộ quá."),
+        ("Mr Curtis", "Let us enjoy it while it lasts.", "Mình tranh thủ tận hưởng trong lúc này đi."),
+        # 40 asking what to wear because of the cold
+        ("Ms Lan", "What should I wear? It feels quite cold this morning.", "Tôi nên mặc gì đây? Sáng nay trời khá lạnh."),
+        ("Mr Curtis", "A warm jacket should be enough for today.", "Một cái áo khoác ấm là đủ cho hôm nay rồi."),
+        ("Ms Lan", "Thanks, I will grab my thick jacket then.", "Cảm ơn anh, vậy tôi lấy áo khoác dày."),
+        # 41 checking the temperature outside
+        ("Mr Curtis", "Do you know the temperature outside right now?", "Anh có biết nhiệt độ ngoài trời hiện giờ không?"),
+        ("Ms Lan", "My phone says it is about twenty degrees.", "Điện thoại tôi báo khoảng hai mươi độ."),
+        ("Mr Curtis", "That sounds quite pleasant for a walk.", "Vậy khá dễ chịu để đi bộ đấy."),
+        # 42 asking about tomorrow's forecast
+        ("Ms Lan", "Is tomorrow supposed to be better than today?", "Ngày mai có dự báo tốt hơn hôm nay không?"),
+        ("Mr Curtis", "Yes, clear skies and much warmer, apparently.", "Có, trời quang và ấm hơn nhiều, có vẻ vậy."),
+        ("Ms Lan", "Wonderful, we can plan the picnic then.", "Tuyệt vời, vậy mình lên kế hoạch đi picnic."),
+        # 43 describing that it feels very hot today
+        ("Mr Curtis", "It feels unbearably hot out here today.", "Hôm nay ngoài trời nóng khó chịu quá."),
+        ("Ms Lan", "It really does, let us find some shade.", "Đúng vậy, mình tìm chỗ có bóng mát đi."),
+        ("Mr Curtis", "Good idea, that bench under the tree looks perfect.", "Ý hay, cái ghế dưới gốc cây kia trông ổn đấy."),
+        # 44 asking if an umbrella is necessary today
+        ("Ms Lan", "Do you think I need an umbrella today?", "Anh nghĩ hôm nay tôi có cần mang dù không?"),
+        ("Mr Curtis", "Better bring one, just in case it drizzles.", "Nên mang theo, phòng khi mưa phùn."),
+        ("Ms Lan", "Good advice, I will grab one before we leave.", "Lời khuyên hay, tôi lấy dù trước khi mình đi."),
     ],
 }

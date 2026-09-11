@@ -187,7 +187,31 @@ LESSON_0130 = {
         ("Ms Lan", "Where do you keep your shoe polish?", "Chị để xi đánh giày ở đâu vậy?"),
         ("Ms Cordelia", "It is in a small box by the shoe rack.", "Nó ở trong hộp nhỏ cạnh kệ giày."),
         ("Ms Lan", "By the shoe rack, thank you.", "Cạnh kệ giày, cảm ơn chị."),
-        # 36 closing on why knowing where things are kept matters
+        # 36 if a clothes drying rack can be lent
+        ("Ms Cordelia", "Could I borrow your clothes drying rack for the weekend?", "Tôi mượn giá phơi đồ của chị cho cuối tuần được không?"),
+        ("Ms Lan", "Of course, it folds up behind the laundry door.", "Được chứ, nó gấp lại sau cửa phòng giặt."),
+        ("Ms Cordelia", "Behind the laundry door, thank you.", "Sau cửa phòng giặt, cảm ơn chị."),
+        # 37 where a step stool is kept
+        ("Ms Lan", "Where do you keep your step stool for the top shelves?", "Chị để ghế đẩu để với kệ cao ở đâu vậy?"),
+        ("Ms Cordelia", "It tucks in beside the fridge.", "Nó nhét cạnh tủ lạnh."),
+        ("Ms Lan", "Beside the fridge, thank you.", "Cạnh tủ lạnh, cảm ơn chị."),
+        # 38 if an umbrella stand has room
+        ("Ms Cordelia", "Is there room in your umbrella stand for one more?", "Giá để dù của chị còn chỗ cho một cái nữa không?"),
+        ("Ms Lan", "Yes, there is plenty of space left.", "Có, còn nhiều chỗ trống."),
+        ("Ms Cordelia", "Good, I will pop mine in then.", "Tốt, vậy tôi để dù vào đó."),
+        # 39 if a lint roller can be borrowed
+        ("Ms Lan", "Could I borrow your lint roller before I leave?", "Tôi mượn cây lăn lông trước khi đi được không?"),
+        ("Ms Cordelia", "Sure, it is in the drawer by the mirror.", "Được chứ, nó ở ngăn kéo cạnh gương."),
+        ("Ms Lan", "By the mirror, thank you, found it.", "Cạnh gương, cảm ơn chị, tìm thấy rồi."),
+        # 40 if a nightlight still works
+        ("Ms Cordelia", "Does your nightlight still work in the hallway?", "Đèn ngủ ở hành lang của chị còn hoạt động không?"),
+        ("Ms Lan", "Yes, I checked it just last night.", "Có, tối qua tôi vừa kiểm tra."),
+        ("Ms Cordelia", "Good, that is reassuring for late walks.", "Tốt, vậy yên tâm cho những lần đi lại khuya."),
+        # 41 where a door draft stopper is kept
+        ("Ms Lan", "Where do you keep your door draft stopper for winter?", "Chị để thanh chặn gió cửa cho mùa đông ở đâu vậy?"),
+        ("Ms Cordelia", "It rolls up in the hallway cupboard.", "Nó cuộn lại trong tủ hành lang."),
+        ("Ms Lan", "The hallway cupboard, thank you.", "Tủ hành lang, cảm ơn chị."),
+        # 42 closing on why knowing where things are kept matters
         ("Ms Cordelia", "Why does knowing where common household objects are kept matter so much anyway?", "Vậy vì sao biết đồ vật quen thuộc trong nhà ở đâu lại quan trọng đến thế?"),
         ("Ms Lan", "It saves so much time whenever we need to borrow or fix something.", "Nó tiết kiệm nhiều thời gian mỗi khi mình cần mượn hoặc sửa gì đó."),
         ("Ms Cordelia", "That is very true, being organised really helps.", "Đúng vậy thật, sắp xếp gọn gàng thật sự giúp ích."),

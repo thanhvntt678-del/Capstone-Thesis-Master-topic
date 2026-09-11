@@ -202,5 +202,29 @@ LESSON_0067 = {
         ("Mr Barry", "Could you help me understand why the sky looks so dark now?", "Chị giúp tôi hiểu vì sao bầu trời đột nhiên tối sầm được không?"),
         ("Ms Lan", "Heavy clouds are rolling in from the sea.", "Mây đen đang kéo tới từ phía biển đó."),
         ("Mr Barry", "Ah, I should head inside then, thank you.", "À, vậy tôi nên vào trong nhà, cảm ơn chị."),
+        # 37 checking the air quality index before jogging
+        ("Ms Lan", "Barry, can you help me check the air quality before I go jogging?", "Anh Barry, anh giúp tôi xem chất lượng không khí trước khi tôi chạy bộ được không?"),
+        ("Mr Barry", "It is rated moderate, so a short run should be fine.", "Nó được xếp mức trung bình, chạy ngắn thì vẫn ổn."),
+        ("Ms Lan", "Thank you, I will keep the run short then.", "Cảm ơn anh, vậy tôi chạy ngắn thôi."),
+        # 38 deciding whether to bring sunglasses
+        ("Mr Barry", "Could you help me decide if I should bring sunglasses today?", "Chị giúp tôi quyết định hôm nay có nên mang kính râm không?"),
+        ("Ms Lan", "Definitely bring them, the glare is strong this morning.", "Chắc chắn nên mang, sáng nay nắng chói lắm."),
+        ("Mr Barry", "Thank you, I will grab them on my way out.", "Cảm ơn chị, tôi lấy chúng khi ra khỏi nhà."),
+        # 39 understanding a flash flood warning
+        ("Ms Lan", "Can you help me understand this flash flood warning message?", "Anh giúp tôi hiểu tin cảnh báo lũ quét này được không?"),
+        ("Mr Barry", "It says low areas near the river may flood fast.", "Nó nói vùng thấp gần sông có thể ngập nhanh."),
+        ("Ms Lan", "Thank you, I will avoid that road today.", "Cảm ơn anh, hôm nay tôi tránh con đường đó."),
+        # 40 deciding whether wind is too strong for kite flying
+        ("Mr Barry", "Could you help me decide if this wind is too strong for the kids to fly kites?", "Chị giúp tôi quyết định gió này có mạnh quá để bọn trẻ thả diều không?"),
+        ("Ms Lan", "It looks manageable, just not near the power lines.", "Trông vẫn ổn đấy, chỉ tránh xa đường dây điện thôi."),
+        ("Mr Barry", "Thank you, we will stay clear of those.", "Cảm ơn chị, mình sẽ tránh xa chỗ đó."),
+        # 41 checking if frost is expected overnight
+        ("Ms Lan", "Can you help me check if frost is expected on the plants tonight?", "Anh giúp tôi xem tối nay có sương giá trên cây không?"),
+        ("Mr Barry", "Temperatures should stay above freezing, so no frost.", "Nhiệt độ vẫn trên mức đóng băng, nên sẽ không có sương giá."),
+        ("Ms Lan", "Thank you, I will leave the plants outside then.", "Cảm ơn anh, vậy tôi để cây ngoài trời."),
+        # 42 deciding if an early walk is safe in fog
+        ("Mr Barry", "Could you help me decide if it is safe to walk early with this fog?", "Chị giúp tôi quyết định đi bộ sớm trong sương mù này có an toàn không?"),
+        ("Ms Lan", "Wait until after seven, the fog usually clears by then.", "Chờ sau bảy giờ đi, sương mù thường tan lúc đó."),
+        ("Mr Barry", "Thank you, I will delay my walk a bit.", "Cảm ơn chị, tôi sẽ đi trễ hơn một chút."),
     ],
 }

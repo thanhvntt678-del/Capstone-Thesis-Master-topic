@@ -184,7 +184,31 @@ LESSON_0170 = {
         ("Ms Lan", "Could you help me pick out formal wear for the ceremony?", "Chị giúp tôi chọn trang phục trang trọng cho buổi lễ được không?"),
         ("Ms Florentine", "Yes, the navy suit looks perfect for that occasion.", "Được, bộ vest xanh navy hợp hoàn hảo cho dịp đó."),
         ("Ms Lan", "Good, navy always looks so polished.", "Tốt, xanh navy lúc nào cũng chỉn chu."),
-        # 36 closing on why asking for help with clothing matters
+        # 36 checking if an outfit suits today's weather
+        ("Ms Lan", "Could you help me check if this outfit is warm enough for today's weather?", "Chị giúp tôi xem bộ đồ này có đủ ấm cho thời tiết hôm nay không được không?"),
+        ("Ms Florentine", "Yes, it looks a bit light, maybe add a cardigan over it.", "Được, trông hơi mỏng, thử khoác thêm áo len cardigan xem."),
+        ("Ms Lan", "Good idea, I will grab one from the closet now.", "Ý hay đấy, tôi lấy một cái trong tủ ngay."),
+        # 37 finding a hair clip that matches the outfit
+        ("Ms Florentine", "Could you help me find a hair clip that matches this dress?", "Bạn giúp tôi tìm cặp tóc hợp với váy này được không?"),
+        ("Ms Lan", "Yes, the gold one on the dresser matches it perfectly.", "Được, cái màu vàng trên bàn trang điểm hợp lắm."),
+        ("Ms Florentine", "Great, that finishes the whole look nicely.", "Tuyệt, vậy hoàn thiện bộ trang phục rồi."),
+        # 38 deciding if two accessories clash
+        ("Ms Lan", "Could you help me decide if this necklace clashes with these earrings?", "Chị giúp tôi xem dây chuyền này có xung khắc với đôi bông tai không được không?"),
+        ("Ms Florentine", "Yes, they compete a bit, try wearing just the necklace alone.", "Được, hai món hơi lấn nhau, thử chỉ đeo dây chuyền thôi xem."),
+        ("Ms Lan", "Good, simpler is probably better for tonight anyway.", "Tốt, tối nay đơn giản chắc hợp hơn."),
+        # 39 fixing a loose thread before leaving the house
+        ("Ms Florentine", "Could you help me fix this loose thread before I leave the house?", "Bạn giúp tôi xử lý sợi chỉ tuột này trước khi tôi ra khỏi nhà được không?"),
+        ("Ms Lan", "Yes, hold still, I will snip it off carefully.", "Được, đứng yên nhé, tôi cắt cẩn thận cho."),
+        ("Ms Florentine", "That was close, I almost pulled the whole seam apart.", "Suýt nữa thì tôi kéo bung cả đường may rồi."),
+        # 40 reciprocal - offering help before leaving together
+        ("Ms Lan", "Do you need any help with anything else before we leave?", "Chị có cần tôi giúp gì thêm trước khi mình đi không?"),
+        ("Ms Florentine", "Actually yes, could you zip up the back of my dress?", "Thật ra là có, bạn kéo giúp khóa sau lưng váy tôi được không?"),
+        ("Ms Lan", "Of course, hold still for just a second.", "Được chứ, đứng yên một chút thôi nhé."),
+        # 41 choosing layers for a day with changing temperature
+        ("Ms Florentine", "Could you help me choose layers? It will be cold this morning but warm by afternoon.", "Bạn giúp tôi chọn đồ mặc theo lớp được không? Sáng lạnh nhưng chiều lại ấm."),
+        ("Ms Lan", "Yes, wear a light jacket you can easily take off later.", "Được, mặc áo khoác mỏng để lát dễ cởi ra."),
+        ("Ms Florentine", "Good plan, that should work for both temperatures today.", "Kế hoạch hay đấy, vậy hợp cả hai kiểu thời tiết hôm nay."),
+        # 42 closing on why asking for help with clothing matters
         ("Ms Florentine", "Why does asking for help with clothing and personal items matter so much anyway?", "Vậy vì sao nhờ giúp đỡ về quần áo và đồ dùng cá nhân lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us time and helps us look and feel our best without so much stress.", "Nó giúp mình tiết kiệm thời gian và trông cũng như cảm thấy tốt hơn mà không quá căng thẳng."),
         ("Ms Florentine", "That is very true, asking for help really does make getting ready so much easier.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp việc chuẩn bị dễ dàng hơn nhiều."),

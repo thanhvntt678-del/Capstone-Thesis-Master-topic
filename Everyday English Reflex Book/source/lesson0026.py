@@ -182,7 +182,31 @@ LESSON_0026 = {
         ("Ms Lan", "Do you have a spare face mask? Mine just tore.", "Chị có khẩu trang dư không? Cái của tôi vừa rách."),
         ("Ms Karen", "Yes, here, take one from my bag.", "Có chứ, đây, chị lấy một cái trong túi tôi."),
         ("Ms Lan", "Thank you, that was lucky timing.", "Cảm ơn chị, đúng lúc quá."),
-        # 38 closing - why these small needs matter
+        # 38 losing an earring at an event
+        ("Ms Lan", "I think I lost one earring somewhere at the party.", "Hình như tôi làm mất một chiếc bông tai ở bữa tiệc rồi."),
+        ("Ms Karen", "Let us retrace our steps from the dance floor.", "Mình quay lại đường đi từ sàn nhảy xem."),
+        ("Ms Lan", "Found it, it was caught in my scarf.", "Tìm thấy rồi, nó mắc vào khăn quàng của tôi."),
+        # 39 watch battery died
+        ("Ms Karen", "My watch stopped this morning, the battery must be dead.", "Đồng hồ tôi sáng nay dừng chạy rồi, chắc hết pin."),
+        ("Ms Lan", "There is a small shop near the market that replaces those.", "Có một tiệm nhỏ gần chợ thay pin loại đó đấy."),
+        ("Ms Karen", "Thanks, I will stop by after lunch.", "Cảm ơn chị, ăn trưa xong tôi sẽ ghé qua."),
+        # 40 wallet falling apart
+        ("Ms Lan", "My wallet is falling apart, the seams are coming loose.", "Ví của tôi sắp rách rồi, đường may đang bung ra."),
+        ("Ms Karen", "It might be time to pick out a new one.", "Chắc đến lúc chọn một cái mới rồi."),
+        ("Ms Lan", "You are right, I will look this weekend.", "Chị nói đúng, cuối tuần này tôi sẽ đi xem."),
+        # 41 a hole in a sock needing mending
+        ("Ms Karen", "There is a small hole forming in the heel of this sock.", "Có một lỗ nhỏ đang thủng ở gót của chiếc tất này."),
+        ("Ms Lan", "I can mend it for you if you like.", "Nếu chị muốn, tôi có thể vá giúp."),
+        ("Ms Karen", "That would be wonderful, thank you.", "Vậy thì tốt quá, cảm ơn chị."),
+        # 42 borrowing a tissue
+        ("Ms Lan", "Do you have a tissue? My nose is a bit runny.", "Chị có khăn giấy không? Mũi tôi hơi sổ."),
+        ("Ms Karen", "Here, I always keep a small packet in my bag.", "Đây, tôi luôn để một gói nhỏ trong túi."),
+        ("Ms Lan", "Thank you, that is much better now.", "Cảm ơn chị, giờ đỡ hơn nhiều rồi."),
+        # 43 a hat too tight
+        ("Ms Karen", "This new hat feels a little too tight on my head.", "Cái mũ mới này đội thấy hơi chật đầu."),
+        ("Ms Lan", "You could try stretching it gently with your hands.", "Chị thử kéo giãn nhẹ bằng tay xem."),
+        ("Ms Karen", "That helped a bit, it fits better now.", "Vậy đỡ hơn chút rồi, giờ vừa hơn."),
+        # 44 closing - why these small needs matter
         ("Ms Karen", "It is funny how many small things come up each day.", "Buồn cười thật, mỗi ngày có bao nhiêu chuyện nhỏ xảy ra."),
         ("Ms Lan", "It really is, but they are easy to handle together.", "Đúng vậy, nhưng cùng nhau giải quyết thì dễ dàng thôi."),
         ("Ms Karen", "That is exactly why I am glad to have you nearby.", "Chính vì vậy mà tôi rất vui vì có chị ở gần."),

@@ -193,5 +193,29 @@ LESSON_0072 = {
         ("Ms Gloria", "Could you help me understand this video call invite I received?", "Chị giúp tôi hiểu lời mời gọi video tôi vừa nhận được không?"),
         ("Ms Lan", "It is from our aunt, starting at seven tonight.", "Nó từ dì mình, bắt đầu lúc bảy giờ tối nay đấy."),
         ("Ms Gloria", "Thank you, I will join right on time.", "Cảm ơn chị, tôi sẽ vào đúng giờ."),
+        # 37 setting up two-factor authentication
+        ("Ms Lan", "Gloria, can you help me set up two-factor authentication on this app?", "Chị Gloria, chị giúp tôi cài xác thực hai lớp trên ứng dụng này được không?"),
+        ("Ms Gloria", "Sure, enter your phone number and confirm the code.", "Được, nhập số điện thoại rồi xác nhận mã đi."),
+        ("Ms Lan", "Thank you, my account feels safer now.", "Cảm ơn chị, giờ tài khoản tôi an toàn hơn rồi."),
+        # 38 finding an app's privacy settings
+        ("Ms Gloria", "Could you help me find the privacy settings in this app?", "Chị giúp tôi tìm cài đặt riêng tư trong ứng dụng này được không?"),
+        ("Ms Lan", "They are under the account tab, near the bottom.", "Nó nằm trong mục tài khoản, gần cuối trang đấy."),
+        ("Ms Gloria", "Thank you, I found what I was looking for.", "Cảm ơn chị, tôi tìm thấy cái mình cần rồi."),
+        # 39 scheduling a reminder notification
+        ("Ms Lan", "Can you help me schedule a reminder notification for the meeting?", "Chị giúp tôi hẹn giờ thông báo nhắc nhở cho cuộc họp được không?"),
+        ("Ms Gloria", "Sure, set it for thirty minutes before the meeting.", "Được, đặt trước cuộc họp ba mươi phút đi."),
+        ("Ms Lan", "Thank you, now I will not forget it.", "Cảm ơn chị, giờ tôi sẽ không quên nữa."),
+        # 40 exporting a chat conversation
+        ("Ms Gloria", "Could you help me export this whole chat conversation?", "Chị giúp tôi xuất toàn bộ đoạn chat này được không?"),
+        ("Ms Lan", "Tap the menu icon and choose export chat.", "Chạm vào biểu tượng menu rồi chọn xuất đoạn chat."),
+        ("Ms Gloria", "Thank you, it saved as a file now.", "Cảm ơn chị, giờ nó lưu thành tệp rồi."),
+        # 41 changing a display name in an app
+        ("Ms Lan", "Can you help me change my display name in this app?", "Chị giúp tôi đổi tên hiển thị trong ứng dụng này được không?"),
+        ("Ms Gloria", "Tap your profile, then edit the name field.", "Chạm vào hồ sơ, rồi sửa ô tên đấy."),
+        ("Ms Lan", "Thank you, that name suits me much better.", "Cảm ơn chị, tên đó hợp với tôi hơn nhiều."),
+        # 42 understanding a broken image in a chat
+        ("Ms Gloria", "Could you help me? This photo in the chat will not load at all.", "Chị giúp tôi được không? Tấm ảnh trong đoạn chat này không tải được."),
+        ("Ms Lan", "Ask them to resend it, the file might be corrupted.", "Nhờ họ gửi lại đi, tệp có thể bị lỗi rồi."),
+        ("Ms Gloria", "Thank you, I will ask her to resend it.", "Cảm ơn chị, tôi sẽ nhờ cô ấy gửi lại."),
     ],
 }

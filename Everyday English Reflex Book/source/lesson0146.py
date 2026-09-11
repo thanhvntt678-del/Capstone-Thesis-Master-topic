@@ -185,7 +185,27 @@ LESSON_0146 = {
         ("Ms Lan", "How do I end this phone interview politely?", "Tôi nên kết thúc buổi phỏng vấn qua điện thoại này lịch sự thế nào vậy?"),
         ("Ms Amabel", "Just say, thank you for your time, I look forward to hearing back.", "Chỉ cần nói cảm ơn đã dành thời gian, tôi mong nhận được phản hồi."),
         ("Ms Lan", "Good, that sounds professional and polite.", "Tốt, nghe chuyên nghiệp và lịch sự thật."),
-        # 36 closing on why saying goodbye well matters
+        # 36 responding when a friend says goodbye first
+        ("Ms Amabel", "You just said goodbye to me first, how should I answer back?", "Bạn vừa nói tạm biệt tôi trước, tôi nên đáp lại thế nào vậy?"),
+        ("Ms Lan", "Just say, bye, see you soon, and give a small smile.", "Chỉ cần nói tạm biệt, hẹn sớm gặp lại, và mỉm cười nhẹ."),
+        ("Ms Amabel", "Good, that feels like an easy way to answer.", "Tốt, nghe như một cách đáp lại dễ dàng."),
+        # 37 a longer farewell for a friend moving away for good
+        ("Ms Lan", "How should I say goodbye to my friend who is moving to another city for good?", "Tôi nên nói tạm biệt bạn thế nào khi bạn ấy chuyển hẳn tới thành phố khác vậy?"),
+        ("Ms Amabel", "Just say, I will really miss you, please keep in touch with me.", "Chỉ cần nói tôi sẽ rất nhớ bạn, hãy giữ liên lạc với tôi nhé."),
+        ("Ms Lan", "That is heartfelt, I will say exactly that to her.", "Nghe chân thành thật, tôi sẽ nói đúng vậy với bạn ấy."),
+        # 38 ending a text message conversation
+        ("Ms Amabel", "What should I type to end this text message with you?", "Tôi nên gõ gì để kết thúc tin nhắn này với bạn vậy?"),
+        ("Ms Lan", "Just type, talk later, take care, with a small heart.", "Chỉ cần gõ nói chuyện sau nhé, giữ sức khỏe, kèm một trái tim nhỏ."),
+        ("Ms Amabel", "Good, that is a sweet way to end a text.", "Tốt, đó là cách kết thúc tin nhắn dễ thương thật."),
+        # 39 using a casual bye between close friends
+        ("Ms Lan", "Since we are such close friends, is it fine if I just say bye to you?", "Vì mình thân nhau vậy, tôi chỉ nói bye với bạn có được không?"),
+        ("Ms Amabel", "Yes, of course, a simple bye is perfectly fine between us.", "Được chứ, giữa mình chỉ cần nói bye đơn giản là được rồi."),
+        ("Ms Lan", "Good, that feels much more natural for us.", "Tốt, nghe tự nhiên hơn nhiều với mình."),
+        # 40 choosing a wave or a handshake for the goodbye gesture
+        ("Ms Amabel", "Should I wave or shake hands when I say goodbye to my new boss?", "Tôi nên vẫy tay hay bắt tay khi tạm biệt sếp mới vậy?"),
+        ("Ms Lan", "A handshake is better for your boss, a wave is fine for close friends.", "Bắt tay thì hợp với sếp hơn, còn vẫy tay thì hợp với bạn thân."),
+        ("Ms Amabel", "Good, I will remember that difference from now on.", "Tốt, từ giờ tôi sẽ nhớ sự khác biệt đó."),
+        # 41 closing on why saying goodbye well matters
         ("Ms Amabel", "Why does saying goodbye well matter so much anyway?", "Vậy vì sao nói lời tạm biệt đúng cách lại quan trọng đến thế?"),
         ("Ms Lan", "It leaves people with a warm feeling and shows that we truly value them.", "Nó để lại cảm giác ấm áp cho mọi người và cho thấy mình thật sự trân trọng họ."),
         ("Ms Amabel", "That is very true, a kind goodbye really does leave a lasting impression.", "Đúng vậy thật, một lời tạm biệt tử tế thật sự để lại ấn tượng lâu dài."),

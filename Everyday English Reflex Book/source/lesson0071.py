@@ -192,5 +192,29 @@ LESSON_0071 = {
         ("Mr Harold", "Could you help me understand this recorded message I just got?", "Chị giúp tôi hiểu tin nhắn ghi âm tôi vừa nhận được không?"),
         ("Ms Lan", "It says your package is out for delivery today.", "Nó nói kiện hàng của anh đang được giao hôm nay đấy."),
         ("Mr Harold", "Thank you, I will watch for the delivery then.", "Cảm ơn chị, vậy tôi chờ người giao hàng."),
+        # 37 understanding a phone insurance claim call
+        ("Ms Lan", "Harold, can you help me understand this call about my phone insurance claim?", "Anh Harold, anh giúp tôi hiểu cuộc gọi về yêu cầu bảo hiểm điện thoại này được không?"),
+        ("Mr Harold", "They said your replacement phone ships this week.", "Họ nói điện thoại thay thế sẽ được gửi tuần này đấy."),
+        ("Ms Lan", "Thank you, that is a relief to hear.", "Cảm ơn anh, nghe vậy tôi nhẹ cả người."),
+        # 38 finding the right SIM card settings
+        ("Mr Harold", "Could you help me find the SIM card settings on this new phone?", "Chị giúp tôi tìm cài đặt thẻ SIM trên điện thoại mới này được không?"),
+        ("Ms Lan", "Go to network settings and select your carrier there.", "Vào cài đặt mạng rồi chọn nhà mạng của anh ở đó."),
+        ("Mr Harold", "Thank you, it is picking up signal now.", "Cảm ơn chị, giờ nó bắt sóng được rồi."),
+        # 39 understanding a survey call
+        ("Ms Lan", "Can you help me understand what this survey call was about?", "Anh giúp tôi hiểu cuộc gọi khảo sát này là về gì được không?"),
+        ("Mr Harold", "They were asking about your recent shopping experience.", "Họ hỏi về trải nghiệm mua sắm gần đây của chị đấy."),
+        ("Ms Lan", "Ah, that explains the odd questions, thank you.", "À, thảo nào câu hỏi lạ vậy, cảm ơn anh."),
+        # 40 declining a call politely mid-meeting
+        ("Mr Harold", "Could you help me decline this call politely? I am in a meeting.", "Chị giúp tôi từ chối cuộc gọi này lịch sự được không? Tôi đang họp."),
+        ("Ms Lan", "Just send a quick text saying you will call back later.", "Cứ nhắn tin nhanh nói sẽ gọi lại sau là được."),
+        ("Mr Harold", "Thank you, that sounds polite enough.", "Cảm ơn chị, nghe vậy lịch sự rồi."),
+        # 41 checking call history for a specific date
+        ("Ms Lan", "Can you help me check my call history for last Tuesday?", "Anh giúp tôi kiểm tra lịch sử cuộc gọi thứ Ba tuần trước được không?"),
+        ("Mr Harold", "Scroll down, it shows calls sorted by date.", "Kéo xuống đi, nó hiện cuộc gọi sắp theo ngày đấy."),
+        ("Ms Lan", "Thank you, I found the call I needed.", "Cảm ơn anh, tôi tìm thấy cuộc gọi cần tìm rồi."),
+        # 42 understanding an unfamiliar international code
+        ("Mr Harold", "Could you help me understand this unfamiliar country code on my screen?", "Chị giúp tôi hiểu mã quốc gia lạ này trên màn hình được không?"),
+        ("Ms Lan", "That code belongs to a number calling from overseas.", "Mã đó thuộc về một số gọi từ nước ngoài đấy."),
+        ("Mr Harold", "Ah, that explains it, thank you.", "À, ra vậy, cảm ơn chị."),
     ],
 }

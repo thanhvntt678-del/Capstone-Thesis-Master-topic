@@ -197,7 +197,27 @@ LESSON_0047 = {
         ("Ms Lan", "Could you confirm the pickup pin is at the right spot?", "Anh xác nhận giúp ghim điểm đón có đúng chỗ không?"),
         ("Mr Bruce", "Yes, it is right outside our building entrance.", "Vâng, ngay ngoài lối vào tòa nhà của mình."),
         ("Ms Lan", "Perfect, the driver should find us easily.", "Tuyệt, tài xế sẽ dễ tìm thấy mình."),
-        # 38 closing - why checking these details matters
+        # 38 checking the meter is running correctly
+        ("Ms Lan", "Could you check if the meter started running correctly?", "Anh kiểm tra giúp đồng hồ tính tiền đã chạy đúng chưa?"),
+        ("Mr Bruce", "Yes, it started right when we pulled off.", "Vâng, nó bắt đầu chạy ngay lúc xe lăn bánh."),
+        ("Ms Lan", "Good, then the fare should be fair.", "Tốt, vậy giá cước sẽ đúng."),
+        # 39 checking if the driver accepts cash as backup
+        ("Mr Bruce", "Could you check if the driver accepts cash as backup?", "Chị kiểm tra giúp tài xế có nhận tiền mặt dự phòng không?"),
+        ("Ms Lan", "Yes, he said cash is fine if the app fails.", "Có chứ, anh ấy nói tiền mặt cũng được nếu ứng dụng lỗi."),
+        ("Mr Bruce", "Good, I will keep some cash ready just in case.", "Tốt, tôi sẽ để sẵn ít tiền mặt phòng khi cần."),
+        # 40 confirming how many passengers the car allows
+        ("Ms Lan", "Could you confirm how many passengers this car allows?", "Anh xác nhận giúp xe này chở được bao nhiêu người không?"),
+        ("Mr Bruce", "Yes, it seats four passengers besides the driver.", "Vâng, chở được bốn người ngoài tài xế."),
+        ("Ms Lan", "Great, that is enough for all five of us with one on a lap.", "Tuyệt, vậy đủ cho cả năm người nếu một bé ngồi lòng."),
+        # 41 confirming a mid-trip destination change
+        ("Mr Bruce", "Could you confirm the driver understood our new destination?", "Chị xác nhận giúp tài xế đã hiểu điểm đến mới của mình chưa?"),
+        ("Ms Lan", "Yes, I updated it in the app and he saw it.", "Có chứ, tôi cập nhật trong ứng dụng và anh ấy đã thấy."),
+        ("Mr Bruce", "Great, no need to explain it again then.", "Tuyệt, vậy khỏi phải giải thích lại."),
+        # 42 checking the air conditioning works
+        ("Ms Lan", "Could you check if the air conditioning is working well?", "Anh kiểm tra giúp máy lạnh có chạy tốt không?"),
+        ("Mr Bruce", "Yes, it feels nice and cool already.", "Có chứ, đã thấy mát rồi."),
+        ("Ms Lan", "Great, this heat really needed that.", "Tuyệt, trời nóng thế này cần lắm."),
+        # 43 closing - why checking these details matters
         ("Mr Bruce", "Checking these small details really makes every ride smoother.", "Kiểm tra những chi tiết nhỏ này thật sự giúp mỗi chuyến đi suôn sẻ hơn."),
         ("Ms Lan", "It does, it avoids confusion and gives peace of mind.", "Đúng vậy, tránh được nhầm lẫn và giúp yên tâm hơn."),
         ("Mr Bruce", "That is exactly why I always double-check before we ride.", "Chính vì vậy mà tôi luôn kiểm tra lại trước khi mình đi xe."),

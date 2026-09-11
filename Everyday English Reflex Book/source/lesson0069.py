@@ -192,5 +192,29 @@ LESSON_0069 = {
         ("Mr Neil", "Could you help me finish this assignment before it is due?", "Chị giúp tôi hoàn thành bài tập này trước hạn được không?"),
         ("Ms Lan", "Sure, let us split the remaining questions.", "Được, mình chia câu hỏi còn lại ra làm."),
         ("Mr Neil", "Thank you, we should finish in time now.", "Cảm ơn chị, giờ mình sẽ kịp giờ rồi."),
+        # 37 understanding marking criteria
+        ("Ms Lan", "Neil, can you help me understand how this essay will be marked?", "Anh Neil, anh giúp tôi hiểu bài luận này được chấm thế nào được không?"),
+        ("Mr Neil", "Grammar counts for half, and ideas count for the rest.", "Ngữ pháp chiếm một nửa, còn lại là ý tưởng đấy."),
+        ("Ms Lan", "Thank you, I will focus on both parts now.", "Cảm ơn anh, giờ tôi sẽ chú trọng cả hai phần."),
+        # 38 finding a lost pencil case
+        ("Mr Neil", "Could you help me? I cannot find my pencil case anywhere.", "Chị giúp tôi được không? Tôi tìm hộp bút mãi không ra."),
+        ("Ms Lan", "Check under your chair, I saw something there.", "Xem dưới ghế chị ngồi đi, tôi thấy có gì đó ở đó."),
+        ("Mr Neil", "Found it, thank you for noticing that.", "Tìm thấy rồi, cảm ơn chị đã để ý."),
+        # 39 understanding an idiom in the reading text
+        ("Ms Lan", "Can you help me understand this idiom in the reading text?", "Anh giúp tôi hiểu thành ngữ này trong bài đọc được không?"),
+        ("Mr Neil", "It means to finally understand something clearly.", "Nó nghĩa là cuối cùng cũng hiểu rõ điều gì đó."),
+        ("Ms Lan", "Ah, that makes the whole sentence click, thank you.", "À, vậy câu này hợp lý hẳn ra, cảm ơn anh."),
+        # 40 joining a study group chat
+        ("Mr Neil", "Could you help me join the study group chat for this course?", "Chị giúp tôi tham gia nhóm chat học tập của khóa này được không?"),
+        ("Ms Lan", "Sure, I will add you using your phone number.", "Được, tôi thêm anh bằng số điện thoại nhé."),
+        ("Mr Neil", "Thank you, I can see everyone's notes now.", "Cảm ơn chị, giờ tôi xem được ghi chú của mọi người."),
+        # 41 finding the course syllabus
+        ("Ms Lan", "Can you help me find the syllabus for this term?", "Anh giúp tôi tìm đề cương môn học kỳ này được không?"),
+        ("Mr Neil", "It was posted on the noticeboard last week.", "Nó được dán trên bảng thông báo tuần trước đấy."),
+        ("Ms Lan", "Thank you, I will take a photo of it now.", "Cảm ơn anh, tôi chụp ảnh lại ngay."),
+        # 42 checking the projector works before a class presentation
+        ("Mr Neil", "Could you help me check the projector before my presentation?", "Chị giúp tôi kiểm tra máy chiếu trước bài thuyết trình được không?"),
+        ("Ms Lan", "It is working fine, the picture looks sharp.", "Nó chạy tốt đấy, hình ảnh rõ nét lắm."),
+        ("Mr Neil", "Thank you, now I can relax before I start.", "Cảm ơn chị, giờ tôi có thể thư giãn trước khi bắt đầu."),
     ],
 }

@@ -182,7 +182,27 @@ LESSON_0147 = {
         ("Ms Lan", "Do you know the price of a small gift box at the shop?", "Anh có biết giá một hộp quà nhỏ ở cửa hàng không vậy?"),
         ("Mr Gideon", "Yes, it is six dollars for a nicely wrapped one.", "Có, hộp gói đẹp giá sáu đô la."),
         ("Ms Lan", "Six dollars, perfect for tomorrow's gift.", "Sáu đô la, hợp để tặng quà mai đấy."),
-        # 36 closing on why knowing a price matters
+        # 36 reacting when a price feels too high
+        ("Mr Gideon", "The price of that jacket seems quite high, do you think so too?", "Giá cái áo khoác đó có vẻ cao, bạn thấy vậy không?"),
+        ("Ms Lan", "Yes, forty dollars is too expensive for me right now.", "Đúng vậy, bốn mươi đô la hơi đắt với tôi lúc này."),
+        ("Mr Gideon", "I agree, let us wait for it to go on sale.", "Tôi cũng nghĩ vậy, mình chờ khi nào giảm giá đã."),
+        # 37 asking whether a price already includes tax
+        ("Ms Lan", "Does this price already include tax, or is tax added later?", "Giá này đã tính thuế chưa, hay là tính thêm sau vậy?"),
+        ("Mr Gideon", "It already includes tax, so that is the final price.", "Đã tính thuế rồi, đó là giá cuối cùng."),
+        ("Ms Lan", "Good, no surprises at the counter then.", "Tốt, vậy không sợ bất ngờ lúc thanh toán."),
+        # 38 asking about a discount on the price
+        ("Mr Gideon", "Is there any discount on this today?", "Hôm nay có giảm giá món này không vậy?"),
+        ("Ms Lan", "Yes, there is ten percent off until Sunday.", "Có, giảm mười phần trăm tới hết Chủ nhật."),
+        ("Mr Gideon", "Great, I will buy it today then.", "Tuyệt, vậy hôm nay tôi mua luôn."),
+        # 39 confirming a price that was not heard clearly
+        ("Ms Lan", "Sorry, how much did you say the ticket costs?", "Xin lỗi, bạn nói vé giá bao nhiêu vậy?"),
+        ("Mr Gideon", "I said twenty dollars, not twelve dollars.", "Tôi nói hai mươi đô la, không phải mười hai đô la."),
+        ("Ms Lan", "Ah, twenty dollars, thank you for repeating that.", "À, hai mươi đô la, cảm ơn bạn đã nói lại."),
+        # 40 asking for the total price of several items
+        ("Mr Gideon", "How much do I owe you in total for both items?", "Cả hai món tôi phải trả bạn tổng cộng bao nhiêu vậy?"),
+        ("Ms Lan", "Together, that comes to seventeen dollars.", "Gộp lại là mười bảy đô la."),
+        ("Mr Gideon", "Seventeen dollars, here you go, thank you.", "Mười bảy đô la, đây bạn, cảm ơn nhé."),
+        # 41 closing on why knowing a price matters
         ("Mr Gideon", "Why does knowing a price before buying matter so much anyway?", "Vậy vì sao biết giá trước khi mua lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us plan our spending and avoid any surprises at the counter.", "Nó giúp mình lên kế hoạch chi tiêu và tránh bất ngờ khi thanh toán."),
         ("Mr Gideon", "That is very true, checking the price first really does save trouble.", "Đúng vậy thật, kiểm tra giá trước thật sự giúp tránh rắc rối."),

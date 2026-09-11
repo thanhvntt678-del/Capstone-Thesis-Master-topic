@@ -186,7 +186,31 @@ LESSON_0168 = {
         ("Ms Lan", "I am feeling hungry after that long nap.", "Ngủ trưa dậy tôi thấy đói bụng."),
         ("Ms Miranda", "Yes, let us make something warm to eat.", "Ừ, mình làm gì ấm ấm để ăn đi."),
         ("Ms Lan", "Good, that sounds perfect right now.", "Tốt, nghe hợp lúc này lắm."),
-        # 36 closing on why saying you're hungry or thirsty matters
+        # 36 asking if the other person is hungry too, at the deli counter
+        ("Ms Lan", "Are you hungry too, or is it just me standing here staring at the deli counter?", "Bạn cũng đói à, hay chỉ mình tôi đứng ngắm quầy đồ nguội thế này?"),
+        ("Ms Miranda", "Actually yes, my stomach has been growling for the last ten minutes.", "Thật ra là có, bụng tôi kêu ọc ọc mười phút nay rồi."),
+        ("Ms Lan", "Then let us order something from this counter right now.", "Vậy mình gọi món ở quầy này ngay đi."),
+        # 37 starving because a dinner reservation got pushed back
+        ("Ms Miranda", "I am absolutely starving, our dinner reservation just got pushed back two hours.", "Tôi đói lả rồi, chỗ đặt bàn tối nay vừa bị dời trễ hai tiếng."),
+        ("Ms Lan", "Here, have some crackers from my bag while we wait.", "Đây, ăn tạm bánh quy trong túi tôi trong lúc chờ."),
+        ("Ms Miranda", "That will hold me over until dinner finally starts.", "Vậy đỡ đói tới lúc bữa tối thật sự bắt đầu."),
+        # 38 asking directly for a snack before a class starts
+        ("Ms Lan", "Could I have a small snack before the class starts? I skipped lunch by accident.", "Tôi xin một ít đồ ăn nhẹ trước giờ học được không? Tôi lỡ bỏ bữa trưa."),
+        ("Ms Miranda", "Of course, I have an extra granola bar right here.", "Được chứ, tôi có sẵn một thanh granola dư đây."),
+        ("Ms Lan", "That should keep me going until the class ends.", "Vậy đủ sức cho tôi tới lúc tan học."),
+        # 39 feeling dizzy from thirst during a charity run
+        ("Ms Miranda", "I feel a bit dizzy, I think I am more thirsty than I realized during this run.", "Tôi thấy hơi chóng mặt, chắc tôi khát nước hơn tôi tưởng trong lúc chạy."),
+        ("Ms Lan", "Let us stop at the next water station and rest for a moment.", "Mình dừng ở trạm nước kế tiếp nghỉ một chút đi."),
+        ("Ms Miranda", "Good, I do not want to push myself too hard today.", "Tốt, hôm nay tôi không muốn ráng sức quá."),
+        # 40 checking hunger together to decide when to stop for lunch on a hike
+        ("Ms Lan", "How hungry are you right now? Should we stop for lunch at the next viewpoint?", "Bạn đói cỡ nào rồi? Mình dừng ăn trưa ở điểm ngắm cảnh kế tiếp nhé?"),
+        ("Ms Miranda", "Yes, let us stop there, I am ready for a real break.", "Ừ, mình dừng ở đó đi, tôi cần nghỉ hẳn hoi rồi."),
+        ("Ms Lan", "Good, that viewpoint is only ten minutes further up the trail.", "Tốt, điểm ngắm cảnh đó chỉ còn mười phút nữa thôi."),
+        # 41 sudden hunger on a train platform, looking for a vending machine
+        ("Ms Miranda", "I am suddenly hungry, is there a vending machine anywhere on this platform?", "Tự nhiên tôi thấy đói, sân ga này có máy bán hàng tự động không?"),
+        ("Ms Lan", "Yes, there is one right beside the ticket machine.", "Có, có một cái ngay cạnh máy bán vé đó."),
+        ("Ms Miranda", "Perfect, I will grab a quick snack before the train comes.", "Tuyệt, tôi mua vội ít đồ ăn trước khi tàu tới."),
+        # 42 closing on why saying you're hungry or thirsty matters
         ("Ms Miranda", "Why does saying you are hungry or thirsty matter so much anyway?", "Vậy vì sao nói mình đói hay khát lại quan trọng đến thế?"),
         ("Ms Lan", "It helps the people around us know when we need food or water before it becomes a real problem.", "Nó giúp mọi người xung quanh biết khi nào mình cần ăn uống trước khi thành vấn đề thật sự."),
         ("Ms Miranda", "That is very true, speaking up early really does keep everyone comfortable.", "Đúng vậy thật, nói ra sớm thật sự giúp mọi người thoải mái hơn."),

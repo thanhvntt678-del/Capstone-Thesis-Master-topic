@@ -191,7 +191,39 @@ LESSON_0106 = {
         ("Ms Lan", "I thought you were updating the client, not me, on this one.", "Tôi tưởng chị cập nhật cho khách hàng, không phải tôi, việc này."),
         ("Ms Henrietta", "Let me check who was assigned that task.", "Để tôi xem ai được phân công việc đó."),
         ("Ms Lan", "Ah, it really is my responsibility this time.", "À, hóa ra lần này là trách nhiệm của tôi."),
-        # 36 explaining why clear communication at work matters
+        # 36 a shared printer running out of paper
+        ("Ms Lan", "The shared printer just ran out of paper again.", "Máy in chung vừa hết giấy nữa rồi."),
+        ("Ms Henrietta", "Let me grab a new ream from the cabinet.", "Để tôi lấy một ram giấy mới trong tủ."),
+        ("Ms Lan", "Thank you, that was quick.", "Cảm ơn chị, nhanh thật đấy."),
+        # 37 a mislabeled expense report
+        ("Ms Henrietta", "I think I mislabeled this expense report by mistake.", "Tôi nghĩ mình đã ghi nhầm nhãn báo cáo chi phí này."),
+        ("Ms Lan", "Let me help you rename it correctly.", "Để tôi giúp chị đổi lại tên cho đúng."),
+        ("Ms Henrietta", "Thanks, that should avoid confusion later.", "Cảm ơn chị, vậy sẽ tránh nhầm lẫn sau này."),
+        # 38 a wrong file uploaded to the shared drive
+        ("Ms Lan", "I think I uploaded the wrong file to the shared drive.", "Tôi nghĩ mình vừa tải nhầm tệp lên ổ đĩa chung."),
+        ("Ms Henrietta", "No worries, let me help you remove it now.", "Không sao đâu, để tôi giúp chị xóa nó ngay."),
+        ("Ms Lan", "Thank you, uploading the correct one now.", "Cảm ơn chị, giờ tôi tải bản đúng lên."),
+        # 39 a misunderstanding about who orders lunch for the team
+        ("Ms Henrietta", "I thought you were ordering lunch for the team today, not me.", "Tôi tưởng hôm nay chị đặt cơm trưa cho nhóm, không phải tôi."),
+        ("Ms Lan", "Let me check the rotation list we made.", "Để tôi xem lại danh sách luân phiên mình đã lập."),
+        ("Ms Henrietta", "Ah, it really is my turn after all.", "À, hóa ra đúng là lượt tôi."),
+        # 40 a broken elevator delaying a meeting
+        ("Ms Lan", "The elevator is broken, and our meeting starts in five minutes.", "Thang máy bị hỏng mà cuộc họp bắt đầu trong năm phút nữa."),
+        ("Ms Henrietta", "Let us take the stairs quickly instead.", "Mình đi cầu thang bộ nhanh thay vào đi."),
+        ("Ms Lan", "Good call, we should just make it.", "Ý hay, chắc mình kịp giờ."),
+        # 41 a colleague's out-of-office reply confusing a request
+        ("Ms Henrietta", "I think your out-of-office reply confused my request yesterday.", "Tôi nghĩ email tự động vắng mặt của chị làm nhầm yêu cầu của tôi hôm qua."),
+        ("Ms Lan", "Sorry about that, let me answer it properly now.", "Xin lỗi chị, để tôi trả lời cho đàng hoàng ngay."),
+        ("Ms Henrietta", "Thanks, that clears everything up.", "Cảm ơn chị, vậy rõ hết rồi."),
+        # 42 a misplaced company ID card
+        ("Ms Lan", "I cannot find my company ID card anywhere on my desk.", "Tôi không tìm thấy thẻ nhân viên đâu trên bàn cả."),
+        ("Ms Henrietta", "Let me help you check under those papers.", "Để tôi giúp chị tìm dưới đống giấy tờ kia."),
+        ("Ms Lan", "Found it, it slid under the keyboard somehow.", "Tìm thấy rồi, không hiểu sao nó lại lọt xuống dưới bàn phím."),
+        # 43 a conference call number written down wrong
+        ("Ms Henrietta", "I think I wrote down the wrong conference call number.", "Tôi nghĩ mình đã ghi nhầm số cuộc gọi hội nghị."),
+        ("Ms Lan", "Let me check the invite for the correct one.", "Để tôi xem lại lời mời để biết số đúng."),
+        ("Ms Henrietta", "Thank you, dialing the right number now.", "Cảm ơn chị, giờ tôi bấm đúng số rồi."),
+        # 44 explaining why clear communication at work matters
         ("Ms Henrietta", "Why does clear communication at work matter so much to you?", "Vì sao giao tiếp rõ ràng ở nơi làm việc lại quan trọng với chị vậy?"),
         ("Ms Lan", "It saves everyone time and prevents small mistakes from growing.", "Nó giúp mọi người tiết kiệm thời gian và tránh những lỗi nhỏ trở nên lớn hơn."),
         ("Ms Henrietta", "Well said, I will try to communicate more clearly too.", "Nói hay đấy, tôi cũng sẽ cố giao tiếp rõ ràng hơn."),

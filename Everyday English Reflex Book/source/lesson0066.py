@@ -193,5 +193,29 @@ LESSON_0066 = {
         ("Ms Yvonne", "Could you help me walk steady? This wind is so strong.", "Chị giúp tôi đi vững được không? Gió mạnh quá."),
         ("Ms Lan", "Hold onto my arm, we will lean into the wind.", "Vịn tay tôi đi, mình đi ngược gió cùng nhau."),
         ("Ms Yvonne", "Thank you, that helps me balance better.", "Cảm ơn chị, vậy tôi giữ thăng bằng tốt hơn."),
+        # 37 finding a public restroom along the walk
+        ("Ms Lan", "Yvonne, can you help me find a public restroom along this walk?", "Chị Yvonne, chị giúp tôi tìm nhà vệ sinh công cộng dọc đường này được không?"),
+        ("Ms Yvonne", "There is one inside that small park ahead.", "Có một cái trong công viên nhỏ phía trước đấy."),
+        ("Ms Lan", "Thank you, I really needed to know that.", "Cảm ơn chị, tôi thật sự cần biết điều đó."),
+        # 38 finding a resting spot for a stroller
+        ("Ms Yvonne", "Could you help me find a spot to stop and check on the baby?", "Chị giúp tôi tìm chỗ dừng để xem em bé được không?"),
+        ("Ms Lan", "That shady corner by the fountain looks good.", "Cái góc có bóng mát gần đài phun nước trông ổn đấy."),
+        ("Ms Yvonne", "Thank you, she has been fussing a little.", "Cảm ơn chị, con bé đang hơi khó chịu."),
+        # 39 understanding a no-pedestrian sign
+        ("Ms Lan", "Can you help me understand this no-pedestrian sign here?", "Chị giúp tôi hiểu biển cấm người đi bộ này được không?"),
+        ("Ms Yvonne", "It means this stretch is only for vehicles.", "Nó nghĩa là đoạn này chỉ dành cho xe cộ thôi."),
+        ("Ms Lan", "Ah, we should take the side path then, thank you.", "À, vậy mình nên đi đường bên cạnh, cảm ơn chị."),
+        # 40 crossing safely near a bike lane
+        ("Ms Yvonne", "Could you help me cross safely? There is a bike lane here too.", "Chị giúp tôi qua đường an toàn được không? Ở đây còn có làn xe đạp nữa."),
+        ("Ms Lan", "Check both the bike lane and the road before stepping out.", "Nhìn cả làn xe đạp lẫn đường xe trước khi bước ra."),
+        ("Ms Yvonne", "Thank you, I almost forgot about the bikes.", "Cảm ơn chị, tôi suýt quên mất làn xe đạp."),
+        # 41 finding a shortcut through the market
+        ("Ms Lan", "Can you help me find a shortcut through this market?", "Chị giúp tôi tìm đường tắt qua khu chợ này được không?"),
+        ("Ms Yvonne", "Walk straight through the middle row of stalls.", "Đi thẳng qua dãy sạp hàng ở giữa đi."),
+        ("Ms Lan", "Thank you, that saves us quite a bit of time.", "Cảm ơn chị, vậy tiết kiệm kha khá thời gian."),
+        # 42 identifying a landmark to know you're close
+        ("Ms Yvonne", "Could you help me recognise a landmark? I want to know we are close.", "Chị giúp tôi nhận ra một mốc quen được không? Tôi muốn biết mình sắp tới nơi."),
+        ("Ms Lan", "Once you see the yellow clock tower, we are near.", "Khi thấy tháp đồng hồ màu vàng là mình gần tới rồi."),
+        ("Ms Yvonne", "Thank you, I can already see it now.", "Cảm ơn chị, tôi thấy nó rồi đó."),
     ],
 }

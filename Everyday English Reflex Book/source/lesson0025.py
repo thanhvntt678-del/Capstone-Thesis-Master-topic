@@ -181,7 +181,35 @@ LESSON_0025 = {
         ("Mr Nathan", "This item does not seem to have a price tag.", "Món này hình như không có bảng giá."),
         ("Ms Lan", "Let me check the price for you at the counter.", "Để tôi kiểm tra giá giúp anh ở quầy."),
         ("Mr Nathan", "Thank you, I appreciate you checking.", "Cảm ơn chị đã kiểm tra giúp."),
-        # 38 closing - why these moments matter
+        # 38 price mismatch at the register
+        ("Ms Lan", "The sign said twenty thousand, but the register shows more.", "Bảng ghi hai mươi nghìn, mà máy tính tiền lại hiện cao hơn."),
+        ("Mr Nathan", "Let me check the price sticker again for you.", "Để tôi kiểm tra lại tem giá cho chị."),
+        ("Ms Lan", "Thank you, I just want to be sure before I pay.", "Cảm ơn anh, tôi chỉ muốn chắc chắn trước khi trả tiền."),
+        # 39 asking about a specific e-wallet app
+        ("Mr Nathan", "Does this shop accept payment through my e-wallet app?", "Cửa hàng này có nhận thanh toán qua ví điện tử của tôi không?"),
+        ("Ms Lan", "Yes, just scan the code at the till.", "Có chứ, anh quét mã ở quầy tính tiền là được."),
+        ("Mr Nathan", "Perfect, I will not need cash then.", "Tuyệt, vậy tôi không cần tiền mặt nữa."),
+        # 40 requesting a gift receipt
+        ("Ms Lan", "Could I get a gift receipt instead of the usual one?", "Cho tôi xin hóa đơn quà tặng thay vì hóa đơn thường được không?"),
+        ("Mr Nathan", "Sure, that way the price will not show.", "Được chứ, vậy sẽ không hiện giá."),
+        ("Ms Lan", "Perfect, this is a present for my mother.", "Tuyệt, đây là quà tặng mẹ tôi."),
+        # 41 asking for a bulk discount
+        ("Mr Nathan", "Is there a discount if I buy a whole box of these?", "Nếu tôi mua cả thùng thì có được giảm giá không?"),
+        ("Ms Lan", "Yes, buying by the box saves about ten percent.", "Có chứ, mua theo thùng tiết kiệm khoảng mười phần trăm."),
+        ("Mr Nathan", "That is worth it, I will take a whole box.", "Vậy đáng mua đấy, tôi lấy cả thùng luôn."),
+        # 42 picking up an online order in-store
+        ("Ms Lan", "I placed an order online, can I collect it here?", "Tôi đặt hàng trực tuyến rồi, tôi lấy hàng ở đây được không?"),
+        ("Mr Nathan", "Yes, just show me your order number.", "Được chứ, chị cho tôi xem mã đơn hàng."),
+        ("Ms Lan", "Here it is, thank you for checking.", "Đây, cảm ơn anh đã kiểm tra."),
+        # 43 asking about the refund policy
+        ("Mr Nathan", "How many days do I have to request a refund?", "Tôi có bao nhiêu ngày để yêu cầu hoàn tiền vậy?"),
+        ("Ms Lan", "You have seven days with the original receipt.", "Anh có bảy ngày kèm theo hóa đơn gốc."),
+        ("Mr Nathan", "Good, I will keep the receipt safe just in case.", "Tốt, tôi sẽ giữ hóa đơn cẩn thận phòng khi cần."),
+        # 44 splitting payment between two cards
+        ("Ms Lan", "Could I split this payment between two cards?", "Tôi thanh toán chia đôi qua hai thẻ được không?"),
+        ("Mr Nathan", "Sure, just tell me how much on each one.", "Được chứ, chị cho tôi biết mỗi thẻ trả bao nhiêu."),
+        ("Ms Lan", "Half on this one, and the rest on the other.", "Một nửa qua thẻ này, phần còn lại qua thẻ kia."),
+        # 45 closing - why these moments matter
         ("Ms Lan", "These small shopping errands really add up during the week.", "Những việc mua sắm nhỏ này thật ra cộng lại cũng nhiều trong tuần."),
         ("Mr Nathan", "They do, and it helps to have things go smoothly.", "Đúng vậy, và mọi thứ suôn sẻ thì đỡ mệt hơn nhiều."),
         ("Ms Lan", "That is why a little patience always helps.", "Vì vậy mà một chút kiên nhẫn luôn có ích."),

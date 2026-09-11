@@ -192,7 +192,39 @@ LESSON_0105 = {
         ("Ms Lan", "I cannot find the flash drive with my assignment on it.", "Tôi không tìm thấy USB chứa bài tập của mình đâu."),
         ("Mr Ambrose", "Let me help you check your bag and pockets.", "Để tôi giúp chị kiểm tra túi và cặp."),
         ("Ms Lan", "Found it, it was in my jacket pocket.", "Tìm thấy rồi, nó nằm trong túi áo khoác."),
-        # 36 explaining why double-checking instructions matters
+        # 36 a classmate forgetting to bring a calculator to class
+        ("Ms Lan", "I forgot my calculator, and today's class needs one.", "Tôi quên mang máy tính bỏ túi mà hôm nay lớp cần dùng."),
+        ("Mr Ambrose", "Let me share mine for this exercise.", "Để tôi dùng chung máy của tôi cho bài này."),
+        ("Ms Lan", "Thank you, that saves me from panicking again.", "Cảm ơn anh, vậy tôi đỡ hoảng lần nữa."),
+        # 37 a wrong room number posted for the exam
+        ("Mr Ambrose", "I think the room number posted for the exam is wrong.", "Tôi nghĩ số phòng thi được đăng bị sai rồi."),
+        ("Ms Lan", "Let me check the notice board once more.", "Để tôi xem lại bảng thông báo lần nữa."),
+        ("Mr Ambrose", "You are right, it really is room nine.", "Chị nói đúng, đúng là phòng chín thật."),
+        # 38 a broken pencil sharpener during a written test
+        ("Ms Lan", "My pencil sharpener just broke in the middle of the test.", "Cái gọt bút chì của tôi vừa hỏng giữa bài kiểm tra."),
+        ("Mr Ambrose", "Let me lend you my spare pencil instead.", "Để tôi cho chị mượn cây bút chì dự phòng."),
+        ("Ms Lan", "Thank you, that saved my whole test.", "Cảm ơn anh, vậy cứu cả bài kiểm tra của tôi."),
+        # 39 a misplaced highlighter needed for note-taking
+        ("Mr Ambrose", "I cannot find my highlighter anywhere for these notes.", "Tôi không tìm thấy cây bút highlight ở đâu cho phần ghi chú này."),
+        ("Ms Lan", "Let me check inside my pencil case for you.", "Để tôi xem trong hộp bút của tôi cho anh."),
+        ("Mr Ambrose", "Found one, thank you for checking so fast.", "Tìm thấy rồi, cảm ơn chị đã kiểm tra nhanh."),
+        # 40 a mix-up about which chapter is for next week's reading
+        ("Ms Lan", "I think we are confused about which chapter to read next week.", "Tôi nghĩ mình đang nhầm về chương nào cần đọc tuần sau."),
+        ("Mr Ambrose", "Let me check the reading schedule the teacher posted.", "Để tôi xem lại lịch đọc giáo viên đã đăng."),
+        ("Ms Lan", "Ah, it is chapter six, not chapter seven.", "À, là chương sáu, không phải chương bảy."),
+        # 41 a laptop charger forgotten at home before an online class
+        ("Mr Ambrose", "I forgot my laptop charger, and the battery is almost gone.", "Tôi quên sạc laptop mà pin sắp hết rồi."),
+        ("Ms Lan", "Let me see if my charger fits your laptop.", "Để tôi xem sạc của tôi có vừa laptop anh không."),
+        ("Mr Ambrose", "It fits perfectly, thank you for the save.", "Vừa luôn, cảm ơn chị đã cứu tôi."),
+        # 42 a mislabeled folder causing confusion about the right assignment
+        ("Ms Lan", "I think this folder is mislabeled, it has the wrong assignment inside.", "Tôi nghĩ thư mục này bị ghi nhầm nhãn, bên trong là bài tập khác."),
+        ("Mr Ambrose", "Let me help you find the correct one.", "Để tôi giúp chị tìm đúng thư mục."),
+        ("Ms Lan", "Thank you, found it under a different name.", "Cảm ơn anh, tìm thấy rồi, dưới một cái tên khác."),
+        # 43 a lost sticky note with exam room information
+        ("Mr Ambrose", "I lost the sticky note with the exam room information on it.", "Tôi làm mất tờ giấy nhớ ghi thông tin phòng thi rồi."),
+        ("Ms Lan", "No worries, I remember it was room nine.", "Không sao đâu, tôi nhớ là phòng chín."),
+        ("Mr Ambrose", "Thank you, that saves me from searching everywhere.", "Cảm ơn chị, vậy tôi khỏi phải tìm khắp nơi."),
+        # 44 explaining why double-checking instructions matters
         ("Mr Ambrose", "Why does double-checking instructions matter so much to you?", "Vì sao việc kiểm tra kỹ lưỡng hướng dẫn lại quan trọng với chị vậy?"),
         ("Ms Lan", "It saves us from small mistakes that waste a lot of time.", "Nó giúp mình tránh những lỗi nhỏ làm mất nhiều thời gian."),
         ("Mr Ambrose", "That is a great habit, I will try to do the same.", "Đó là thói quen tốt đấy, tôi sẽ cố làm theo."),

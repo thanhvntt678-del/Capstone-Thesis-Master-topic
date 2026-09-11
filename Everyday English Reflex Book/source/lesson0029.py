@@ -185,7 +185,31 @@ LESSON_0029 = {
         ("Ms Lan", "Thank you very much, this is our stop.", "Cảm ơn anh nhiều, đây là điểm dừng của bọn tôi."),
         ("Mr Victor", "Yes, thank you, have a safe rest of your day.", "Vâng, cảm ơn anh, chúc anh lái xe an toàn."),
         ("Ms Lan", "That was a very pleasant ride overall.", "Nhìn chung đây là một chuyến đi khá dễ chịu."),
-        # 38 closing - why these moments matter
+        # 38 asking the driver to avoid toll roads
+        ("Ms Lan", "Could you ask the driver to avoid the toll road?", "Anh nhờ tài xế tránh đường thu phí được không?"),
+        ("Mr Victor", "Sure, he says the side road is only a bit slower.", "Được chứ, anh ấy nói đường nhánh chỉ chậm hơn chút thôi."),
+        ("Ms Lan", "That is fine, it will save us some money.", "Vậy được, mình tiết kiệm được ít tiền."),
+        # 39 folding a stroller into the trunk
+        ("Mr Victor", "Do you need help folding the stroller for the boot?", "Anh có cần giúp gấp xe đẩy để bỏ vào cốp không?"),
+        ("Ms Lan", "Yes, please, it can be a little tricky.", "Có chứ, giúp tôi với, nó hơi khó gấp lắm."),
+        ("Mr Victor", "There, it fits perfectly now.", "Đây, giờ vừa khít rồi."),
+        # 40 confirming the number of passengers
+        ("Ms Lan", "The driver is asking how many passengers are riding today.", "Tài xế đang hỏi hôm nay có mấy hành khách."),
+        ("Mr Victor", "Tell him it is just the two of us.", "Anh nói với tài xế chỉ có hai người mình thôi."),
+        ("Ms Lan", "Sent, he says that fits the car fine.", "Nhắn rồi, tài xế nói vậy vừa với xe."),
+        # 41 changing the drop-off address mid-ride
+        ("Mr Victor", "Could we change the drop-off address on the way there?", "Mình đổi địa chỉ điểm đến giữa chừng được không?"),
+        ("Ms Lan", "Sure, I will update it in the app now.", "Được chứ, tôi cập nhật trên ứng dụng ngay."),
+        ("Mr Victor", "Thanks, the driver just got the new location.", "Cảm ơn chị, tài xế vừa nhận được địa chỉ mới."),
+        # 42 asking the driver to avoid a bumpy road
+        ("Ms Lan", "Could we take a smoother road? This one is quite bumpy.", "Mình đi đường khác êm hơn được không? Đường này xóc quá."),
+        ("Mr Victor", "Good idea, I will ask him to turn at the next street.", "Ý hay đấy, tôi sẽ nhờ tài xế rẽ ở đường kế tiếp."),
+        ("Ms Lan", "Thank you, that already feels much better.", "Cảm ơn anh, giờ thấy dễ chịu hơn nhiều rồi."),
+        # 43 a phone charger left behind after the last ride
+        ("Mr Victor", "I think I left my phone charger in the last car.", "Hình như tôi để quên dây sạc điện thoại trên xe lúc nãy."),
+        ("Ms Lan", "Let us message the driver through the app about it.", "Mình nhắn tin cho tài xế qua ứng dụng về chuyện đó xem."),
+        ("Mr Victor", "Good idea, hopefully he can drop it off later.", "Ý hay đấy, mong là anh ấy mang trả lại được."),
+        # 44 closing - why these moments matter
         ("Mr Victor", "It really helps to have a reliable ride when you need one.", "Có một chuyến xe đáng tin cậy lúc cần thật sự hữu ích."),
         ("Ms Lan", "It does, it takes so much stress out of the day.", "Đúng vậy, nó giảm bớt căng thẳng rất nhiều trong ngày."),
         ("Mr Victor", "That is exactly why I always plan ahead a little.", "Chính vì vậy mà tôi luôn lên kế hoạch trước một chút."),

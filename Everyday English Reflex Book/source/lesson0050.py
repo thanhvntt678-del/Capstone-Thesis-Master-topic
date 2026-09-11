@@ -192,7 +192,27 @@ LESSON_0050 = {
         ("Ms Lan", "Could you confirm the date of my routine checkup?", "Chị xác nhận giúp ngày khám sức khỏe định kỳ của tôi không?"),
         ("Ms Joyce", "Yes, it is scheduled for next Tuesday.", "Vâng, đã đặt lịch cho thứ ba tuần sau."),
         ("Ms Lan", "Thanks, I will mark that on my calendar.", "Cảm ơn chị, tôi đánh dấu vào lịch."),
-        # 38 closing - why confirming these details matters
+        # 38 checking the fridge door is fully closed
+        ("Ms Lan", "Could you check if the fridge door is fully closed?", "Chị kiểm tra giúp cửa tủ lạnh đã đóng kín chưa không?"),
+        ("Ms Joyce", "Yes, it clicked shut properly just now.", "Rồi, vừa nghe tiếng đóng kín rồi."),
+        ("Ms Lan", "Good, that saves us on the electricity bill.", "Tốt, vậy đỡ tốn tiền điện."),
+        # 39 checking the water heater before a shower
+        ("Ms Joyce", "Could you check if the water heater is switched on?", "Chị kiểm tra giúp máy nước nóng đã bật chưa không?"),
+        ("Ms Lan", "Yes, I turned it on ten minutes ago.", "Rồi, tôi bật mười phút trước."),
+        ("Ms Joyce", "Great, it should be warm enough by now.", "Tuyệt, chắc giờ đã đủ nóng rồi."),
+        # 40 checking where the spare house key is kept
+        ("Ms Lan", "Could you check where we keep the spare house key?", "Chị kiểm tra giúp chìa khóa dự phòng của nhà để ở đâu không?"),
+        ("Ms Joyce", "Yes, it is in the drawer under the phone.", "Vâng, nó ở trong ngăn kéo dưới điện thoại."),
+        ("Ms Lan", "Thanks, good to know in case I lock myself out.", "Cảm ơn chị, phòng khi tôi tự khóa mình ở ngoài."),
+        # 41 checking if the Wi-Fi router needs a reboot
+        ("Ms Joyce", "Could you check if the Wi-Fi router needs a reboot?", "Chị kiểm tra giúp bộ phát Wi-Fi có cần khởi động lại không?"),
+        ("Ms Lan", "Yes, the internet has been slow since this morning.", "Có chứ, mạng chậm từ sáng nay rồi."),
+        ("Ms Joyce", "Good, I will unplug it for a minute.", "Tốt, tôi sẽ rút phích cắm một phút."),
+        # 42 confirming whose turn it is on the chores rotation
+        ("Ms Lan", "Could you confirm whose turn it is to cook this week?", "Chị xác nhận giúp tuần này đến lượt ai nấu ăn không?"),
+        ("Ms Joyce", "Yes, it is my turn according to our list.", "Vâng, theo danh sách thì đến lượt tôi."),
+        ("Ms Lan", "Great, I will help with the dishes then.", "Tuyệt, vậy tôi phụ rửa bát."),
+        # 43 closing - why confirming these details matters
         ("Ms Joyce", "Confirming these small routine details really keeps our days organised.", "Xác nhận những chi tiết nhỏ trong thói quen này thật sự giúp ngày của mình ngăn nắp hơn."),
         ("Ms Lan", "It does, nothing gets forgotten or missed this way.", "Đúng vậy, nhờ vậy không có gì bị quên hay bỏ lỡ."),
         ("Ms Joyce", "That is exactly why I always confirm things with you first.", "Chính vì vậy mà tôi luôn kiểm tra lại với chị."),

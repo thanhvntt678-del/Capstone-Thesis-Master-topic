@@ -175,7 +175,31 @@ LESSON_0129 = {
         ("Ms Lan", "What number should be on your conference registration badge?", "Nên ghi số nào vào thẻ đăng ký hội nghị của anh vậy?"),
         ("Mr Leopold", "Put zero six eight nine zero one two three four, please.", "Vui lòng ghi không sáu tám chín không một hai ba bốn."),
         ("Ms Lan", "Thank you for always double-checking the digits.", "Cảm ơn anh vì luôn kiểm tra kỹ từng chữ số."),
-        # 36 closing on why sharing a number clearly matters
+        # 36 which number to give the landlord for a repair request
+        ("Mr Leopold", "Which number should I give the landlord for the repair request?", "Tôi nên cho chủ nhà số nào để yêu cầu sửa chữa vậy?"),
+        ("Ms Lan", "Give him zero five one two three four five six seven.", "Đưa anh ấy số không năm một hai ba bốn năm sáu bảy."),
+        ("Mr Leopold", "Zero five one two three four five six seven, noted for the request.", "Không năm một hai ba bốn năm sáu bảy, ghi nhận cho yêu cầu sửa chữa."),
+        # 37 which number the food delivery rider will text
+        ("Ms Lan", "Which number will the food delivery rider text before arriving?", "Người giao đồ ăn sẽ nhắn tin tới số nào trước khi tới vậy?"),
+        ("Mr Leopold", "He will text zero five two three four five six seven eight.", "Anh ấy sẽ nhắn tới không năm hai ba bốn năm sáu bảy tám."),
+        ("Ms Lan", "Good, I will watch for a message from that number.", "Tốt, tôi sẽ để ý tin nhắn từ số đó."),
+        # 38 what number goes on an appliance warranty card
+        ("Mr Leopold", "What number goes on this appliance warranty card?", "Nên ghi số nào vào thẻ bảo hành thiết bị này vậy?"),
+        ("Ms Lan", "Write zero five three four five six seven eight nine on it.", "Ghi không năm ba bốn năm sáu bảy tám chín vào đó."),
+        ("Mr Leopold", "Done, the warranty is registered under that number now.", "Xong rồi, bảo hành đã đăng ký dưới số đó."),
+        # 39 what number the after-school program should call
+        ("Ms Lan", "What number should the after-school program call in an emergency?", "Chương trình học thêm sau giờ nên gọi số nào lúc khẩn cấp vậy?"),
+        ("Mr Leopold", "They should call zero five four five six seven eight nine zero.", "Họ nên gọi không năm bốn năm sáu bảy tám chín không."),
+        ("Ms Lan", "Perfect, that number is on the enrolment form.", "Hoàn hảo, số đó đã có trong đơn đăng ký."),
+        # 40 which number the courier will use for a return pickup
+        ("Mr Leopold", "Which number will the courier use to arrange the return pickup?", "Người giao hàng sẽ dùng số nào để sắp xếp lấy hàng trả lại vậy?"),
+        ("Ms Lan", "Use zero five five six seven eight nine zero one for that.", "Dùng không năm năm sáu bảy tám chín không một cho việc đó."),
+        ("Mr Leopold", "Noted, the pickup is scheduled under that number.", "Ghi nhận rồi, lịch lấy hàng đã sắp dưới số đó."),
+        # 41 what number the technician should call before internet installation
+        ("Ms Lan", "What number should the technician call before the internet installation?", "Kỹ thuật viên nên gọi số nào trước khi lắp mạng internet vậy?"),
+        ("Mr Leopold", "Call zero five six seven eight nine zero one two, please.", "Vui lòng gọi không năm sáu bảy tám chín không một hai."),
+        ("Ms Lan", "Thank you, that number is confirmed for the appointment.", "Cảm ơn anh, số đó đã xác nhận cho cuộc hẹn."),
+        # 42 closing on why sharing a number clearly matters
         ("Mr Leopold", "Why does reading a phone number out clearly matter so much anyway?", "Vậy vì sao đọc số điện thoại rõ ràng lại quan trọng đến thế?"),
         ("Ms Lan", "It avoids so many mix-ups when someone tries to call back.", "Nó giúp tránh nhiều nhầm lẫn khi ai đó cố gọi lại."),
         ("Mr Leopold", "That is very true, I will always speak slowly from now on.", "Đúng vậy thật, từ giờ tôi sẽ luôn nói chậm rãi."),

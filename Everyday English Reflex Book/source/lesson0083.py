@@ -189,5 +189,37 @@ LESSON_0083 = {
         ("Mr Gerald", "Should we share this trip with your husband or your sister?", "Mình chia sẻ chuyến đi này với chồng chị hay em gái chị vậy?"),
         ("Ms Lan", "Let us share it with my husband, he worries more.", "Chia sẻ với chồng tôi đi, anh ấy hay lo hơn."),
         ("Mr Gerald", "Good idea, that will put his mind at ease.", "Ý hay, vậy anh ấy sẽ yên tâm hơn."),
+        # 37 asking the driver to wait a few minutes
+        ("Ms Lan", "Could we ask the driver to wait five more minutes?", "Mình nhờ tài xế đợi thêm năm phút được không?"),
+        ("Mr Gerald", "Sure, I will send a message asking him to wait.", "Được, tôi nhắn tin nhờ anh ấy đợi."),
+        ("Ms Lan", "Thank you, I am almost ready to go.", "Cảm ơn anh, tôi sắp xong rồi."),
+        # 38 confirming the pickup address is correct
+        ("Mr Gerald", "Did you confirm the pickup address on the app?", "Anh chị xác nhận địa chỉ đón trên ứng dụng chưa?"),
+        ("Ms Lan", "Yes, it shows our building number correctly.", "Rồi, nó hiện đúng số nhà mình."),
+        ("Mr Gerald", "Good, the driver should find us easily then.", "Tốt, vậy tài xế sẽ dễ tìm mình."),
+        # 39 asking how much the fare will be
+        ("Ms Lan", "How much does the app say this ride will cost?", "Ứng dụng báo chuyến này giá bao nhiêu vậy?"),
+        ("Mr Gerald", "About eighty thousand dong, according to the estimate.", "Khoảng tám mươi nghìn đồng, theo ước tính."),
+        ("Ms Lan", "That sounds reasonable for this distance.", "Vậy hợp lý cho quãng đường này."),
+        # 40 asking the driver to stop at a specific corner
+        ("Mr Gerald", "Could you tell the driver to stop right at this corner?", "Anh nhờ tài xế dừng ngay góc phố này được không?"),
+        ("Ms Lan", "Sure, I will message him now.", "Được, tôi nhắn ngay cho anh ấy."),
+        ("Mr Gerald", "Thanks, this corner is closest to my door.", "Cảm ơn chị, góc này gần cửa nhà tôi nhất."),
+        # 41 asking for a receipt
+        ("Ms Lan", "Did you remember to ask for a receipt this time?", "Lần này anh có nhớ xin hóa đơn không?"),
+        ("Mr Gerald", "Yes, the app sends one automatically by email.", "Có, ứng dụng tự gửi qua email luôn."),
+        ("Ms Lan", "Good, that makes tracking expenses easier.", "Tốt, vậy dễ theo dõi chi tiêu hơn."),
+        # 42 telling the driver they are running late
+        ("Mr Gerald", "Should we tell the driver we need five more minutes?", "Mình báo tài xế mình cần thêm năm phút được không?"),
+        ("Ms Lan", "Yes, please send him a quick message.", "Được, anh nhắn nhanh cho anh ấy giúp tôi."),
+        ("Mr Gerald", "Done, he replied that it is no problem.", "Xong rồi, anh ấy trả lời không sao cả."),
+        # 43 asking how many minutes until the driver arrives
+        ("Ms Lan", "How many minutes until the driver gets here?", "Còn bao nhiêu phút nữa tài xế tới vậy?"),
+        ("Mr Gerald", "The app says about three minutes.", "Ứng dụng báo khoảng ba phút nữa."),
+        ("Ms Lan", "Perfect, let us head downstairs now.", "Tuyệt, mình xuống dưới nhà thôi."),
+        # 44 thanking the driver for a smooth ride
+        ("Mr Gerald", "That driver got us here so smoothly, did you notice?", "Tài xế đó chở mình êm quá, chị để ý không?"),
+        ("Ms Lan", "I did, I gave him five stars for that.", "Có, tôi cho anh ấy năm sao vì vậy."),
+        ("Mr Gerald", "Well deserved, he really drove carefully.", "Xứng đáng lắm, anh ấy lái xe cẩn thận thật."),
     ],
 }

@@ -191,5 +191,37 @@ LESSON_0086 = {
         ("Ms Sheila", "Why did our whole morning routine end up changing today?", "Vì sao thói quen buổi sáng của tụi mình lại thay đổi hôm nay vậy?"),
         ("Ms Lan", "We both overslept after such a busy week.", "Cả hai mình đều ngủ quên sau một tuần bận rộn."),
         ("Ms Sheila", "Ah, that makes sense, we needed the rest.", "À, vậy hợp lý, tụi mình cần nghỉ ngơi mà."),
+        # 37 asking what time someone usually wakes up
+        ("Ms Sheila", "What time do you usually wake up on weekdays?", "Ngày thường chị hay thức dậy lúc mấy giờ vậy?"),
+        ("Ms Lan", "Around six, before the whole house gets busy.", "Khoảng sáu giờ, trước khi cả nhà bận rộn."),
+        ("Ms Sheila", "That is early, but I bet it feels peaceful.", "Sớm thật, nhưng chắc là yên tĩnh lắm."),
+        # 38 asking if someone slept well last night
+        ("Ms Lan", "Did you sleep well last night?", "Tối qua chị ngủ ngon không?"),
+        ("Ms Sheila", "Not really, the neighbours were quite loud.", "Không hẳn, hàng xóm ồn quá."),
+        ("Ms Lan", "Oh no, I hope tonight is quieter for you.", "Ôi không, mong tối nay yên tĩnh hơn cho chị."),
+        # 39 describing feeling tired this morning
+        ("Ms Sheila", "I feel so tired this morning, honestly.", "Thật lòng sáng nay tôi thấy mệt quá."),
+        ("Ms Lan", "Why not have an extra cup of tea?", "Sao chị không uống thêm một tách trà?"),
+        ("Ms Sheila", "Good idea, that should help me wake up.", "Ý hay, chắc sẽ giúp tôi tỉnh táo hơn."),
+        # 40 asking about someone's plan for the rest of the day
+        ("Ms Lan", "What is left on your plan for the rest of today?", "Còn gì trong kế hoạch hôm nay của chị nữa không?"),
+        ("Ms Sheila", "Just the grocery run and folding the laundry.", "Chỉ còn đi chợ và gấp quần áo thôi."),
+        ("Ms Lan", "That sounds manageable before dinner.", "Nghe vẫn kịp trước bữa tối mà."),
+        # 41 asking to swap a chore for today
+        ("Ms Sheila", "Could we swap chores today? I will cook if you clean.", "Hôm nay mình đổi việc được không? Tôi nấu ăn còn chị dọn dẹp."),
+        ("Ms Lan", "Deal, that actually sounds fun for a change.", "Được, nghe cũng vui khi đổi gió."),
+        ("Ms Sheila", "Great, let us start right after breakfast.", "Tốt, mình bắt đầu ngay sau bữa sáng."),
+        # 42 checking if a to-do list item is finished
+        ("Ms Lan", "Did you finish washing the dishes from lunch?", "Chị rửa xong chén đĩa từ bữa trưa chưa?"),
+        ("Ms Sheila", "Almost, just two more pots to go.", "Gần xong rồi, còn hai cái nồi nữa thôi."),
+        ("Ms Lan", "No rush, I will help you finish them.", "Không vội đâu, tôi phụ chị làm cho xong."),
+        # 43 asking if there is anything left to do before bed
+        ("Ms Sheila", "Is there anything left to do before we go to bed?", "Còn việc gì cần làm trước khi mình đi ngủ không?"),
+        ("Ms Lan", "Just locking the door and turning off the lights.", "Chỉ còn khóa cửa với tắt đèn thôi."),
+        ("Ms Sheila", "Good, then we can finally relax.", "Tốt, vậy cuối cùng mình được nghỉ ngơi."),
+        # 44 describing feeling accomplished after a productive day
+        ("Ms Lan", "I feel so accomplished after finishing everything today.", "Hôm nay làm xong hết mọi thứ, tôi thấy hài lòng quá."),
+        ("Ms Sheila", "You should, we got a lot done together.", "Đáng lắm, tụi mình làm được nhiều việc thật."),
+        ("Ms Lan", "We really did, what a satisfying day.", "Đúng vậy, một ngày thật đáng hài lòng."),
     ],
 }

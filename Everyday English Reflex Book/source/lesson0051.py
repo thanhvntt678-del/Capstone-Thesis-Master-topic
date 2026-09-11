@@ -191,7 +191,27 @@ LESSON_0051 = {
         ("Ms Lan", "Could you confirm what today's lesson is about?", "Anh xác nhận giúp hôm nay học chủ đề gì không?"),
         ("Mr Walter", "Yes, it is about past tense grammar today.", "Vâng, hôm nay học về ngữ pháp thì quá khứ."),
         ("Ms Lan", "Good, I reviewed that a little last night.", "Tốt, tối qua tôi có ôn qua rồi."),
-        # 38 closing - why confirming these details matters
+        # 38 checking the classroom Wi-Fi password
+        ("Ms Lan", "Could you check the Wi-Fi password for this classroom?", "Anh kiểm tra giúp mật khẩu Wi-Fi của phòng học này không?"),
+        ("Mr Walter", "Yes, it is written on the whiteboard corner.", "Có chứ, nó ghi ở góc bảng trắng."),
+        ("Ms Lan", "Thanks, I will connect my laptop now.", "Cảm ơn anh, tôi kết nối laptop ngay."),
+        # 39 checking whether homework should be handwritten or typed
+        ("Mr Walter", "Could you check if this homework must be handwritten?", "Chị kiểm tra giúp bài tập này có bắt buộc viết tay không?"),
+        ("Ms Lan", "No, the teacher said a typed file is fine too.", "Không, giáo viên nói nộp tệp đánh máy cũng được."),
+        ("Mr Walter", "Good, that is much faster for me.", "Tốt, vậy nhanh hơn nhiều cho tôi."),
+        # 40 confirming a seat is available in a popular lecture
+        ("Ms Lan", "Could you confirm if there are still seats left in that lecture?", "Anh xác nhận giúp buổi giảng đó còn chỗ ngồi không?"),
+        ("Mr Walter", "Yes, a few seats remain near the back.", "Có chứ, còn vài chỗ ở phía sau."),
+        ("Ms Lan", "Great, I will go and sign up right away.", "Tuyệt, tôi đăng ký ngay đây."),
+        # 41 checking the correct spelling of a new vocabulary word
+        ("Mr Walter", "Could you check how this new word is spelled?", "Chị kiểm tra giúp từ mới này viết thế nào không?"),
+        ("Ms Lan", "Yes, it is spelled V-O-C-A-B-U-L-A-R-Y.", "Vâng, viết là V-O-C-A-B-U-L-A-R-Y."),
+        ("Mr Walter", "Thanks, I will write that in my notebook.", "Cảm ơn chị, tôi ghi vào vở ngay."),
+        # 42 checking why a classmate was absent
+        ("Ms Lan", "Could you check why Minh was absent from class today?", "Anh kiểm tra giúp hôm nay Minh vắng học vì sao không?"),
+        ("Mr Walter", "Yes, he said he was feeling unwell this morning.", "Vâng, bạn ấy nói sáng nay thấy không khỏe."),
+        ("Ms Lan", "Good to know, I will send him today's notes.", "Tốt quá, tôi sẽ gửi ghi chú hôm nay cho bạn ấy."),
+        # 43 closing - why confirming these details matters
         ("Mr Walter", "Confirming these small details really keeps our studies on track.", "Xác nhận những chi tiết nhỏ này thật sự giúp việc học của mình đi đúng hướng."),
         ("Ms Lan", "It does, it prevents so many avoidable mistakes.", "Đúng vậy, tránh được bao nhiêu sai sót không đáng có."),
         ("Mr Walter", "That is exactly why I always ask before assuming.", "Chính vì vậy mà tôi luôn kiểm tra lại với chị."),

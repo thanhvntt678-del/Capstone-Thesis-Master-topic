@@ -187,7 +187,27 @@ LESSON_0145 = {
         ("Ms Lan", "Do you know where the new book club member is from?", "Anh có biết thành viên mới câu lạc bộ sách quê ở đâu không vậy?"),
         ("Mr Silas", "Yes, she said she comes from Yen Bai.", "Có, chị ấy nói quê ở Yên Bái."),
         ("Ms Lan", "Yen Bai, I have always wanted to visit there.", "Yên Bái, tôi vẫn luôn muốn đi thăm nơi đó."),
-        # 36 closing on why knowing where people are from matters
+        # 36 asking Mr Silas directly where he is from
+        ("Ms Lan", "Mr Silas, where are you from originally?", "Anh Silas, quê gốc của anh ở đâu vậy?"),
+        ("Mr Silas", "I am originally from Hai Duong, actually.", "Thật ra tôi gốc ở Hải Dương."),
+        ("Ms Lan", "Hai Duong, I did not know that about you.", "Hải Dương, tôi không biết điều đó về anh đấy."),
+        # 37 Mr Silas asking Ms Lan back
+        ("Mr Silas", "And you, Ms Lan, where are you from?", "Còn chị, chị Lan, chị quê ở đâu?"),
+        ("Ms Lan", "I am from Thai Binh, a small town near the coast.", "Tôi quê ở Thái Bình, một thị trấn nhỏ gần biển."),
+        ("Mr Silas", "Thai Binh, I have heard that name before.", "Thái Bình, tôi từng nghe tên đó rồi."),
+        # 38 not knowing yet, a genuinely different answer
+        ("Ms Lan", "Do you know where the new security guard is from?", "Anh có biết bảo vệ mới quê ở đâu không vậy?"),
+        ("Mr Silas", "No, I do not know yet, I have not asked him.", "Chưa, tôi chưa biết, tôi chưa hỏi anh ấy."),
+        ("Ms Lan", "That is fine, we can ask him together tomorrow.", "Không sao, mai mình cùng hỏi anh ấy nhé."),
+        # 39 someone from another country, not a Vietnamese city
+        ("Mr Silas", "Do you know where the exchange student in our building is from?", "Bạn có biết sinh viên trao đổi trong tòa nhà mình quê ở đâu không vậy?"),
+        ("Ms Lan", "Yes, she told me she is from Japan, not from Vietnam.", "Có, cô ấy nói với tôi cô ấy từ Nhật Bản, không phải Việt Nam."),
+        ("Mr Silas", "Japan, that is quite far from here.", "Nhật Bản, khá xa đây đấy."),
+        # 40 asking for the place name to be spelled
+        ("Ms Lan", "Do you know where the new office manager is from?", "Anh có biết trưởng phòng mới quê ở đâu không vậy?"),
+        ("Mr Silas", "Yes, he told me, but I cannot spell the name of the town.", "Có, anh ấy nói rồi, nhưng tôi không đánh vần được tên thị trấn đó."),
+        ("Ms Lan", "That is okay, let's just ask him to spell it for us.", "Không sao, mình cứ nhờ anh ấy đánh vần cho nghe."),
+        # 41 closing on why knowing where people are from matters
         ("Mr Silas", "Why does knowing where people are from matter so much anyway?", "Vậy vì sao biết quê quán của mọi người lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us understand people better and gives us something friendly to talk about.", "Nó giúp mình hiểu mọi người hơn và có đề tài thân thiện để trò chuyện."),
         ("Mr Silas", "That is very true, it really does make new conversations feel warmer.", "Đúng vậy thật, nó thật sự làm cho những cuộc trò chuyện mới trở nên ấm áp hơn."),

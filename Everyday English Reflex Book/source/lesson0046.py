@@ -196,7 +196,27 @@ LESSON_0046 = {
         ("Ms Lan", "Could you confirm which exit is closest to the office?", "Chị xác nhận giúp cửa ra nào gần văn phòng nhất không?"),
         ("Ms Sandra", "Yes, exit two brings you right there.", "Vâng, cửa ra số hai đưa chị đến ngay đó."),
         ("Ms Lan", "Thanks, I will follow the signs for exit two.", "Cảm ơn chị, tôi đi theo biển chỉ dẫn cửa ra số hai."),
-        # 38 closing - why checking these details matters
+        # 38 checking if the elevator is working
+        ("Ms Lan", "Could you check if the elevator is working today?", "Chị kiểm tra giúp thang máy hôm nay có hoạt động không?"),
+        ("Ms Sandra", "Actually, it is out of service, we need the stairs.", "Thật ra nó đang hỏng, mình phải đi cầu thang bộ."),
+        ("Ms Lan", "Good to know, I will carry my bag carefully then.", "Tốt quá, vậy tôi xách túi cẩn thận hơn."),
+        # 39 checking a child ticket price
+        ("Ms Sandra", "Could you check the ticket price for a child?", "Chị kiểm tra giúp giá vé cho trẻ em không?"),
+        ("Ms Lan", "Children under six ride for free.", "Trẻ dưới sáu tuổi đi miễn phí."),
+        ("Ms Sandra", "Great, that saves us one ticket then.", "Tuyệt, vậy mình đỡ mua một vé."),
+        # 40 confirming pets are allowed on board
+        ("Ms Lan", "Could you confirm if small pets are allowed on this train?", "Chị xác nhận giúp tàu này có cho mang thú cưng nhỏ lên không?"),
+        ("Ms Sandra", "Yes, but only inside a proper carrier bag.", "Có chứ, nhưng phải để trong túi đựng đúng cách."),
+        ("Ms Lan", "Good, I will bring my cat's carrier then.", "Tốt, vậy tôi mang túi đựng mèo theo."),
+        # 41 checking which side the doors open at the next station
+        ("Ms Sandra", "Could you check which side the doors open at the next stop?", "Chị kiểm tra giúp trạm tới cửa mở bên nào không?"),
+        ("Ms Lan", "The doors on the left side open next.", "Cửa bên trái sẽ mở tiếp theo."),
+        ("Ms Sandra", "Thanks, I will move closer to that side.", "Cảm ơn chị, tôi di chuyển gần bên đó."),
+        # 42 confirming a senior citizen discount
+        ("Ms Lan", "Could you confirm if my father gets a senior discount here?", "Chị xác nhận giúp bố tôi có được giảm giá người cao tuổi ở đây không?"),
+        ("Ms Sandra", "Yes, riders over sixty pay half price.", "Có chứ, người trên sáu mươi tuổi trả nửa giá."),
+        ("Ms Lan", "Perfect, I will bring his ID card next time.", "Tuyệt, lần sau tôi mang căn cước của bố theo."),
+        # 43 closing - why checking these details matters
         ("Ms Sandra", "Checking these details always makes our commute smoother.", "Kiểm tra những chi tiết này luôn giúp việc đi làm của mình suôn sẻ hơn."),
         ("Ms Lan", "It does, it avoids so many small surprises along the way.", "Đúng vậy, tránh được bao nhiêu bất ngờ nhỏ dọc đường."),
         ("Ms Sandra", "That is exactly why I always double-check before we board.", "Chính vì vậy mà tôi luôn kiểm tra lại trước khi mình lên xe."),

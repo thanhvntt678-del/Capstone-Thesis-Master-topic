@@ -191,5 +191,29 @@ LESSON_0068 = {
         ("Ms Pamela", "Could you help me finish my evening routine faster tonight?", "Chị giúp tôi hoàn thành thói quen buổi tối nhanh hơn tối nay được không?"),
         ("Ms Lan", "Sure, I will lay out your clothes for tomorrow.", "Được, tôi chuẩn bị sẵn đồ cho ngày mai."),
         ("Ms Pamela", "Thank you, that saves me time in the morning.", "Cảm ơn chị, vậy tiết kiệm thời gian buổi sáng cho tôi."),
+        # 37 remembering to take medication
+        ("Ms Lan", "Pamela, can you help me remember to take my medication today?", "Pamela, chị giúp tôi nhớ uống thuốc hôm nay được không?"),
+        ("Ms Pamela", "Sure, I will remind you right after lunch.", "Được, tôi nhắc chị ngay sau bữa trưa."),
+        ("Ms Lan", "Thank you, I keep forgetting the afternoon dose.", "Cảm ơn chị, tôi cứ quên liều buổi chiều mãi."),
+        # 38 setting up the coffee maker before work
+        ("Ms Pamela", "Could you help me set up the coffee maker before we leave?", "Chị giúp tôi bật máy pha cà phê trước khi mình đi được không?"),
+        ("Ms Lan", "Sure, I will fill the water and press start.", "Được, tôi đổ nước và bấm khởi động."),
+        ("Ms Pamela", "Thank you, I really need coffee this morning.", "Cảm ơn chị, sáng nay tôi cần cà phê lắm."),
+        # 39 finding a recipe for tonight's dinner
+        ("Ms Lan", "Can you help me find a simple recipe for tonight's dinner?", "Chị giúp tôi tìm công thức nấu ăn đơn giản cho bữa tối nay được không?"),
+        ("Ms Pamela", "There is an easy noodle recipe saved on my phone.", "Có một công thức mì đơn giản lưu trong điện thoại tôi đấy."),
+        ("Ms Lan", "Thank you, that sounds quick enough for tonight.", "Cảm ơn chị, nghe nhanh gọn vừa đủ cho tối nay."),
+        # 40 writing a grocery list before shopping
+        ("Ms Pamela", "Could you help me write a grocery list before we go shopping?", "Chị giúp tôi viết danh sách mua sắm trước khi mình đi được không?"),
+        ("Ms Lan", "Sure, let us check the fridge and cupboards first.", "Được, mình xem tủ lạnh và tủ bếp trước đã."),
+        ("Ms Pamela", "Thank you, that way we will not forget anything.", "Cảm ơn chị, vậy sẽ không quên gì cả."),
+        # 41 checking the weather to decide what to wear
+        ("Ms Lan", "Can you help me check the weather so I know what to wear?", "Chị giúp tôi xem thời tiết để biết mặc gì hôm nay được không?"),
+        ("Ms Pamela", "It looks cool this morning, so wear something warm.", "Sáng nay se lạnh đấy, mặc gì ấm vào."),
+        ("Ms Lan", "Thank you, I will grab a cardigan then.", "Cảm ơn chị, vậy tôi lấy áo len khoác ngoài."),
+        # 42 changing bed sheets
+        ("Ms Pamela", "Could you help me change these bed sheets before the weekend?", "Chị giúp tôi thay ga giường này trước cuối tuần được không?"),
+        ("Ms Lan", "Sure, hand me that corner and I will pull it tight.", "Được, đưa góc đó đây, tôi kéo cho căng."),
+        ("Ms Pamela", "Thank you, the bed already looks so fresh.", "Cảm ơn chị, giường trông sạch sẽ hẳn lên rồi."),
     ],
 }

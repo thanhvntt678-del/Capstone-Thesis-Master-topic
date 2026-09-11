@@ -190,7 +190,27 @@ LESSON_0048 = {
         ("Ms Lan", "Could you confirm we are taking the same path back?", "Chị xác nhận giúp mình sẽ đi cùng đường về không?"),
         ("Ms Carol", "Yes, the same route both ways today.", "Vâng, hôm nay đi cùng một đường cả hai chiều."),
         ("Ms Lan", "Good, that makes it easy to remember.", "Tốt, vậy dễ nhớ đường."),
-        # 38 closing - why checking these details matters
+        # 38 checking a route for stray dogs
+        ("Ms Carol", "Could you check if that alley has stray dogs today?", "Chị kiểm tra giúp con hẻm đó hôm nay có chó thả rông không?"),
+        ("Ms Lan", "I did not see any when I passed just now.", "Tôi không thấy con nào khi vừa đi qua."),
+        ("Ms Carol", "Good, then that route should be fine for us.", "Tốt, vậy đường đó chắc ổn cho mình."),
+        # 39 confirming a trail marker's colour code
+        ("Ms Lan", "Could you confirm the red markers lead back to the entrance?", "Chị xác nhận giúp biển chỉ dẫn màu đỏ có dẫn về lối vào không?"),
+        ("Ms Carol", "Yes, red means the way back, blue is the longer loop.", "Có chứ, màu đỏ là đường về, màu xanh là vòng dài hơn."),
+        ("Ms Lan", "Good, I will follow the red ones then.", "Tốt, vậy tôi đi theo biển đỏ."),
+        # 40 checking if a trail requires a permit
+        ("Ms Carol", "Could you check if this trail needs a permit to enter?", "Chị kiểm tra giúp lối mòn này có cần giấy phép để vào không?"),
+        ("Ms Lan", "No, this one is open to everyone for free.", "Không, đường này mở tự do cho mọi người."),
+        ("Ms Carol", "Great, then we can just walk right in.", "Tuyệt, vậy mình vào thẳng luôn."),
+        # 41 checking for shade along a hot route
+        ("Ms Lan", "Could you check if this route has much shade from the sun?", "Chị kiểm tra giúp lộ trình này có nhiều bóng mát không?"),
+        ("Ms Carol", "Yes, tall trees cover most of the way.", "Có chứ, cây cao che bóng phần lớn quãng đường."),
+        ("Ms Lan", "Good, that should keep us cooler today.", "Tốt, vậy hôm nay mình đỡ nóng hơn."),
+        # 42 checking a drinking water fountain along the path
+        ("Ms Carol", "Could you check if there is a water fountain along this path?", "Chị kiểm tra giúp trên đường này có vòi nước uống không?"),
+        ("Ms Lan", "Yes, there is one right before the bridge.", "Có chứ, có một cái ngay trước cây cầu."),
+        ("Ms Carol", "Great, I will refill my bottle there.", "Tuyệt, tôi sẽ đổ đầy bình nước ở đó."),
+        # 43 closing - why checking these details matters
         ("Ms Carol", "Checking these little details always makes our walks better.", "Kiểm tra những chi tiết nhỏ này luôn giúp buổi đi bộ của mình tốt hơn."),
         ("Ms Lan", "It does, it keeps us safe and saves us time too.", "Đúng vậy, giúp mình an toàn và tiết kiệm thời gian nữa."),
         ("Ms Carol", "That is exactly why I always ask before we set off.", "Chính vì vậy mà tôi luôn hỏi trước khi mình xuất phát."),

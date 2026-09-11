@@ -185,7 +185,35 @@ LESSON_0024 = {
         ("Ms Lan", "Does this smoothie contain any nuts?", "Ly sinh tố này có chứa hạt gì không?"),
         ("Ms Claire", "Let me check the menu for you.", "Để tôi kiểm tra thực đơn giúp chị."),
         ("Ms Lan", "Thank you, I need to be careful about that.", "Cảm ơn chị, tôi cần cẩn thận với chuyện đó."),
-        # 38 closing - why choosing carefully matters
+        # 38 asking for a lid on a hot drink
+        ("Ms Lan", "Could I get a lid for this hot chocolate, please?", "Cho tôi xin nắp cho ly sô cô la nóng này được không?"),
+        ("Ms Claire", "Sure, that will stop it from spilling in the car.", "Được chứ, vậy sẽ khỏi đổ trong xe."),
+        ("Ms Lan", "Thanks, I always worry about that on the drive home.", "Cảm ơn chị, tôi hay lo chuyện đó lúc lái xe về."),
+        # 39 oat milk alternative
+        ("Ms Claire", "Would you like oat milk instead of regular milk today?", "Hôm nay chị có muốn dùng sữa yến mạch thay sữa thường không?"),
+        ("Ms Lan", "Yes, please, I am trying to cut down on dairy.", "Vâng, cho tôi nhé, tôi đang cố giảm sữa động vật."),
+        ("Ms Claire", "Oat milk works really well in coffee too.", "Sữa yến mạch pha cà phê cũng ngon lắm."),
+        # 40 bubble tea with tapioca pearls
+        ("Ms Lan", "Could I add tapioca pearls to my bubble tea?", "Cho tôi thêm trân châu vào trà sữa được không?"),
+        ("Ms Claire", "Sure, would you like regular or the chewier kind?", "Được chứ, chị muốn loại thường hay loại dai hơn?"),
+        ("Ms Lan", "The chewier kind sounds more fun to try.", "Loại dai hơn nghe thú vị hơn để thử."),
+        # 41 asking for a drink not too hot
+        ("Ms Claire", "Could you ask them to make it not too hot?", "Chị nhờ họ pha đừng nóng quá được không?"),
+        ("Ms Lan", "Sure, I will mention that at the counter.", "Được chứ, tôi sẽ nói ở quầy."),
+        ("Ms Claire", "Thanks, my mouth is still sensitive from the dentist.", "Cảm ơn chị, miệng tôi vẫn còn nhạy cảm sau khi khám răng."),
+        # 42 a drink out of stock
+        ("Ms Lan", "They just told me the mango smoothie is sold out.", "Họ vừa báo hết sinh tố xoài rồi."),
+        ("Ms Claire", "That is a shame, what will you order instead?", "Tiếc quá, vậy chị định gọi gì thay vào?"),
+        ("Ms Lan", "I will try the strawberry one instead.", "Tôi sẽ thử vị dâu thay vào."),
+        # 43 asking for a weaker coffee
+        ("Ms Claire", "Could you ask them to make the coffee a bit weaker?", "Chị nhờ họ pha cà phê nhạt hơn chút được không?"),
+        ("Ms Lan", "Sure, strong coffee makes my heart race a little.", "Được chứ, cà phê đậm làm tim tôi đập nhanh hơn chút."),
+        ("Ms Claire", "That makes sense, I will let them know.", "Vậy hợp lý đấy, tôi sẽ nói với họ."),
+        # 44 bringing a reusable cup for a discount
+        ("Ms Lan", "I brought my own cup, do they still give a discount?", "Tôi mang theo ly riêng, vẫn được giảm giá chứ?"),
+        ("Ms Claire", "Yes, most cafes here take off a small amount.", "Có chứ, hầu hết quán ở đây giảm một chút."),
+        ("Ms Lan", "Great, it is nice to save money and reduce waste.", "Tốt quá, vừa tiết kiệm vừa giảm rác thải."),
+        # 45 closing - why choosing carefully matters
         ("Ms Claire", "It is nice to take a moment choosing the right drink.", "Thật hay khi dành chút thời gian chọn đúng loại nước."),
         ("Ms Lan", "It really is, the right drink makes the whole visit better.", "Đúng vậy, chọn đúng nước làm cả buổi gặp gỡ vui hơn hẳn."),
         ("Ms Claire", "That is exactly why I always ask before ordering.", "Chính vì vậy mà tôi luôn hỏi trước khi gọi món."),

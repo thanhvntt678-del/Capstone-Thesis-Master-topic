@@ -183,7 +183,35 @@ LESSON_0028 = {
         ("Ms Lan", "Does this bus connect to the train station?", "Xe buýt này có kết nối đến ga tàu không?"),
         ("Ms Helen", "Yes, it stops right outside the entrance.", "Có chứ, nó dừng ngay trước lối vào."),
         ("Ms Lan", "Perfect, that makes the transfer easy.", "Tuyệt, vậy chuyển tuyến dễ dàng luôn."),
-        # 38 closing - why smooth transit matters
+        # 38 buying a paper ticket
+        ("Ms Lan", "Where can I buy a paper ticket instead of using the app?", "Tôi mua vé giấy thay vì dùng ứng dụng ở đâu vậy?"),
+        ("Ms Helen", "There is a small window right next to the entrance.", "Có một ô cửa nhỏ ngay cạnh lối vào."),
+        ("Ms Lan", "Thanks, I forgot to charge my phone this morning.", "Cảm ơn chị, sáng nay tôi quên sạc điện thoại."),
+        # 39 a stuck train door
+        ("Ms Helen", "This train door does not seem to want to open.", "Cửa tàu này hình như không chịu mở."),
+        ("Ms Lan", "Let us try the next door further down.", "Mình thử cửa kế tiếp xa hơn xem."),
+        ("Ms Helen", "Good call, that one opened right away.", "Ý hay đấy, cửa đó mở ngay."),
+        # 40 a broken escalator at the station
+        ("Ms Lan", "The escalator here is out of order again.", "Thang cuốn ở đây lại hỏng nữa rồi."),
+        ("Ms Helen", "We will just have to take the stairs today.", "Vậy hôm nay mình đi cầu thang bộ thôi."),
+        ("Ms Lan", "Good exercise, at least we are not in a hurry.", "Vậy cũng là tập thể dục, may là mình không vội."),
+        # 41 checking a departure board with no phone battery
+        ("Ms Helen", "My phone just died, could you check the departure board?", "Điện thoại tôi vừa hết pin, chị xem giúp bảng giờ tàu được không?"),
+        ("Ms Lan", "Sure, the next one leaves from platform two.", "Được chứ, chuyến kế tiếp xuất phát từ sân ga hai."),
+        ("Ms Helen", "Thank you, I would have been lost without you.", "Cảm ơn chị, không có chị chắc tôi lạc mất."),
+        # 42 asking if pets are allowed on the bus
+        ("Ms Lan", "Are small pets allowed on this bus in a carrier?", "Thú cưng nhỏ trong lồng có được lên xe buýt này không?"),
+        ("Ms Helen", "Yes, as long as the carrier stays closed.", "Có chứ, miễn là lồng luôn đóng kín."),
+        ("Ms Lan", "Good, my cat will be happy to hear that.", "Tốt quá, con mèo của tôi chắc sẽ vui khi nghe vậy."),
+        # 43 asking if bicycles are allowed onboard
+        ("Ms Helen", "Can I bring my bicycle onto this train?", "Tôi mang xe đạp lên tàu này được không?"),
+        ("Ms Lan", "Yes, but only in the last carriage.", "Được chứ, nhưng chỉ ở toa cuối thôi."),
+        ("Ms Helen", "Good to know, I will head there now.", "Tốt quá, tôi đi đến đó ngay."),
+        # 44 helping a confused passenger find their stop
+        ("Ms Lan", "That young man looks a little lost, should we help?", "Cậu thanh niên kia trông có vẻ lạc đường, mình giúp nhé?"),
+        ("Ms Helen", "Yes, let us ask him which stop he needs.", "Vâng, mình hỏi cậu ấy cần xuống trạm nào."),
+        ("Ms Lan", "He is relieved now, we pointed him the right way.", "Cậu ấy nhẹ nhõm rồi, mình chỉ đúng đường cho cậu ấy."),
+        # 45 closing - why smooth transit matters
         ("Ms Helen", "It really helps to have someone to travel with.", "Có người đi cùng thật sự giúp ích nhiều."),
         ("Ms Lan", "It does, the commute feels much shorter together.", "Đúng vậy, đi cùng nhau thấy quãng đường ngắn hơn hẳn."),
         ("Ms Helen", "That is exactly why I always look forward to this ride.", "Chính vì vậy mà tôi luôn mong đến giờ đi chung."),

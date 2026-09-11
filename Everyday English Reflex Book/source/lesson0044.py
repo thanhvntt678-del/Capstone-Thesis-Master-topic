@@ -195,7 +195,27 @@ LESSON_0044 = {
         ("Ms Lan", "Could you check if this colour fades easily after washing?", "Chị kiểm tra giúp màu này có dễ phai sau khi giặt không?"),
         ("Ms Ruth", "The label mentions it is colourfast, so it should hold.", "Nhãn ghi màu bền, nên sẽ giữ được."),
         ("Ms Lan", "Good, that should stay looking new for longer.", "Tốt, vậy sẽ trông mới lâu hơn."),
-        # 38 closing - why checking these details matters
+        # 38 checking button quality
+        ("Ms Lan", "Could you check if these buttons feel firmly sewn on?", "Chị kiểm tra giúp mấy cái nút này có được khâu chắc không?"),
+        ("Ms Ruth", "Yes, I tried tugging one and it held tight.", "Có chứ, tôi kéo thử một cái và nó vẫn chắc."),
+        ("Ms Lan", "Good, that means they will not fall off soon.", "Tốt, vậy sẽ không bị rớt ra sớm."),
+        # 39 checking if the sizing runs small or large
+        ("Ms Ruth", "Could you confirm if this brand usually runs small?", "Chị xác nhận giúp hãng này thường ra size nhỏ hơn bình thường không?"),
+        ("Ms Lan", "Yes, the staff say it runs a little small.", "Có chứ, nhân viên nói nó nhỏ hơn một chút."),
+        ("Ms Ruth", "Thanks, I will pick one size up then.", "Cảm ơn chị, vậy tôi lấy lên một size."),
+        # 40 checking a coat's pocket depth
+        ("Ms Lan", "Could you check how deep these coat pockets are?", "Chị kiểm tra giúp túi áo khoác này sâu cỡ nào không?"),
+        ("Ms Ruth", "They are deep enough to hold your phone safely.", "Đủ sâu để đựng điện thoại chị an toàn."),
+        ("Ms Lan", "Great, that is exactly what I was hoping for.", "Tuyệt, đúng như tôi mong."),
+        # 41 checking a waistband's elastic stretch
+        ("Ms Ruth", "Could you check if this waistband stretches comfortably?", "Chị kiểm tra giúp cạp quần này co giãn thoải mái không?"),
+        ("Ms Lan", "Yes, the elastic gives quite a lot without feeling tight.", "Có chứ, dây thun co giãn khá tốt mà không bị chật."),
+        ("Ms Ruth", "Perfect, that should be comfortable for a long day.", "Tuyệt, vậy sẽ thoải mái cho cả ngày dài."),
+        # 42 dealing with the wrong colour delivered
+        ("Ms Lan", "Ruth, this delivery came in the wrong colour.", "Chị Ruth, đơn hàng này giao nhầm màu rồi."),
+        ("Ms Ruth", "Let us call the shop and ask for an exchange.", "Mình gọi cửa hàng nhờ đổi lại nhé."),
+        ("Ms Lan", "Good idea, I will explain the mix-up to them now.", "Ý hay đấy, tôi giải thích với họ về sự nhầm lẫn này ngay."),
+        # 43 closing - why checking these details matters
         ("Ms Ruth", "Checking these little details really prevents disappointment later.", "Kiểm tra những chi tiết nhỏ này thật sự tránh được thất vọng về sau."),
         ("Ms Lan", "It does, especially with clothing you cannot easily return.", "Đúng vậy, nhất là với quần áo không dễ đổi trả."),
         ("Ms Ruth", "That is exactly why I always check before I commit to buying.", "Chính vì vậy mà tôi luôn kiểm tra trước khi quyết định mua."),

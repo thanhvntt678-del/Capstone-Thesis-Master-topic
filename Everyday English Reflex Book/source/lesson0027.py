@@ -184,7 +184,31 @@ LESSON_0027 = {
         ("Ms Lan", "Would you like a lift to the office this morning?", "Sáng nay anh có muốn tôi cho đi nhờ xe đến văn phòng không?"),
         ("Mr Patrick", "That would be great, thank you for offering.", "Vậy thì tốt quá, cảm ơn chị đã đề nghị."),
         ("Ms Lan", "No problem, I am heading that way anyway.", "Không có gì, dù sao tôi cũng đi hướng đó."),
-        # 38 closing - why these moments matter
+        # 38 directions to the post office
+        ("Ms Lan", "Do you know the way to the post office from here?", "Anh có biết đường đến bưu điện từ đây không?"),
+        ("Mr Patrick", "Yes, it is just past the pharmacy on the left.", "Có chứ, nó ngay sau nhà thuốc, phía bên trái."),
+        ("Ms Lan", "Thank you, I need to mail a package today.", "Cảm ơn anh, hôm nay tôi cần gửi một gói hàng."),
+        # 39 locating a public restroom
+        ("Mr Patrick", "Is there a public restroom anywhere near this street?", "Gần con phố này có nhà vệ sinh công cộng không?"),
+        ("Ms Lan", "Yes, there is one inside the community centre.", "Có chứ, có một cái trong trung tâm cộng đồng."),
+        ("Mr Patrick", "Thanks, that is good to know for next time.", "Cảm ơn chị, biết vậy tốt cho lần sau."),
+        # 40 noise from a nearby construction site
+        ("Ms Lan", "That construction site has been so loud all week.", "Công trường đó ồn ào suốt cả tuần rồi."),
+        ("Mr Patrick", "I heard it usually finishes work by six in the evening.", "Tôi nghe nói họ thường ngừng làm lúc sáu giờ tối."),
+        ("Ms Lan", "That is a relief, at least evenings are quiet.", "Vậy cũng đỡ, ít nhất buổi tối còn yên tĩnh."),
+        # 41 a tree branch hanging over the fence
+        ("Mr Patrick", "A branch from your tree is hanging over my fence.", "Có một cành cây từ nhà chị vươn qua hàng rào nhà tôi."),
+        ("Ms Lan", "Oh, sorry about that, I will trim it this weekend.", "Ồ, xin lỗi anh, cuối tuần này tôi sẽ tỉa nó."),
+        ("Mr Patrick", "No rush, I just wanted to mention it.", "Không vội đâu, tôi chỉ muốn nhắc thôi."),
+        # 42 reporting a pothole in the road
+        ("Ms Lan", "There is a deep pothole forming outside our houses.", "Có một ổ gà sâu đang xuất hiện trước nhà mình."),
+        ("Mr Patrick", "I will report it to the local council tomorrow.", "Mai tôi sẽ báo lên ủy ban khu phố."),
+        ("Ms Lan", "Thank you, it is quite dangerous for cyclists.", "Cảm ơn anh, nó khá nguy hiểm cho người đi xe đạp."),
+        # 43 returning a found wallet
+        ("Mr Patrick", "I found this wallet on the pavement, is it yours?", "Tôi nhặt được cái ví này trên vỉa hè, có phải của chị không?"),
+        ("Ms Lan", "Let me check... no, it is not mine, sorry.", "Để tôi xem... không, không phải của tôi, xin lỗi anh."),
+        ("Mr Patrick", "No problem, I will hand it in at the police station.", "Không sao đâu, tôi sẽ nộp lại cho đồn công an."),
+        # 44 closing - why these moments matter
         ("Mr Patrick", "I really value living in a neighbourhood like this.", "Tôi thật sự trân trọng khi sống trong một khu phố như thế này."),
         ("Ms Lan", "So do I, everyone looks out for each other here.", "Tôi cũng vậy, mọi người ở đây luôn quan tâm lẫn nhau."),
         ("Mr Patrick", "That is exactly what makes it feel like home.", "Chính điều đó khiến nơi này giống như một mái nhà."),

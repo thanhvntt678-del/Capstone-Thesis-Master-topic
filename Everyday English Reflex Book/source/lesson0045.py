@@ -191,7 +191,27 @@ LESSON_0045 = {
         ("Ms Lan", "Could you confirm if the old clock tower is still there?", "Anh xác nhận giúp tháp đồng hồ cũ có còn ở đó không?"),
         ("Mr Dennis", "Yes, it is still standing, just recently repainted.", "Có chứ, vẫn còn, mới được sơn lại gần đây."),
         ("Ms Lan", "Great, that makes it easy to find our way.", "Tuyệt, vậy dễ tìm đường."),
-        # 38 closing - why confirming these details matters
+        # 38 checking if a road is still under construction
+        ("Mr Dennis", "Could you check if that road is still under construction?", "Chị kiểm tra giúp con đường đó có còn đang thi công không?"),
+        ("Ms Lan", "Yes, there are still barriers blocking half the road.", "Có chứ, vẫn còn rào chắn nửa con đường."),
+        ("Mr Dennis", "Good to know, I will take a different way then.", "Tốt quá, vậy tôi đi đường khác."),
+        # 39 confirming a neighbour's house colour to avoid confusion
+        ("Ms Lan", "Could you confirm Mr Hoang's house is the yellow one?", "Anh xác nhận giúp nhà anh Hoàng có phải nhà màu vàng không?"),
+        ("Mr Dennis", "Yes, the yellow one, not the green one next door.", "Vâng, nhà màu vàng, không phải nhà màu xanh bên cạnh."),
+        ("Ms Lan", "Thanks, I almost knocked on the wrong door.", "Cảm ơn anh, suýt nữa tôi gõ nhầm cửa."),
+        # 40 checking a streetlight at a specific corner
+        ("Mr Dennis", "Could you check if the corner near the school has a working streetlight?", "Chị kiểm tra giúp góc đường gần trường có đèn đường sáng không?"),
+        ("Ms Lan", "Actually, that light has been broken for a week.", "Thật ra, đèn đó bị hỏng cả tuần rồi."),
+        ("Mr Dennis", "Good to know, I will report it to the ward office.", "Tốt quá, tôi sẽ báo với ủy ban phường."),
+        # 41 confirming a parcel locker's access code
+        ("Ms Lan", "Could you confirm the access code for the parcel locker?", "Anh xác nhận giúp mã mở tủ nhận bưu kiện không?"),
+        ("Mr Dennis", "Yes, it is the four digits in the text message.", "Vâng, là bốn số trong tin nhắn."),
+        ("Ms Lan", "Thanks, I will open it now.", "Cảm ơn anh, tôi mở ngay."),
+        # 42 confirming which entrance has a wheelchair ramp
+        ("Mr Dennis", "Could you confirm which entrance has a ramp for my mother's wheelchair?", "Chị xác nhận giúp cổng nào có dốc cho xe lăn của mẹ tôi không?"),
+        ("Ms Lan", "Yes, the side entrance near the car park has a ramp.", "Có chứ, cổng bên cạnh gần bãi đậu xe có dốc."),
+        ("Mr Dennis", "Perfect, we will use that entrance then.", "Tuyệt, vậy mình dùng cổng đó."),
+        # 43 closing - why confirming these details matters
         ("Mr Dennis", "Double-checking these details really saves us from getting lost.", "Kiểm tra kỹ những chi tiết này thật sự giúp mình khỏi bị lạc."),
         ("Ms Lan", "It does, a quick confirmation avoids a lot of confusion.", "Đúng vậy, xác nhận nhanh tránh được nhiều rối rắm."),
         ("Mr Dennis", "That is exactly why I always ask before heading out.", "Chính vì vậy mà tôi luôn hỏi trước khi ra ngoài."),

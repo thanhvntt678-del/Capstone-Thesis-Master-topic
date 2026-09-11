@@ -192,5 +192,37 @@ LESSON_0084 = {
         ("Ms Beverly", "Why did we end up changing today's walking plan?", "Vì sao cuối cùng mình lại đổi kế hoạch đi bộ hôm nay vậy?"),
         ("Ms Lan", "The weather turned out different than expected.", "Thời tiết hóa ra khác dự đoán."),
         ("Ms Beverly", "Ah, that makes sense, plans change sometimes.", "À, vậy hợp lý, kế hoạch đôi khi phải thay đổi."),
+        # 37 asking if someone needs help crossing the street
+        ("Ms Lan", "Do you need help crossing here? The traffic looks busy.", "Chị có cần giúp qua đường không? Xe cộ trông đông đấy."),
+        ("Ms Beverly", "Yes, please, hold my arm for a moment.", "Có, làm ơn nắm tay tôi một lát."),
+        ("Ms Lan", "Of course, we will cross together slowly.", "Được chứ, mình cùng qua đường từ từ."),
+        # 38 offering an arm for support
+        ("Ms Beverly", "This path looks a little slippery up ahead.", "Đoạn đường phía trước trông hơi trơn đấy."),
+        ("Ms Lan", "Here, take my arm so you do not slip.", "Đây, nắm tay tôi để khỏi trượt chân."),
+        ("Ms Beverly", "Thank you, that feels much safer now.", "Cảm ơn chị, giờ cảm thấy an toàn hơn nhiều."),
+        # 39 warning about a step ahead
+        ("Ms Lan", "Careful, there is a small step right there.", "Cẩn thận, có một bậc thềm nhỏ ngay đó."),
+        ("Ms Beverly", "Thanks for warning me, I did not see it.", "Cảm ơn chị đã nhắc, tôi không thấy nó."),
+        ("Ms Lan", "No problem, it is easy to miss.", "Không sao, dễ bỏ sót lắm."),
+        # 40 asking if someone is too tired to continue
+        ("Ms Beverly", "Are you getting tired, or can we keep walking?", "Chị có mệt chưa, hay mình đi tiếp được?"),
+        ("Ms Lan", "I am fine, let us keep going a little further.", "Tôi vẫn ổn, mình đi thêm chút nữa đi."),
+        ("Ms Beverly", "Good, just tell me if that changes.", "Tốt, nếu đổi ý thì cứ nói tôi nhé."),
+        # 41 asking about a ramp instead of stairs
+        ("Ms Lan", "Is there a ramp here, or only stairs?", "Ở đây có đường dốc không, hay chỉ có cầu thang thôi?"),
+        ("Ms Beverly", "There is a ramp just around that corner.", "Có một đường dốc ngay quanh góc đó."),
+        ("Ms Lan", "Perfect, that will be much easier for us.", "Tuyệt, vậy sẽ dễ đi hơn nhiều cho mình."),
+        # 42 asking someone to hold hands while crossing
+        ("Ms Beverly", "Could you hold my hand while we cross this road?", "Chị nắm tay tôi khi mình qua con đường này được không?"),
+        ("Ms Lan", "Of course, I will not let go until we are across.", "Được chứ, tôi sẽ nắm chặt tới khi qua hẳn."),
+        ("Ms Beverly", "Thank you, that makes me feel much steadier.", "Cảm ơn chị, vậy tôi thấy vững vàng hơn nhiều."),
+        # 43 checking if shoes are comfortable enough to continue
+        ("Ms Lan", "How are your shoes holding up? Are your feet okay?", "Giày chị đi có ổn không? Chân chị có sao không?"),
+        ("Ms Beverly", "They are fine so far, no blisters yet.", "Vẫn ổn tới giờ, chưa bị phồng rộp gì."),
+        ("Ms Lan", "Good, let me know if that changes along the way.", "Tốt, nếu đổi khác dọc đường thì báo tôi nhé."),
+        # 44 reassuring someone after a stumble
+        ("Ms Beverly", "Oh, I almost tripped on that uneven bit of ground!", "Ôi, tôi suýt vấp phải chỗ đất gồ ghề đó!"),
+        ("Ms Lan", "Are you alright? Let us slow down a bit.", "Chị có sao không? Mình đi chậm lại chút nhé."),
+        ("Ms Beverly", "I am fine, thank you for catching my arm.", "Tôi ổn, cảm ơn chị đã đỡ tay tôi."),
     ],
 }

@@ -184,7 +184,31 @@ LESSON_0169 = {
         ("Ms Lan", "Could you help me find a taxi after we finish shopping?", "Anh giúp tôi tìm taxi sau khi mình mua sắm xong được không?"),
         ("Mr Bertrand", "Yes, there is usually a stand right by the entrance.", "Được, thường có bến taxi ngay gần lối vào."),
         ("Ms Lan", "Good, that will make getting home easier.", "Tốt, vậy về nhà sẽ dễ hơn."),
-        # 36 closing on why asking for help while shopping matters
+        # 36 finding a staff member for a specific product question
+        ("Ms Lan", "Could you help me find a staff member? I have a question about this blender.", "Anh giúp tôi tìm nhân viên được không? Tôi có thắc mắc về cái máy xay này."),
+        ("Mr Bertrand", "Yes, there is one restocking shelves just two aisles over.", "Được, có một người đang xếp hàng ở hai dãy kệ bên kia."),
+        ("Ms Lan", "Good, I will go ask her about the blender now.", "Tốt, tôi qua hỏi chị ấy về cái máy xay luôn."),
+        # 37 checking the store's closing time
+        ("Mr Bertrand", "Could you help me check what time this store closes tonight?", "Chị giúp tôi xem tối nay cửa hàng đóng cửa mấy giờ được không?"),
+        ("Ms Lan", "Yes, the sign by the door says nine o'clock.", "Được, bảng gần cửa ghi chín giờ tối."),
+        ("Mr Bertrand", "Good, we still have almost an hour left to shop.", "Tốt, vậy mình còn gần một tiếng để mua sắm."),
+        # 38 reciprocal - offering help back while shopping
+        ("Ms Lan", "Do you need any help finding something, or are you all set?", "Anh cần tôi giúp tìm gì không, hay đã đủ rồi?"),
+        ("Mr Bertrand", "Actually yes, I still cannot find the shampoo I usually buy.", "Thật ra là có, tôi vẫn chưa tìm ra loại dầu gội tôi hay mua."),
+        ("Ms Lan", "Let us check the personal care aisle, it might be there.", "Mình qua dãy kệ chăm sóc cá nhân xem, có thể ở đó."),
+        # 39 asking for a price check on an item with no tag
+        ("Mr Bertrand", "Could you help me? This jar of honey has no price tag at all.", "Chị giúp tôi với? Hũ mật ong này không có nhãn giá luôn."),
+        ("Ms Lan", "Yes, let us ask the cashier to scan it for the price.", "Được, mình nhờ thu ngân quét mã để biết giá."),
+        ("Mr Bertrand", "Good idea, she will know the exact price for sure.", "Ý hay đấy, chị ấy chắc biết chính xác giá luôn."),
+        # 40 asking whether a jacket is in stock in a larger size
+        ("Ms Lan", "Could you help me ask if this jacket comes in a larger size in the back?", "Anh giúp tôi hỏi xem áo khoác này còn size lớn hơn trong kho không được không?"),
+        ("Mr Bertrand", "Yes, let me ask the young man who is restocking the shelves.", "Được, để tôi hỏi anh nhân viên đang xếp hàng kia."),
+        ("Ms Lan", "Great, I really want it in that larger size.", "Tuyệt, tôi thật sự muốn cái áo size lớn hơn đó."),
+        # 41 requesting a gift receipt
+        ("Mr Bertrand", "Could you help me ask for a gift receipt for this present?", "Chị giúp tôi hỏi xin hóa đơn quà tặng cho món này được không?"),
+        ("Ms Lan", "Yes, just mention it to the cashier before she rings it up.", "Được, chỉ cần nói với thu ngân trước khi tính tiền."),
+        ("Mr Bertrand", "Good, that way my sister can exchange it if needed.", "Tốt, vậy em gái tôi có thể đổi lại nếu cần."),
+        # 42 closing on why asking for help while shopping matters
         ("Mr Bertrand", "Why does asking for help while shopping matter so much anyway?", "Vậy vì sao nhờ giúp đỡ khi mua sắm lại quan trọng đến thế?"),
         ("Ms Lan", "It saves us time and makes the whole shopping trip much less stressful.", "Nó giúp mình tiết kiệm thời gian và làm cả chuyến mua sắm đỡ căng thẳng hơn nhiều."),
         ("Mr Bertrand", "That is very true, asking for help really does make everything go more smoothly.", "Đúng vậy thật, nhờ giúp đỡ thật sự giúp mọi việc trôi chảy hơn."),

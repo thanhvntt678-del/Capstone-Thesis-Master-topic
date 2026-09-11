@@ -199,7 +199,27 @@ LESSON_0149 = {
         ("Ms Lan", "Do you know how many people are in the dance teacher's family?", "Anh có biết gia đình giáo viên dạy múa có bao nhiêu người không vậy?"),
         ("Mr Oswin", "Yes, there are five, her, her husband, and three sons.", "Có, nhà có năm người, chị ấy, chồng chị ấy, và ba con trai."),
         ("Ms Lan", "Five, I bet her sons love dancing too.", "Năm người, chắc ba con trai chị ấy cũng thích múa."),
-        # 36 closing on why knowing family size matters
+        # 36 asking Mr Oswin directly about his own family
+        ("Ms Lan", "Mr Oswin, how many people are in your own family?", "Anh Oswin, gia đình anh có bao nhiêu người vậy?"),
+        ("Mr Oswin", "There are four of us, my wife, our son, and me.", "Nhà tôi có bốn người, vợ tôi, con trai chúng tôi, và tôi."),
+        ("Ms Lan", "Four, a nice number for a household.", "Bốn người, cỡ gia đình như vậy đẹp thật."),
+        # 37 Mr Oswin asking Ms Lan back
+        ("Mr Oswin", "And you, Ms Lan, how many people are in your family?", "Còn chị, chị Lan, gia đình chị có bao nhiêu người?"),
+        ("Ms Lan", "There are five of us, including my parents and my brother.", "Nhà tôi có năm người, gồm ba mẹ tôi và em trai tôi."),
+        ("Mr Oswin", "Five, that sounds like a full and happy house.", "Năm người, nghe như một tổ ấm đông vui."),
+        # 38 not knowing the answer yet, a genuinely different reply
+        ("Ms Lan", "Do you know how many people are in the new caretaker's family?", "Anh có biết gia đình người quản gia mới có bao nhiêu người không vậy?"),
+        ("Mr Oswin", "No, I do not know that yet, we have not talked much.", "Không, tôi chưa biết, hai chúng tôi chưa nói chuyện nhiều."),
+        ("Ms Lan", "That is fine, we can ask her sometime soon.", "Không sao, lúc nào đó mình hỏi chị ấy cũng được."),
+        # 39 asking about siblings specifically, not just total headcount
+        ("Mr Oswin", "Does the yoga instructor have any siblings, or is she an only child?", "Huấn luyện viên yoga có anh chị em không, hay là con một vậy?"),
+        ("Ms Lan", "She has one younger brother, she told me once.", "Chị ấy có một em trai, có lần chị ấy kể tôi nghe."),
+        ("Mr Oswin", "One brother, that explains why she seems so close to her family.", "Một em trai, thảo nào chị ấy có vẻ gắn bó với gia đình vậy."),
+        # 40 asking whether the family members all live together
+        ("Ms Lan", "Do all four people in the librarian's family live together, or does anyone live apart?", "Cả bốn người trong gia đình thủ thư có sống chung không, hay có ai ở riêng?"),
+        ("Mr Oswin", "They all live together in the same house, actually.", "Thật ra cả nhà đều sống chung một nhà."),
+        ("Ms Lan", "That is nice, they must see each other every day.", "Hay thật, vậy chắc ngày nào họ cũng gặp nhau."),
+        # 41 closing on why knowing family size matters
         ("Mr Oswin", "Why does knowing about family size matter so much anyway?", "Vậy vì sao biết quy mô gia đình của mọi người lại quan trọng đến thế?"),
         ("Ms Lan", "It helps us understand people's lives better and makes conversation feel more personal.", "Nó giúp mình hiểu cuộc sống của mọi người hơn và khiến cuộc trò chuyện gần gũi hơn."),
         ("Mr Oswin", "That is very true, it really does make getting to know someone feel warmer.", "Đúng vậy thật, nó thật sự làm cho việc làm quen với ai đó trở nên ấm áp hơn."),

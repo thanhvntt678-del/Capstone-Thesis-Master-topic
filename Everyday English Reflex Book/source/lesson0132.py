@@ -188,7 +188,31 @@ LESSON_0132 = {
         ("Ms Lan", "Is this soup drink at the right temperature for you?", "Món canh này có đúng nhiệt độ với chị không?"),
         ("Ms Perpetua", "Yes, it is warm just the way I like it.", "Có, ấm đúng ý tôi thích luôn."),
         ("Ms Lan", "Wonderful, enjoy it while it is warm.", "Tuyệt quá, thưởng thức khi còn ấm nhé."),
-        # 36 closing on why simple drink questions matter
+        # 36 if a slice of ginger should be added
+        ("Ms Perpetua", "Should we add a slice of fresh ginger to this tea?", "Mình có nên thêm lát gừng tươi vào trà này không?"),
+        ("Ms Lan", "Yes, please, that will warm us up nicely.", "Có, cảm ơn chị, vậy sẽ giúp ấm người lên."),
+        ("Ms Perpetua", "Adding it now, it smells wonderful already.", "Tôi thêm ngay đây, đã thơm rồi."),
+        # 37 if a toddler's juice should have less ice
+        ("Ms Lan", "Should your daughter's juice have less ice than ours?", "Nước ép của con gái chị có nên ít đá hơn của mình không?"),
+        ("Ms Perpetua", "Yes, please, just a cube or two for her.", "Có, cảm ơn chị, cho bé một hai viên thôi."),
+        ("Ms Lan", "One or two cubes, coming right up for her.", "Một hai viên, tôi làm ngay cho bé."),
+        # 38 if a drink is vegan-friendly
+        ("Ms Perpetua", "Is this creamy drink vegan-friendly for your guest?", "Đồ uống béo này có thuần chay cho khách của chị không?"),
+        ("Ms Lan", "Yes, it is made entirely with oat milk.", "Có, nó làm hoàn toàn từ sữa yến mạch."),
+        ("Ms Perpetua", "Perfect, she will be glad to hear that.", "Hoàn hảo, cô ấy chắc sẽ vui khi nghe vậy."),
+        # 39 if a drink should be poured into a thermos
+        ("Ms Lan", "Should I pour your coffee into a thermos to keep it hot?", "Tôi rót cà phê của chị vào bình giữ nhiệt để giữ ấm nhé?"),
+        ("Ms Perpetua", "Yes, please, I am heading out shortly.", "Có, cảm ơn chị, tôi sắp ra ngoài rồi."),
+        ("Ms Lan", "Here you go, it should stay warm for hours.", "Đây chị, chắc sẽ ấm được vài tiếng đấy."),
+        # 40 if a drink pairs well with breakfast
+        ("Ms Perpetua", "Does this fresh juice go well with breakfast this morning?", "Nước ép tươi này sáng nay có hợp với bữa sáng không?"),
+        ("Ms Lan", "Yes, it goes perfectly with the eggs and toast.", "Có, hợp lắm với trứng và bánh mì nướng."),
+        ("Ms Perpetua", "Wonderful, let us enjoy it together then.", "Tuyệt quá, mình cùng thưởng thức đi."),
+        # 41 if a festive mocktail should be made for a celebration
+        ("Ms Lan", "Should we make a festive mocktail for tonight's celebration?", "Mình có nên pha món mocktail vui tươi cho buổi ăn mừng tối nay không?"),
+        ("Ms Perpetua", "That sounds lovely, everyone will enjoy that.", "Nghe hay đấy, mọi người chắc sẽ thích."),
+        ("Ms Lan", "Great, I will start mixing the fruit juices now.", "Tốt, tôi bắt đầu pha nước ép trái cây ngay."),
+        # 42 closing on why simple drink questions matter
         ("Ms Perpetua", "Why do simple questions about choosing a drink matter so much anyway?", "Vậy vì sao những câu hỏi đơn giản về chọn đồ uống lại quan trọng đến thế?"),
         ("Ms Lan", "They help us make each other feel comfortable and truly cared for.", "Chúng giúp mình khiến nhau cảm thấy thoải mái và được quan tâm thật sự."),
         ("Ms Perpetua", "I never thought of it quite like that, but I agree.", "Tôi chưa từng nghĩ theo hướng đó, nhưng tôi đồng ý."),

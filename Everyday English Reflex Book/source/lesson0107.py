@@ -191,7 +191,39 @@ LESSON_0107 = {
         ("Ms Lan", "I am not sure you heard my full message before the call ended.", "Tôi không chắc anh nghe hết tin nhắn của tôi trước khi cuộc gọi kết thúc."),
         ("Mr Percival", "Let me call you back so you can repeat it.", "Để tôi gọi lại để chị nói lại lần nữa."),
         ("Ms Lan", "Thank you, that is much safer to confirm.", "Cảm ơn anh, xác nhận vậy vẫn an toàn hơn."),
-        # 36 explaining why speaking clearly on the phone matters
+        # 36 a call arriving while in the shower
+        ("Ms Lan", "Sorry, your call came in while I was in the shower.", "Xin lỗi anh, cuộc gọi của anh tới lúc tôi đang tắm."),
+        ("Mr Percival", "No worries, I figured you were busy.", "Không sao đâu, tôi đoán chị bận."),
+        ("Ms Lan", "Thank you for understanding, let me call you back now.", "Cảm ơn anh đã thông cảm, để tôi gọi lại ngay."),
+        # 37 a saved contact's photo not matching who called
+        ("Mr Percival", "The photo on your saved contact does not match who called me.", "Ảnh trên danh bạ lưu của chị không khớp với người vừa gọi tôi."),
+        ("Ms Lan", "Oh, that must have been my sister using my old phone.", "Ồ, chắc là em gái tôi dùng điện thoại cũ của tôi."),
+        ("Mr Percival", "Ah, that explains the confusion completely.", "À, vậy là rõ nguyên nhân nhầm lẫn rồi."),
+        # 38 a call accidentally muted during a distracted moment
+        ("Ms Lan", "I think I accidentally muted myself for most of that call.", "Tôi nghĩ mình lỡ tắt tiếng suốt phần lớn cuộc gọi đó."),
+        ("Mr Percival", "No worries, let me tell you what you missed.", "Không sao đâu, để tôi kể lại phần chị đã bỏ lỡ."),
+        ("Ms Lan", "Thank you, that catches me up completely.", "Cảm ơn anh, giờ tôi nắm được hết rồi."),
+        # 39 calling back while the other person was already calling
+        ("Mr Percival", "I called you back while you were already calling me.", "Tôi gọi lại cho chị trong lúc chị đang gọi tôi."),
+        ("Ms Lan", "Let us just hang up and try once more.", "Mình cúp máy rồi thử lại một lần nữa đi."),
+        ("Mr Percival", "Good idea, it should connect properly now.", "Ý hay, giờ chắc kết nối được rồi."),
+        # 40 a group call accidentally including an extra person
+        ("Ms Lan", "I think our group call accidentally included an extra person.", "Tôi nghĩ cuộc gọi nhóm của mình lỡ kéo thêm một người ngoài."),
+        ("Mr Percival", "Let me check the participant list quickly.", "Để tôi kiểm tra danh sách người tham gia."),
+        ("Ms Lan", "You are right, let me remove them now.", "Anh nói đúng, để tôi xóa người đó ngay."),
+        # 41 dialing with the wrong area code
+        ("Mr Percival", "I think I dialed with the wrong area code just now.", "Tôi nghĩ mình vừa bấm nhầm mã vùng."),
+        ("Ms Lan", "Let me give you the correct area code again.", "Để tôi cho anh mã vùng đúng lại."),
+        ("Mr Percival", "Thank you, trying it again right now.", "Cảm ơn chị, tôi thử lại ngay bây giờ."),
+        # 42 a call-waiting beep interrupting an important part
+        ("Ms Lan", "A call-waiting beep just interrupted the most important part.", "Tiếng bíp chờ cuộc gọi vừa cắt ngang đúng phần quan trọng nhất."),
+        ("Mr Percival", "Sorry about that, let me repeat what I said.", "Xin lỗi chị, để tôi nói lại phần đó."),
+        ("Ms Lan", "Thank you, I caught all of it this time.", "Cảm ơn anh, lần này tôi nghe được hết rồi."),
+        # 43 a phone left in another room causing a missed call
+        ("Mr Percival", "I left my phone in another room and missed your call.", "Tôi để điện thoại ở phòng khác nên lỡ cuộc gọi của chị."),
+        ("Ms Lan", "No worries, let me tell you why I called.", "Không sao đâu, để tôi nói lý do tôi gọi."),
+        ("Mr Percival", "Thank you, go ahead, I am ready to hear it now.", "Cảm ơn chị, anh cứ nói đi, giờ tôi sẵn sàng nghe rồi."),
+        # 44 explaining why speaking clearly on the phone matters
         ("Mr Percival", "Why does speaking clearly on the phone matter so much to you?", "Vì sao nói rõ ràng qua điện thoại lại quan trọng với chị vậy?"),
         ("Ms Lan", "Without seeing each other, clear words prevent so many mix-ups.", "Vì không nhìn thấy nhau, nói rõ ràng giúp tránh được rất nhiều nhầm lẫn."),
         ("Mr Percival", "That is very true, I will speak more slowly next time.", "Đúng vậy thật, lần sau tôi sẽ nói chậm hơn."),

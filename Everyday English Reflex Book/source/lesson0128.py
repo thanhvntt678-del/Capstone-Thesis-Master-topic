@@ -194,7 +194,31 @@ LESSON_0128 = {
         ("Ms Lan", "How should I respond to a greeting in a language I do not know well?", "Tôi nên đáp lại lời chào bằng một ngôn ngữ tôi chưa rành thế nào?"),
         ("Ms Seraphina", "A smile and a simple hello back always works.", "Một nụ cười kèm hello lại đơn giản luôn hiệu quả."),
         ("Ms Lan", "That crosses any language barrier easily.", "Vậy vượt qua rào cản ngôn ngữ dễ dàng."),
-        # 36 closing on why responding to greetings matters
+        # 36 how to respond to a greeting on a video call
+        ("Ms Seraphina", "How should I respond to a greeting at the very start of a video call?", "Tôi nên đáp lại lời chào ngay đầu cuộc gọi video thế nào?"),
+        ("Ms Lan", "Wave at the camera and say hello clearly.", "Vẫy tay trước camera và nói hello rõ ràng."),
+        ("Ms Seraphina", "That feels much friendlier than just typing hi.", "Vậy thân thiện hơn nhiều so với chỉ gõ chữ hi."),
+        # 37 how to respond to a greeting with both hands full
+        ("Ms Lan", "How should I respond to a greeting when both my hands are full of bags?", "Tôi nên đáp lại lời chào khi cả hai tay đang xách đầy túi thế nào?"),
+        ("Ms Seraphina", "A cheerful hello and a nod work just fine.", "Một câu hello vui vẻ kèm gật đầu là đủ rồi."),
+        ("Ms Lan", "Good, no need to put everything down then.", "Tốt, vậy không cần đặt hết đồ xuống."),
+        # 38 how to respond to a greeting from a passing car
+        ("Ms Seraphina", "How do I respond to a greeting someone calls out from a passing car?", "Tôi đáp lại lời chào ai đó gọi vọng ra từ xe đang chạy ngang thế nào?"),
+        ("Ms Lan", "A quick wave back is all you really need.", "Vẫy tay lại nhanh là đủ rồi."),
+        ("Ms Seraphina", "That is easy enough to manage.", "Vậy dễ làm quá."),
+        # 39 how to respond to a greeting shouted from a balcony
+        ("Ms Lan", "How should I respond to a greeting shouted down from a balcony?", "Tôi nên đáp lại lời chào hét xuống từ ban công thế nào?"),
+        ("Ms Seraphina", "Look up, smile, and shout your greeting back.", "Ngước lên, mỉm cười, và hét chào lại."),
+        ("Ms Lan", "That feels friendly even from two floors up.", "Vậy vẫn thân thiện dù cách nhau hai tầng lầu."),
+        # 40 how to respond to a roommate's morning greeting
+        ("Ms Seraphina", "How do I respond to my roommate's greeting first thing in the morning?", "Tôi đáp lại lời chào của bạn cùng phòng ngay lúc vừa thức dậy thế nào?"),
+        ("Ms Lan", "A sleepy good morning and a small smile is enough.", "Một câu good morning buồn ngủ kèm nụ cười nhỏ là đủ."),
+        ("Ms Seraphina", "That is honest, no need to fake energy so early.", "Vậy thật lòng, không cần giả vờ tràn đầy năng lượng sớm vậy."),
+        # 41 how to respond to good night as a farewell greeting
+        ("Ms Lan", "How should I respond when someone says good night before leaving?", "Tôi nên đáp lại thế nào khi ai đó nói good night trước khi ra về?"),
+        ("Ms Seraphina", "Say good night back and wish them a safe trip home.", "Chào good night lại và chúc họ về nhà an toàn."),
+        ("Ms Lan", "That is a warm way to end the evening.", "Vậy là cách kết thúc buổi tối ấm áp."),
+        # 42 closing on why responding to greetings matters
         ("Ms Seraphina", "Why does responding to a greeting warmly matter so much anyway?", "Vậy vì sao đáp lại lời chào ấm áp lại quan trọng đến thế?"),
         ("Ms Lan", "It makes the other person feel truly seen and welcomed.", "Nó khiến người kia cảm thấy thật sự được thấy và chào đón."),
         ("Ms Seraphina", "That is a beautiful way to think about it.", "Đó là một cách nghĩ thật đẹp."),

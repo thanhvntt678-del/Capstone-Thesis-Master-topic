@@ -189,5 +189,37 @@ LESSON_0082 = {
         ("Ms Wanda", "Should we get the standard day pass or the premium one?", "Mình mua vé ngày tiêu chuẩn hay vé cao cấp vậy?"),
         ("Ms Lan", "The standard one covers everything we need today.", "Vé tiêu chuẩn đủ cho những gì mình cần hôm nay."),
         ("Ms Wanda", "Good thinking, let us save the money.", "Nghĩ hay đấy, mình tiết kiệm tiền vậy."),
+        # 37 asking a staff member which platform to use
+        ("Ms Wanda", "Excuse me, which platform goes to the city centre?", "Xin lỗi, sân ga nào đi trung tâm thành phố vậy?"),
+        ("Ms Lan", "Platform three, right past the ticket gate.", "Sân ga số ba, ngay qua cổng soát vé."),
+        ("Ms Wanda", "Thank you, that is easy to find.", "Cảm ơn chị, vậy dễ tìm đấy."),
+        # 38 asking if a seat is free
+        ("Ms Lan", "Excuse me, is this seat free?", "Xin lỗi, ghế này còn trống không ạ?"),
+        ("Ms Wanda", "Yes, please, go ahead and sit down.", "Còn, mời chị ngồi đi."),
+        ("Ms Lan", "Thank you, I appreciate it.", "Cảm ơn chị nhiều."),
+        # 39 asking where to buy a ticket
+        ("Ms Wanda", "Where can we buy tickets before boarding?", "Mình mua vé ở đâu trước khi lên tàu vậy?"),
+        ("Ms Lan", "There is a machine right by the entrance.", "Có máy bán vé ngay lối vào."),
+        ("Ms Wanda", "Good, let us buy them there then.", "Tốt, vậy mình mua ở đó."),
+        # 40 asking if this bus goes to a specific place
+        ("Ms Lan", "Does this bus go to the hospital?", "Xe buýt này có tới bệnh viện không vậy?"),
+        ("Ms Wanda", "Yes, it stops right outside the entrance.", "Có, nó dừng ngay trước cổng bệnh viện."),
+        ("Ms Lan", "Perfect, that is exactly where I need to go.", "Tuyệt, đúng chỗ tôi cần tới."),
+        # 41 asking about the next departure time
+        ("Ms Wanda", "When does the next train leave?", "Chuyến tàu kế tiếp khởi hành lúc mấy giờ vậy?"),
+        ("Ms Lan", "In about ten minutes, according to the board.", "Khoảng mười phút nữa, theo bảng thông báo."),
+        ("Ms Wanda", "Great, we still have time for a coffee.", "Tốt, vậy mình vẫn còn thời gian uống cà phê."),
+        # 42 asking for help with a ticket machine
+        ("Ms Lan", "Could you help me? This ticket machine is confusing.", "Chị giúp tôi với được không? Máy bán vé này khó hiểu quá."),
+        ("Ms Wanda", "Sure, just press this button for a single fare.", "Được, chị chỉ cần bấm nút này để mua vé một chiều."),
+        ("Ms Lan", "Ah, thank you, that makes it much clearer.", "À, cảm ơn chị, vậy rõ ràng hơn nhiều."),
+        # 43 confirming this is the right stop
+        ("Ms Wanda", "Is this the stop for the shopping centre?", "Đây có phải trạm để tới trung tâm mua sắm không vậy?"),
+        ("Ms Lan", "Yes, this is exactly the right stop.", "Đúng, đây chính xác là trạm đúng."),
+        ("Ms Wanda", "Perfect, let us get off here then.", "Tuyệt, vậy mình xuống đây."),
+        # 44 thanking staff for help finding the way
+        ("Ms Lan", "Thank you for helping me find the right platform earlier.", "Cảm ơn chị đã giúp tôi tìm đúng sân ga lúc nãy."),
+        ("Ms Wanda", "You are welcome, it can be confusing at first.", "Không có gì, lúc đầu dễ rối lắm."),
+        ("Ms Lan", "It really was, but I understand it now.", "Đúng vậy, nhưng giờ tôi hiểu rồi."),
     ],
 }

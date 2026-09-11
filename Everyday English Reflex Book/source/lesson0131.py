@@ -182,7 +182,31 @@ LESSON_0131 = {
         ("Ms Lan", "What is the name of the relative visiting your family soon?", "Người thân sắp ghé thăm gia đình anh tên gì vậy?"),
         ("Mr Wilfred", "Her name is Rosalind, she arrives next week.", "Tên cô ấy là Rosalind, tuần sau tới."),
         ("Ms Lan", "Rosalind, I hope you have a lovely visit.", "Rosalind, mong chuyến thăm sẽ vui vẻ."),
-        # 36 closing on why knowing family members' names matters
+        # 36 name of a father-in-law
+        ("Mr Wilfred", "What is your father-in-law's name?", "Bố vợ hoặc bố chồng chị tên gì vậy?"),
+        ("Ms Lan", "His name is Reginald.", "Tên ông ấy là Reginald."),
+        ("Mr Wilfred", "Reginald, that has a fine, steady sound to it.", "Reginald, nghe vững vàng, chững chạc thật."),
+        # 37 the family nickname for a sibling
+        ("Ms Lan", "What nickname does your family actually call your brother by?", "Gia đình anh thật ra gọi anh trai anh bằng biệt danh gì vậy?"),
+        ("Mr Wilfred", "They call him Nell, though his real name is Cornelius.", "Mọi người gọi anh ấy là Nell, dù tên thật là Cornelius."),
+        ("Ms Lan", "Nell, that is sweet, much shorter to say.", "Nell, dễ thương đấy, gọi ngắn gọn hơn nhiều."),
+        # 38 name of the family pet bird
+        ("Mr Wilfred", "What is your family parrot's name?", "Con vẹt nhà chị tên gì vậy?"),
+        ("Ms Lan", "His name is Sunny.", "Tên nó là Sunny."),
+        ("Mr Wilfred", "Sunny, that fits such a colourful bird.", "Sunny, hợp với một chú chim đầy màu sắc thế."),
+        # 39 name of a triplet
+        ("Ms Lan", "What is the third triplet's name, along with the other two?", "Người thứ ba trong bộ ba sinh ba tên gì, cùng với hai người kia?"),
+        ("Mr Wilfred", "His name is Peregrine, the quiet one of the three.", "Tên cậu ấy là Peregrine, người trầm tính nhất trong ba anh em."),
+        ("Ms Lan", "Peregrine, three unique names for three brothers.", "Peregrine, ba cái tên độc đáo cho ba anh em."),
+        # 40 name of a fiancé marrying into the family soon
+        ("Mr Wilfred", "What is the name of your cousin's fiancée, the one joining the family soon?", "Vị hôn thê của anh chị họ chị, người sắp về làm dâu nhà mình, tên gì vậy?"),
+        ("Ms Lan", "Her name is Constance, the wedding is in spring.", "Tên cô ấy là Constance, đám cưới vào mùa xuân."),
+        ("Mr Wilfred", "Constance, how lovely, spring weddings are wonderful.", "Constance, hay quá, đám cưới mùa xuân thật tuyệt."),
+        # 41 name of a relative living next door
+        ("Ms Lan", "What is the name of your relative who lives right next door to you?", "Người thân sống ngay cạnh nhà anh tên gì vậy?"),
+        ("Mr Wilfred", "Her name is Dorothea, my father's youngest sister.", "Tên bà ấy là Dorothea, em út của ba tôi."),
+        ("Ms Lan", "Dorothea, how nice to have family so close by.", "Dorothea, có người thân ở gần vậy thật hay."),
+        # 42 closing on why knowing family members' names matters
         ("Mr Wilfred", "Why does knowing a family member's name matter so much anyway?", "Vậy vì sao biết tên một thành viên gia đình lại quan trọng đến thế?"),
         ("Ms Lan", "It makes every conversation about them feel warmer and more personal.", "Nó khiến mọi cuộc trò chuyện về họ trở nên ấm áp và gần gũi hơn."),
         ("Mr Wilfred", "That is a lovely way to think about it, thank you.", "Nghĩ vậy hay đấy, cảm ơn chị."),
