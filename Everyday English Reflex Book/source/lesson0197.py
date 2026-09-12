@@ -108,7 +108,7 @@ LESSON_0197 = {
         # 16 changing a group call schedule
         ("Ms Persephone", "Actually, could our group call happen on Sunday instead of Saturday now?", "Thật ra, bây giờ cuộc gọi nhóm mình diễn ra vào Chủ Nhật thay vì thứ Bảy được không?"),
         ("Ms Lan", "Yes, Sunday actually suits my new schedule better.", "Được, thật ra Chủ Nhật hợp lịch mới của tôi hơn."),
-        ("Ms Persephone", "Good, I will let everyone know the change.", "Tốt, tôi sẽ báo mọi người về sự thay đổi này."),
+        ("Ms Persephone", "Good, Sunday works nicely for me as well.", "Tốt, Chủ Nhật cũng hợp với tôi."),
         # 17 changing a call from morning to evening
         ("Ms Lan", "Actually, could we call in the evening instead of the morning from now on?", "Thật ra, từ giờ mình gọi vào buổi tối thay vì buổi sáng được không?"),
         ("Ms Persephone", "Yes, mornings have become quite hectic for me lately.", "Được, dạo này buổi sáng tôi khá bận rộn."),

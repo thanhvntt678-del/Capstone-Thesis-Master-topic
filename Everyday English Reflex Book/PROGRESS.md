@@ -89,6 +89,26 @@ cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson
 IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson order
 0001→0189 verified).
 
+**Master book updated after Block 0190-0199:** written via two parallel
+background agents (5 lessons each, 0190-0194 and 0195-0199), each at
+~42 scenes / 126 turns and independently verified clean before
+finishing. As expected from the parallel-writing process, the mandatory
+whole-book cross-lesson duplicate check surfaced 12 new collisions
+after both agents completed (against lessons 0017, 0093, 0133, 0181,
+and among 0189/0192/0193/0196/0197/0199 themselves) — all fixed by
+rewording the later-appearing line with concrete scene-specific detail,
+then the whole-book check was rerun clean (0 cross-lesson duplicates).
+The 5 lessons whose lines were touched (0192, 0193, 0196, 0197, 0199)
+were re-verified with `render_check.py` and still pass at 5 real
+English-only pages each. Current cumulative state: Lessons 0001-0199,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0199.docx`
+(supersedes the 0001-0189 file), 272,969 total English learning words,
+995 total English-only A4 pages (199 lessons × 5 pages each, all
+real-rendered and verified), 1,033 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0199 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -280,15 +300,26 @@ IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson order
   where a family member is, asking what something is, and a change or
   choice involving shopping & payments / clothing & personal items /
   neighbourhood & directions.
-  Next block: **0190-0199**, to start only after the user responds
+  **BLOCK 0190-0199 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents (5 lessons each), each at ~42 scenes / 126
+  turns from the first draft; 12 cross-lesson duplicate collisions
+  surfaced by the mandatory whole-book check afterward and all fixed by
+  rewording, then reverified clean). This block continued the "a change
+  or choice involving X" wave across Lessons 0190-0198 (public
+  transport, taxi & ride services, walking & getting around, weather &
+  daily plans, daily routines, school & learning, workplace
+  communication, phone calls, messages & everyday digital
+  communication) and closed with Lesson 0199 (Personal Identity — your
+  phone number).
+  Next block: **0200-0209**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0189** (secondary character Ms Eugenia).
-  Domain "Neighbourhood", scenario "a change or choice involving
-  neighbourhood & directions". Confirmed zero duplicate lines against
-  the whole book, 0001-0189, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0190** (A0/Pre-A1 — check the master
-  workbook row 191 for exact domain/scenario/title before writing;
+- **Last completed lesson: 0199** (secondary character Ms Wilfreda).
+  Domain "Personal Identity", scenario "your phone number". Confirmed
+  zero duplicate lines against the whole book, 0001-0199, and 5 real
+  English-only pages.
+- **Next lesson to write on NEXT: 0200** (A0/Pre-A1 — check the master
+  workbook row 201 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -316,8 +347,9 @@ IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson order
   Cecily, Lucian, Miranda, Bertrand, Florentine, Emrys, Hepzibah,
   Valentine, Temperance, Crispin, Honoria, Sebastian, Euphemia, Reuben,
   Cyrus, Ottoline, Frederick, Constance, Algernon, Josephine, Benedict,
-  Clarabelle, Zachary, Eugenia.
-  Pick a fresh name for Lesson 0190's secondary character and note the
+  Clarabelle, Zachary, Eugenia, Caspian, Griselda, Mordecai, Petronella,
+  Balthazar, Ottilie, Sylvanus, Persephone, Theodoric, Wilfreda.
+  Pick a fresh name for Lesson 0200's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used

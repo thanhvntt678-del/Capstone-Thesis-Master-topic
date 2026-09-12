@@ -62,15 +62,15 @@ LESSON_0199 = {
         # 1 clinic registration form
         ("Ms Wilfreda", "Excuse me, could you give me your phone number for this form?", "Xin lỗi, chị cho tôi biết số điện thoại để ghi vào mẫu đơn này được không?"),
         ("Ms Lan", "Yes, it is 010-4821-6653.", "Được, số của tôi là 010-4821-6653."),
-        ("Ms Wilfreda", "Thank you, I will write that down now.", "Cảm ơn chị, tôi ghi vào ngay."),
+        ("Ms Wilfreda", "Thank you, that number is on the form now.", "Cảm ơn chị, số đó đã được ghi vào mẫu đơn rồi."),
         # 2 new gym membership
         ("Ms Lan", "Could you give me your phone number for this gym membership form?", "Chị cho tôi biết số điện thoại để ghi vào đơn đăng ký gym này được không?"),
         ("Ms Wilfreda", "Yes, my number is 010-9927-4415.", "Được, số của tôi là 010-9927-4415."),
-        ("Ms Lan", "Good, that is all I need for now.", "Tốt, vậy là đủ thông tin cần rồi."),
+        ("Ms Lan", "Good, your membership form is complete now.", "Tốt, vậy là đơn đăng ký gym của chị xong rồi."),
         # 3 library card application
         ("Ms Wilfreda", "Could you give me your phone number for this library card application?", "Chị cho tôi biết số điện thoại để làm thẻ thư viện này được không?"),
         ("Ms Lan", "Yes, it is 093-114-7726.", "Được, số của tôi là 093-114-7726."),
-        ("Ms Wilfreda", "Great, your card will be ready shortly.", "Tuyệt, thẻ của chị sẽ có ngay thôi."),
+        ("Ms Wilfreda", "Great, we will text that number once your card arrives.", "Tuyệt, khi thẻ có, chúng tôi sẽ nhắn tin đến số đó."),
         # 4 asking a delivery driver for a contact number
         ("Ms Lan", "Could you give me a number in case I need to reach you about the delivery?", "Anh cho tôi xin số điện thoại phòng khi tôi cần liên hệ về đơn hàng được không?"),
         ("Ms Wilfreda", "Sure, you can reach me at 0967-332-108.", "Được, chị có thể gọi tôi qua số 0967-332-108."),
@@ -78,7 +78,7 @@ LESSON_0199 = {
         # 5 job application form
         ("Ms Wilfreda", "Could you confirm your phone number for this job application?", "Chị xác nhận giúp số điện thoại cho đơn xin việc này được không?"),
         ("Ms Lan", "Yes, my number is 077-238-9910.", "Được, số của tôi là 077-238-9910."),
-        ("Ms Wilfreda", "Good, I will note that on your file.", "Tốt, tôi ghi vào hồ sơ ngay."),
+        ("Ms Wilfreda", "Good, the hiring team can reach you at that number now.", "Tốt, giờ nhóm tuyển dụng có thể liên hệ chị qua số đó."),
         # 6 asking a neighbour for their phone number
         ("Ms Lan", "Could I get your phone number? It would help for emergencies.", "Tôi xin số điện thoại của chị được không? Việc này hữu ích khi có việc khẩn cấp."),
         ("Ms Wilfreda", "Of course, my number is 0912-887-034.", "Được chứ, số của tôi là 0912-887-034."),
@@ -138,7 +138,7 @@ LESSON_0199 = {
         # 20 asking a new colleague for her phone number
         ("Ms Lan", "Could I have your phone number in case we need to coordinate on the project?", "Tôi xin số điện thoại của chị phòng khi cần phối hợp dự án được không?"),
         ("Ms Wilfreda", "Sure, my number is 057-224-8810.", "Được, số của tôi là 057-224-8810."),
-        ("Ms Lan", "Thank you, I will save it right now.", "Cảm ơn chị, tôi sẽ lưu ngay bây giờ."),
+        ("Ms Lan", "Thank you, that will make coordinating much easier.", "Cảm ơn chị, vậy phối hợp sẽ dễ dàng hơn nhiều."),
         # 21 raffle entry
         ("Ms Wilfreda", "Could you give me your phone number for this raffle entry?", "Chị cho tôi biết số điện thoại để tham gia bốc thăm trúng thưởng được không?"),
         ("Ms Lan", "Yes, it is 0912-345-678.", "Được, số của tôi là 0912-345-678."),

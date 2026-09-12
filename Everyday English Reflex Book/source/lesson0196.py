@@ -129,7 +129,7 @@ LESSON_0196 = {
         # 21 changing a client update schedule
         ("Ms Lan", "Actually, could we send the client an update every Monday instead of every Friday?", "Thật ra, mình gửi cập nhật cho khách hàng vào thứ Hai thay vì thứ Sáu được không?"),
         ("Mr Sylvanus", "Yes, Monday lets them plan their week better.", "Được, thứ Hai giúp khách hàng sắp xếp tuần làm việc tốt hơn."),
-        ("Ms Lan", "Good, I will set a reminder for that.", "Tốt, tôi sẽ đặt nhắc nhở cho việc đó."),
+        ("Ms Lan", "Good, Monday it is from now on.", "Tốt, từ giờ cứ thứ Hai mà làm."),
         # 22 changing a voicemail message
         ("Mr Sylvanus", "Actually, could we update the voicemail message with the new office hours?", "Thật ra, mình cập nhật lời nhắn hộp thư thoại với giờ làm việc mới được không?"),
         ("Ms Lan", "Yes, callers really should know the new hours.", "Được, người gọi nên biết giờ làm việc mới."),

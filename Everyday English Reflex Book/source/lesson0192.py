@@ -128,8 +128,8 @@ LESSON_0192 = {
         ("Mr Mordecai", "Yes, that will help us see the way clearly.", "Được, vậy sẽ giúp mình nhìn rõ đường hơn."),
         ("Ms Lan", "Good, that will make the path much clearer.", "Tốt, vậy con đường sẽ rõ hơn nhiều."),
         # 20 changing to a well-lit street at night
-        ("Mr Mordecai", "Actually, could we take the well-lit street instead of the shortcut tonight?", "Thật ra, tối nay mình đi đường sáng đèn thay vì đường tắt được không?"),
-        ("Ms Lan", "Yes, that feels much safer after dark.", "Được, sau khi trời tối đi vậy an toàn hơn."),
+        ("Mr Mordecai", "Actually, could we walk down Elm Avenue instead of the dark alley tonight?", "Thật ra, tối nay mình đi đại lộ Elm thay vì con hẻm tối được không?"),
+        ("Ms Lan", "Yes, Elm Avenue has streetlights the whole way.", "Được, đại lộ Elm có đèn đường suốt tuyến."),
         ("Mr Mordecai", "Good, let us take the safer street then.", "Tốt, vậy mình đi đường an toàn hơn nhé."),
         # 21 changing pace to match a friend
         ("Ms Lan", "Actually, could we walk a bit faster? I would like to match your pace.", "Thật ra, mình đi nhanh hơn một chút được không? Tôi muốn theo kịp nhịp của anh."),
@@ -138,7 +138,7 @@ LESSON_0192 = {
         # 22 changing to rest at a café
         ("Mr Mordecai", "Actually, could we stop at that café and rest for a while?", "Thật ra, mình ghé quán cà phê kia nghỉ một lát được không?"),
         ("Ms Lan", "Yes, a short break sounds lovely right now.", "Được, nghỉ một chút nghe dễ chịu quá."),
-        ("Mr Mordecai", "Great, let us stop there then.", "Tuyệt, vậy mình ghé đó nhé."),
+        ("Mr Mordecai", "Great, a coffee sounds perfect right about now.", "Tuyệt, giờ này uống cà phê thì hợp quá."),
         # 23 changing to a rain jacket instead of an umbrella
         ("Ms Lan", "Actually, could we bring a rain jacket instead of an umbrella today?", "Thật ra, hôm nay mình mặc áo mưa thay vì mang dù được không?"),
         ("Mr Mordecai", "Yes, that leaves our hands free for walking.", "Được, vậy tay mình rảnh hơn để đi bộ."),
