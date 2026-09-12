@@ -64,7 +64,7 @@ LESSON_0200 = {
         # 2 stranger about a dropped glove
         ("Mr Ptolemy", "Sorry to bother you, I think you just dropped your glove.", "Xin lỗi làm phiền chị, hình như chị vừa làm rơi găng tay."),
         ("Ms Lan", "Oh, thank you so much for noticing that.", "Ôi, cảm ơn anh nhiều vì đã để ý."),
-        ("Mr Ptolemy", "No problem at all, have a good day.", "Không sao đâu, chúc chị ngày tốt lành."),
+        ("Mr Ptolemy", "Not at all, take care out there.", "Không sao đâu, chị cẩn thận nhé."),
         # 3 colleague across a busy office
         ("Ms Lan", "Excuse me, could I have a quick word about the report?", "Xin lỗi, tôi trao đổi nhanh với anh về bản báo cáo được không?"),
         ("Mr Ptolemy", "Sure, come on over, I have a moment now.", "Được, chị qua đây, tôi rảnh chút rồi."),
@@ -104,7 +104,7 @@ LESSON_0200 = {
         # 12 cashier about a long queue
         ("Mr Ptolemy", "Excuse me, is there another register open? The queue is long.", "Xin lỗi, còn quầy nào khác mở không ạ? Hàng dài quá."),
         ("Ms Lan", "Yes, register three just opened up.", "Có, quầy số ba vừa mở đấy ạ."),
-        ("Mr Ptolemy", "Thank you, I will head over there.", "Cảm ơn chị, tôi sẽ qua đó."),
+        ("Mr Ptolemy", "Thank you, I will go to register three.", "Cảm ơn chị, tôi sẽ qua quầy số ba."),
         # 13 jogger about a lost dog
         ("Ms Lan", "Excuse me, have you seen a small brown dog around here?", "Xin lỗi anh, anh có thấy một con chó nhỏ màu nâu quanh đây không?"),
         ("Mr Ptolemy", "Yes, I saw one near the park entrance.", "Có, tôi thấy một con gần cổng công viên."),
@@ -120,7 +120,7 @@ LESSON_0200 = {
         # 16 security guard about an exit
         ("Mr Ptolemy", "Excuse me, could you show me the nearest exit?", "Xin lỗi, chị chỉ giúp tôi lối thoát gần nhất được không?"),
         ("Ms Lan", "Yes, it is right past those double doors.", "Được, nó ngay sau hai cánh cửa kia."),
-        ("Mr Ptolemy", "Thank you, that is very helpful.", "Cảm ơn chị, hữu ích quá."),
+        ("Mr Ptolemy", "Thank you, now I know exactly where to go.", "Cảm ơn chị, giờ tôi biết chính xác đường đi rồi."),
         # 17 cyclist about a flat tyre
         ("Ms Lan", "Excuse me, is your bicycle tyre flat? I noticed it looks low.", "Xin lỗi anh, bánh xe đạp của anh xẹp rồi à? Tôi thấy nó có vẻ non hơi."),
         ("Mr Ptolemy", "Oh, yes, I did not notice, thank you for telling me.", "Ôi, đúng vậy, tôi không để ý, cảm ơn chị đã nói."),
@@ -128,7 +128,7 @@ LESSON_0200 = {
         # 18 parent at a school gate
         ("Mr Ptolemy", "Excuse me, could you tell me when the school gate opens?", "Xin lỗi chị, cổng trường mở lúc mấy giờ vậy?"),
         ("Ms Lan", "Yes, it opens at half past seven every morning.", "Được, nó mở lúc bảy giờ rưỡi mỗi sáng."),
-        ("Mr Ptolemy", "Thank you, that is good to know.", "Cảm ơn chị, biết vậy tốt quá."),
+        ("Mr Ptolemy", "Thank you, I will remember that for tomorrow.", "Cảm ơn chị, mai tôi sẽ nhớ điều đó."),
         # 19 shop assistant about a fitting room
         ("Ms Lan", "Excuse me, could you show me where the fitting rooms are?", "Xin lỗi anh, phòng thử đồ ở đâu vậy ạ?"),
         ("Mr Ptolemy", "Yes, they are just behind that curtain.", "Được, chúng ở ngay sau tấm rèm đó."),
@@ -136,7 +136,7 @@ LESSON_0200 = {
         # 20 train conductor about a ticket
         ("Mr Ptolemy", "Excuse me, could you check if this ticket is still valid?", "Xin lỗi chị, kiểm tra giúp tấm vé này còn hạn không được không?"),
         ("Ms Lan", "Yes, it is valid until the end of the month.", "Được, nó còn hạn đến cuối tháng."),
-        ("Mr Ptolemy", "Perfect, thank you for checking.", "Tuyệt, cảm ơn chị đã kiểm tra."),
+        ("Mr Ptolemy", "Perfect, that saves me from buying a new one.", "Tuyệt, vậy tôi khỏi phải mua vé mới."),
         # 21 nurse in a waiting room
         ("Ms Lan", "Excuse me, could you tell me how long the wait might be?", "Xin lỗi, chị cho tôi biết còn phải đợi bao lâu không ạ?"),
         ("Mr Ptolemy", "Yes, it should be about twenty minutes.", "Được, khoảng hai mươi phút nữa thôi."),
@@ -176,7 +176,7 @@ LESSON_0200 = {
         # 30 mechanic about a strange noise
         ("Mr Ptolemy", "Excuse me, could you listen to this strange noise from my car?", "Xin lỗi chị, nghe giúp tiếng động lạ từ xe tôi được không?"),
         ("Ms Lan", "Yes, let me start the engine and listen closely.", "Được, để tôi khởi động máy rồi nghe kỹ."),
-        ("Mr Ptolemy", "Thank you, I really appreciate the help.", "Cảm ơn chị, tôi rất cảm kích."),
+        ("Mr Ptolemy", "Thank you, I feel much better about the car now.", "Cảm ơn chị, giờ tôi yên tâm hơn về xe rồi."),
         # 31 hairdresser about an appointment
         ("Ms Lan", "Excuse me, could you check if I have an appointment today?", "Xin lỗi anh, kiểm tra giúp hôm nay tôi có lịch hẹn không?"),
         ("Mr Ptolemy", "Yes, you are booked for two o'clock.", "Có, chị có lịch lúc hai giờ."),
@@ -188,11 +188,11 @@ LESSON_0200 = {
         # 33 fellow passenger on a train
         ("Ms Lan", "Excuse me, is this seat next to you taken?", "Xin lỗi anh, chỗ ngồi cạnh anh có ai chưa vậy?"),
         ("Mr Ptolemy", "No, please, feel free to sit down.", "Không, chị cứ ngồi đi."),
-        ("Ms Lan", "Thank you, that is very kind of you.", "Cảm ơn anh, anh tốt bụng quá."),
+        ("Ms Lan", "Thank you, I did not want to stand the whole way.", "Cảm ơn anh, tôi không muốn đứng suốt chuyến."),
         # 34 flight attendant about a blanket
         ("Mr Ptolemy", "Excuse me, could I have a blanket? It feels cold in here.", "Xin lỗi chị, cho tôi xin cái chăn được không? Ở đây hơi lạnh."),
         ("Ms Lan", "Yes, of course, I will bring one right over.", "Được chứ, tôi mang đến ngay."),
-        ("Mr Ptolemy", "Thank you, that is much better now.", "Cảm ơn chị, giờ ấm hơn nhiều rồi."),
+        ("Mr Ptolemy", "Thank you, this blanket is perfectly warm.", "Cảm ơn chị, cái chăn này ấm vừa đủ."),
         # 35 stranger about a fallen wallet
         ("Ms Lan", "Excuse me, I think you just dropped your wallet.", "Xin lỗi anh, hình như anh vừa làm rơi ví."),
         ("Mr Ptolemy", "Oh no, thank you for catching that.", "Ôi, cảm ơn chị đã để ý."),
@@ -208,11 +208,11 @@ LESSON_0200 = {
         # 38 neighbour about a loud noise
         ("Mr Ptolemy", "Excuse me, could I ask you to lower the music a little?", "Xin lỗi chị, tôi nhờ chị vặn nhỏ nhạc lại một chút được không?"),
         ("Ms Lan", "Yes, of course, I am sorry about that.", "Được chứ, xin lỗi anh về việc đó."),
-        ("Mr Ptolemy", "Thank you, I really appreciate it.", "Cảm ơn chị, tôi rất biết ơn."),
+        ("Mr Ptolemy", "Thank you, I know it was getting quite late.", "Cảm ơn chị, tôi biết cũng đã khá khuya rồi."),
         # 39 shopkeeper as the shop is closing
         ("Ms Lan", "Excuse me, do I still have time to buy some bread?", "Xin lỗi anh, tôi vẫn còn kịp mua bánh mì không ạ?"),
         ("Mr Ptolemy", "Yes, please come in, we close in ten minutes.", "Được, chị vào đi, mười phút nữa mới đóng cửa."),
-        ("Ms Lan", "Thank you, I will be quick.", "Cảm ơn anh, tôi sẽ nhanh thôi."),
+        ("Ms Lan", "Thank you, I only need one loaf.", "Cảm ơn anh, tôi chỉ cần một ổ thôi."),
         # 40 friend across a crowded room
         ("Mr Ptolemy", "Excuse me, could you wave so your friend can see you over here?", "Xin lỗi chị, vẫy tay để bạn chị thấy chị ở đây được không?"),
         ("Ms Lan", "Good idea, there, she noticed me now.", "Ý hay đấy, đây, cô ấy thấy tôi rồi."),

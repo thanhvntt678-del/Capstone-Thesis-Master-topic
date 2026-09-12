@@ -36,7 +36,7 @@ from lesson_builder import (
 )
 from build_combined import load_lesson0001_as_dict, cross_lesson_duplicate_check
 
-LAST_LESSON = 199  # bump this each time the cumulative book grows
+LAST_LESSON = 209  # bump this each time the cumulative book grows
 
 
 def load_lesson(n):

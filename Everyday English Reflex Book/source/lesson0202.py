@@ -122,7 +122,7 @@ LESSON_0202 = {
         # 20 turning on the porch light at dusk
         ("Mr Lysander", "Could you turn on the porch light? Dusk is falling quickly.", "Chị bật đèn hiên được không? Trời đang chạng vạng nhanh lắm."),
         ("Ms Lan", "Yes, I will turn it on now.", "Được, tôi bật ngay bây giờ."),
-        ("Mr Lysander", "Thank you, that will help guests find the door.", "Cảm ơn chị, vậy khách sẽ dễ tìm thấy cửa hơn."),
+        ("Mr Lysander", "Thank you, no one will trip on the step now.", "Cảm ơn chị, giờ sẽ không ai bị vấp bậc cửa nữa."),
         # 21 feeding the fish before dinner
         ("Ms Lan", "Could you feed the fish before we sit down for dinner?", "Anh cho cá ăn trước khi mình ngồi vào bàn ăn tối được không?"),
         ("Mr Lysander", "Yes, I will feed them right now.", "Được, tôi cho ăn ngay bây giờ."),

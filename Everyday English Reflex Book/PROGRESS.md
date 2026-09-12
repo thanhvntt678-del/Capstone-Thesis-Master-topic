@@ -109,6 +109,43 @@ real-rendered and verified), 1,033 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0199 verified).
 
+**Master book updated after Block 0200-0209:** written via two parallel
+background agents (5 lessons each, 0200-0204 using several new "simple
+single everyday scenario" patterns — getting someone's attention
+politely, the current time, a household instruction, a family plan, a
+meal choice — and 0205-0209 introducing a new "a misunderstanding or
+problem involving X" scenario family for Shopping, Clothing,
+Neighbourhood, and both Transport lessons). The "misunderstanding or
+problem" pattern's naturally small pool of plausible closing phrases
+("Thank you, that is sorted now.", "Perfect, that makes sense now.",
+etc.) caused heavy repetition once 5 sibling lessons used it in
+parallel: the mandatory whole-book cross-lesson duplicate check found
+98 collisions after both agents completed (mostly among
+0205/0206/0207/0208/0209 themselves, plus a few against 0026, 0069,
+0094, 0095, 0116, 0150, 0172, and other earlier lessons). All 98 were
+fixed by keeping each line in its earliest-appearing lesson and
+rewording every later occurrence with concrete scene-specific detail; a
+rerun surfaced 5 further collisions caused by the fix pass itself
+(including one fresh collision against Lesson 0099), which were fixed
+and reverified clean (0 cross-lesson duplicates across the full
+209-lesson book). Every lesson whose lines were touched was
+re-confirmed with `render_check.py` at 5 real English-only pages.
+**Lesson learned (new standing rule):** when several sibling lessons in
+one block share a narrow scenario pattern (like "sorting out a small
+problem"), the pool of natural short closing phrases is limited enough
+that parallel agents will collide heavily even while each writes
+cleanly in isolation — expect a larger cleanup pass after these blocks,
+budget time for it, and always re-run the whole-book check a second
+time after any fix pass before rebuilding the master book. Current
+cumulative state: Lessons 0001-0209,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0209.docx`
+(supersedes the 0001-0199 file), 289,408 total English learning words,
+1,045 total English-only A4 pages (209 lessons × 5 pages each, all
+real-rendered and verified), 1,092 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0209 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -311,15 +348,29 @@ blank pages, lesson order 0001→0199 verified).
   communication, phone calls, messages & everyday digital
   communication) and closed with Lesson 0199 (Personal Identity — your
   phone number).
-  Next block: **0200-0209**, to start only after the user responds
+  **BLOCK 0200-0209 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents (5 lessons each); 98 cross-lesson
+  duplicate collisions surfaced by the mandatory whole-book check
+  afterward — mostly from the new "misunderstanding or problem" pattern
+  sharing a small pool of natural closing phrases across its 5 sibling
+  lessons — all fixed by rewording, a second check found 5 more
+  collisions from the fix pass itself, and a third check confirmed 0
+  remaining). Lessons 0200-0204 used several new "simple single
+  everyday scenario" patterns (getting someone's attention politely,
+  the current time, a household instruction, a family plan, a meal
+  choice); Lessons 0205-0209 introduced the "a misunderstanding or
+  problem involving X" pattern for shopping & payments, clothing &
+  personal items, neighbourhood & directions, public transport, and
+  taxi & ride services.
+  Next block: **0210-0219**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0199** (secondary character Ms Wilfreda).
-  Domain "Personal Identity", scenario "your phone number". Confirmed
-  zero duplicate lines against the whole book, 0001-0199, and 5 real
-  English-only pages.
-- **Next lesson to write on NEXT: 0200** (A0/Pre-A1 — check the master
-  workbook row 201 for exact domain/scenario/title before writing;
+- **Last completed lesson: 0209** (secondary character Ms Eldreda).
+  Domain "Transport", scenario "a misunderstanding or problem involving
+  taxi & ride services". Confirmed zero duplicate lines against the
+  whole book, 0001-0209, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0210** (A0/Pre-A1 — check the master
+  workbook row 211 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -348,8 +399,10 @@ blank pages, lesson order 0001→0199 verified).
   Valentine, Temperance, Crispin, Honoria, Sebastian, Euphemia, Reuben,
   Cyrus, Ottoline, Frederick, Constance, Algernon, Josephine, Benedict,
   Clarabelle, Zachary, Eugenia, Caspian, Griselda, Mordecai, Petronella,
-  Balthazar, Ottilie, Sylvanus, Persephone, Theodoric, Wilfreda.
-  Pick a fresh name for Lesson 0200's secondary character and note the
+  Balthazar, Ottilie, Sylvanus, Persephone, Theodoric, Wilfreda,
+  Ptolemy, Marigold, Lysander, Hortensia, Orsino, Perdita, Caradoc,
+  Tamsin, Osric, Eldreda.
+  Pick a fresh name for Lesson 0210's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used

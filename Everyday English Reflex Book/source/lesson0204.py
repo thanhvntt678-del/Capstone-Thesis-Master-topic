@@ -201,7 +201,7 @@ LESSON_0204 = {
         # 38 spaghetti or fried rice for dinner
         ("Mr Orsino", "Would you like spaghetti or fried rice for dinner tonight?", "Tối nay chị muốn ăn mì Ý hay cơm chiên?"),
         ("Ms Lan", "I will have spaghetti, please, I have not had pasta in a while.", "Cho tôi mì Ý nhé, lâu rồi tôi chưa ăn mì Ý."),
-        ("Mr Orsino", "Good, I will boil the water now.", "Được, tôi sẽ đun nước ngay."),
+        ("Mr Orsino", "Good, the sauce is already simmering too.", "Được, nước sốt cũng đang sôi rồi."),
         # 39 an omelette or scrambled eggs
         ("Ms Lan", "Would you like an omelette or scrambled eggs this morning?", "Sáng nay anh muốn ăn trứng ốp la hay trứng bác?"),
         ("Mr Orsino", "I will have an omelette, please, add some cheese if you can.", "Cho tôi trứng ốp la nhé, cho thêm phô mai nếu được."),

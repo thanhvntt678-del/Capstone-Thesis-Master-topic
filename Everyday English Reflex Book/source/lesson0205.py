@@ -58,7 +58,7 @@ LESSON_0205 = {
     'turns': [
         # 1
         ("Ms Lan", "Excuse me, this receipt shows two coffees, but I only ordered one.", "Xin lỗi, hóa đơn này ghi hai ly cà phê, nhưng tôi chỉ gọi một ly thôi."),
-        ("Ms Perdita", "Let me check the till — you are right, I will remove the extra coffee.", "Để tôi kiểm tra máy tính tiền — đúng vậy, tôi sẽ xóa ly cà phê dư đó."),
+        ("Ms Perdita", "Let me check — you are right, I will remove it.", "Để tôi kiểm tra máy tính tiền — đúng vậy, tôi sẽ xóa ly cà phê dư đó."),
         ("Ms Lan", "Thank you, that is sorted now.", "Cảm ơn chị, vậy là ổn rồi."),
         # 2
         ("Ms Perdita", "Wait, I think I gave you a medium coffee instead of a small one.", "Khoan đã, hình như tôi đưa nhầm ly cà phê cỡ vừa thay vì cỡ nhỏ."),
@@ -82,19 +82,19 @@ LESSON_0205 = {
         ("Ms Perdita", "All fixed now, I will refund the two-dollar difference.", "Xong rồi đó, tôi sẽ hoàn lại hai đô chênh lệch cho chị."),
         # 7
         ("Ms Lan", "Excuse me, I ordered a blue candle, but this box has a red one.", "Xin lỗi, tôi đặt cây nến màu xanh, nhưng hộp này lại có cây màu đỏ."),
-        ("Ms Perdita", "Let me check the shelf — I will swap it for the blue one now.", "Để tôi kiểm tra trên kệ — tôi sẽ đổi lại cây màu xanh ngay."),
-        ("Ms Lan", "That is much clearer now, thank you.", "Giờ đã rõ ràng hơn nhiều, cảm ơn chị."),
+        ("Ms Perdita", "Let me check — I will swap it for the blue one now.", "Để tôi kiểm tra trên kệ — tôi sẽ đổi lại cây màu xanh ngay."),
+        ("Ms Lan", "Perfect, that is exactly the colour I wanted.", "Tuyệt, đúng màu tôi muốn rồi."),
         # 8
         ("Ms Perdita", "Excuse me, the scale counted five apples, though you only picked three.", "Xin lỗi chị, cân đã đếm năm quả táo, dù chị chỉ chọn ba quả thôi."),
         ("Ms Lan", "Let me check my bag — yes, there are only three here.", "Để tôi kiểm tra túi — đúng vậy, ở đây chỉ có ba quả thôi."),
         ("Ms Perdita", "Thank you for confirming, I will correct the bill right away.", "Cảm ơn chị đã xác nhận, tôi sẽ sửa lại hóa đơn ngay."),
         # 9
         ("Ms Lan", "Sorry, my coupon for free bread did not come off the total.", "Xin lỗi, phiếu giảm giá bánh mì miễn phí của tôi không được trừ vào tổng."),
-        ("Ms Perdita", "Let me check the coupon — sorry, I will scan it properly this time.", "Để tôi kiểm tra phiếu — tôi xin lỗi, lần này tôi sẽ quét lại cho đúng."),
+        ("Ms Perdita", "Let me check — sorry, I will scan it properly this time.", "Để tôi kiểm tra phiếu — tôi xin lỗi, lần này tôi sẽ quét lại cho đúng."),
         ("Ms Lan", "Good, I am glad we caught that in time.", "Tốt, tôi mừng là mình phát hiện kịp lúc."),
         # 10
         ("Ms Lan", "Excuse me, I ordered the small detergent bottle, not the large one.", "Xin lỗi, tôi đặt chai nước giặt cỡ nhỏ, không phải cỡ lớn."),
-        ("Ms Perdita", "Let me check the shelf — I will bring the small bottle now.", "Để tôi kiểm tra trên kệ — tôi sẽ lấy chai cỡ nhỏ cho chị ngay."),
+        ("Ms Perdita", "Let me check — I will bring the small bottle now.", "Để tôi kiểm tra trên kệ — tôi sẽ lấy chai cỡ nhỏ cho chị ngay."),
         ("Ms Lan", "Ah, that explains it, thank you for checking.", "À, vậy là rõ rồi, cảm ơn chị đã kiểm tra."),
         # 11
         ("Ms Lan", "Excuse me, this umbrella is charged twice on my receipt.", "Xin lỗi, cây dù này bị tính tiền hai lần trên hóa đơn."),
@@ -106,15 +106,15 @@ LESSON_0205 = {
         ("Ms Perdita", "All set now, here is your correct store credit.", "Xong rồi đó, đây là số dư đúng của chị."),
         # 13
         ("Ms Lan", "Excuse me, I chose strawberry yogurt, but this cup is plain.", "Xin lỗi, tôi chọn sữa chua vị dâu, nhưng hộp này lại là vị nguyên chất."),
-        ("Ms Perdita", "Let me check the fridge — I will swap it for strawberry now.", "Để tôi kiểm tra tủ lạnh — tôi sẽ đổi lại vị dâu cho chị ngay."),
+        ("Ms Perdita", "Let me check — I will swap it for strawberry now.", "Để tôi kiểm tra tủ lạnh — tôi sẽ đổi lại vị dâu cho chị ngay."),
         ("Ms Lan", "Excellent, thank you for taking care of it.", "Tuyệt vời, cảm ơn chị đã lo liệu chuyện này."),
         # 14
         ("Ms Perdita", "Wait, I think I forgot to scan your reusable bag discount.", "Khoan đã, hình như tôi quên quét giảm giá túi tái sử dụng của chị."),
-        ("Ms Lan", "Let me check the receipt — yes, that discount line is missing.", "Để tôi kiểm tra hóa đơn — đúng vậy, thiếu dòng giảm giá đó."),
+        ("Ms Lan", "Let me check — yes, that discount line is missing.", "Để tôi kiểm tra hóa đơn — đúng vậy, thiếu dòng giảm giá đó."),
         ("Ms Perdita", "Thank you, that solves the whole problem, I will add it back.", "Cảm ơn chị, vậy là xong hết rồi, tôi sẽ cộng lại cho chị."),
         # 15
         ("Ms Lan", "Sorry, this banana weight looks much higher than what I picked.", "Xin lỗi, cân chuối này có vẻ nặng hơn nhiều so với số tôi chọn."),
-        ("Ms Perdita", "Let me check the scale — sorry, I will weigh them again.", "Để tôi kiểm tra cân — tôi xin lỗi, tôi sẽ cân lại cho chị."),
+        ("Ms Perdita", "Let me check — sorry, I will weigh them again.", "Để tôi kiểm tra cân — tôi xin lỗi, tôi sẽ cân lại cho chị."),
         ("Ms Lan", "Good to know, thank you for the correction.", "Tốt quá, cảm ơn chị đã sửa lại."),
         # 16
         ("Ms Lan", "Excuse me, this wrapped present has no gift receipt inside.", "Xin lỗi, gói quà này không có phiếu quà tặng bên trong."),
@@ -134,19 +134,19 @@ LESSON_0205 = {
         ("Ms Perdita", "Thanks so much for noticing, let me find your correct bag.", "Cảm ơn chị rất nhiều vì đã để ý, để tôi tìm lại đúng túi cho chị."),
         # 20
         ("Ms Lan", "Excuse me, this notebook rang up higher than the price on the shelf.", "Xin lỗi, cuốn sổ tay này bị tính giá cao hơn giá trên kệ."),
-        ("Ms Perdita", "Let me check the sticker — you are right, I will correct the price.", "Để tôi kiểm tra nhãn — đúng vậy, tôi sẽ sửa lại giá ngay."),
+        ("Ms Perdita", "Let me check — you are right, I will correct the price.", "Để tôi kiểm tra nhãn — đúng vậy, tôi sẽ sửa lại giá ngay."),
         ("Ms Lan", "Thank you, that is all fixed now.", "Cảm ơn chị, giờ đã sửa xong hết rồi."),
         # 21
         ("Ms Lan", "Excuse me, I chose the unscented soap, but this one smells like lavender.", "Xin lỗi, tôi chọn xà phòng không mùi, nhưng cái này lại có mùi oải hương."),
-        ("Ms Perdita", "Let me check the shelf — I will bring you the unscented one.", "Để tôi kiểm tra trên kệ — tôi sẽ lấy cái không mùi cho chị."),
+        ("Ms Perdita", "Let me check — I will bring you the unscented one.", "Để tôi kiểm tra trên kệ — tôi sẽ lấy cái không mùi cho chị."),
         ("Ms Lan", "Wonderful, thank you for putting that right.", "Tuyệt quá, cảm ơn chị đã sửa lại cho đúng."),
         # 22
         ("Ms Perdita", "Excuse me, this sale item was charged at full price by mistake.", "Xin lỗi chị, món hàng giảm giá này bị tính nhầm giá gốc."),
-        ("Ms Lan", "Let me check the sign — yes, it says twenty percent off today.", "Để tôi xem bảng thông báo — đúng vậy, có ghi giảm hai mươi phần trăm hôm nay."),
+        ("Ms Lan", "Let me check — yes, it says twenty percent off today.", "Để tôi xem bảng thông báo — đúng vậy, có ghi giảm hai mươi phần trăm hôm nay."),
         ("Ms Perdita", "That is a relief, I will apply the discount right now.", "Nhẹ cả người, tôi sẽ áp dụng giảm giá ngay bây giờ."),
         # 23
         ("Ms Lan", "Excuse me, my online order should have batteries, but this bag has none.", "Xin lỗi, đơn hàng online của tôi phải có pin, nhưng túi này không có."),
-        ("Ms Perdita", "Let me check the list — sorry, I will get them from the shelf.", "Để tôi kiểm tra danh sách — tôi xin lỗi, tôi sẽ lấy pin từ kệ ngay."),
+        ("Ms Perdita", "Let me check — sorry, I will get them from the shelf.", "Để tôi kiểm tra danh sách — tôi xin lỗi, tôi sẽ lấy pin từ kệ ngay."),
         ("Ms Lan", "Thank you, I am glad it is sorted.", "Cảm ơn chị, tôi mừng là đã giải quyết xong."),
         # 24
         ("Ms Lan", "Sorry, this box says black tea, but the bags inside look green.", "Xin lỗi, hộp này ghi trà đen, nhưng túi trà bên trong lại có màu xanh."),
@@ -158,11 +158,11 @@ LESSON_0205 = {
         ("Ms Perdita", "Thank you for looking, I will cancel the second charge now.", "Cảm ơn chị đã kiểm tra, tôi sẽ hủy khoản tính tiền thứ hai ngay."),
         # 26
         ("Ms Lan", "Excuse me, I ordered a medium flower pot, but this one is small.", "Xin lỗi, tôi đặt chậu hoa cỡ vừa, nhưng cái này lại nhỏ."),
-        ("Ms Perdita", "Let me check the order — I will bring you the medium pot now.", "Để tôi kiểm tra đơn hàng — tôi sẽ lấy chậu cỡ vừa cho chị ngay."),
-        ("Ms Lan", "Thank you, that is much better now.", "Cảm ơn chị, giờ tốt hơn nhiều rồi."),
+        ("Ms Perdita", "Let me check — I will bring you the medium pot now.", "Để tôi kiểm tra đơn hàng — tôi sẽ lấy chậu cỡ vừa cho chị ngay."),
+        ("Ms Lan", "Lovely, this is the size I actually need.", "Tuyệt, đây đúng là cỡ tôi cần."),
         # 27
         ("Ms Lan", "Sorry, the code on this paint can does not match my chosen colour.", "Xin lỗi, mã trên lon sơn này không khớp với màu tôi chọn."),
-        ("Ms Perdita", "Let me check the sample chart — sorry, I will mix the right colour now.", "Để tôi kiểm tra bảng mẫu — tôi xin lỗi, tôi sẽ pha lại đúng màu ngay."),
+        ("Ms Perdita", "Let me check — sorry, I will mix the right colour now.", "Để tôi kiểm tra bảng mẫu — tôi xin lỗi, tôi sẽ pha lại đúng màu ngay."),
         ("Ms Lan", "Ah, I understand now, thank you very much.", "À, giờ tôi hiểu rồi, cảm ơn chị rất nhiều."),
         # 28
         ("Ms Perdita", "Wait, this toy box says batteries included, but I do not feel any.", "Khoan đã, hộp đồ chơi này ghi có kèm pin, nhưng tôi không thấy pin bên trong."),
@@ -170,7 +170,7 @@ LESSON_0205 = {
         ("Ms Perdita", "Thank you for the quick help, let me add two batteries now.", "Cảm ơn chị đã giúp nhanh vậy, để tôi thêm hai viên pin vào ngay."),
         # 29
         ("Ms Lan", "Excuse me, this recipe card does not match the ingredients in the box.", "Xin lỗi, thẻ công thức này không khớp với nguyên liệu trong hộp."),
-        ("Ms Perdita", "Let me check the label — I will swap it for the correct card.", "Để tôi kiểm tra nhãn — tôi sẽ đổi lại thẻ công thức cho đúng."),
+        ("Ms Perdita", "Let me check — I will swap it for the correct card.", "Để tôi kiểm tra nhãn — tôi sẽ đổi lại thẻ công thức cho đúng."),
         ("Ms Lan", "Thank you, that is all correct now.", "Cảm ơn chị, giờ mọi thứ đã đúng rồi."),
         # 30
         ("Ms Perdita", "Excuse me, I told you the wrong return policy earlier, it is thirty days.", "Xin lỗi chị, lúc nãy tôi nói nhầm chính sách đổi trả, phải là ba mươi ngày."),
@@ -178,23 +178,23 @@ LESSON_0205 = {
         ("Ms Perdita", "Thanks for understanding, I will note the correct return date now.", "Cảm ơn chị đã thông cảm, tôi sẽ ghi lại ngày đổi trả đúng ngay."),
         # 31
         ("Ms Perdita", "Excuse me, this item was charged at the old sale price from yesterday.", "Xin lỗi chị, món này bị tính theo giá khuyến mãi cũ từ hôm qua."),
-        ("Ms Lan", "Let me check the receipt — yes, this total looks lower than expected.", "Để tôi kiểm tra hóa đơn — đúng vậy, tổng tiền này thấp hơn dự kiến."),
+        ("Ms Lan", "Let me check — yes, this total looks lower than expected.", "Để tôi kiểm tra hóa đơn — đúng vậy, tổng tiền này thấp hơn dự kiến."),
         ("Ms Perdita", "Thank you, I am very glad that is fixed, let me update the total.", "Cảm ơn chị, tôi rất mừng vì đã sửa được, để tôi cập nhật lại tổng tiền."),
         # 32
         ("Ms Lan", "Sorry, this price tag shows the wrong currency symbol.", "Xin lỗi, nhãn giá này ghi sai ký hiệu tiền tệ."),
         ("Ms Perdita", "Let me check the system — the price is correct in dollars, sorry.", "Để tôi kiểm tra hệ thống — giá đúng là tính theo đô la, tôi xin lỗi."),
-        ("Ms Lan", "Good, that makes it much clearer now.", "Tốt, vậy là rõ ràng hơn nhiều rồi."),
+        ("Ms Lan", "Good, dollars is what I expected anyway.", "Tốt, tôi cũng nghĩ là tính theo đô la mà."),
         # 33
         ("Ms Perdita", "Wait, I think I forgot to stamp your loyalty card today.", "Khoan đã, hình như tôi quên đóng dấu thẻ tích điểm của chị hôm nay."),
-        ("Ms Lan", "Let me check the card — yes, today's box is still empty.", "Để tôi kiểm tra thẻ — đúng vậy, ô hôm nay vẫn còn trống."),
+        ("Ms Lan", "Let me check — yes, today's box is still empty.", "Để tôi kiểm tra thẻ — đúng vậy, ô hôm nay vẫn còn trống."),
         ("Ms Perdita", "Thank you for waiting, let me stamp it for you right now.", "Cảm ơn chị đã chờ, để tôi đóng dấu ngay cho chị."),
         # 34
         ("Ms Lan", "Excuse me, I ordered five kilograms of rice, but this bag is only two.", "Xin lỗi, tôi đặt năm ký gạo, nhưng bao này chỉ có hai ký."),
-        ("Ms Perdita", "Let me check the order — I will bring you the five-kilogram bag.", "Để tôi kiểm tra đơn hàng — tôi sẽ lấy bao năm ký cho chị ngay."),
+        ("Ms Perdita", "Let me check — I will bring you the five-kilogram bag.", "Để tôi kiểm tra đơn hàng — tôi sẽ lấy bao năm ký cho chị ngay."),
         ("Ms Lan", "Excellent, thank you for sorting the weight out.", "Tuyệt vời, cảm ơn chị đã sửa lại trọng lượng cho đúng."),
         # 35
         ("Ms Perdita", "Wait, I think I forgot your regular customer discount just now.", "Khoan đã, hình như tôi vừa quên áp dụng giảm giá khách quen cho chị."),
-        ("Ms Lan", "Let me check the receipt — yes, that discount line is not here.", "Để tôi kiểm tra hóa đơn — đúng vậy, không thấy dòng giảm giá đó."),
+        ("Ms Lan", "Let me check — yes, that discount line is not here.", "Để tôi kiểm tra hóa đơn — đúng vậy, không thấy dòng giảm giá đó."),
         ("Ms Perdita", "Good catch, let me add that discount back to your total now.", "Tốt, để tôi cộng lại giảm giá đó vào tổng tiền của chị ngay."),
         # 36
         ("Ms Perdita", "Wait, I think the printer gave you two receipts for one purchase.", "Khoan đã, hình như máy in đã in ra hai hóa đơn cho chỉ một lần mua."),
@@ -202,15 +202,15 @@ LESSON_0205 = {
         ("Ms Perdita", "Good to know, only one charge went through, so you are all set.", "Tốt quá, chỉ có một khoản tính tiền thôi, nên chị hoàn toàn ổn."),
         # 37
         ("Ms Lan", "Excuse me, this box says unscented, but the candle has a light scent.", "Xin lỗi, hộp này ghi không mùi, nhưng cây nến lại có mùi nhẹ."),
-        ("Ms Perdita", "Let me check the shelf — I will swap it for a truly unscented one.", "Để tôi kiểm tra trên kệ — tôi sẽ đổi cây thật sự không mùi cho chị."),
+        ("Ms Perdita", "Let me check — I will swap it for a truly unscented one.", "Để tôi kiểm tra trên kệ — tôi sẽ đổi cây thật sự không mùi cho chị."),
         ("Ms Lan", "Perfect, thank you for swapping that so quickly.", "Tuyệt vời, cảm ơn chị đã đổi nhanh vậy."),
         # 38
         ("Ms Lan", "Sorry, one of these coins in my change is from another country.", "Xin lỗi, một trong những đồng xu tiền thối này là của nước khác."),
-        ("Ms Perdita", "Let me check the till — I will swap it for the correct coin now.", "Để tôi kiểm tra hộc tiền — tôi sẽ đổi lại đồng xu đúng cho chị ngay."),
+        ("Ms Perdita", "Let me check — I will swap it for the correct coin now.", "Để tôi kiểm tra hộc tiền — tôi sẽ đổi lại đồng xu đúng cho chị ngay."),
         ("Ms Lan", "Thank you, that is settled now.", "Cảm ơn chị, vậy là xong rồi."),
         # 39
         ("Ms Perdita", "Wait, I think a free sample was supposed to come with your purchase.", "Khoan đã, hình như lần mua này của chị được kèm một mẫu dùng thử miễn phí."),
-        ("Ms Lan", "Let me check the bag — yes, there is nothing extra in here.", "Để tôi kiểm tra túi — đúng vậy, không có gì thêm trong này cả."),
+        ("Ms Lan", "Let me check — yes, there is nothing extra in here.", "Để tôi kiểm tra túi — đúng vậy, không có gì thêm trong này cả."),
         ("Ms Perdita", "Sorry about that, let me put the sample in your bag now.", "Tôi xin lỗi, để tôi bỏ mẫu dùng thử vào túi cho chị ngay."),
         # 40
         ("Ms Perdita", "Wait, I think this bread has yesterday's date sticker instead of today's.", "Khoan đã, hình như ổ bánh mì này dán nhãn ngày hôm qua thay vì hôm nay."),
@@ -221,8 +221,8 @@ LESSON_0205 = {
         ("Ms Perdita", "Let me check the screen — you are right, I will remove that charge now.", "Để tôi kiểm tra màn hình — đúng vậy, tôi sẽ xóa khoản tính tiền đó ngay."),
         ("Ms Lan", "Thank you, that mistake is fixed now.", "Cảm ơn chị, lỗi đó đã được sửa rồi."),
         # 42 closing
-        ("Ms Perdita", "Why does being able to sort out a small misunderstanding or problem with shopping and payments matter so much anyway?", "Vậy vì sao có thể giải quyết một hiểu lầm hoặc vấn đề nhỏ về mua sắm và thanh toán lại quan trọng đến thế?"),
-        ("Ms Lan", "It saves us money, keeps trust between customers and shops, and makes everyday shopping much less stressful.", "Nó giúp mình tiết kiệm tiền, giữ được sự tin tưởng giữa khách hàng và cửa hàng, và khiến việc mua sắm hằng ngày bớt căng thẳng hơn nhiều."),
-        ("Ms Perdita", "That is very true, sorting out these small problems quickly really does make shopping feel warm and easy.", "Đúng vậy thật, giải quyết những vấn đề nhỏ này nhanh chóng thật sự khiến việc mua sắm cảm thấy ấm áp và dễ chịu hơn."),
+        ("Ms Perdita", "Why does sorting out a small misunderstanding or problem with shopping and payments matter so much?", "Vậy vì sao có thể giải quyết một hiểu lầm hoặc vấn đề nhỏ về mua sắm và thanh toán lại quan trọng đến thế?"),
+        ("Ms Lan", "It saves us money, keeps trust between customers and shops, and makes shopping much less stressful.", "Nó giúp mình tiết kiệm tiền, giữ được sự tin tưởng giữa khách hàng và cửa hàng, và khiến việc mua sắm hằng ngày bớt căng thẳng hơn nhiều."),
+        ("Ms Perdita", "That is very true, sorting these small problems out really does make shopping feel warm and easy.", "Đúng vậy thật, giải quyết những vấn đề nhỏ này nhanh chóng thật sự khiến việc mua sắm cảm thấy ấm áp và dễ chịu hơn."),
     ],
 }

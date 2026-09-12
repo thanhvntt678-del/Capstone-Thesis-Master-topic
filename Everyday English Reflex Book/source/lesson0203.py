@@ -83,7 +83,7 @@ LESSON_0203 = {
         ("Ms Lan", "Good, I will buy the ingredients today.", "Tốt, hôm nay tôi sẽ mua nguyên liệu."),
         # 10 trip to the zoo
         ("Ms Hortensia", "Shall we take the family to the zoo next month?", "Tháng sau mình đưa cả nhà đi sở thú nhé?"),
-        ("Ms Lan", "Yes, the kids have been asking about that.", "Được, các cháu cứ hỏi về việc đó hoài."),
+        ("Ms Lan", "Yes, they have wanted to see the elephants for months.", "Được, mấy tháng nay các cháu cứ muốn xem voi."),
         ("Ms Hortensia", "Great, I will check the ticket prices online.", "Tuyệt, tôi sẽ kiểm tra giá vé trên mạng."),
         # 11 walk after dinner
         ("Ms Lan", "Shall we go for a short walk after dinner tonight?", "Tối nay sau bữa ăn mình đi dạo một chút nhé?"),
