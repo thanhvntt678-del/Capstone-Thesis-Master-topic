@@ -58,7 +58,7 @@ LESSON_0212 = {
         # 1
         ("Ms Lan", "Excuse me, I think we set the morning alarm for the wrong time.", "Xin lỗi chị, tôi nghĩ mình chỉnh nhầm giờ báo thức buổi sáng."),
         ("Ms Endellion", "Let me check — yes, it should ring at six, not half past six.", "Để tôi xem — đúng vậy, phải reo lúc sáu giờ, không phải sáu giờ rưỡi."),
-        ("Ms Lan", "Thank you, six o'clock it is then.", "Cảm ơn chị, vậy là sáu giờ nhé."),
+        ("Ms Lan", "Thank you, the alarm is set for six now.", "Cảm ơn chị, vậy báo thức đã chỉnh lại sáu giờ nhé."),
         # 2
         ("Ms Endellion", "Wait, I think we mixed up whose turn it is to cook breakfast.", "Khoan đã, hình như mình nhầm lượt ai nấu bữa sáng."),
         ("Ms Lan", "Let me check the list — yes, it is my turn today, not yours.", "Để tôi xem danh sách — đúng vậy, hôm nay là lượt của tôi, không phải chị."),
@@ -66,11 +66,11 @@ LESSON_0212 = {
         # 3
         ("Ms Lan", "Sorry, I think we are confused about which day to do the grocery shopping.", "Xin lỗi chị, tôi nghĩ mình đang nhầm lẫn về ngày nào đi chợ."),
         ("Ms Endellion", "Let me check the calendar — yes, it is Friday, not Thursday.", "Để tôi xem lịch — đúng vậy, là thứ Sáu, không phải thứ Năm."),
-        ("Ms Lan", "Good, Friday it is then, thank you.", "Tốt, vậy là thứ Sáu nhé, cảm ơn chị."),
+        ("Ms Lan", "Thank you, grocery shopping is on Friday then.", "Cảm ơn chị, vậy đi chợ là thứ Sáu nhé."),
         # 4
         ("Ms Endellion", "Wait, I think you believe the trash goes out on the wrong day.", "Khoan đã, hình như chị vẫn tưởng ngày đổ rác là ngày khác."),
         ("Ms Lan", "Let me check the notice — yes, it goes out on Wednesday, not Tuesday.", "Để tôi xem thông báo — đúng vậy, đổ rác vào thứ Tư, không phải thứ Ba."),
-        ("Ms Endellion", "Thank you, Wednesday it is then.", "Cảm ơn chị, vậy là thứ Tư nhé."),
+        ("Ms Endellion", "Thank you, trash day is Wednesday then.", "Cảm ơn chị, vậy ngày đổ rác là thứ Tư nhé."),
         # 5
         ("Ms Lan", "Excuse me, I think we mixed up our two toothbrushes of the same color.", "Xin lỗi chị, tôi nghĩ mình lẫn lộn hai bàn chải đánh răng cùng màu."),
         ("Ms Endellion", "Let me check — yes, mine has a small blue dot on the handle.", "Để tôi xem — đúng vậy, của tôi có một chấm xanh nhỏ trên cán."),

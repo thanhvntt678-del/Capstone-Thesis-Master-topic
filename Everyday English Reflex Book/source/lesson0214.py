@@ -68,7 +68,7 @@ LESSON_0214 = {
         # 2
         ("Ms Averil", "Wait, I think we mixed up the time the team meeting starts.", "Khoan đã, hình như mình nhầm giờ họp nhóm bắt đầu."),
         ("Ms Lan", "Let me check the calendar — yes, it starts at ten, not nine.", "Để tôi xem lịch — đúng vậy, bắt đầu lúc mười giờ, không phải chín giờ."),
-        ("Ms Averil", "Thank you, ten o'clock it is then.", "Cảm ơn chị, vậy là mười giờ nhé."),
+        ("Ms Averil", "Thank you, the meeting starts at ten then.", "Cảm ơn chị, vậy cuộc họp bắt đầu lúc mười giờ nhé."),
         # 3
         ("Ms Lan", "Sorry, I think we mixed up our two identical staplers.", "Xin lỗi chị, tôi nghĩ mình lẫn lộn hai cái bấm kim giống hệt nhau."),
         ("Ms Averil", "Let me check — yes, mine has a small sticker on the base.", "Để tôi xem — đúng vậy, cái của tôi có miếng dán nhỏ ở phần đế."),
@@ -100,7 +100,7 @@ LESSON_0214 = {
         # 10
         ("Ms Averil", "Wait, I think we are confused about which day the office closes early.", "Khoan đã, hình như mình đang nhầm lẫn ngày nào văn phòng đóng cửa sớm."),
         ("Ms Lan", "Let me check the notice — yes, it is Friday, not Thursday.", "Để tôi xem thông báo — đúng vậy, là thứ Sáu, không phải thứ Năm."),
-        ("Ms Averil", "Good, Friday it is then, thank you.", "Tốt, vậy là thứ Sáu nhé, cảm ơn chị."),
+        ("Ms Averil", "Thank you, the office closes early on Friday then.", "Cảm ơn chị, vậy văn phòng đóng cửa sớm vào thứ Sáu nhé."),
         # 11
         ("Ms Lan", "Sorry, I think we believed a colleague was still on leave.", "Xin lỗi chị, tôi nghĩ mình đã tưởng một đồng nghiệp vẫn còn nghỉ phép."),
         ("Ms Averil", "Let me check — yes, she came back to work this morning.", "Để tôi xem — đúng vậy, chị ấy đã đi làm lại từ sáng nay rồi."),

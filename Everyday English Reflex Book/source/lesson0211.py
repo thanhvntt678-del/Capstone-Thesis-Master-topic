@@ -91,7 +91,7 @@ LESSON_0211 = {
         # 8
         ("Mr Leofric", "Wait, I think we mixed up the time for the sunset walk.", "Khoan đã, hình như mình nhầm giờ đi ngắm hoàng hôn."),
         ("Ms Lan", "Let me check — yes, the sun sets at six, not seven today.", "Để tôi xem — đúng vậy, hôm nay mặt trời lặn lúc sáu giờ, không phải bảy giờ."),
-        ("Mr Leofric", "Thank you, six o'clock it is then.", "Cảm ơn chị, vậy là sáu giờ nhé."),
+        ("Mr Leofric", "Thank you, the sunset walk starts at six then.", "Cảm ơn chị, vậy buổi đi ngắm hoàng hôn bắt đầu lúc sáu giờ nhé."),
         # 9
         ("Ms Lan", "Excuse me, I think you believe snow is expected tonight.", "Xin lỗi anh, hình như anh vẫn tưởng tối nay sẽ có tuyết."),
         ("Mr Leofric", "Let me check — yes, it is only frost, no snow at all.", "Để tôi xem — đúng vậy, chỉ có sương giá thôi, không có tuyết đâu."),
@@ -115,7 +115,7 @@ LESSON_0211 = {
         # 14
         ("Mr Leofric", "Wait, I think we are confused about which day is the sunniest for our trip.", "Khoan đã, hình như mình đang nhầm lẫn về ngày nào nắng đẹp nhất cho chuyến đi."),
         ("Ms Lan", "Let me check — yes, Wednesday looks sunnier than Tuesday this week.", "Để tôi xem — đúng vậy, thứ Tư tuần này có vẻ nắng đẹp hơn thứ Ba."),
-        ("Mr Leofric", "Thank you, Wednesday it is then.", "Cảm ơn chị, vậy là thứ Tư nhé."),
+        ("Mr Leofric", "Thank you, Wednesday looks perfect for our trip then.", "Cảm ơn chị, vậy thứ Tư hợp lý nhất cho chuyến đi."),
         # 15
         ("Ms Lan", "Sorry, I think we wrongly believed the road would flood after the rain.", "Xin lỗi anh, tôi nghĩ mình đã tưởng nhầm con đường sẽ ngập sau mưa."),
         ("Mr Leofric", "Let me check — yes, the road drains quickly, it is dry already.", "Để tôi xem — đúng vậy, con đường thoát nước nhanh, giờ đã khô rồi."),
@@ -131,7 +131,7 @@ LESSON_0211 = {
         # 18
         ("Mr Leofric", "Wait, I think we mixed up the day for the outdoor concert.", "Khoan đã, hình như mình nhầm ngày của buổi hòa nhạc ngoài trời."),
         ("Ms Lan", "Let me check the ticket — yes, it is Friday, not Thursday.", "Để tôi xem vé — đúng vậy, là thứ Sáu, không phải thứ Năm."),
-        ("Mr Leofric", "Good, Friday it is then, thank you.", "Tốt, vậy là thứ Sáu nhé, cảm ơn chị."),
+        ("Mr Leofric", "Thank you, the concert is on Friday then.", "Cảm ơn chị, vậy buổi hòa nhạc là thứ Sáu nhé."),
         # 19
         ("Ms Lan", "Sorry, I think we confused light rain with heavy rain in the forecast.", "Xin lỗi anh, tôi nghĩ mình nhầm lẫn mưa nhỏ với mưa lớn trong dự báo."),
         ("Mr Leofric", "Let me check — yes, it says light rain only, nothing heavy.", "Để tôi xem — đúng vậy, dự báo chỉ nói mưa nhỏ, không có mưa lớn."),
@@ -203,7 +203,7 @@ LESSON_0211 = {
         # 36
         ("Mr Leofric", "Wait, I think we believed the morning dew meant it rained overnight.", "Khoan đã, hình như mình đã tưởng sương buổi sáng nghĩa là đêm qua đã mưa."),
         ("Ms Lan", "Let me check — yes, it did not rain, the dew is just from the cool night air.", "Để tôi xem — đúng vậy, không có mưa đâu, sương chỉ là do không khí đêm mát thôi."),
-        ("Mr Leofric", "Ah, that makes sense, thank you for checking.", "À, vậy thì hợp lý rồi, cảm ơn chị đã kiểm tra."),
+        ("Mr Leofric", "Ah, the cool night air explains the dew then, thank you.", "À, vậy do không khí đêm mát nên mới có sương, cảm ơn chị đã kiểm tra."),
         # 37
         ("Ms Lan", "Excuse me, I think we are confused about the sunhat and the raincoat for today.", "Xin lỗi anh, tôi nghĩ mình đang băn khoăn nên mang mũ nắng hay áo mưa hôm nay."),
         ("Mr Leofric", "Let me check the sky — yes, you will need the raincoat, not the sunhat.", "Để tôi xem bầu trời — đúng vậy, chị cần áo mưa, không phải mũ nắng."),

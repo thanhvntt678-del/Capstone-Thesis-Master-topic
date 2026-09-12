@@ -117,7 +117,7 @@ LESSON_0210 = {
         # 15
         ("Ms Lan", "Sorry, I think I gave you the wrong direction to the weekend market.", "Xin lỗi, tôi nghĩ tôi đã chỉ nhầm đường đến chợ cuối tuần."),
         ("Ms Rowena", "Let me check — yes, it is two streets further down, not just one.", "Để tôi xem — đúng vậy, nó xa thêm hai dãy phố nữa, không phải một."),
-        ("Ms Lan", "Ah, that explains it, thank you for checking.", "À, thế nên mới vậy, cảm ơn chị đã kiểm tra."),
+        ("Ms Lan", "Ah, one street further than I thought, thank you for checking.", "À, xa hơn một dãy phố so với tôi tưởng, cảm ơn chị đã kiểm tra."),
         # 16
         ("Ms Rowena", "Wait, I think we mixed up the two blue doors at the gym.", "Khoan đã, hình như mình lẫn lộn hai cánh cửa xanh ở phòng tập."),
         ("Ms Lan", "Let me check — yes, the entrance is the door on the left, not the right.", "Để tôi xem — đúng vậy, cửa vào là cửa bên trái, không phải bên phải."),

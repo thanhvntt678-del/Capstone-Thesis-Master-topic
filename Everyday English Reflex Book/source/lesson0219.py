@@ -121,7 +121,7 @@ LESSON_0219 = {
         ("Ms Lan", "I parked in spot thirteen, near the entrance.", "Tôi đậu ở chỗ số mười ba, gần lối vào."),
         ("Mr Ferdinand", "Thirteen, I'll remember that when we come back.", "Số mười ba, tôi sẽ nhớ chỗ đó khi mình quay lại."),
         # 20 pages left in a book
-        ("Ms Lan", "How many pages do you have left in that book?", "Anh còn bao nhiêu trang nữa trong cuốn sách đó?"),
+        ("Ms Lan", "How many pages are left before you finish that novel?", "Anh còn bao nhiêu trang nữa là xong cuốn tiểu thuyết đó?"),
         ("Mr Ferdinand", "Just twenty pages left to finish.", "Chỉ còn hai mươi trang nữa là xong."),
         ("Ms Lan", "Twenty pages, you'll be done tonight then.", "Hai mươi trang, vậy tối nay anh đọc xong luôn rồi."),
         # 21 a score in a card game

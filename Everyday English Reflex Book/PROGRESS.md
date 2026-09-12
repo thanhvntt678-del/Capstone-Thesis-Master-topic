@@ -146,6 +146,38 @@ real-rendered and verified), 1,092 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0209 verified).
 
+**Master book updated after Block 0210-0219:** written via two parallel
+background agents (7 lessons on the "misunderstanding or problem"
+pattern, 0210-0216, and 3 lessons on a NEW "Saying and confirming X"
+pattern, 0217-0219, for your name / saying hello / numbers 0-20). Given
+the standing lesson-learned notes about this exact scenario pattern's
+collision history (Lessons 0097-0108 and the 98-collision incident in
+Block 0200-0209), both agents were explicitly instructed up front to
+anchor every scene closing to a concrete specific detail rather than a
+generic acknowledgement, and to self-check their own files for repeats
+before finishing. This worked much better: only 5 cross-lesson
+collisions remained after both agents finished (4 near-identical "my
+name is Lan" confirmations in Lesson 0217 colliding with the earlier
+single-premise Lesson 0109, plus 1 line in Lesson 0219 colliding with
+Lesson 0111) — all fixed by rewording with scene-specific detail, then
+reverified at 0 remaining across the full 219-lesson book. Every
+touched lesson was rechecked at 5 real English-only pages.
+**Lesson learned (confirms and extends the standing rule):**
+explicitly warning agents in advance about a pattern's known collision
+history, and requiring concrete-detail-anchored closings plus a
+mandatory self-check before finishing, reduced collisions roughly
+20-fold versus the previous block that used the same risky pattern
+without that warning (98 collisions → 5). Keep doing this for any
+future block that reuses a pattern already flagged as collision-prone.
+Current cumulative state: Lessons 0001-0219,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0219.docx`
+(supersedes the 0001-0209 file), 307,101 total English learning words,
+1,095 total English-only A4 pages (219 lessons × 5 pages each, all
+real-rendered and verified), 1,154 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0219 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -362,15 +394,28 @@ blank pages, lesson order 0001→0209 verified).
   problem involving X" pattern for shopping & payments, clothing &
   personal items, neighbourhood & directions, public transport, and
   taxi & ride services.
-  Next block: **0210-0219**, to start only after the user responds
+  **BLOCK 0210-0219 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents — 7 lessons continuing the
+  "misunderstanding or problem" pattern, 0210-0216, and 3 lessons on a
+  new "Saying and confirming X" pattern, 0217-0219 — both agents warned
+  in advance about this pattern's collision history and required to
+  anchor closings to specific detail and self-check before finishing).
+  Only 5 cross-lesson collisions surfaced on the whole-book check
+  afterward (vs. 98 for the previous block using the same risky
+  pattern without that warning) — all fixed by rewording, reverified at
+  0 remaining. Lessons 0210-0216 covered walking & getting around,
+  weather & daily plans, daily routines, school & learning, workplace
+  communication, phone calls, and messages & digital communication;
+  Lessons 0217-0219 covered your name, saying hello, and numbers 0-20.
+  Next block: **0220-0229**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0209** (secondary character Ms Eldreda).
-  Domain "Transport", scenario "a misunderstanding or problem involving
-  taxi & ride services". Confirmed zero duplicate lines against the
-  whole book, 0001-0209, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0210** (A0/Pre-A1 — check the master
-  workbook row 211 for exact domain/scenario/title before writing;
+- **Last completed lesson: 0219** (secondary character Mr Ferdinand).
+  Domain "Numbers and Time", scenario "numbers 0-20". Confirmed zero
+  duplicate lines against the whole book, 0001-0219, and 5 real
+  English-only pages.
+- **Next lesson to write on NEXT: 0220** (A0/Pre-A1 — check the master
+  workbook row 221 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -401,8 +446,9 @@ blank pages, lesson order 0001→0209 verified).
   Clarabelle, Zachary, Eugenia, Caspian, Griselda, Mordecai, Petronella,
   Balthazar, Ottilie, Sylvanus, Persephone, Theodoric, Wilfreda,
   Ptolemy, Marigold, Lysander, Hortensia, Orsino, Perdita, Caradoc,
-  Tamsin, Osric, Eldreda.
-  Pick a fresh name for Lesson 0210's secondary character and note the
+  Tamsin, Osric, Eldreda, Rowena, Leofric, Endellion, Cadmus, Averil,
+  Ulysses, Beulah, Aldous, Dulcie, Ferdinand.
+  Pick a fresh name for Lesson 0220's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used

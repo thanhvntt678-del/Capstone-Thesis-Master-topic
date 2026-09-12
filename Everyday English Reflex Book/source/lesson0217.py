@@ -55,7 +55,7 @@ LESSON_0217 = {
     'turns': [
         # 1 clinic reception form
         ("Mr Aldous", "Could you write your name on this clinic form, please?", "Chị viết tên vào mẫu đơn phòng khám này giúp tôi được không?"),
-        ("Ms Lan", "Yes, my name is Lan.", "Được, tên tôi là Lan."),
+        ("Ms Lan", "Yes, please put down Lan for this clinic visit.", "Được, xin ghi tên Lan cho lần khám này."),
         ("Mr Aldous", "Lan, thank you, I will add that now.", "Lan, cảm ơn chị, tôi ghi vào ngay."),
         # 2 first day at a new job
         ("Ms Lan", "Welcome to your first day! Could you tell me your name for the team list?", "Chào mừng anh đến ngày làm việc đầu tiên! Anh cho tôi biết tên để ghi vào danh sách đội được không?"),
@@ -71,7 +71,7 @@ LESSON_0217 = {
         ("Ms Lan", "Aldous, thank you, what would you like to order?", "Aldous, cảm ơn anh, anh muốn đặt gì ạ?"),
         # 5 new library card
         ("Mr Aldous", "Could you tell me your full name for this library card?", "Chị cho tôi biết họ tên đầy đủ để làm thẻ thư viện được không?"),
-        ("Ms Lan", "Of course, it is Lan.", "Dạ được, tên tôi là Lan."),
+        ("Ms Lan", "Of course, Lan is the name for my new library card.", "Dạ được, tên trên thẻ thư viện mới là Lan."),
         ("Mr Aldous", "Lan, your new card will be ready in a moment.", "Lan, thẻ mới của chị sẽ có ngay thôi."),
         # 6 school sign-in sheet
         ("Ms Lan", "Please sign in here. Could you print your name for me?", "Mời anh ký tên vào đây. Anh viết in tên giúp tôi được không?"),
@@ -111,7 +111,7 @@ LESSON_0217 = {
         ("Ms Lan", "Aldous, got it, your apron is on the table.", "Aldous, ghi rồi đây, tạp dề của anh ở trên bàn."),
         # 15 opening a new bank account
         ("Mr Aldous", "To open this account, I will need your full name first.", "Để mở tài khoản này, tôi cần họ tên đầy đủ của chị trước."),
-        ("Ms Lan", "Certainly, it is Lan.", "Dạ được, tên tôi là Lan."),
+        ("Ms Lan", "Certainly, Lan is the name to put on the account.", "Dạ được, xin ghi tên Lan trên tài khoản."),
         ("Mr Aldous", "Lan, thank you, let's move on to the next section.", "Lan, cảm ơn chị, mình chuyển sang phần tiếp theo nhé."),
         # 16 booking a taxi by phone
         ("Ms Lan", "Hello, I'd like to book a taxi. Could I get your name for the driver?", "Chào anh, tôi muốn đặt taxi. Cho tôi xin tên anh để báo tài xế được không?"),
@@ -143,7 +143,7 @@ LESSON_0217 = {
         ("Ms Lan", "Aldous, got it, your coffee will be ready shortly.", "Aldous, ghi rồi đây, cà phê của anh sẽ có ngay thôi."),
         # 23 job interview
         ("Mr Aldous", "Thank you for coming in today. Could you start by telling me your name?", "Cảm ơn chị đã đến hôm nay. Chị có thể bắt đầu bằng việc cho tôi biết tên được không?"),
-        ("Ms Lan", "Of course, my name is Lan.", "Dạ được, tên tôi là Lan."),
+        ("Ms Lan", "Of course, Lan is my name, thank you for having me.", "Dạ được, tên tôi là Lan, cảm ơn đã mời tôi phỏng vấn."),
         ("Mr Aldous", "Lan, thank you, let's begin the interview.", "Lan, cảm ơn chị, chúng ta bắt đầu buổi phỏng vấn nhé."),
         # 24 voting station
         ("Ms Lan", "Good morning, could you state your name for the register?", "Chào anh, anh cho tôi biết tên để ghi vào sổ được không?"),

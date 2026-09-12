@@ -63,7 +63,7 @@ LESSON_0213 = {
         # 2
         ("Mr Cadmus", "Wait, I think we mixed up the time the class starts today.", "Khoan đã, hình như mình nhầm giờ bắt đầu lớp học hôm nay."),
         ("Ms Lan", "Let me check my schedule — yes, it starts at six, not half past six.", "Để tôi xem thời khóa biểu — đúng vậy, bắt đầu lúc sáu giờ, không phải sáu giờ rưỡi."),
-        ("Mr Cadmus", "Thank you, six o'clock it is then.", "Cảm ơn chị, vậy là sáu giờ nhé."),
+        ("Mr Cadmus", "Thank you, our class starts at six then.", "Cảm ơn chị, vậy lớp học bắt đầu lúc sáu giờ nhé."),
         # 3
         ("Ms Lan", "Sorry, I think we mixed up our two identical notebooks.", "Xin lỗi anh, tôi nghĩ mình lẫn lộn hai quyển vở giống hệt nhau."),
         ("Mr Cadmus", "Let me check — yes, mine has my name written inside the cover.", "Để tôi xem — đúng vậy, quyển của tôi có ghi tên bên trong bìa."),
@@ -75,7 +75,7 @@ LESSON_0213 = {
         # 5
         ("Ms Lan", "Excuse me, I think we believed the test is on the wrong day.", "Xin lỗi anh, tôi nghĩ mình đã tưởng nhầm ngày kiểm tra."),
         ("Mr Cadmus", "Let me check the notice — yes, it is on Friday, not Thursday.", "Để tôi xem thông báo — đúng vậy, là thứ Sáu, không phải thứ Năm."),
-        ("Ms Lan", "Good, Friday it is then, thank you.", "Tốt, vậy là thứ Sáu nhé, cảm ơn anh."),
+        ("Ms Lan", "Thank you, the test is on Friday then.", "Cảm ơn anh, vậy bài kiểm tra là thứ Sáu nhé."),
         # 6
         ("Mr Cadmus", "Wait, I think we mixed up the meaning of this new word.", "Khoan đã, hình như mình nhầm nghĩa của từ mới này."),
         ("Ms Lan", "Let me check the dictionary — yes, it means quiet, not fast.", "Để tôi xem từ điển — đúng vậy, nghĩa là yên tĩnh, không phải nhanh."),
@@ -110,7 +110,7 @@ LESSON_0213 = {
         ("Ms Lan", "Thank you, the window desks it is then.", "Cảm ơn anh, vậy là bàn gần cửa sổ nhé."),
         # 14
         ("Mr Cadmus", "Wait, I think you believe the deadline for the assignment already passed.", "Khoan đã, hình như chị vẫn tưởng hạn nộp bài tập đã qua."),
-        ("Ms Lan", "Let me check — yes, it is due tomorrow, not today.", "Để tôi xem — đúng vậy, hạn nộp là ngày mai, không phải hôm nay."),
+        ("Ms Lan", "Let me check — yes, the assignment is due tomorrow, not today.", "Để tôi xem — đúng vậy, hạn nộp bài tập là ngày mai, không phải hôm nay."),
         ("Mr Cadmus", "Wonderful, I still have time to finish it tonight.", "Tuyệt quá, vậy tôi còn thời gian hoàn thành tối nay."),
         # 15
         ("Ms Lan", "Sorry, I think we mixed up our two answer sheets.", "Xin lỗi anh, tôi nghĩ mình lẫn lộn hai tờ bài làm."),
@@ -195,7 +195,7 @@ LESSON_0213 = {
         # 35
         ("Ms Lan", "Sorry, I think we believed a classmate's number was for the whole class.", "Xin lỗi anh, tôi nghĩ mình đã tưởng số điện thoại của một bạn cùng lớp là số chung cho cả lớp."),
         ("Mr Cadmus", "Let me check — yes, that number is only for our small group.", "Để tôi xem — đúng vậy, số đó chỉ dành cho nhóm nhỏ của mình thôi."),
-        ("Ms Lan", "Ah, that explains the confusion, thank you for checking.", "À, thế nên mới nhầm lẫn, cảm ơn anh đã kiểm tra."),
+        ("Ms Lan", "Ah, so that phone number was only for our small group, thank you.", "À, vậy số điện thoại đó chỉ dành cho nhóm nhỏ, cảm ơn anh đã kiểm tra."),
         # 36
         ("Mr Cadmus", "Wait, I think we mixed up the correct answer with a similar one.", "Khoan đã, hình như mình nhầm đáp án đúng với một đáp án gần giống."),
         ("Ms Lan", "Let me check the key — yes, answer B is correct, not answer C.", "Để tôi xem đáp án — đúng vậy, đáp án B mới đúng, không phải đáp án C."),
@@ -211,7 +211,7 @@ LESSON_0213 = {
         # 39
         ("Ms Lan", "Sorry, I think we mixed up our two backpacks of the same color.", "Xin lỗi anh, tôi nghĩ mình lẫn lộn hai chiếc ba lô cùng màu."),
         ("Mr Cadmus", "Let me check — yes, mine has a small keychain on the zipper.", "Để tôi xem — đúng vậy, ba lô của tôi có móc khóa nhỏ trên dây kéo."),
-        ("Ms Lan", "Ah, I see the keychain now, thank you for checking.", "À, giờ tôi thấy móc khóa rồi, cảm ơn anh đã kiểm tra."),
+        ("Ms Lan", "Ah, the keychain on the zipper gives it away, thank you.", "À, cái móc khóa trên dây kéo cho thấy rõ rồi, cảm ơn anh đã kiểm tra."),
         # 40
         ("Mr Cadmus", "Wait, I think we are confused about which classmate was supposed to bring the markers.", "Khoan đã, hình như mình đang nhầm lẫn bạn nào phải mang bút lông."),
         ("Ms Lan", "Let me check the message — yes, it is Hana's turn today, not ours.", "Để tôi xem tin nhắn — đúng vậy, hôm nay là lượt của Hana, không phải mình."),
