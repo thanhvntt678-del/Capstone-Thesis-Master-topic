@@ -278,6 +278,28 @@ real-rendered and verified), 1,403 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0259 verified).
 
+**Master book updated after Block 0260-0269:** written via two parallel
+background agents (5 lessons each) continuing the A1-level "Asking and
+Answering Simple Questions About the First Practical Exchange About X"
+pattern across public transport, taxi & ride services, walking &
+getting around, weather & daily plans, daily routines, school &
+learning, workplace communication, phone calls, and messages & digital
+communication — plus Lesson 0269, the first lesson in a brand-new
+domain, "Scheduling" (appointments & schedules). Both agents were
+warned about the heavy collision history for these domains (each
+covered 2-4 times before) and self-checked against the whole existing
+book before finishing. Result: **0 cross-lesson duplicates** on the
+final whole-book check — the fifth fully clean block in a row. Every
+lesson confirmed at 5 real English-only pages. Current cumulative
+state: Lessons 0001-0269,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0269.docx`
+(supersedes the 0001-0259 file), 391,947 total English learning words,
+1,345 total English-only A4 pages (269 lessons × 5 pages each, all
+real-rendered and verified), 1,471 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0269 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -567,17 +589,29 @@ blank pages, lesson order 0001→0259 verified).
   present simple) despite each scenario having already been covered
   3-4 times earlier in the book. Result: 0 cross-lesson duplicates on
   the final whole-book check — the fourth fully clean block in a row.
-  Next block: **0260-0269**, to start only after the user responds
+  **BLOCK 0260-0269 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents, 5 each, continuing the A1 "Asking and
+  Answering Simple Questions About the First Practical Exchange About
+  X" pattern across public transport, taxi & ride services, walking &
+  getting around, weather & daily plans, daily routines, school &
+  learning, workplace communication, phone calls, and messages &
+  digital communication, plus Lesson 0269 opening a brand-new domain,
+  "Scheduling" — appointments & schedules. Both agents were warned
+  about the heavy collision history (each domain covered 2-4 times
+  before) and self-checked against the whole existing book before
+  finishing). Result: 0 cross-lesson duplicates on the final
+  whole-book check — the fifth fully clean block in a row.
+  Next block: **0270-0279**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
-  feedback is applied first). All lessons from here through 0600 are
-  CEFR A1 — same 5-page-per-lesson target as A0, same cumulative book.
-- **Last completed lesson: 0259** (secondary character Ms Sorrel).
-  Domain "Neighbourhood", CEFR A1, scenario "the first practical
-  exchange about neighbourhood & directions". Confirmed zero duplicate
-  lines against the whole book, 0001-0259, and 5 real English-only
+  feedback is applied first). All lessons through 0600 remain CEFR A1
+  — same 5-page-per-lesson target, same cumulative book.
+- **Last completed lesson: 0269** (secondary character Mr Sterling).
+  Domain "Scheduling" (new), CEFR A1, scenario "the first practical
+  exchange about appointments & schedules". Confirmed zero duplicate
+  lines against the whole book, 0001-0269, and 5 real English-only
   pages.
-- **Next lesson to write on NEXT: 0260** (A1 — check the master
-  workbook row 261 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0270** (A1 — check the master
+  workbook row 271 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -615,8 +649,9 @@ blank pages, lesson order 0001→0259 verified).
   Thackeray, Wrenna, Sigmund, Rosabel, Lambert, Marcelline, Cosimo,
   Guinevere, Barclay, Thomasina, Alban, Winsome, Osmond, Fairfax,
   Larkspur, Winslow, Amaryllis, Radcliffe, Beaumont, Thornbury,
-  Winterbourne, Pembrook, Sorrel.
-  Pick a fresh name for Lesson 0260's secondary character and note the
+  Winterbourne, Pembrook, Sorrel, Carrow, Holloway, Winfield, Ashcombe,
+  Merrivale, Linden, Fairweather, Bracken, Hollister, Sterling.
+  Pick a fresh name for Lesson 0270's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
