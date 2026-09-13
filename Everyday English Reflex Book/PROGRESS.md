@@ -300,6 +300,29 @@ real-rendered and verified), 1,471 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0269 verified).
 
+**Master book updated after Block 0270-0279:** written via two parallel
+background agents (5 lessons each), continuing the A1-level "Asking
+and Answering Simple Questions About the First Practical Exchange
+About X" pattern across eight brand-new domains never before covered
+in this book: Eating Out (restaurants & cafés), Travel (hotels &
+accommodation, airports & flights, train & coach travel), Driving
+(driving, parking & fuel), Health Services (health services &
+pharmacy), Wellbeing (fitness & wellbeing routines), Services
+(personal care services; post, courier & deliveries), and Money
+(banking & everyday money). With no prior-lesson content overlap to
+worry about, both agents focused on avoiding generic closing-phrase
+collisions against the book's existing pool. Result: **0 cross-lesson
+duplicates** on the final whole-book check — the sixth fully clean
+block in a row. Every lesson confirmed at 5 real English-only pages.
+Current cumulative state: Lessons 0001-0279,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0279.docx`
+(supersedes the 0001-0269 file), 409,572 total English learning words,
+1,395 total English-only A4 pages (279 lessons × 5 pages each, all
+real-rendered and verified), 1,539 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0279 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -605,13 +628,24 @@ blank pages, lesson order 0001→0269 verified).
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first). All lessons through 0600 remain CEFR A1
   — same 5-page-per-lesson target, same cumulative book.
-- **Last completed lesson: 0269** (secondary character Mr Sterling).
-  Domain "Scheduling" (new), CEFR A1, scenario "the first practical
-  exchange about appointments & schedules". Confirmed zero duplicate
-  lines against the whole book, 0001-0269, and 5 real English-only
-  pages.
-- **Next lesson to write on NEXT: 0270** (A1 — check the master
-  workbook row 271 for exact domain/scenario/title before writing;
+  **BLOCK 0270-0279 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents, 5 each, continuing the "first practical
+  exchange" A1 pattern across eight brand-new domains — Eating Out,
+  Travel ×3, Driving, Health Services, Wellbeing, Services ×2, Money —
+  none of which had ever appeared in the book before, so collision
+  risk was low; both agents still self-checked against the whole
+  existing book). Result: 0 cross-lesson duplicates on the final
+  whole-book check — the sixth fully clean block in a row.
+  Next block: **0280-0289**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0279** (secondary character Mr Fenwick).
+  Domain "Services" (post, courier & deliveries), CEFR A1, scenario
+  "the first practical exchange about post, courier & deliveries".
+  Confirmed zero duplicate lines against the whole book, 0001-0279,
+  and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0280** (A1 — check the master
+  workbook row 281 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -650,8 +684,10 @@ blank pages, lesson order 0001→0269 verified).
   Guinevere, Barclay, Thomasina, Alban, Winsome, Osmond, Fairfax,
   Larkspur, Winslow, Amaryllis, Radcliffe, Beaumont, Thornbury,
   Winterbourne, Pembrook, Sorrel, Carrow, Holloway, Winfield, Ashcombe,
-  Merrivale, Linden, Fairweather, Bracken, Hollister, Sterling.
-  Pick a fresh name for Lesson 0270's secondary character and note the
+  Merrivale, Linden, Fairweather, Bracken, Hollister, Sterling,
+  Delacroix, Pennington, Isabeau, Kingsley, Everhart, Whitfield,
+  Rosewood, Ashgrove, Callaway, Fenwick.
+  Pick a fresh name for Lesson 0280's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
