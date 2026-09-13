@@ -223,6 +223,27 @@ real-rendered and verified), 1,273 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0239 verified).
 
+**Master book updated after Block 0240-0249:** written via two parallel
+background agents (Lesson 0240 on "Saying and confirming X" —
+choosing a drink — plus 9 lessons on a new "a routine everyday need
+involving X" pattern, 0241-0249, split 4/5 across the two agents).
+Both agents applied concrete-detail-anchored closings, deliberately
+used very different vocabulary/openers knowing a sibling agent shared
+the identical narrow pattern, and self-checked their own files plus
+the entire existing book before finishing. Result: **0 cross-lesson
+duplicates** on the final whole-book check — the third fully clean
+block in a row, even with 9 lessons (the largest same-pattern group
+yet) sharing one narrow scenario family across two agents. Every
+lesson confirmed at 5 real English-only pages. Current cumulative
+state: Lessons 0001-0249,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0249.docx`
+(supersedes the 0001-0239 file), 355,893 total English learning words,
+1,245 total English-only A4 pages (249 lessons × 5 pages each, all
+real-rendered and verified), 1,336 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0249 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -481,15 +502,33 @@ blank pages, lesson order 0001→0239 verified).
   Lessons 0235-0239 covered how to spell your name, responding to a
   greeting, a phone number, a common household object, and a family
   member's name.
-  Next block: **0240-0249**, to start only after the user responds
+  **BLOCK 0240-0249 is now COMPLETE** (10/10 lessons, written by two
+  parallel background agents — Lesson 0240 continuing "Saying and
+  confirming X" (choosing a drink), plus 9 lessons on a new "a routine
+  everyday need involving X" pattern, 0241-0249, split 4/5 across the
+  two agents. Both agents applied concrete-detail-anchored closings,
+  deliberately used very different vocabulary knowing a sibling agent
+  shared the identical pattern, and self-checked against the whole
+  existing book before finishing). Result: 0 cross-lesson duplicates
+  on the final whole-book check — the third fully clean block in a
+  row, the largest same-pattern group yet (9 lessons). Lessons
+  0241-0244 covered routine needs for shopping & payments, clothing &
+  personal items, neighbourhood & directions, and public transport;
+  Lessons 0245-0249 covered routine needs for taxi & ride services,
+  walking & getting around, weather & daily plans, daily routines, and
+  school & learning.
+  Next block: **0250-0259**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
-  feedback is applied first).
-- **Last completed lesson: 0239** (secondary character Mr Sigmund).
-  Domain "Family", scenario "a family member's name". Confirmed zero
-  duplicate lines against the whole book, 0001-0239, and 5 real
-  English-only pages.
-- **Next lesson to write on NEXT: 0240** (A0/Pre-A1 — check the master
-  workbook row 241 for exact domain/scenario/title before writing;
+  feedback is applied first). **Note: Lesson 0250 is the final lesson
+  of the A0/Pre-A1 level — the CEFR boundary to A1 falls at Lesson
+  0251 per the FINAL ADDITIONAL LOCK; same 5-page-per-lesson target
+  continues seamlessly within the same cumulative book, no reset.**
+- **Last completed lesson: 0249** (secondary character Mr Osmond).
+  Domain "Learning", scenario "a routine everyday need involving
+  school & learning". Confirmed zero duplicate lines against the whole
+  book, 0001-0249, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0250** (A0/Pre-A1 — check the master
+  workbook row 251 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -524,8 +563,9 @@ blank pages, lesson order 0001→0239 verified).
   Ulysses, Beulah, Aldous, Dulcie, Ferdinand, Cassia, Erasmus, Anwen,
   Tristam, Idalia, Wystan, Georgiana, Nathaniel, Saoirse, Eldridge,
   Thessaly, Ashworth, Marisol, Roderick, Clemency, Fitzgerald, Almira,
-  Thackeray, Wrenna, Sigmund.
-  Pick a fresh name for Lesson 0240's secondary character and note the
+  Thackeray, Wrenna, Sigmund, Rosabel, Lambert, Marcelline, Cosimo,
+  Guinevere, Barclay, Thomasina, Alban, Winsome, Osmond.
+  Pick a fresh name for Lesson 0250's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
