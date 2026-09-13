@@ -244,6 +244,40 @@ real-rendered and verified), 1,336 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0249 verified).
 
+**Master book updated after Block 0250-0259 — CEFR LEVEL TRANSITION
+A0/Pre-A1 → A1 (continuous, no reset):** Lesson 0250 is the final
+lesson of the A0/Pre-A1 level (0001-0250); Lessons 0251-0259 are the
+first lessons of the new A1 level (0251-0600), per the FINAL
+ADDITIONAL LOCK's "level transitions are continuous within the same
+book" rule — same lesson numbering, same page numbering, same
+cumulative book, no split. A1 keeps the same "5 full A4 English-only
+pages per lesson" target but requires "genuine A1 communicative
+depth": slightly longer two-clause sentences with simple connectors,
+basic tenses beyond present simple (simple past, going-to future,
+can/could, would like), still no complex grammar. Lessons 0251-0259
+revisit scenarios already covered 3-4 times earlier in the book (your
+name, saying hello, numbers 0-20, a room in the home, a family member,
+asking for water, first practical exchange for shopping/clothing/
+neighbourhood) under the new "Asking and Answering Simple Questions
+About X" A1 title pattern.
+
+Two background agents hit a session-wide rate limit mid-task on this
+block; lessons 0251-0257 survived intact (independently re-verified
+clean after the interruption) and a fresh agent completed the 3 still
+missing lessons (0250, 0258, 0259), also self-checking against the
+whole existing book. Result: **0 cross-lesson duplicates** on the
+final whole-book check despite the CEFR transition and the heavy
+scenario-reuse risk — the fourth fully clean block in a row. Every
+lesson confirmed at 5 real English-only pages. Current cumulative
+state: Lessons 0001-0259,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0259.docx`
+(supersedes the 0001-0249 file), 373,790 total English learning words,
+1,295 total English-only A4 pages (259 lessons × 5 pages each, all
+real-rendered and verified), 1,403 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0259 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -517,18 +551,33 @@ blank pages, lesson order 0001→0249 verified).
   Lessons 0245-0249 covered routine needs for taxi & ride services,
   walking & getting around, weather & daily plans, daily routines, and
   school & learning.
-  Next block: **0250-0259**, to start only after the user responds
+  **BLOCK 0250-0259 is now COMPLETE — CEFR LEVEL TRANSITION A0/Pre-A1
+  → A1** (10/10 lessons, written across three agent dispatches: two
+  parallel agents hit a session-wide rate limit mid-task; lessons
+  0251-0257 survived intact and were re-verified clean, and a fresh
+  agent completed the 3 still-missing lessons, 0250/0258/0259). Lesson
+  0250 closed out the A0/Pre-A1 level (0001-0250) with the final
+  "routine everyday need" lesson (workplace communication); Lessons
+  0251-0259 opened the new A1 level (0251-0600) with the "Asking and
+  Answering Simple Questions About X" pattern, revisiting your name,
+  saying hello, numbers 0-20, a room in the home, who a family member
+  is, asking for water, and the first practical exchange for shopping,
+  clothing, and neighbourhood & directions — all at genuine A1 depth
+  (two-clause sentences, simple connectors, basic tenses beyond
+  present simple) despite each scenario having already been covered
+  3-4 times earlier in the book. Result: 0 cross-lesson duplicates on
+  the final whole-book check — the fourth fully clean block in a row.
+  Next block: **0260-0269**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
-  feedback is applied first). **Note: Lesson 0250 is the final lesson
-  of the A0/Pre-A1 level — the CEFR boundary to A1 falls at Lesson
-  0251 per the FINAL ADDITIONAL LOCK; same 5-page-per-lesson target
-  continues seamlessly within the same cumulative book, no reset.**
-- **Last completed lesson: 0249** (secondary character Mr Osmond).
-  Domain "Learning", scenario "a routine everyday need involving
-  school & learning". Confirmed zero duplicate lines against the whole
-  book, 0001-0249, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0250** (A0/Pre-A1 — check the master
-  workbook row 251 for exact domain/scenario/title before writing;
+  feedback is applied first). All lessons from here through 0600 are
+  CEFR A1 — same 5-page-per-lesson target as A0, same cumulative book.
+- **Last completed lesson: 0259** (secondary character Ms Sorrel).
+  Domain "Neighbourhood", CEFR A1, scenario "the first practical
+  exchange about neighbourhood & directions". Confirmed zero duplicate
+  lines against the whole book, 0001-0259, and 5 real English-only
+  pages.
+- **Next lesson to write on NEXT: 0260** (A1 — check the master
+  workbook row 261 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -564,8 +613,10 @@ blank pages, lesson order 0001→0249 verified).
   Tristam, Idalia, Wystan, Georgiana, Nathaniel, Saoirse, Eldridge,
   Thessaly, Ashworth, Marisol, Roderick, Clemency, Fitzgerald, Almira,
   Thackeray, Wrenna, Sigmund, Rosabel, Lambert, Marcelline, Cosimo,
-  Guinevere, Barclay, Thomasina, Alban, Winsome, Osmond.
-  Pick a fresh name for Lesson 0250's secondary character and note the
+  Guinevere, Barclay, Thomasina, Alban, Winsome, Osmond, Fairfax,
+  Larkspur, Winslow, Amaryllis, Radcliffe, Beaumont, Thornbury,
+  Winterbourne, Pembrook, Sorrel.
+  Pick a fresh name for Lesson 0260's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
