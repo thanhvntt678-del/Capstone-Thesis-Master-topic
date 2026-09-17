@@ -375,6 +375,31 @@ real-rendered and verified), 1,679 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0299 verified).
 
+**Master book updated after Block 0300-0309:** covers Eating Out,
+Travel ×3 (hotels & accommodation, airports & flights, train & coach
+travel), Driving, Health Services, Wellbeing, Services ×2 (personal
+care services; post, courier & deliveries), and Money (banking &
+everyday money) — each domain's SECOND appearance in the book, using
+the "a routine everyday need involving X" framing against its
+domain-sibling from Lessons 0270-0279 (which used "the first practical
+exchange about X"). Written by two parallel background agents (5
+lessons each, 0300-0304 and 0305-0309), both completing without a
+rate-limit interruption this time. Each agent deliberately
+differentiated concrete scenes/closing lines from its domain-sibling
+lesson before writing, and both independently confirmed 0 whole-book
+duplicates; I independently re-verified all 10 lessons via qc_report,
+`render_check.py` (5 real pages each), and my own whole-book
+cross-lesson check. Result: **0 cross-lesson duplicates** — the ninth
+fully clean block in a row. Current cumulative state: Lessons
+0001-0309,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0309.docx`
+(supersedes the 0001-0299 file), 468,067 total English learning words,
+1,545 total English-only A4 pages (309 lessons × 5 pages each, all
+real-rendered and verified), 1,750 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0309 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -720,13 +745,26 @@ blank pages, lesson order 0001→0299 verified).
   Next block: **0300-0309**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0299** (secondary character Mr Aldrich).
-  Domain "Scheduling", CEFR A1, scenario "a routine everyday need
-  involving appointments & schedules". Confirmed zero duplicate
-  lines against the whole book, 0001-0299, and 5 real English-only
+  **BLOCK 0300-0309 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0300-0304 and 0305-0309, both completed
+  without a rate-limit interruption). Covered Eating Out, Travel ×3,
+  Driving, Health Services, Wellbeing, Services ×2, and Money — each
+  domain's second appearance in the book (first appearance was
+  0270-0279's "first practical exchange" framing; this block used "a
+  routine everyday need involving X"), with both agents deliberately
+  differentiating concrete scenes/closing lines from their
+  domain-sibling lesson. Result: 0 cross-lesson duplicates on the
+  final whole-book check — the ninth fully clean block in a row.
+  Next block: **0310-0319**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0309** (secondary character Mr Marchbanks).
+  Domain "Services", CEFR A1, scenario "a routine everyday need
+  involving post, courier & deliveries". Confirmed zero duplicate
+  lines against the whole book, 0001-0309, and 5 real English-only
   pages.
-- **Next lesson to write on NEXT: 0300** (A1 — check the master
-  workbook row 301 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0310** (A1 — check the master
+  workbook row 311 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -770,8 +808,10 @@ blank pages, lesson order 0001→0299 verified).
   Rosewood, Ashgrove, Callaway, Fenwick, Copperfield, Arundel,
   Blackwood, Faraday, Redmayne, Thistlewood, Ellery, Farnsworth,
   Caldwell, Underhill, Penrose, Harlow, Wexford, Castleton, Abernathy,
-  Sutcliffe, Kerrigan, Osgood, Winship, Aldrich.
-  Pick a fresh name for Lesson 0300's secondary character and note the
+  Sutcliffe, Kerrigan, Osgood, Winship, Aldrich, Pembridge, Wrenfield,
+  Ashdown, Lockhart, Bramwell, Fenchurch, Ravensworth, Sedgwick,
+  Thornleigh, Marchbanks.
+  Pick a fresh name for Lesson 0310's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
