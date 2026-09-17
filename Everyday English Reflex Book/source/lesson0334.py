@@ -87,8 +87,8 @@ LESSON_0334 = {
         ("Ms Lan", "Thirty dollars more a day, that's fine, please upgrade our booking.", "Thêm ba mươi đô mỗi ngày, được đấy, chị nâng cấp đặt xe của bọn tôi giúp."),
         # 4 paid extra 30 upgrade
         ("Ms Norwood", "Lan, could you confirm whether you already paid the extra thirty dollars for the SUV upgrade?", "Chị Lan, chị xác nhận giúp khoản ba mươi đô thêm cho việc nâng cấp SUV đã trả chưa?"),
-        ("Ms Lan", "Let me check, yes, it went through this morning right after breakfast.", "Để tôi xem, có rồi, chuyển sáng nay ngay sau bữa sáng."),
-        ("Ms Norwood", "This morning after breakfast, perfect, so your upgrade is fully confirmed now.", "Sáng nay sau bữa sáng, tuyệt, vậy việc nâng cấp đã được xác nhận đầy đủ rồi."),
+        ("Ms Lan", "Let me check, yes, it went through first thing this morning.", "Để tôi xem, có rồi, chuyển ngay đầu giờ sáng nay."),
+        ("Ms Norwood", "First thing this morning, perfect, so your upgrade is fully confirmed now.", "Ngay đầu giờ sáng nay, tuyệt, vậy việc nâng cấp đã được xác nhận đầy đủ rồi."),
         # 5 garage level rental car parked
         ("Ms Lan", "Norwood, could you confirm which garage level our rental car is parked on today?", "Chị Norwood, chị xác nhận giúp hôm nay xe thuê của chúng tôi đang đỗ ở tầng nào của bãi đỗ nhiều tầng không?"),
         ("Ms Norwood", "It's on level three, right next to the elevator doors.", "Ở tầng ba, ngay cạnh cửa thang máy."),
@@ -115,12 +115,12 @@ LESSON_0334 = {
         ("Ms Norwood", "Three separate seats, noted, I'll arrange that on your booking now.", "Ba ghế riêng, đã ghi nhận, tôi sắp xếp vào đặt xe của chị ngay."),
         # 11 total bill matches receipt two rental cars
         ("Ms Lan", "Norwood, could you confirm the total bill matches the receipt for our two rental cars?", "Chị Norwood, chị xác nhận giúp tổng hóa đơn có khớp với biên lai cho hai xe thuê của chúng tôi không?"),
-        ("Ms Norwood", "Yes, it does, everything adds up exactly to two hundred and ten dollars.", "Khớp chứ, mọi thứ cộng lại đúng hai trăm mười đô la."),
-        ("Ms Lan", "Two hundred and ten dollars exactly, thank you, that matches what I expected.", "Đúng hai trăm mười đô, cảm ơn chị, khớp với những gì tôi dự tính."),
+        ("Ms Norwood", "Yes, it does, everything adds up exactly to one hundred and ninety dollars.", "Khớp chứ, mọi thứ cộng lại đúng một trăm chín mươi đô la."),
+        ("Ms Lan", "One hundred and ninety dollars exactly, thank you, that matches what I expected.", "Đúng một trăm chín mươi đô, cảm ơn chị, khớp với những gì tôi dự tính."),
         # 12 twenty dollar fuel credit
         ("Ms Norwood", "Lan, could you confirm whether you'd like your twenty-dollar fuel credit applied here?", "Chị Lan, chị xác nhận giúp có muốn dùng khoản tín dụng xăng hai mươi đô ở đây không?"),
-        ("Ms Lan", "Yes, please, and I'll pay the rest with my credit card.", "Có chứ, và tôi sẽ trả phần còn lại bằng thẻ tín dụng."),
-        ("Ms Norwood", "The rest with your card, of course, I'll process it that way now.", "Phần còn lại bằng thẻ, được chứ, tôi xử lý theo cách đó ngay."),
+        ("Ms Lan", "Yes, please, and the remaining amount can go on my credit card.", "Có chứ, và số tiền còn lại có thể tính vào thẻ tín dụng của tôi."),
+        ("Ms Norwood", "The remaining amount on your card, of course, I'll process it that way now.", "Số tiền còn lại vào thẻ của chị, được chứ, tôi xử lý theo cách đó ngay."),
         # 13 refund car flat tire on pickup
         ("Ms Lan", "Norwood, could you confirm the exact refund for the car that had a flat tire on pickup?", "Chị Norwood, chị xác nhận giúp số tiền hoàn lại chính xác cho xe bị xì lốp lúc tôi nhận không?"),
         ("Ms Norwood", "Yes, of course, we've refunded the full thirty dollars for that first day.", "Được chứ, chúng tôi đã hoàn đủ ba mươi đô la cho ngày đầu tiên đó."),
@@ -131,7 +131,7 @@ LESSON_0334 = {
         ("Ms Norwood", "The kids love looking up, understood, that silver car has a sunroof then.", "Bọn trẻ thích ngước lên à, tôi hiểu rồi, vậy chiếc xe màu bạc đó có cửa sổ trời."),
         # 15 card machine fuel pump working
         ("Ms Lan", "Norwood, could you confirm the card machine at the fuel pump is working before we fill up?", "Chị Norwood, chị xác nhận giúp máy quẹt thẻ ở trụ bơm xăng có hoạt động trước khi chúng tôi đổ xăng không?"),
-        ("Ms Norwood", "Yes, I just tested it myself, and it's working perfectly right now.", "Có chứ, tôi vừa tự kiểm tra, và nó đang hoạt động hoàn hảo."),
+        ("Ms Norwood", "Yes, I ran a quick test on it a minute ago, and it's working perfectly.", "Có chứ, tôi vừa thử nhanh nó một phút trước, và nó hoạt động hoàn hảo."),
         ("Ms Lan", "Working perfectly, wonderful, that will make paying much easier.", "Hoạt động hoàn hảo, tuyệt, vậy việc thanh toán sẽ dễ hơn nhiều."),
         # 16 dashcam checked before leaving
         ("Ms Norwood", "Lan, could you confirm whether you'd like the dashcam checked before you leave?", "Chị Lan, chị xác nhận giúp có muốn kiểm tra camera hành trình trước khi rời đi không?"),
@@ -151,8 +151,8 @@ LESSON_0334 = {
         ("Ms Lan", "Nine instead of eleven, good to know, I'll return the car a bit earlier.", "Chín giờ thay vì mười một giờ, hay biết vậy, tôi sẽ trả xe sớm hơn một chút."),
         # 20 two cars under same name
         ("Ms Norwood", "Lan, could you confirm whether you accidentally booked two cars under the same name?", "Chị Lan, chị xác nhận giúp có phải chị lỡ đặt hai xe dưới cùng một tên không?"),
-        ("Ms Lan", "Let me check, yes, I did, so please cancel the second one.", "Để tôi xem, đúng vậy, vậy chị hủy giúp xe thứ hai nhé."),
-        ("Ms Norwood", "Cancel the second one, of course, I'll remove it right away.", "Hủy xe thứ hai, được chứ, tôi xóa ngay bây giờ."),
+        ("Ms Lan", "Let me check, yes, I did, so please take away the second booking.", "Để tôi xem, đúng vậy, vậy chị bỏ giúp phần đặt xe thứ hai nhé."),
+        ("Ms Norwood", "Take away the second booking, of course, I'll remove it right away.", "Bỏ phần đặt xe thứ hai, được chứ, tôi xóa ngay bây giờ."),
         # 21 group booking four cars reserved
         ("Ms Lan", "Norwood, could you confirm the group booking still has four cars reserved?", "Chị Norwood, chị xác nhận giúp đặt chỗ nhóm vẫn còn giữ đủ bốn xe không?"),
         ("Ms Norwood", "Yes, it does, all four cars are locked in for this weekend.", "Vẫn đủ chứ, cả bốn xe đã được giữ cho cuối tuần này."),
@@ -167,8 +167,8 @@ LESSON_0334 = {
         ("Ms Lan", "The larger car with the black interior, perfect, we'll take that one then.", "Chiếc xe lớn hơn nội thất đen, tuyệt, vậy bọn tôi lấy chiếc đó."),
         # 24 two child seats twin nephews
         ("Ms Norwood", "Lan, could you confirm the two child seats we noted match your twin nephews?", "Chị Lan, chị xác nhận giúp hai ghế trẻ em chúng tôi ghi chú có khớp với cặp cháu trai song sinh của chị không?"),
-        ("Ms Lan", "Yes, they do, exactly two, thank you for remembering that detail.", "Khớp chứ, đúng hai cái, cảm ơn chị đã nhớ chi tiết đó."),
-        ("Ms Norwood", "Exactly two, wonderful, I always try to keep track of little details like that.", "Đúng hai cái, tuyệt, tôi luôn cố nhớ những chi tiết nhỏ như vậy."),
+        ("Ms Lan", "Yes, they do, exactly two, I appreciate you remembering that detail.", "Khớp chứ, đúng hai cái, tôi cảm kích vì chị đã nhớ chi tiết đó."),
+        ("Ms Norwood", "Exactly two, wonderful, those little details are always worth double-checking.", "Đúng hai cái, tuyệt, những chi tiết nhỏ như vậy luôn đáng để kiểm tra lại."),
         # 25 discount code ten percent
         ("Ms Lan", "Norwood, could you confirm the discount code gave the full ten percent off?", "Chị Norwood, chị xác nhận giúp mã giảm giá đã giảm đủ mười phần trăm không?"),
         ("Ms Norwood", "Yes, it did, the system applied it correctly to your whole booking.", "Đúng vậy, hệ thống áp dụng đúng cho toàn bộ đặt xe của chị."),
@@ -180,11 +180,11 @@ LESSON_0334 = {
         # 27 reserved van survived scheduling mix-up
         ("Ms Lan", "Norwood, could you confirm the reserved van survived that scheduling mix-up?", "Chị Norwood, chị xác nhận giúp xe van đã đặt có còn nguyên sau lần nhầm lịch đó không?"),
         ("Ms Norwood", "Yes, it did, we fixed the system before another customer could take it.", "Vẫn còn nguyên, chúng tôi đã sửa hệ thống trước khi khách khác đặt mất."),
-        ("Ms Lan", "Fixed before someone else took it, thank you, I was worried about that.", "Sửa trước khi người khác đặt mất, cảm ơn chị, tôi đã lo về chuyện đó."),
+        ("Ms Lan", "Fixed before someone else grabbed it, thank you, that's a relief to hear.", "Sửa trước khi người khác đặt mất, cảm ơn chị, nghe vậy nhẹ cả người."),
         # 28 corporate invoice name
         ("Ms Norwood", "Lan, could you confirm the corporate invoice should say 'Thistledown Group' at the top?", "Chị Lan, chị xác nhận giúp hóa đơn công ty nên ghi 'Thistledown Group' ở trên đầu không?"),
-        ("Ms Lan", "Yes, that's correct, please spell it exactly that way.", "Đúng vậy, chị viết đúng y như vậy giúp tôi nhé."),
-        ("Ms Norwood", "Exactly that way, of course, I'll print it correctly for you now.", "Đúng y như vậy, được chứ, tôi in đúng cho chị ngay bây giờ."),
+        ("Ms Lan", "Yes, that's it precisely, please write it just like that.", "Đúng chính xác như vậy, chị viết đúng như thế giúp tôi nhé."),
+        ("Ms Norwood", "Written just like that, understood, I'll print it correctly for you.", "Viết đúng như thế, tôi hiểu rồi, tôi in đúng cho chị."),
         # 29 garage can still accommodate tall van
         ("Ms Lan", "Norwood, could you confirm whether the garage can still accommodate a tall van today?", "Chị Norwood, chị xác nhận giúp bãi đỗ xe có còn chứa được xe van cao hôm nay không?"),
         ("Ms Norwood", "Yes, it can, since level one always has extra height clearance.", "Được chứ, vì tầng một luôn có khoảng cách trần cao hơn."),
@@ -195,8 +195,8 @@ LESSON_0334 = {
         ("Ms Norwood", "Tucked in the glove box, good, I'm glad that was sorted out quickly.", "Trong hộc đựng đồ à, tốt, mừng là chuyện đó được giải quyết nhanh."),
         # 31 wait-list position upgrade larger car
         ("Ms Lan", "Norwood, could you check our exact wait-list position for an upgrade to a larger car?", "Chị Norwood, chị kiểm tra giúp vị trí trong danh sách chờ để nâng cấp lên xe lớn hơn của chúng tôi không?"),
-        ("Ms Norwood", "Yes, you're currently second on the list, about an hour away.", "Được chứ, hiện chị đứng thứ hai trong danh sách, khoảng một tiếng nữa."),
-        ("Ms Lan", "Second on the list, about an hour, that's not too bad at all.", "Thứ hai trong danh sách, khoảng một tiếng, cũng không tệ lắm."),
+        ("Ms Norwood", "Yes, you're currently third on the list, about forty minutes away.", "Được chứ, hiện chị đứng thứ ba trong danh sách, khoảng bốn mươi phút nữa."),
+        ("Ms Lan", "Third on the list, about forty minutes, that's not too bad at all.", "Thứ ba trong danh sách, khoảng bốn mươi phút, cũng không tệ lắm."),
         # 32 number of drivers listed for group of four cars
         ("Ms Norwood", "Lan, could you confirm the exact number of drivers listed for your group of four cars?", "Chị Lan, chị xác nhận giúp số tài xế chính xác được ghi cho nhóm bốn xe của chị không?"),
         ("Ms Lan", "Yes, it's six drivers in total, two more than I told you before.", "Có chứ, tổng cộng sáu tài xế, nhiều hơn hai người so với tôi nói trước đó."),
@@ -215,8 +215,8 @@ LESSON_0334 = {
         ("Ms Lan", "Kept the original booking, great, so nothing else should be affected now.", "Giữ lại đặt xe gốc, tốt quá, vậy chắc không có gì khác bị ảnh hưởng nữa."),
         # 36 fuel purchase new loyalty discount
         ("Ms Norwood", "Lan, could you confirm whether your fuel purchase should use your new loyalty discount?", "Chị Lan, chị xác nhận giúp lần mua xăng của chị có nên dùng ưu đãi tích điểm mới không?"),
-        ("Ms Lan", "Yes, please, I only just activated it this week.", "Có chứ, tôi mới kích hoạt tuần này thôi."),
-        ("Ms Norwood", "Just activated this week, I'll apply that discount to your purchase now.", "Mới kích hoạt tuần này, tôi áp dụng ưu đãi đó vào lần mua của chị ngay."),
+        ("Ms Lan", "Yes, please, I only just switched it on this week.", "Có chứ, tôi mới bật lên tuần này thôi."),
+        ("Ms Norwood", "Just switched on this week, I'll apply that discount to your purchase now.", "Mới bật lên tuần này, tôi áp dụng ưu đãi đó vào lần mua của chị ngay."),
         # 37 exact total fuel three rental cars
         ("Ms Lan", "Norwood, could you confirm the exact total for fuel charged to our three rental cars?", "Chị Norwood, chị xác nhận giúp tổng chính xác cho tiền xăng tính cho ba xe thuê của chúng tôi không?"),
         ("Ms Norwood", "Yes, of course, that comes to ninety dollars altogether.", "Được chứ, tổng cộng là chín mươi đô la."),

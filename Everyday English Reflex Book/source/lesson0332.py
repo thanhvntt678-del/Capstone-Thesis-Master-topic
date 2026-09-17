@@ -86,8 +86,8 @@ LESSON_0332 = {
         ("Ms Lan", "Two hundred dollars more, that's fine, please upgrade my seat.", "Thêm hai trăm đô, được đấy, chị nâng hạng ghế của tôi giúp."),
         # 4 paid extra 200 upgrade
         ("Ms Whitlock", "Lan, could you confirm whether you already paid the extra two hundred dollars for the upgrade?", "Chị Lan, chị xác nhận giúp khoản hai trăm đô thêm cho việc nâng hạng đã trả chưa?"),
-        ("Ms Lan", "Let me check, yes, it went through this morning right after breakfast.", "Để tôi xem, có rồi, chuyển sáng nay ngay sau bữa sáng."),
-        ("Ms Whitlock", "This morning after breakfast, perfect, so your upgrade is fully confirmed now.", "Sáng nay sau bữa sáng, tuyệt, vậy việc nâng hạng đã được xác nhận đầy đủ rồi."),
+        ("Ms Lan", "Let me check, yes, it went through last night before I went to bed.", "Để tôi xem, có rồi, chuyển tối qua trước khi tôi đi ngủ."),
+        ("Ms Whitlock", "Last night before bed, perfect, so your upgrade is fully confirmed now.", "Tối qua trước khi ngủ, tuyệt, vậy việc nâng hạng đã được xác nhận đầy đủ rồi."),
         # 5 terminal charter flight
         ("Ms Lan", "Whitlock, could you confirm which terminal the charter flight departs from today?", "Chị Whitlock, chị xác nhận giúp hôm nay chuyến bay thuê bao khởi hành từ nhà ga nào không?"),
         ("Ms Whitlock", "It departs from terminal four, on the far side of the airport.", "Khởi hành từ nhà ga bốn, ở phía xa của sân bay."),
@@ -118,8 +118,8 @@ LESSON_0332 = {
         ("Ms Lan", "Eighty dollars exactly, thank you, that matches what I expected.", "Đúng tám mươi đô, cảm ơn chị, khớp với những gì tôi dự tính."),
         # 12 fifty dollar travel voucher
         ("Ms Whitlock", "Lan, could you confirm whether you'd like your fifty-dollar travel voucher applied here?", "Chị Lan, chị xác nhận giúp có muốn dùng phiếu giảm giá du lịch năm mươi đô ở đây không?"),
-        ("Ms Lan", "Yes, please, and I'll pay the rest with my credit card.", "Có chứ, và tôi sẽ trả phần còn lại bằng thẻ tín dụng."),
-        ("Ms Whitlock", "The rest with your card, of course, I'll process it that way now.", "Phần còn lại bằng thẻ, được chứ, tôi xử lý theo cách đó ngay."),
+        ("Ms Lan", "Yes, please, and I'll cover the rest with my credit card.", "Có chứ, và tôi sẽ chi trả phần còn lại bằng thẻ tín dụng."),
+        ("Ms Whitlock", "Covering the rest with your card, of course, I'll process it that way now.", "Chi trả phần còn lại bằng thẻ, được chứ, tôi xử lý theo cách đó ngay."),
         # 13 refund cancelled flight
         ("Ms Lan", "Whitlock, could you confirm the exact refund for the flight that got cancelled last week?", "Chị Whitlock, chị xác nhận giúp số tiền hoàn lại chính xác cho chuyến bay bị hủy tuần trước không?"),
         ("Ms Whitlock", "Yes, of course, we've refunded the full one hundred and eighty dollars.", "Được chứ, chúng tôi đã hoàn đủ một trăm tám mươi đô la."),
@@ -130,7 +130,7 @@ LESSON_0332 = {
         ("Ms Whitlock", "Leave quickly, understood, seat four C is aisle near the front then.", "Ra nhanh à, tôi hiểu rồi, vậy ghế bốn C là ghế lối đi gần phía trước."),
         # 15 kiosk machine working before group checks in
         ("Ms Lan", "Whitlock, could you confirm the kiosk machine is working before our large group checks in?", "Chị Whitlock, chị xác nhận giúp máy tự làm thủ tục có hoạt động trước khi nhóm đông của chúng tôi làm thủ tục không?"),
-        ("Ms Whitlock", "Yes, I just tested it myself, and it's working perfectly right now.", "Có chứ, tôi vừa tự kiểm tra, và nó đang hoạt động hoàn hảo."),
+        ("Ms Whitlock", "Yes, one of my colleagues tested it earlier, and it's working without any trouble.", "Có chứ, một đồng nghiệp của tôi vừa kiểm tra lúc nãy, và nó hoạt động không trục trặc gì."),
         ("Ms Lan", "Working perfectly, wonderful, that will make checking in much faster.", "Hoạt động hoàn hảo, tuyệt, vậy việc làm thủ tục sẽ nhanh hơn nhiều."),
         # 16 pet carrier weighed now
         ("Ms Whitlock", "Lan, could you confirm whether you'd like the pet carrier weighed now?", "Chị Lan, chị xác nhận giúp có muốn cân lồng thú cưng ngay bây giờ không?"),
@@ -150,8 +150,8 @@ LESSON_0332 = {
         ("Ms Lan", "Nine instead of eleven, good to know, I'll leave the lounge a bit earlier.", "Chín giờ thay vì mười một giờ, hay biết vậy, tôi sẽ rời phòng chờ sớm hơn một chút."),
         # 20 two tickets under same name
         ("Ms Whitlock", "Lan, could you confirm whether you accidentally booked two tickets under the same name?", "Chị Lan, chị xác nhận giúp có phải chị lỡ đặt hai vé dưới cùng một tên không?"),
-        ("Ms Lan", "Let me check, yes, I did, so please cancel the second one.", "Để tôi xem, đúng vậy, vậy chị hủy giúp vé thứ hai nhé."),
-        ("Ms Whitlock", "Cancel the second one, of course, I'll remove it right away.", "Hủy vé thứ hai, được chứ, tôi xóa ngay bây giờ."),
+        ("Ms Lan", "Let me check, yes, that's true, so please remove the second one.", "Để tôi xem, đúng thật, vậy chị bỏ giúp vé thứ hai nhé."),
+        ("Ms Whitlock", "Remove the second one, of course, I'll take care of it right away.", "Bỏ vé thứ hai, được chứ, tôi xử lý ngay bây giờ."),
         # 21 group booking twelve confirmed seats
         ("Ms Lan", "Whitlock, could you confirm the group booking still has twelve confirmed seats?", "Chị Whitlock, chị xác nhận giúp đặt chỗ nhóm vẫn còn giữ đủ mười hai chỗ không?"),
         ("Ms Whitlock", "Yes, it does, all twelve seats are locked in for that flight.", "Vẫn đủ chứ, cả mười hai chỗ đã được giữ cho chuyến bay đó."),
@@ -166,8 +166,8 @@ LESSON_0332 = {
         ("Ms Lan", "The later flight at seven, perfect, we'll book that one then.", "Chuyến sau lúc bảy giờ, tuyệt, vậy bọn tôi đặt chuyến đó."),
         # 24 two car seats twin toddlers
         ("Ms Whitlock", "Lan, could you confirm the two car seats we noted match your twin toddlers?", "Chị Lan, chị xác nhận giúp hai ghế trẻ em chúng tôi ghi chú có khớp với cặp bé song sinh của chị không?"),
-        ("Ms Lan", "Yes, they do, exactly two, thank you for remembering that detail.", "Khớp chứ, đúng hai cái, cảm ơn chị đã nhớ chi tiết đó."),
-        ("Ms Whitlock", "Exactly two, wonderful, I always try to keep track of little details like that.", "Đúng hai cái, tuyệt, tôi luôn cố nhớ những chi tiết nhỏ như vậy."),
+        ("Ms Lan", "Yes, they do, exactly two, thank you for keeping that detail in mind.", "Khớp chứ, đúng hai cái, cảm ơn chị đã để tâm đến chi tiết đó."),
+        ("Ms Whitlock", "Exactly two, wonderful, small details like that are always worth tracking.", "Đúng hai cái, tuyệt, những chi tiết nhỏ như vậy luôn đáng để theo dõi."),
         # 25 discount code ten percent
         ("Ms Lan", "Whitlock, could you confirm the discount code gave the full ten percent off?", "Chị Whitlock, chị xác nhận giúp mã giảm giá đã giảm đủ mười phần trăm không?"),
         ("Ms Whitlock", "Yes, it did, the system applied it correctly to your whole fare.", "Đúng vậy, hệ thống áp dụng đúng cho toàn bộ giá vé của chị."),
@@ -182,8 +182,8 @@ LESSON_0332 = {
         ("Ms Lan", "Fixed before someone else took them, thank you, I was worried about that.", "Sửa trước khi người khác đặt mất, cảm ơn chị, tôi đã lo về chuyện đó."),
         # 28 corporate invoice name
         ("Ms Whitlock", "Lan, could you confirm the corporate invoice should say 'Falconbridge Tech' at the top?", "Chị Lan, chị xác nhận giúp hóa đơn công ty nên ghi 'Falconbridge Tech' ở trên đầu không?"),
-        ("Ms Lan", "Yes, that's correct, please spell it exactly that way.", "Đúng vậy, chị viết đúng y như vậy giúp tôi nhé."),
-        ("Ms Whitlock", "Exactly that way, of course, I'll print it correctly for you now.", "Đúng y như vậy, được chứ, tôi in đúng cho chị ngay bây giờ."),
+        ("Ms Lan", "Yes, that's the correct name, please print it precisely like that.", "Đúng tên đó rồi, chị in chính xác như vậy giúp tôi nhé."),
+        ("Ms Whitlock", "Precisely like that, understood, I'll have it printed correctly shortly.", "Chính xác như vậy, tôi hiểu rồi, tôi sẽ cho in đúng trong chốc lát."),
         # 29 wheelchair request can still be accommodated
         ("Ms Lan", "Whitlock, could you confirm whether the airline can still accommodate a wheelchair request today?", "Chị Whitlock, chị xác nhận giúp hãng có còn hỗ trợ được yêu cầu xe lăn hôm nay không?"),
         ("Ms Whitlock", "Yes, it can, since we always keep a few chairs ready near every gate.", "Được chứ, vì chúng tôi luôn chuẩn bị sẵn vài xe lăn gần mỗi cổng."),
@@ -218,7 +218,7 @@ LESSON_0332 = {
         ("Ms Whitlock", "Just activated this week, I'll apply that benefit to your visit now.", "Mới kích hoạt tuần này, tôi áp dụng quyền lợi đó vào lần vào phòng chờ của chị ngay."),
         # 37 exact total excess baggage three passengers
         ("Ms Lan", "Whitlock, could you confirm the exact total for excess baggage charged to three passengers?", "Chị Whitlock, chị xác nhận giúp tổng chính xác cho hành lý dư tính cho ba hành khách không?"),
-        ("Ms Whitlock", "Yes, of course, that comes to one hundred and twenty dollars altogether.", "Được chứ, tổng cộng là một trăm hai mươi đô la."),
+        ("Ms Whitlock", "Yes, of course, the three of them together owe one hundred dollars in total.", "Được chứ, ba người cộng lại nợ tổng cộng một trăm đô la."),
         ("Ms Lan", "One hundred and twenty altogether, that's easy for everyone to split.", "Một trăm hai mươi tổng cộng, vậy dễ chia cho mọi người."),
         # 38 window or aisle seat connecting flight
         ("Ms Whitlock", "Lan, could you confirm whether you'd like a window or aisle seat for the connecting flight?", "Chị Lan, chị xác nhận giúp muốn ghế cạnh cửa sổ hay lối đi cho chuyến nối tiếp không?"),

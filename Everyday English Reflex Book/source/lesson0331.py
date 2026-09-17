@@ -139,7 +139,7 @@ LESSON_0331 = {
         ("Mr Prendergast", "Rose petals on the bed, of course, I'll set it all up before you return.", "Cánh hoa hồng trên giường, được chứ, tôi bày hết trước khi chị quay lại."),
         # 17 spa card machine working
         ("Ms Lan", "Prendergast, could you confirm the card machine at the spa is working before our group pays?", "Anh Prendergast, anh xác nhận giúp máy quẹt thẻ ở spa có hoạt động trước khi nhóm chúng tôi thanh toán không?"),
-        ("Mr Prendergast", "Yes, I just tested it myself, and it's working perfectly right now.", "Có chứ, tôi vừa tự kiểm tra, và nó đang hoạt động hoàn hảo."),
+        ("Mr Prendergast", "Yes, I checked it a moment ago, and it's running just fine right now.", "Có chứ, tôi vừa kiểm tra lúc nãy, và nó đang chạy tốt bây giờ."),
         ("Ms Lan", "Working perfectly, wonderful, that will make checking out much easier.", "Hoạt động hoàn hảo, tuyệt, vậy việc thanh toán sẽ dễ hơn nhiều."),
         # 18 corner suite requested
         ("Mr Prendergast", "Lan, could you confirm whether you specifically requested a corner suite for this trip?", "Chị Lan, chị xác nhận giúp có phải chị đã yêu cầu riêng một phòng suite góc cho chuyến đi này không?"),
@@ -183,8 +183,8 @@ LESSON_0331 = {
         ("Ms Lan", "Applied to the entire stay, wonderful, that saves quite a bit this week.", "Áp dụng cho cả kỳ lưu trú, tuyệt, vậy tiết kiệm được kha khá tuần này."),
         # 28 corporate folio name
         ("Mr Prendergast", "Lan, could you confirm the corporate folio should say 'Rosemont Law' at the top?", "Chị Lan, chị xác nhận giúp bảng kê công ty nên ghi 'Rosemont Law' ở trên đầu không?"),
-        ("Ms Lan", "Yes, that's correct, please spell it exactly that way.", "Đúng vậy, anh viết đúng y như vậy giúp tôi nhé."),
-        ("Mr Prendergast", "Exactly that way, of course, I'll print it correctly for you now.", "Đúng y như vậy, được chứ, tôi in đúng cho chị ngay bây giờ."),
+        ("Ms Lan", "Yes, that's right, please keep every letter exactly as it is.", "Đúng vậy, anh giữ nguyên từng chữ như vậy giúp tôi nhé."),
+        ("Mr Prendergast", "Just as it is, of course, I'll get that printed correctly now.", "Giữ nguyên như vậy, được chứ, tôi cho in đúng ngay bây giờ."),
         # 29 lakeview room survived scheduling mix-up
         ("Ms Lan", "Prendergast, could you confirm the reserved lakeview room survived that scheduling mix-up?", "Anh Prendergast, anh xác nhận giúp phòng nhìn ra hồ đã đặt có còn nguyên sau lần nhầm lịch đó không?"),
         ("Mr Prendergast", "Yes, it did, we fixed the system error before another guest could take it.", "Vẫn còn nguyên, chúng tôi đã sửa lỗi hệ thống trước khi khách khác đặt mất."),
@@ -223,8 +223,8 @@ LESSON_0331 = {
         ("Ms Lan", "Moved to room four fifteen, great, so both guests should be comfortable now.", "Chuyển sang phòng bốn mười lăm, tốt quá, vậy cả hai khách chắc sẽ thoải mái rồi."),
         # 38 spa booking new membership discount
         ("Mr Prendergast", "Lan, could you confirm whether your spa booking should use your new membership discount?", "Chị Lan, chị xác nhận giúp lịch hẹn spa của chị có nên dùng ưu đãi hội viên mới không?"),
-        ("Ms Lan", "Yes, please, I only just signed up for it this week.", "Có chứ, tôi mới đăng ký tuần này thôi."),
-        ("Mr Prendergast", "Just signed up this week, I'll apply the discount to your booking now.", "Mới đăng ký tuần này, tôi áp dụng ưu đãi vào lịch hẹn của chị ngay."),
+        ("Ms Lan", "Yes, please, I only just joined the program this week.", "Có chứ, tôi mới tham gia chương trình tuần này thôi."),
+        ("Mr Prendergast", "Just joined the program this week, I'll apply the discount to your booking now.", "Mới tham gia chương trình tuần này, tôi áp dụng ưu đãi vào lịch hẹn của chị ngay."),
         # 39 exact total three rooms billed together
         ("Ms Lan", "Prendergast, could you confirm the exact total when these three rooms are billed together?", "Anh Prendergast, anh xác nhận giúp tổng chính xác khi ba phòng này tính chung không?"),
         ("Mr Prendergast", "Yes, of course, that comes to three hundred and sixty dollars altogether.", "Được chứ, tổng cộng là ba trăm sáu mươi đô la."),
