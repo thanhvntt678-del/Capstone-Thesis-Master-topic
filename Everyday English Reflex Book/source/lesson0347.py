@@ -117,7 +117,7 @@ LESSON_0347 = {
         ("Mr Postlethwaite", "Thank you, my grandfather's watch really needs that kind of care.", "Cảm ơn chị, đồng hồ của ông tôi thật sự cần được chăm sóc như vậy."),
         # 17 discount code checkout
         ("Ms Lan", "Postlethwaite, could you help me check whether this discount code actually applied at checkout?", "Anh Postlethwaite, anh kiểm tra giúp tôi xem mã giảm giá này có được áp dụng khi thanh toán không được không?"),
-        ("Mr Postlethwaite", "It did not, actually, since the total still shows the full original price.", "Chưa được áp dụng đâu, vì tổng tiền vẫn hiện giá gốc đầy đủ."),
+        ("Mr Postlethwaite", "It did not, actually, since the checkout screen never subtracted a single cent.", "Chưa được áp dụng đâu, vì màn hình thanh toán chẳng trừ đi một xu nào cả."),
         ("Ms Lan", "Good thing you caught that, let me enter the code again.", "May mà anh phát hiện, để tôi nhập lại mã đó."),
         # 18 thread for curtains
         ("Mr Postlethwaite", "Lan, could you help me find the right thread colour for mending these old curtains?", "Chị Lan, chị giúp tôi tìm màu chỉ đúng để vá lại rèm cửa cũ này được không?"),

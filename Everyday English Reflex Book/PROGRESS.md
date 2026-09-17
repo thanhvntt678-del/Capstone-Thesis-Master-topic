@@ -473,6 +473,29 @@ real-rendered and verified), 1,967 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0339 verified).
 
+**Master book updated after Block 0340-0349:** Lesson 0340 was the
+third appearance of Services — repairs & home services (checking an
+important detail); Lessons 0341-0349 were each the third appearance
+of their exact scenario, with two prior A0-depth siblings apiece
+(0055-0063 and 0163-0171) — where you live, saying thank you, today's
+date, something you need at home, a simple family relationship,
+hungry or thirsty, and "asking for help with" shopping/clothing/
+neighbourhood. Both dispatching agents read every sibling pair before
+writing. One cross-batch collision was caught by the 0345-0349 agent
+during its own whole-book check (lesson0347 vs. the sibling batch's
+lesson0340, both using the same generic price-related closing line)
+and fixed before handing back. Result: **0 cross-lesson duplicates**
+on the final whole-book check — the thirteenth fully clean block in a
+row (final state). Every lesson confirmed at 5 real English-only
+pages. Current cumulative state: Lessons 0001-0349,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0349.docx`
+(supersedes the 0001-0339 file), 552,425 total English learning words,
+1,745 total English-only A4 pages (349 lessons × 5 pages each, all
+real-rendered and verified), 2,039 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0349 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -877,12 +900,25 @@ blank pages, lesson order 0001→0339 verified).
   Next block: **0340-0349**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0339** (secondary character Mr Hartfield).
-  Domain "Services", CEFR A1, scenario "checking an important detail
-  about post, courier & deliveries". Confirmed zero duplicate lines
-  against the whole book, 0001-0339, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0340** (A1 — check the master
-  workbook row 341 for exact domain/scenario/title before writing;
+  **BLOCK 0340-0349 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0340-0344 and 0345-0349). Lesson 0340 was
+  a third appearance of Services — repairs & home services; Lessons
+  0341-0349 were each a third appearance of their scenario with two
+  prior A0-depth siblings apiece (0055-0063 and 0163-0171). One
+  cross-batch collision (lesson0347 vs. lesson0340, a shared generic
+  price-related closing line) was caught by the second agent's own
+  whole-book check and fixed before handing back. Result: 0
+  cross-lesson duplicates on the final whole-book check — the
+  thirteenth fully clean block in a row (final state).
+  Next block: **0350-0359**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0349** (secondary character Mr Carraway).
+  Domain "Neighbourhood", CEFR A1, scenario "asking for help with
+  neighbourhood & directions". Confirmed zero duplicate lines against
+  the whole book, 0001-0349, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0350** (A1 — check the master
+  workbook row 351 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -933,8 +969,10 @@ blank pages, lesson order 0001→0339 verified).
   Winterton, Ashby, Colville, Trentham, Wakeford, Hollowell,
   Cartwright, Ferrington, Brackenridge, Pennystone, Ellsworth,
   Prendergast, Whitlock, Cavanagh, Norwood, Blackthorn, Ravencroft,
-  Sutherland, Kingswell, Hartfield.
-  Pick a fresh name for Lesson 0340's secondary character and note the
+  Sutherland, Kingswell, Hartfield, Farrow, Wainwright, Sheldrake,
+  Bellingham, Cotterill, Wrenshaw, Ackland, Postlethwaite, Netherfield,
+  Carraway.
+  Pick a fresh name for Lesson 0350's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
