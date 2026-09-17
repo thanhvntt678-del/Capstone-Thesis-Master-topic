@@ -400,6 +400,29 @@ real-rendered and verified), 1,750 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0309 verified).
 
+**Master book updated after Block 0310-0319:** the highest collision
+risk faced so far — Lesson 0310 (Services — repairs & home services)
+was a second appearance; Lessons 0311-0319 (Personal Identity, Social
+Basics, Numbers and Time, Home, Family, Food, and the notoriously
+collision-prone "checking an important detail about X" pattern for
+Shopping/Clothing/Neighbourhood) were each a THIRD appearance, with
+TWO prior A0-depth sibling lessons apiece (0037-0045 and 0145-0153).
+Both dispatching agents were explicitly warned in advance and required
+to read every sibling pair before writing, anchoring every scene and
+closing line to a genuinely distinct concrete detail. Both completed
+without a rate-limit interruption. Result: **0 cross-lesson
+duplicates** on the final whole-book check — the tenth fully clean
+block in a row, and proof the defensive protocol holds even at
+third-appearance density. Every lesson confirmed at 5 real
+English-only pages. Current cumulative state: Lessons 0001-0319,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0319.docx`
+(supersedes the 0001-0309 file), 488,815 total English learning words,
+1,595 total English-only A4 pages (319 lessons × 5 pages each, all
+real-rendered and verified), 1,821 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0319 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -758,13 +781,28 @@ blank pages, lesson order 0001→0309 verified).
   Next block: **0310-0319**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0309** (secondary character Mr Marchbanks).
-  Domain "Services", CEFR A1, scenario "a routine everyday need
-  involving post, courier & deliveries". Confirmed zero duplicate
-  lines against the whole book, 0001-0309, and 5 real English-only
+  **BLOCK 0310-0319 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0310-0314 and 0315-0319, both completed
+  without a rate-limit interruption). This was the highest
+  collision-risk block yet: Lesson 0310 was a second appearance of its
+  domain+scenario; Lessons 0311-0319 were each a THIRD appearance,
+  with two prior A0-depth sibling lessons apiece (0037-0045 and
+  0145-0153), including the historically most collision-prone
+  "checking an important detail about X" pattern (0317-0319). Both
+  agents were pre-warned with the exact sibling-lesson pairs and
+  required to anchor every scene/closing line to a distinct concrete
+  detail. Result: 0 cross-lesson duplicates on the final whole-book
+  check — the tenth fully clean block in a row.
+  Next block: **0320-0329**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0319** (secondary character Mr Brannigan).
+  Domain "Neighbourhood", CEFR A1, scenario "checking an important
+  detail about neighbourhood & directions". Confirmed zero duplicate
+  lines against the whole book, 0001-0319, and 5 real English-only
   pages.
-- **Next lesson to write on NEXT: 0310** (A1 — check the master
-  workbook row 311 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0320** (A1 — check the master
+  workbook row 321 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -810,8 +848,9 @@ blank pages, lesson order 0001→0309 verified).
   Caldwell, Underhill, Penrose, Harlow, Wexford, Castleton, Abernathy,
   Sutcliffe, Kerrigan, Osgood, Winship, Aldrich, Pembridge, Wrenfield,
   Ashdown, Lockhart, Bramwell, Fenchurch, Ravensworth, Sedgwick,
-  Thornleigh, Marchbanks.
-  Pick a fresh name for Lesson 0310's secondary character and note the
+  Thornleigh, Marchbanks, Hargreave, Wickstead, Pemberton, Considine,
+  Fairbrother, Loxley, Trelawney, Ashcroft, Marlowe, Brannigan.
+  Pick a fresh name for Lesson 0320's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
