@@ -350,6 +350,31 @@ real-rendered and verified), 1,608 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0289 verified).
 
+**Master book updated after Block 0290-0299:** Lessons 0290-0293 and
+0295-0299 continue the "routine everyday need" A1 pattern across
+Transport ×2, Mobility, Weather, Learning, Work, Communication ×2, and
+Scheduling — the Communication and Scheduling entries (phone calls,
+messages & digital communication, appointments & schedules) were
+first-time domain+scenario combinations, never covered together
+before. Two initial background agents hit a session-wide rate limit
+almost immediately; 9 of the 10 lessons survived intact and were
+independently re-verified clean, leaving only lesson0294 (Daily Life —
+daily routines, secondary character Ms Abernathy) missing. A dedicated
+single-lesson agent wrote it, producing 41 distinct daily-routine
+scenes with no reused premises; independently re-verified via
+qc_report (2215 words, 126 turns, 0 duplicate lines) and
+`render_check.py` (5 real pages). Result: **0 cross-lesson duplicates**
+on the final whole-book check — the eighth fully clean block in a row.
+Every lesson confirmed at 5 real English-only pages. Current
+cumulative state: Lessons 0001-0299,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0299.docx`
+(supersedes the 0001-0289 file), 448,461 total English learning words,
+1,495 total English-only A4 pages (299 lessons × 5 pages each, all
+real-rendered and verified), 1,679 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0299 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -679,13 +704,29 @@ blank pages, lesson order 0001→0289 verified).
   Next block: **0290-0299**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0289** (secondary character Ms Underhill).
-  Domain "Neighbourhood", CEFR A1, scenario "a routine everyday need
-  involving neighbourhood & directions". Confirmed zero duplicate
-  lines against the whole book, 0001-0289, and 5 real English-only
+  **BLOCK 0290-0299 is now COMPLETE** (10/10 lessons; two initial
+  parallel agents hit a session rate limit almost immediately and 9 of
+  the 10 lessons survived intact (0290-0293, 0295-0299), independently
+  re-verified clean; a fresh single agent wrote the missing lesson0294
+  (Daily Life — daily routines, 41 distinct scenes), independently
+  re-verified via qc_report and `render_check.py`). Lessons 0290-0293
+  and 0295-0299 continued the "routine everyday need" pattern across
+  Transport ×2, Mobility, Weather, Learning, Work, Communication ×2,
+  and Scheduling — Communication (phone calls; messages & digital
+  communication) and Scheduling (appointments & schedules) were
+  first-time domain+scenario combinations. Result: 0 cross-lesson
+  duplicates on the final whole-book check — the eighth fully clean
+  block in a row.
+  Next block: **0300-0309**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0299** (secondary character Mr Aldrich).
+  Domain "Scheduling", CEFR A1, scenario "a routine everyday need
+  involving appointments & schedules". Confirmed zero duplicate
+  lines against the whole book, 0001-0299, and 5 real English-only
   pages.
-- **Next lesson to write on NEXT: 0290** (A1 — check the master
-  workbook row 291 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0300** (A1 — check the master
+  workbook row 301 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -728,8 +769,9 @@ blank pages, lesson order 0001→0289 verified).
   Delacroix, Pennington, Isabeau, Kingsley, Everhart, Whitfield,
   Rosewood, Ashgrove, Callaway, Fenwick, Copperfield, Arundel,
   Blackwood, Faraday, Redmayne, Thistlewood, Ellery, Farnsworth,
-  Caldwell, Underhill.
-  Pick a fresh name for Lesson 0290's secondary character and note the
+  Caldwell, Underhill, Penrose, Harlow, Wexford, Castleton, Abernathy,
+  Sutcliffe, Kerrigan, Osgood, Winship, Aldrich.
+  Pick a fresh name for Lesson 0300's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
