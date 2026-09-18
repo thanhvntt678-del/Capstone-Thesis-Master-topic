@@ -77,7 +77,7 @@ LESSON_0378 = {
         # 4 hypoallergenic fabric for sensitive skin
         ("Ms Ashmore", "Actually, could I get this in the hypoallergenic fabric instead? My skin reacts badly to synthetic material.", "Thật ra, tôi lấy loại vải không gây dị ứng thay vào được không? Da tôi phản ứng xấu với vải tổng hợp."),
         ("Ms Lan", "Yes, this organic cotton version should be much gentler on sensitive skin.", "Được, phiên bản cotton hữu cơ này sẽ dịu nhẹ hơn nhiều cho da nhạy cảm."),
-        ("Ms Ashmore", "Thank you, that puts my mind at ease.", "Cảm ơn chị, vậy tôi yên tâm hơn nhiều."),
+        ("Ms Ashmore", "Thank you, my skin should finally stop reacting badly now.", "Cảm ơn chị, giờ da tôi chắc sẽ ngừng phản ứng xấu rồi."),
         # 5 suit's lapel style
         ("Ms Lan", "Could we change this suit's lapel to a notch style instead of a peak? It suits my husband's build better.", "Mình đổi ve áo vest này sang kiểu ve khấc thay vì ve nhọn được không? Kiểu đó hợp với vóc dáng chồng tôi hơn."),
         ("Ms Ashmore", "Yes, the tailor can adjust that before the final fitting next week.", "Được, thợ may có thể chỉnh lại trước buổi thử đồ cuối tuần sau."),
