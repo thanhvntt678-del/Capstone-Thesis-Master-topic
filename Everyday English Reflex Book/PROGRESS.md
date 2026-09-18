@@ -496,6 +496,29 @@ real-rendered and verified), 2,039 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0349 verified).
 
+**Master book updated after Block 0350-0359:** covers Transport ×2,
+Mobility, Weather, Daily Life, Learning, Work, Communication ×2, and
+Scheduling with "asking for help with X" — the third appearance of
+this exact scenario for 0350-0358 (two prior A0-depth siblings apiece:
+0064-0072 and 0172-0180), and Scheduling's first appearance of this
+scenario specifically (0359, after three prior appearances under other
+scenarios). The 0350-0354 agent hit a session-wide rate-limit failure
+on its first dispatch before writing any files; a clean retry
+succeeded fully. Both final batches passed their own whole-book checks
+clean on the first draft — no rework needed this block, despite the
+heavy domain reuse. Result: **0 cross-lesson duplicates** on the final
+whole-book check — the fourteenth fully clean block in a row. Every
+lesson confirmed at 5+ real English-only pages (0353 and 0359 ran to 6
+pages). Current cumulative state: Lessons 0001-0359,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0359.docx`
+(supersedes the 0001-0349 file), 575,968 total English learning words,
+1,797 total English-only A4 pages (359 lessons, at least 5 pages each,
+all real-rendered and verified — 357 lessons at 5 pages, 2 lessons at
+6 pages), 2,113 actual rendered bilingual A4 pages (real Chrome render
+of the full cumulative HTML), FINAL CUMULATIVE QC: PASS (0
+missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0 blank
+pages, lesson order 0001→0359 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -913,12 +936,26 @@ blank pages, lesson order 0001→0349 verified).
   Next block: **0350-0359**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0349** (secondary character Mr Carraway).
-  Domain "Neighbourhood", CEFR A1, scenario "asking for help with
-  neighbourhood & directions". Confirmed zero duplicate lines against
-  the whole book, 0001-0349, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0350** (A1 — check the master
-  workbook row 351 for exact domain/scenario/title before writing;
+  **BLOCK 0350-0359 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0350-0354 and 0355-0359). The first
+  dispatch of the 0350-0354 agent hit a session-wide rate-limit
+  failure before writing any files; a clean retry succeeded fully.
+  Covered Transport ×2, Mobility, Weather, Daily Life, Learning, Work,
+  Communication ×2, and Scheduling with "asking for help with X" — a
+  third appearance for 0350-0358 (two prior A0-depth siblings apiece:
+  0064-0072 and 0172-0180). Both final batches passed their own
+  whole-book checks clean on the first draft. Result: 0 cross-lesson
+  duplicates on the final whole-book check — the fourteenth fully
+  clean block in a row.
+  Next block: **0360-0369**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0359** (secondary character Mr Winspear).
+  Domain "Scheduling", CEFR A1, scenario "asking for help with
+  appointments & schedules". Confirmed zero duplicate lines against
+  the whole book, 0001-0359, and 6 real English-only pages.
+- **Next lesson to write on NEXT: 0360** (A1 — check the master
+  workbook row 361 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -971,8 +1008,9 @@ blank pages, lesson order 0001→0349 verified).
   Prendergast, Whitlock, Cavanagh, Norwood, Blackthorn, Ravencroft,
   Sutherland, Kingswell, Hartfield, Farrow, Wainwright, Sheldrake,
   Bellingham, Cotterill, Wrenshaw, Ackland, Postlethwaite, Netherfield,
-  Carraway.
-  Pick a fresh name for Lesson 0350's secondary character and note the
+  Carraway, Thackwell, Stanmore, Gilchrist, Hollinshead, Wetherby,
+  Ashgate, Kirkland, Pendleton, Rothwell, Winspear.
+  Pick a fresh name for Lesson 0360's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
