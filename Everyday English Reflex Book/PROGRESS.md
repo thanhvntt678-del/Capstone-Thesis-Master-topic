@@ -519,6 +519,32 @@ of the full cumulative HTML), FINAL CUMULATIVE QC: PASS (0
 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0 blank
 pages, lesson order 0001→0359 verified).
 
+**Master book updated after Block 0360-0369:** the fourth appearance
+of the Eating Out/Travel/Driving/Health Services/Wellbeing/Services/
+Money domain family (three prior siblings apiece: 0270-0280 "first
+practical exchange", 0300-0310 "routine everyday need", 0330-0340
+"checking an important detail") — this same family's third appearance
+had produced 64 internal collisions in one batch, so both dispatching
+agents were briefed at maximum caution and required to read all three
+sibling files per lesson before writing. The 0360-0364 agent's own
+self-check caught and fixed 13 accidental exact-duplicate sentences
+between lesson0362 and lesson0363 (unconsciously templated "asking for
+help" scenes with only domain nouns swapped) before handing back; the
+0365-0369 agent's batch was clean on the first draft. Result: **0
+cross-lesson duplicates** on the final whole-book check — the
+fifteenth fully clean block in a row (final state), holding even at
+the highest domain-reuse density the book has reached so far. Every
+lesson confirmed at 5+ real English-only pages (6 of the 10 ran to 6
+pages). Current cumulative state: Lessons 0001-0369,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0369.docx`
+(supersedes the 0001-0359 file), 599,782 total English learning words,
+1,853 total English-only A4 pages (369 lessons, at least 5 pages each,
+all real-rendered and verified — 6 lessons at 6 pages), 2,191 actual
+rendered bilingual A4 pages (real Chrome render of the full cumulative
+HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0
+cross-lesson duplicate lines, 0 blank pages, lesson order 0001→0369
+verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -950,12 +976,26 @@ pages, lesson order 0001→0359 verified).
   Next block: **0360-0369**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0359** (secondary character Mr Winspear).
-  Domain "Scheduling", CEFR A1, scenario "asking for help with
-  appointments & schedules". Confirmed zero duplicate lines against
-  the whole book, 0001-0359, and 6 real English-only pages.
-- **Next lesson to write on NEXT: 0360** (A1 — check the master
-  workbook row 361 for exact domain/scenario/title before writing;
+  **BLOCK 0360-0369 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0360-0364 and 0365-0369). The fourth
+  appearance of the Eating Out/Travel/Driving/Health Services/
+  Wellbeing/Services/Money domain family (three prior siblings apiece:
+  0270-0280, 0300-0310, 0330-0340) — the same family's third
+  appearance had produced 64 internal collisions in one batch, so both
+  agents were briefed at maximum caution. The 0360-0364 agent's own
+  self-check caught and fixed 13 accidental exact-duplicate sentences
+  between lesson0362 and lesson0363 before handing back; 0365-0369 was
+  clean on the first draft. Result: 0 cross-lesson duplicates on the
+  final whole-book check — the fifteenth fully clean block in a row.
+  Next block: **0370-0379**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0369** (secondary character Mr Ellwood).
+  Domain "Services", CEFR A1, scenario "asking for help with post,
+  courier & deliveries". Confirmed zero duplicate lines against the
+  whole book, 0001-0369, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0370** (A1 — check the master
+  workbook row 371 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1009,8 +1049,10 @@ pages, lesson order 0001→0359 verified).
   Sutherland, Kingswell, Hartfield, Farrow, Wainwright, Sheldrake,
   Bellingham, Cotterill, Wrenshaw, Ackland, Postlethwaite, Netherfield,
   Carraway, Thackwell, Stanmore, Gilchrist, Hollinshead, Wetherby,
-  Ashgate, Kirkland, Pendleton, Rothwell, Winspear.
-  Pick a fresh name for Lesson 0360's secondary character and note the
+  Ashgate, Kirkland, Pendleton, Rothwell, Winspear, Overton, Cresswell,
+  Hawthorne, Mowbray, Ashfield, Winstanley, Thurlow, Carmichael,
+  Pettigrew, Ellwood.
+  Pick a fresh name for Lesson 0370's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
