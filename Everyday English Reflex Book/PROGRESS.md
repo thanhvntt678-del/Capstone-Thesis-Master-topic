@@ -571,6 +571,27 @@ real-rendered and verified), 2,259 actual rendered bilingual A4 pages
 PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
 blank pages, lesson order 0001→0379 verified).
 
+**Master book updated after Block 0380-0389:** covers Transport ×2,
+Mobility, Weather, Daily Life, Learning, Work, Communication ×2, and
+Scheduling with "a change or choice involving X" — the third
+appearance of this exact scenario for 0380-0388 (two prior A0-depth
+siblings apiece: 0082-0090 and 0190-0198), and Scheduling's first
+appearance of this scenario (0389, after four prior appearances under
+other scenarios). The 0380-0384 agent's batch was clean on the first
+draft; the 0385-0389 agent's own whole-book check caught and fixed one
+collision against an A1-era sibling (lesson0233 vs. lesson0387) before
+handing back. Result: **0 cross-lesson duplicates** on the final
+whole-book check — the seventeenth fully clean block in a row (final
+state). Every lesson confirmed at 5+ real English-only pages (3 of the
+10 ran to 6 pages). Current cumulative state: Lessons 0001-0389,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0389.docx`
+(supersedes the 0001-0379 file), 642,373 total English learning words,
+1,951 total English-only A4 pages (389 lessons, at least 5 pages each,
+all real-rendered and verified), 2,333 actual rendered bilingual A4
+pages (real Chrome render of the full cumulative HTML), FINAL
+CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
+duplicate lines, 0 blank pages, lesson order 0001→0389 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1030,13 +1051,26 @@ blank pages, lesson order 0001→0379 verified).
   Next block: **0380-0389**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0379** (secondary character Mr Kettleworth).
-  Domain "Neighbourhood", CEFR A1, scenario "a change or choice
-  involving neighbourhood & directions". Confirmed zero duplicate
-  lines against the whole book, 0001-0379, and 5 real English-only
-  pages.
-- **Next lesson to write on NEXT: 0380** (A1 — check the master
-  workbook row 381 for exact domain/scenario/title before writing;
+  **BLOCK 0380-0389 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0380-0384 and 0385-0389). Covered
+  Transport ×2, Mobility, Weather, Daily Life, Learning, Work,
+  Communication ×2, and Scheduling with "a change or choice involving
+  X" — a third appearance for 0380-0388 (two prior A0-depth siblings
+  apiece: 0082-0090 and 0190-0198), and Scheduling's first appearance
+  of this scenario. The 0380-0384 batch was clean on the first draft;
+  0385-0389's own whole-book check caught and fixed one collision
+  against an A1-era sibling (lesson0233 vs. lesson0387). Result: 0
+  cross-lesson duplicates on the final whole-book check — the
+  seventeenth fully clean block in a row.
+  Next block: **0390-0399**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0389** (secondary character Mr Sherwood).
+  Domain "Scheduling", CEFR A1, scenario "a change or choice involving
+  appointments & schedules". Confirmed zero duplicate lines against
+  the whole book, 0001-0389, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0390** (A1 — check the master
+  workbook row 391 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1093,8 +1127,10 @@ blank pages, lesson order 0001→0379 verified).
   Ashgate, Kirkland, Pendleton, Rothwell, Winspear, Overton, Cresswell,
   Hawthorne, Mowbray, Ashfield, Winstanley, Thurlow, Carmichael,
   Pettigrew, Ellwood, Blythewood, Castellane, Marchfield, Thorncliffe,
-  Bramblewood, Oakhurst, Winterset, Ferndale, Ashmore, Kettleworth.
-  Pick a fresh name for Lesson 0380's secondary character and note the
+  Bramblewood, Oakhurst, Winterset, Ferndale, Ashmore, Kettleworth,
+  Stratford, Wickham, Farrington, Holbrook, Sinclair, Prescott,
+  Thistledown, Ravensbourne, Cadwallader, Sherwood.
+  Pick a fresh name for Lesson 0390's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
