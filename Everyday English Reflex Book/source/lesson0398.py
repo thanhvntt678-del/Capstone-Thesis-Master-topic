@@ -168,15 +168,15 @@ LESSON_0398 = {
         # 26 video banking vs in-branch visit
         ("Ms Oakleigh", "Lan, should I do video banking, or go into the branch for this account update?", "Chị Lan, tôi nên dùng ngân hàng qua video, hay đến chi nhánh trực tiếp cho việc cập nhật tài khoản này vậy?"),
         ("Ms Lan", "Do video banking, since this update only needs a signature, not any paperwork in person.", "Dùng ngân hàng qua video đi, vì việc cập nhật này chỉ cần chữ ký, không cần giấy tờ trực tiếp."),
-        ("Ms Oakleigh", "Good point, I will book a video call then.", "Chị nói đúng, vậy tôi đặt cuộc gọi video."),
+        ("Ms Oakleigh", "Good point, I will schedule the video call then.", "Chị nói đúng, vậy tôi sắp xếp cuộc gọi video."),
         # 27 rewards card switched to new branch after moving
         ("Ms Lan", "Oakleigh, could we switch your rewards card account to the branch near our new place? We just moved across town last week.", "Chị Oakleigh, mình chuyển tài khoản thẻ ưu đãi của chị sang chi nhánh gần nhà mới được không? Tuần trước nhà mình mới chuyển sang khu khác trong thành phố."),
         ("Ms Oakleigh", "Yes, that branch would be much more convenient for handling things now.", "Được, chi nhánh đó sẽ tiện hơn nhiều cho việc xử lý mọi thứ bây giờ."),
-        ("Ms Lan", "Good, I will transfer your account now.", "Tốt, tôi sẽ chuyển tài khoản của chị ngay."),
+        ("Ms Lan", "Good, I will move your account there now.", "Tốt, tôi sẽ chuyển tài khoản của chị sang đó ngay."),
         # 28 combine two small accounts
         ("Ms Oakleigh", "Lan, should we combine my two small savings accounts, or keep them separate for different goals?", "Chị Lan, mình nên gộp hai tài khoản tiết kiệm nhỏ của tôi, hay giữ riêng cho các mục tiêu khác nhau vậy?"),
         ("Ms Lan", "Combine them, since it's easier to track your total progress in one place.", "Gộp lại đi, vì vậy dễ theo dõi tổng tiến độ của chị ở một chỗ hơn."),
-        ("Ms Oakleigh", "Good point, I will combine them then.", "Chị nói đúng, vậy tôi gộp lại."),
+        ("Ms Oakleigh", "Good point, I will combine the two accounts then.", "Chị nói đúng, vậy tôi gộp hai tài khoản lại."),
         # 29 child's college fund contribution moved earlier for discount deadline
         ("Ms Lan", "Oakleigh, could we move your son's college fund contribution up to this week? The provider's enrollment discount ends on Friday.", "Chị Oakleigh, mình dời khoản đóng góp quỹ học đại học của con trai chị sớm lên tuần này được không? Ưu đãi đăng ký của nhà cung cấp hết hạn vào thứ Sáu."),
         ("Ms Oakleigh", "Yes, contributing this week would really lock in that discount for us.", "Được, đóng góp tuần này sẽ thật sự chốt được ưu đãi đó cho gia đình tôi."),
@@ -187,12 +187,12 @@ LESSON_0398 = {
         ("Ms Oakleigh", "Good point, I will invest in the index fund then.", "Chị nói đúng, vậy tôi đầu tư vào quỹ chỉ số."),
         # 31 monthly subscription switched to annual for savings
         ("Ms Lan", "Oakleigh, could we switch your budgeting app subscription to the annual plan? It would save you almost twenty dollars this year.", "Chị Oakleigh, mình đổi gói đăng ký ứng dụng quản lý ngân sách của chị sang gói cả năm được không? Vậy sẽ tiết kiệm cho chị gần hai mươi đô la năm nay."),
-        ("Ms Oakleigh", "Yes, that savings makes switching to the annual plan well worth it.", "Được, khoản tiết kiệm đó khiến việc đổi sang gói cả năm đáng lắm."),
-        ("Ms Lan", "Good, I will switch your plan now.", "Tốt, tôi sẽ đổi gói của chị ngay."),
+        ("Ms Oakleigh", "Yes, that savings really makes the annual plan the smarter choice.", "Được, khoản tiết kiệm đó thật sự khiến gói cả năm là lựa chọn khôn ngoan hơn."),
+        ("Ms Lan", "Good, I will process the switch now.", "Tốt, tôi sẽ xử lý việc đổi gói ngay."),
         # 32 advisor's advice before big investment
         ("Ms Oakleigh", "Lan, should I invest this bonus right away, or get the financial advisor's advice first?", "Chị Lan, tôi nên đầu tư khoản thưởng này ngay, hay xin lời khuyên tư vấn viên tài chính trước vậy?"),
         ("Ms Lan", "Get the advisor's advice first, since this amount is much larger than your usual investments.", "Xin lời khuyên tư vấn viên trước đi, vì số tiền này lớn hơn nhiều so với các khoản đầu tư thường của chị."),
-        ("Ms Oakleigh", "Good point, I will ask her first then.", "Chị nói đúng, vậy tôi hỏi chị ấy trước."),
+        ("Ms Oakleigh", "Good point, I will check with her first then.", "Chị nói đúng, vậy tôi hỏi ý kiến chị ấy trước."),
         # 33 bonus deposit date moved after employer's schedule change
         ("Ms Lan", "Oakleigh, could we move your expected bonus deposit note from Friday to Monday? Your employer just pushed payroll processing back to Monday.", "Chị Oakleigh, mình dời ghi chú ngày lương thưởng dự kiến của chị từ thứ Sáu sang thứ Hai được không? Công ty vừa dời xử lý lương sang thứ Hai."),
         ("Ms Oakleigh", "Yes, Monday matches what the payroll office just confirmed to me.", "Được, thứ Hai khớp với điều phòng lương vừa xác nhận với tôi."),
@@ -216,7 +216,7 @@ LESSON_0398 = {
         # 38 two bank advisors after one left
         ("Ms Oakleigh", "Lan, should I switch to the new advisor here, or find one at a different branch since mine just left?", "Chị Lan, tôi nên đổi sang tư vấn viên mới ở đây, hay tìm người ở chi nhánh khác vì tư vấn viên cũ của tôi vừa nghỉ vậy?"),
         ("Ms Lan", "Switch to the new one here, since he already has your full financial file on record.", "Đổi sang người mới ở đây đi, vì anh ấy đã có sẵn hồ sơ tài chính đầy đủ của chị rồi."),
-        ("Ms Oakleigh", "Good point, I will book with him then.", "Chị nói đúng, vậy tôi đặt lịch với anh ấy."),
+        ("Ms Oakleigh", "Good point, I will schedule a meeting with him then.", "Chị nói đúng, vậy tôi sắp xếp buổi gặp với anh ấy."),
         # 39 bank membership tier switched for better perks
         ("Ms Lan", "Oakleigh, could we switch your bank membership to the premium tier? It would give you the free wire transfers you keep paying extra for.", "Chị Oakleigh, mình đổi hạng thành viên ngân hàng của chị sang hạng cao cấp được không? Vậy chị sẽ được chuyển khoản quốc tế miễn phí thay vì trả thêm phí như lâu nay."),
         ("Ms Oakleigh", "Yes, free wire transfers alone would really be worth the upgrade.", "Được, chỉ riêng chuyển khoản quốc tế miễn phí cũng đáng để nâng cấp rồi."),
@@ -228,7 +228,7 @@ LESSON_0398 = {
         # 41 budget review meeting moved for new night shift
         ("Ms Lan", "Oakleigh, could we move your budget review meeting from next Tuesday to next Saturday? Your new night shift schedule just started this week.", "Chị Oakleigh, mình dời buổi họp xem lại ngân sách của chị từ thứ Ba tới sang thứ Bảy tới được không? Lịch làm ca đêm mới của chị vừa bắt đầu tuần này."),
         ("Ms Oakleigh", "Yes, Saturday would let me actually focus without feeling half asleep.", "Được, thứ Bảy sẽ cho tôi thật sự tập trung mà không buồn ngủ."),
-        ("Ms Lan", "Good, I will reschedule it to Saturday now.", "Tốt, tôi sẽ đổi lịch sang thứ Bảy ngay."),
+        ("Ms Lan", "Good, I will switch the date to Saturday now.", "Tốt, tôi sẽ đổi ngày sang thứ Bảy ngay."),
         # 42 closing
         ("Ms Oakleigh", "Lan, why does explaining a changed choice about banking and everyday money really matter so much anyway?", "Chị Lan, vậy vì sao giải thích một lựa chọn hoặc thay đổi về ngân hàng và tiền bạc lại quan trọng đến thế?"),
         ("Ms Lan", "Because a clear reason keeps every account, payment, and small money decision working in our favor, instead of against it.", "Vì một lý do rõ ràng giúp mọi tài khoản, khoản thanh toán, và quyết định tiền bạc nhỏ luôn có lợi cho mình, thay vì gây bất lợi."),

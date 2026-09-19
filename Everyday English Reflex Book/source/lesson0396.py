@@ -83,7 +83,7 @@ LESSON_0396 = {
         # 5 massage moved earlier for sore muscles
         ("Ms Lan", "Marlborough, could we move your massage from Saturday to tomorrow? You mentioned your muscles are really sore after yesterday's long hike.", "Chị Marlborough, mình dời buổi massage của chị từ thứ Bảy sang ngày mai được không? Chị có nói cơ bắp đau lắm sau chuyến đi bộ đường dài hôm qua."),
         ("Ms Marlborough", "Yes, tomorrow would really help me recover much sooner.", "Được, ngày mai sẽ giúp tôi hồi phục sớm hơn nhiều."),
-        ("Ms Lan", "Good, I will book the earliest opening for you now.", "Tốt, tôi sẽ đặt khung giờ trống sớm nhất cho chị ngay."),
+        ("Ms Lan", "Good, I will book you into the earliest slot now.", "Tốt, tôi sẽ đặt cho chị vào khung giờ sớm nhất ngay."),
         # 6 swimming vs pilates class
         ("Ms Marlborough", "Lan, should I join the swimming class or the pilates class this term?", "Chị Lan, học kỳ này tôi nên tham gia lớp bơi hay lớp pilates vậy?"),
         ("Ms Lan", "Join the pilates class, since it targets the lower back pain you mentioned before.", "Tham gia lớp pilates đi, vì nó tập trung vào chứng đau lưng dưới chị từng nói."),
@@ -183,7 +183,7 @@ LESSON_0396 = {
         # 30 two workout programs
         ("Ms Marlborough", "Lan, should I follow the high-intensity program, or the low-impact one the trainer suggested?", "Chị Lan, tôi nên theo chương trình cường độ cao, hay chương trình tác động thấp huấn luyện viên gợi ý vậy?"),
         ("Ms Lan", "Follow the low-impact one, since your knees really need a gentler routine right now.", "Theo chương trình tác động thấp đi, vì đầu gối chị thật sự cần một chế độ nhẹ nhàng hơn lúc này."),
-        ("Ms Marlborough", "Good point, I will start that program then.", "Chị nói đúng, vậy tôi bắt đầu chương trình đó."),
+        ("Ms Marlborough", "Good point, I will start with the low-impact one then.", "Chị nói đúng, vậy tôi bắt đầu với chương trình tác động thấp."),
         # 31 monthly gym payment switched to annual plan
         ("Ms Lan", "Marlborough, could we switch your monthly gym payment to the annual plan? It would save you almost sixty dollars this year.", "Chị Marlborough, mình đổi cách thanh toán gym hàng tháng của chị sang gói cả năm được không? Vậy sẽ tiết kiệm cho chị gần sáu mươi đô la năm nay."),
         ("Ms Marlborough", "Yes, that savings makes switching to the annual plan well worth it.", "Được, khoản tiết kiệm đó khiến việc đổi sang gói cả năm đáng lắm."),
@@ -223,11 +223,11 @@ LESSON_0396 = {
         # 40 keep weekly massage for a parent
         ("Ms Marlborough", "Lan, should we keep the weekly massage for my father, or cancel it since his back is feeling much better?", "Chị Lan, mình nên giữ buổi massage hàng tuần cho bố tôi, hay hủy vì lưng bố tôi đã đỡ hơn nhiều rồi vậy?"),
         ("Ms Lan", "Keep it for one more month, since stopping too early could bring the pain right back.", "Giữ thêm một tháng nữa đi, vì dừng quá sớm có thể khiến cơn đau quay lại ngay."),
-        ("Ms Marlborough", "Good point, I will keep it for one more month then.", "Chị nói đúng, vậy tôi giữ thêm một tháng."),
+        ("Ms Marlborough", "Good point, I will keep the massage going a bit longer then.", "Chị nói đúng, vậy tôi giữ buổi massage thêm một thời gian."),
         # 41 sleep-tracking check-in moved for new night shift
         ("Ms Lan", "Marlborough, could we move your sleep-tracking check-in from next Tuesday to next Saturday? Your new night shift schedule just started this week.", "Chị Marlborough, mình dời buổi kiểm tra theo dõi giấc ngủ của chị từ thứ Ba tới sang thứ Bảy tới được không? Lịch làm ca đêm mới của chị vừa bắt đầu tuần này."),
         ("Ms Marlborough", "Yes, Saturday would let the coach actually review my new sleep pattern.", "Được, thứ Bảy sẽ cho huấn luyện viên thật sự xem lại nhịp ngủ mới của tôi."),
-        ("Ms Lan", "Good, I will reschedule it to Saturday now.", "Tốt, tôi sẽ đổi lịch sang thứ Bảy ngay."),
+        ("Ms Lan", "Good, I will move it to Saturday now.", "Tốt, tôi sẽ dời sang thứ Bảy ngay."),
         # 42 closing
         ("Ms Marlborough", "Lan, why does explaining a changed choice about fitness and wellbeing really matter so much anyway?", "Chị Lan, vậy vì sao giải thích một lựa chọn hoặc thay đổi về thể dục và sức khỏe lại quan trọng đến thế?"),
         ("Ms Lan", "Because a clear reason keeps every class, trainer, and small routine change working with your body, instead of against it.", "Vì một lý do rõ ràng giúp mọi lớp học, huấn luyện viên, và thay đổi thói quen nhỏ luôn hợp với cơ thể chị, thay vì gây hại cho nó."),

@@ -84,7 +84,7 @@ LESSON_0397 = {
         # 5 facial treatment moved earlier for skin irritation
         ("Ms Lan", "Fenwood, could we move your facial treatment from next week to tomorrow? Your skin flared up quite badly this morning.", "Anh Fenwood, mình dời liệu trình chăm sóc da mặt của anh từ tuần sau sang ngày mai được không? Sáng nay da anh kích ứng khá nặng."),
         ("Mr Fenwood", "Yes, tomorrow would really calm it down much sooner.", "Được, ngày mai sẽ giúp da dịu lại sớm hơn nhiều."),
-        ("Ms Lan", "Good, I will book the earliest opening for you now.", "Tốt, tôi sẽ đặt khung giờ trống sớm nhất cho anh ngay."),
+        ("Ms Lan", "Good, I will find you the earliest opening now.", "Tốt, tôi sẽ tìm khung giờ trống sớm nhất cho anh ngay."),
         # 6 two eyebrow threading technicians
         ("Mr Fenwood", "Lan, should I ask for the technician who shaped my brows last time, or try whoever is free today?", "Chị Lan, tôi nên xin thợ đã tạo dáng chân mày cho tôi lần trước, hay thử ai đang rảnh hôm nay vậy?"),
         ("Ms Lan", "Ask for the same technician, since she already knows your preferred shape exactly.", "Xin đúng thợ đó đi, vì cô ấy đã biết chính xác dáng anh thích."),
@@ -112,7 +112,7 @@ LESSON_0397 = {
         # 12 keep same hairstylist or switch after moving house
         ("Mr Fenwood", "Lan, should I keep my usual hairstylist across town, or switch to one near our new house?", "Chị Lan, tôi nên giữ thợ làm tóc quen thuộc bên kia thành phố, hay đổi sang thợ gần nhà mới vậy?"),
         ("Ms Lan", "Switch to the one near your new house, since the long drive really isn't worth it anymore.", "Đổi sang thợ gần nhà mới đi, vì đường xa như vậy thật sự không đáng nữa."),
-        ("Mr Fenwood", "Good point, I will book with the closer one then.", "Chị nói đúng, vậy tôi đặt lịch với người gần hơn."),
+        ("Mr Fenwood", "Good point, I will book with the closer stylist then.", "Chị nói đúng, vậy tôi đặt lịch với thợ gần hơn."),
         # 13 pedicure appointment moved earlier for wedding date change
         ("Ms Lan", "Fenwood, could we move your wife's pedicure from Saturday to Wednesday? Her cousin's wedding date just moved up to Thursday.", "Anh Fenwood, mình dời lịch làm móng chân của vợ anh từ thứ Bảy sang thứ Tư được không? Ngày cưới của em họ chị ấy vừa dời sớm lên thứ Năm."),
         ("Mr Fenwood", "Yes, Wednesday would give her plenty of time before the wedding.", "Được, thứ Tư sẽ cho chị ấy đủ thời gian trước đám cưới."),
@@ -148,7 +148,7 @@ LESSON_0397 = {
         # 21 eyelash extension refill moved earlier for lashes falling out
         ("Ms Lan", "Fenwood, could we move your wife's eyelash refill from next week to tomorrow? Quite a few lashes have already fallen out.", "Anh Fenwood, mình dời lịch nối mi bổ sung của vợ anh từ tuần sau sang ngày mai được không? Khá nhiều mi đã rụng rồi."),
         ("Mr Fenwood", "Yes, tomorrow would fix that gap in her lashes much sooner.", "Được, ngày mai sẽ khắc phục chỗ mi thưa đó sớm hơn nhiều."),
-        ("Ms Lan", "Good, I will book the earliest opening for her now.", "Tốt, tôi sẽ đặt khung giờ trống sớm nhất cho chị ấy ngay."),
+        ("Ms Lan", "Good, I will book that earliest slot for her now.", "Tốt, tôi sẽ đặt khung giờ sớm nhất đó cho chị ấy ngay."),
         # 22 two spa locations
         ("Mr Fenwood", "Lan, should we book the spa downtown or the one near the lake for our anniversary?", "Chị Lan, mình nên đặt spa trung tâm thành phố hay spa gần hồ cho kỷ niệm ngày cưới vậy?"),
         ("Ms Lan", "Book the one near the lake, since the quiet view really suits a relaxing anniversary.", "Đặt spa gần hồ đi, vì khung cảnh yên tĩnh đó thật sự hợp cho kỷ niệm thư giãn."),
@@ -160,23 +160,23 @@ LESSON_0397 = {
         # 24 color touch-up now or wait
         ("Mr Fenwood", "Lan, should I get my color touch-up now, or wait until after the holiday like I planned?", "Chị Lan, tôi nên chỉnh màu tóc ngay bây giờ, hay đợi sau kỳ nghỉ lễ như dự định vậy?"),
         ("Ms Lan", "Get it now, since the roots are already showing quite a bit in photos.", "Chỉnh ngay đi, vì chân tóc đã lộ khá rõ trong ảnh rồi."),
-        ("Mr Fenwood", "Good point, I will book it now then.", "Chị nói đúng, vậy tôi đặt lịch ngay."),
+        ("Mr Fenwood", "Good point, I will schedule it now then.", "Chị nói đúng, vậy tôi sắp xếp lịch ngay."),
         # 25 men's grooming package evening to morning for new job
         ("Ms Lan", "Fenwood, could we move your grooming package from evening to morning? Your new job's hours just changed to a later shift.", "Anh Fenwood, mình dời gói chăm sóc nam giới của anh từ tối sang sáng được không? Giờ làm công việc mới của anh vừa đổi sang ca muộn hơn."),
-        ("Mr Fenwood", "Yes, morning would actually fit my new schedule much better now.", "Được, buổi sáng thật sự sẽ hợp hơn nhiều với lịch mới của tôi bây giờ."),
-        ("Ms Lan", "Good, I will move it to the morning slot now.", "Tốt, tôi sẽ dời sang khung giờ sáng ngay."),
+        ("Mr Fenwood", "Yes, morning would really suit my new schedule much better now.", "Được, buổi sáng thật sự sẽ hợp hơn nhiều với lịch mới của tôi bây giờ."),
+        ("Ms Lan", "Good, I will book the morning slot instead now.", "Tốt, tôi sẽ đặt khung giờ sáng thay vào ngay."),
         # 26 video consultation vs in-person for skincare
         ("Mr Fenwood", "Lan, should I do a video consultation, or go in person for this skincare follow-up?", "Chị Lan, tôi nên gọi tư vấn video, hay đến trực tiếp cho buổi tái khám chăm sóc da này vậy?"),
         ("Ms Lan", "Do the video consultation, since the esthetician only needs to see your progress photos this time.", "Gọi video đi, vì lần này chuyên viên chỉ cần xem ảnh tiến độ của anh thôi."),
-        ("Mr Fenwood", "Good point, I will book a video call then.", "Chị nói đúng, vậy tôi đặt cuộc gọi video."),
+        ("Mr Fenwood", "Good point, I will set up the video call then.", "Chị nói đúng, vậy tôi thiết lập cuộc gọi video."),
         # 27 loyalty card switched to new salon branch after moving
         ("Ms Lan", "Fenwood, could we switch your salon loyalty card to the branch near our new place? We just moved across town last week.", "Anh Fenwood, mình chuyển thẻ thành viên tiệm của anh sang chi nhánh gần nhà mới được không? Tuần trước nhà mình mới chuyển sang khu khác trong thành phố."),
         ("Mr Fenwood", "Yes, that branch would be much more convenient for our visits now.", "Được, chi nhánh đó sẽ tiện hơn nhiều cho những lần đến của mình bây giờ."),
-        ("Ms Lan", "Good, I will transfer your card now.", "Tốt, tôi sẽ chuyển thẻ của anh ngay."),
+        ("Ms Lan", "Good, I will move your card to that branch now.", "Tốt, tôi sẽ chuyển thẻ của anh sang chi nhánh đó ngay."),
         # 28 combine facial and massage in one visit
         ("Mr Fenwood", "Lan, should we combine a facial and a massage in one visit, or book them on separate days?", "Chị Lan, mình nên gộp chăm sóc da mặt và massage vào một lần đến, hay đặt riêng hai ngày khác nhau vậy?"),
         ("Ms Lan", "Combine them, since it saves you a whole extra trip during such a busy week.", "Gộp lại đi, vì vậy anh đỡ phải đi thêm một chuyến trong tuần bận rộn thế này."),
-        ("Mr Fenwood", "Good point, I will book both together then.", "Chị nói đúng, vậy tôi đặt cả hai cùng lúc."),
+        ("Mr Fenwood", "Good point, I will schedule both together then.", "Chị nói đúng, vậy tôi sắp xếp cả hai cùng lúc."),
         # 29 daughter's first haircut moved earlier for discomfort
         ("Ms Lan", "Fenwood, could we move your daughter's first haircut from Saturday to tomorrow? She keeps tugging at her fringe because it bothers her eyes.", "Anh Fenwood, mình dời lần cắt tóc đầu tiên của con gái anh từ thứ Bảy sang ngày mai được không? Bé cứ kéo mái tóc vì nó vướng mắt."),
         ("Mr Fenwood", "Yes, tomorrow would really give her some relief much sooner.", "Được, ngày mai sẽ thật sự giúp bé đỡ hơn sớm."),
@@ -188,7 +188,7 @@ LESSON_0397 = {
         # 31 monthly membership to package deal for savings
         ("Ms Lan", "Fenwood, could we switch your salon membership to the package deal? It would save you almost forty dollars over four visits.", "Anh Fenwood, mình đổi thẻ thành viên tiệm của anh sang gói combo được không? Vậy sẽ tiết kiệm cho anh gần bốn mươi đô la qua bốn lần đến."),
         ("Mr Fenwood", "Yes, that savings makes switching to the package deal well worth it.", "Được, khoản tiết kiệm đó khiến việc đổi sang gói combo đáng lắm."),
-        ("Ms Lan", "Good, I will switch your plan now.", "Tốt, tôi sẽ đổi gói của anh ngay."),
+        ("Ms Lan", "Good, I will apply that package deal now.", "Tốt, tôi sẽ áp dụng gói combo đó ngay."),
         # 32 stylist's advice before big color change
         ("Mr Fenwood", "Lan, should my wife go straight for the platinum color, or get the stylist's advice first?", "Chị Lan, vợ tôi nên nhuộm thẳng màu bạch kim luôn, hay xin lời khuyên thợ làm tóc trước vậy?"),
         ("Ms Lan", "Get the stylist's advice first, since her hair has never been lightened this much before.", "Xin lời khuyên thợ trước đi, vì tóc chị ấy chưa bao giờ được tẩy sáng nhiều thế này."),
@@ -212,23 +212,23 @@ LESSON_0397 = {
         # 37 allergy patch test moved to faster lab
         ("Ms Lan", "Fenwood, could we move your patch test to the clinic downtown? They promise results the same day instead of two days.", "Anh Fenwood, mình chuyển buổi thử phản ứng da của anh sang phòng khám trung tâm thành phố được không? Họ hứa có kết quả trong ngày thay vì hai ngày."),
         ("Mr Fenwood", "Yes, same-day results would really put my mind at ease sooner.", "Được, có kết quả trong ngày sẽ thật sự giúp tôi yên tâm sớm hơn."),
-        ("Ms Lan", "Good, I will book the downtown clinic now.", "Tốt, tôi sẽ đặt lịch ở phòng khám trung tâm ngay."),
+        ("Ms Lan", "Good, I will set up the downtown clinic visit now.", "Tốt, tôi sẽ sắp xếp buổi khám ở phòng khám trung tâm ngay."),
         # 38 two estheticians after one left
         ("Mr Fenwood", "Lan, should my wife switch to the new esthetician here, or find one at a different clinic since hers just left?", "Chị Lan, vợ tôi nên đổi sang chuyên viên chăm sóc da mới ở đây, hay tìm người ở phòng khám khác vì chuyên viên cũ của chị ấy vừa nghỉ vậy?"),
         ("Ms Lan", "Switch to the new one here, since she already has your wife's full skin history on file.", "Đổi sang người mới ở đây đi, vì cô ấy đã có sẵn hồ sơ da đầy đủ của vợ anh rồi."),
-        ("Mr Fenwood", "Good point, I will book with her then.", "Chị nói đúng, vậy tôi đặt lịch với cô ấy."),
+        ("Mr Fenwood", "Good point, I will schedule with her then.", "Chị nói đúng, vậy tôi sắp xếp lịch với cô ấy."),
         # 39 salon membership plan switched for better access
         ("Ms Lan", "Fenwood, could we switch your salon membership to the premium plan? It would give you access to the popular Saturday chairs you keep missing.", "Anh Fenwood, mình đổi thẻ thành viên tiệm của anh sang gói cao cấp được không? Vậy anh sẽ được vào các ghế thứ Bảy đông khách mà anh cứ lỡ."),
         ("Mr Fenwood", "Yes, full access to those chairs would really be worth the upgrade.", "Được, được vào đầy đủ các ghế đó thật sự đáng để nâng cấp."),
-        ("Ms Lan", "Good, I will upgrade your plan now.", "Tốt, tôi sẽ nâng cấp gói của anh ngay."),
+        ("Ms Lan", "Good, I will process the upgrade now.", "Tốt, tôi sẽ xử lý việc nâng cấp ngay."),
         # 40 keep weekly blow-dry for a parent
         ("Mr Fenwood", "Lan, should we keep the weekly blow-dry for my mother, or cancel it since she's visiting less often now?", "Chị Lan, mình nên giữ buổi sấy tóc hàng tuần cho mẹ tôi, hay hủy vì giờ mẹ ít đến hơn vậy?"),
         ("Ms Lan", "Keep it for one more month, since cancelling now could lose her favorite time slot.", "Giữ thêm một tháng nữa đi, vì hủy bây giờ có thể mất khung giờ mẹ thích."),
-        ("Mr Fenwood", "Good point, I will keep it for one more month then.", "Chị nói đúng, vậy tôi giữ thêm một tháng."),
+        ("Mr Fenwood", "Good point, I will keep booking it a while longer then.", "Chị nói đúng, vậy tôi đặt lịch đó thêm một thời gian."),
         # 41 relaxation spa session moved for new night shift
         ("Ms Lan", "Fenwood, could we move your relaxation spa session from next Tuesday to next Saturday? Your new night shift schedule just started this week.", "Anh Fenwood, mình dời buổi thư giãn spa của anh từ thứ Ba tới sang thứ Bảy tới được không? Lịch làm ca đêm mới của anh vừa bắt đầu tuần này."),
         ("Mr Fenwood", "Yes, Saturday would let me actually enjoy it without feeling rushed.", "Được, thứ Bảy sẽ cho tôi thật sự tận hưởng mà không phải vội."),
-        ("Ms Lan", "Good, I will reschedule it to Saturday now.", "Tốt, tôi sẽ đổi lịch sang thứ Bảy ngay."),
+        ("Ms Lan", "Good, I will set it for Saturday now.", "Tốt, tôi sẽ đặt lại vào thứ Bảy ngay."),
         # 42 closing
         ("Mr Fenwood", "Lan, why does explaining a changed choice about personal care services really matter so much anyway?", "Chị Lan, vậy vì sao giải thích một lựa chọn hoặc thay đổi về dịch vụ chăm sóc cá nhân lại quan trọng đến thế?"),
         ("Ms Lan", "Because a clear reason keeps every stylist, therapist, and small routine change working with our family's needs, instead of guessing at them.", "Vì một lý do rõ ràng giúp mọi thợ làm tóc, chuyên viên trị liệu, và thay đổi thói quen nhỏ luôn hợp với nhu cầu gia đình mình, thay vì phải đoán mò."),

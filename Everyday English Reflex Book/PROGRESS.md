@@ -592,6 +592,30 @@ pages (real Chrome render of the full cumulative HTML), FINAL
 CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
 duplicate lines, 0 blank pages, lesson order 0001→0389 verified).
 
+**Master book updated after Block 0390-0399:** the FIFTH appearance
+of the Eating Out/Travel/Driving/Health Services/Wellbeing/Services/
+Money domain family (four prior siblings apiece: 0270-0280 "first
+practical exchange", 0300-0310 "routine everyday need", 0330-0340
+"checking an important detail", 0360-0370 "asking for help") — the
+highest repetition density this family has faced. Both dispatching
+agents were briefed at extreme caution and required to read all four
+sibling files per lesson. The 0390-0394 batch was clean on the first
+draft; the 0395-0399 agent's own self-check caught 22 internal
+collisions (mostly generic confirmation lines reused verbatim across
+its own 5 lessons) plus 1 against the format-reference lesson
+(0389), all reworded before handing back. Result: **0 cross-lesson
+duplicates** on the final whole-book check — the eighteenth fully
+clean block in a row (final state), holding even at this density.
+Every lesson confirmed at 5+ real English-only pages (1 of the 10 ran
+to 6 pages). Current cumulative state: Lessons 0001-0399,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0399.docx`
+(supersedes the 0001-0389 file), 665,240 total English learning words,
+2,002 total English-only A4 pages (399 lessons, at least 5 pages each,
+all real-rendered and verified), 2,407 actual rendered bilingual A4
+pages (real Chrome render of the full cumulative HTML), FINAL
+CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
+duplicate lines, 0 blank pages, lesson order 0001→0399 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1065,12 +1089,26 @@ duplicate lines, 0 blank pages, lesson order 0001→0389 verified).
   Next block: **0390-0399**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0389** (secondary character Mr Sherwood).
-  Domain "Scheduling", CEFR A1, scenario "a change or choice involving
-  appointments & schedules". Confirmed zero duplicate lines against
-  the whole book, 0001-0389, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0390** (A1 — check the master
-  workbook row 391 for exact domain/scenario/title before writing;
+  **BLOCK 0390-0399 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0390-0394 and 0395-0399). This was the
+  FIFTH appearance of the Eating Out/Travel/Driving/Health Services/
+  Wellbeing/Services/Money domain family (four prior siblings apiece)
+  — the highest repetition density this family has faced. Both agents
+  were briefed at extreme caution. The 0390-0394 batch was clean on
+  the first draft; 0395-0399's own self-check caught 22 internal
+  collisions plus 1 against lesson0389, all fixed before handing
+  back. Result: 0 cross-lesson duplicates on the final whole-book
+  check — the eighteenth fully clean block in a row. Lesson 0399
+  closes out the book's first 400 lessons (20% of 2000).
+  Next block: **0400-0409**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0399** (secondary character Mr Braithwaite).
+  Domain "Services", CEFR A1, scenario "a change or choice involving
+  post, courier & deliveries". Confirmed zero duplicate lines against
+  the whole book, 0001-0399, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0400** (A1 — check the master
+  workbook row 401 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1129,8 +1167,10 @@ duplicate lines, 0 blank pages, lesson order 0001→0389 verified).
   Pettigrew, Ellwood, Blythewood, Castellane, Marchfield, Thorncliffe,
   Bramblewood, Oakhurst, Winterset, Ferndale, Ashmore, Kettleworth,
   Stratford, Wickham, Farrington, Holbrook, Sinclair, Prescott,
-  Thistledown, Ravensbourne, Cadwallader, Sherwood.
-  Pick a fresh name for Lesson 0390's secondary character and note the
+  Thistledown, Ravensbourne, Cadwallader, Sherwood, Hargrove,
+  Faircloth, Blackmoor, Rosendale, Netherwood, Cranshaw, Marlborough,
+  Fenwood, Oakleigh, Braithwaite.
+  Pick a fresh name for Lesson 0400's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
