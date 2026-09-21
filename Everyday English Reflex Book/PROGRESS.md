@@ -696,6 +696,38 @@ pages (real Chrome render of the full cumulative HTML), FINAL
 CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
 duplicate lines, 0 blank pages, lesson order 0001→0429 verified).
 
+**Master book updated after Block 0430-0439:** Lesson 0430 was the
+SEVENTH appearance of Services — repairs & home services (five prior
+siblings: 0280, 0310, 0340, 0370, 0400, per the misunderstanding
+scenario at 0430 vs the change/choice one at 0400 — six distinct
+scenario types now used). Lessons 0431-0439 opened a brand-new
+top-level scenario category, "Making a simple request about X",
+cycling back through the original Lesson 0001-0009 topics (your name,
+saying hello, numbers 0-20, a room in the home, who a family member
+is, asking for water, and the first practical exchange for shopping/
+clothing/neighbourhood) — each topic's FOURTH appearance overall
+(0001-0009, 0109-0117, 0217-0225, 0251-0259, now 0431-0439), the
+deepest topic-repetition in the book, though the new request/
+imperative framing ("Could you...", "Would you mind...") gave fresh
+sentence shapes distinct from every prior Q&A-framed appearance. Both
+dispatching agents read Lesson 0001 itself (loaded from the approved
+docx, since no lessonNNNN.py exists for it) plus every other prior
+sibling before writing. Both batches were clean on the first draft
+(one agent caught and fixed a single internal near-duplicate during
+self-check). Result: **0 cross-lesson duplicates** on the final
+whole-book check — the twenty-second fully clean block in a row
+(final state). Every lesson confirmed at 5+ real English-only pages
+(0431-0439 ran leaner on word count, 1454-1907 words, but all still
+real-rendered at the required 5 pages). Current cumulative state:
+Lessons 0001-0439,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0439.docx`
+(supersedes the 0001-0429 file), 751,551 total English learning words,
+2,211 total English-only A4 pages (439 lessons, at least 5 pages each,
+all real-rendered and verified), 2,695 actual rendered bilingual A4
+pages (real Chrome render of the full cumulative HTML), FINAL
+CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
+duplicate lines, 0 blank pages, lesson order 0001→0439 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1230,13 +1262,27 @@ duplicate lines, 0 blank pages, lesson order 0001→0429 verified).
   Next block: **0430-0439**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0429** (secondary character Mr Attlebridge).
-  Domain "Services", CEFR A1, scenario "a misunderstanding or problem
-  involving post, courier & deliveries". Confirmed zero duplicate
-  lines against the whole book, 0001-0429, and 5 real English-only
-  pages.
-- **Next lesson to write on NEXT: 0430** (A1 — check the master
-  workbook row 431 for exact domain/scenario/title before writing;
+  **BLOCK 0430-0439 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0430-0434 and 0435-0439). Lesson 0430 was
+  the seventh appearance of Services — repairs & home services.
+  Lessons 0431-0439 opened a brand-new top-level scenario category,
+  "Making a simple request about X", cycling back through the
+  original Lesson 0001-0009 topics for their fourth appearance overall
+  — the deepest topic-repetition in the book — but the new
+  request/imperative framing gave fresh sentence shapes. Both agents
+  read Lesson 0001 itself via the approved docx loader plus every
+  other prior sibling. Result: 0 cross-lesson duplicates on the final
+  whole-book check — the twenty-second fully clean block in a row.
+  Next block: **0440-0449**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0439** (secondary character Mr Marchmont).
+  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
+  about the first practical exchange about neighbourhood &
+  directions". Confirmed zero duplicate lines against the whole book,
+  0001-0439, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0440** (A1 — check the master
+  workbook row 441 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1302,8 +1348,10 @@ duplicate lines, 0 blank pages, lesson order 0001→0429 verified).
   Longmoor, Ellsmere, Barrowdale, Crestfield, Dunmore, Ashleigh,
   Kingswood, Pendlebury, Northcote, Wrayburn, Siddington, Amberley,
   Featherstone, Montrose, Wickersley, Bellwether, Hollowgate,
-  Stanwick, Farleigh, Crombie, Attlebridge.
-  Pick a fresh name for Lesson 0430's secondary character and note the
+  Stanwick, Farleigh, Crombie, Attlebridge, Overbrook, Fairholme,
+  Crandall, Haverford, Ellington, Thackford, Sorensby, Ashcott,
+  Winterly, Marchmont.
+  Pick a fresh name for Lesson 0440's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used

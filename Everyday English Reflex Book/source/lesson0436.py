@@ -81,7 +81,7 @@ LESSON_0436 = {
         ("Ms Sorensby", "Sure, I'll ask them between our turns, no problem at all.", "Được chứ, để tôi hỏi giữa các lượt chơi, không vấn đề gì đâu."),
         ("Ms Lan", "Thanks, I think that's exactly why my last throw went so wide.", "Cảm ơn chị, chắc đó là lý do cú ném vừa rồi của tôi lệch quá."),
         # 11 ice skating rink
-        ("Ms Sorensby", "Could you ask that staff member for some water, Lan? Skating always makes me surprisingly thirsty.", "Chị Lan, chị hỏi giúp nhân viên kia xin ít nước được không? Trượt băng lúc nào cũng làm tôi khát bất ngờ."),
+        ("Ms Sorensby", "Could you ask the rink staff for some water, Lan? Skating always makes me surprisingly thirsty.", "Chị Lan, chị hỏi giúp nhân viên sân trượt xin ít nước được không? Trượt băng lúc nào cũng làm tôi khát bất ngờ."),
         ("Ms Lan", "Of course, let's skate over to the counter and ask together.", "Được chứ, mình trượt tới quầy hỏi cùng nhau nhé."),
         ("Ms Sorensby", "Good plan, my legs could use a short rest too right now.", "Kế hoạch hay đấy, chân tôi cũng đang cần nghỉ một chút."),
         # 12 planetarium intermission
