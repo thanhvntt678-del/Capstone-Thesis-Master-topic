@@ -728,6 +728,30 @@ pages (real Chrome render of the full cumulative HTML), FINAL
 CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
 duplicate lines, 0 blank pages, lesson order 0001→0439 verified).
 
+**Master book updated after Block 0440-0449:** continued the "Making
+a simple request about X" pattern across Transport ×2, Mobility,
+Weather, Daily Life, Learning, Work, Communication ×2, and Scheduling,
+revisiting "the first practical exchange about X" topics for their
+fifth appearance (0440-0448, four prior Q&A siblings apiece:
+0010-0018, 0118-0126, 0226-0234, 0260-0268) and Scheduling's second
+appearance (0449, one prior sibling: 0269). Both dispatching agents
+used the request/imperative framing successfully proven in Block
+0430-0439. The 0440-0444 agent's own whole-book check caught 5
+generic-reaction collisions and fixed them; 0445-0449 caught and fixed
+1 of its own plus flagged 4 more that turned out to belong to the
+sibling batch (already resolved by that agent's own fix pass). Result:
+**0 cross-lesson duplicates** on the final whole-book check — the
+twenty-third fully clean block in a row (final state). Every lesson
+confirmed at 5 real English-only pages. Current cumulative state:
+Lessons 0001-0449,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0449.docx`
+(supersedes the 0001-0439 file), 769,083 total English learning words,
+2,261 total English-only A4 pages (449 lessons × 5 pages each, all
+real-rendered and verified), 2,759 actual rendered bilingual A4 pages
+(real Chrome render of the full cumulative HTML), FINAL CUMULATIVE QC:
+PASS (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines, 0
+blank pages, lesson order 0001→0449 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1276,13 +1300,26 @@ duplicate lines, 0 blank pages, lesson order 0001→0439 verified).
   Next block: **0440-0449**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0439** (secondary character Mr Marchmont).
-  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
-  about the first practical exchange about neighbourhood &
-  directions". Confirmed zero duplicate lines against the whole book,
-  0001-0439, and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0440** (A1 — check the master
-  workbook row 441 for exact domain/scenario/title before writing;
+  **BLOCK 0440-0449 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0440-0444 and 0445-0449). Continued
+  "Making a simple request about X" across Transport ×2, Mobility,
+  Weather, Daily Life, Learning, Work, Communication ×2, and
+  Scheduling, revisiting "the first practical exchange about X"
+  topics for their fifth appearance (four prior Q&A siblings apiece
+  for 0440-0448) and Scheduling's second appearance (0449). Both
+  agents caught and fixed generic-reaction collisions during their own
+  checks. Result: 0 cross-lesson duplicates on the final whole-book
+  check — the twenty-third fully clean block in a row.
+  Next block: **0450-0459**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0449** (secondary character Mr Davenport).
+  Domain "Scheduling", CEFR A1, scenario "Making a simple request
+  about the first practical exchange about appointments &
+  schedules". Confirmed zero duplicate lines against the whole book,
+  0001-0449, and 5 real English-only pages.
+- **Next lesson to write on NEXT: 0450** (A1 — check the master
+  workbook row 451 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1350,8 +1387,9 @@ duplicate lines, 0 blank pages, lesson order 0001→0439 verified).
   Featherstone, Montrose, Wickersley, Bellwether, Hollowgate,
   Stanwick, Farleigh, Crombie, Attlebridge, Overbrook, Fairholme,
   Crandall, Haverford, Ellington, Thackford, Sorensby, Ashcott,
-  Winterly, Marchmont.
-  Pick a fresh name for Lesson 0440's secondary character and note the
+  Winterly, Marchmont, Colchester, Bramhall, Sedgefield, Northrup,
+  Ashbourne, Carlyle, Winbourne, Thornby, Kentford, Davenport.
+  Pick a fresh name for Lesson 0450's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
