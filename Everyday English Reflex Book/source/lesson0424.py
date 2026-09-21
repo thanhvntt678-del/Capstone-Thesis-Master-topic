@@ -109,8 +109,8 @@ LESSON_0424 = {
         ("Ms Bellwether", "My mistake, I'll reprint the agreement with his correct surname before he drives off.", "Lỗi của tôi, tôi in lại hợp đồng với đúng họ của anh ấy trước khi anh ấy lái đi."),
         # 9 card charged twice for insurance upgrade
         ("Ms Lan", "Bellwether, I think the group's card was actually charged twice for Owen's car insurance upgrade.", "Chị Bellwether, tôi nghĩ thẻ của nhóm thật ra đã bị tính khoản nâng cấp bảo hiểm xe của Owen hai lần."),
-        ("Ms Bellwether", "Let me check the statement — you're right, there are two identical charges from this morning.", "Để tôi xem sao kê — chị nói đúng, có hai khoản giống hệt nhau từ sáng nay."),
-        ("Ms Lan", "Thank you for checking, refunding the extra charge now will make the total correct again.", "Cảm ơn chị đã kiểm tra, hoàn lại khoản dư ngay bây giờ sẽ giúp tổng tiền đúng lại."),
+        ("Ms Bellwether", "Let me look at the statement — you're right, two identical charges appear from this morning.", "Để tôi xem sao kê — chị nói đúng, có hai khoản giống hệt nhau xuất hiện từ sáng nay."),
+        ("Ms Lan", "Thanks for looking into it, refunding the extra charge now will make the total correct.", "Cảm ơn chị đã kiểm tra giúp, hoàn lại khoản dư ngay bây giờ sẽ giúp tổng tiền đúng lại."),
         # 10 larger van wrong recipient
         ("Ms Bellwether", "Lan, the larger van meant for the longest route appears to have gone to a different driver.", "Chị Lan, xe van lớn hơn dành cho tuyến đường dài nhất có vẻ đã đưa nhầm cho một tài xế khác."),
         ("Ms Lan", "You're right, actually, that van was meant for Marcus, since his route has eighteen stops.", "Chị nói đúng đấy, xe van đó thật ra dành cho Marcus, vì tuyến của anh ấy có mười tám điểm dừng."),
@@ -121,7 +121,7 @@ LESSON_0424 = {
         ("Ms Lan", "Good thing you checked, printing two more permits now will keep every car covered.", "May là chị kiểm tra, in thêm hai giấy phép nữa ngay bây giờ sẽ bao phủ hết mọi xe."),
         # 12 disabled placard not passed along
         ("Ms Bellwether", "Lan, I don't see a disabled parking placard on file for Priya's car today.", "Chị Lan, tôi không thấy phù hiệu đỗ xe cho người khuyết tật nào trong hồ sơ cho xe của Priya hôm nay."),
-        ("Ms Lan", "You're right, I sent that request in a separate email two weeks ago.", "Chị nói đúng, tôi gửi yêu cầu đó qua email riêng hai tuần trước."),
+        ("Ms Lan", "You're right, I sent that same request in a separate email two weeks ago.", "Chị nói đúng, tôi gửi đúng yêu cầu đó qua email riêng hai tuần trước."),
         ("Ms Bellwether", "I'll add that note to her car now, so the placard is ready before she leaves.", "Tôi thêm ghi chú đó vào xe của cô ấy ngay bây giờ, vậy phù hiệu sẽ sẵn sàng trước khi cô ấy đi."),
         # 13 wrong pickup time to driver
         ("Ms Lan", "Bellwether, I think Dahlia was told her pickup is at nine, though the schedule actually says eight thirty.", "Chị Bellwether, tôi nghĩ Dahlia được báo giờ đón của cô ấy là chín giờ, dù lịch trình thật ra ghi tám giờ rưỡi."),
@@ -173,32 +173,32 @@ LESSON_0424 = {
         ("Ms Bellwether", "Thank you for letting me know, I'll hold her car and flag it for a late arrival now.", "Cảm ơn chị đã báo, tôi giữ xe cho cô ấy và ghi chú đến trễ ngay bây giờ."),
         # 25 wrong emergency contact number
         ("Ms Lan", "Bellwether, the emergency contact listed for our group still shows my old phone number.", "Chị Bellwether, người liên hệ khẩn cấp ghi cho nhóm tôi vẫn hiện số điện thoại cũ của tôi."),
-        ("Ms Bellwether", "Let me check the file — you're right, that number hasn't worked since you changed carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó không dùng được nữa từ khi chị đổi nhà mạng."),
+        ("Ms Bellwether", "Let me pull up the file — you're right, that number went dead once you switched carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó không dùng được nữa ngay khi chị đổi nhà mạng."),
         ("Ms Lan", "Thank you, updating it to my current number now will keep the rental office able to reach us.", "Cảm ơn chị, cập nhật số hiện tại ngay bây giờ sẽ giúp quầy thuê xe liên lạc được với bọn tôi."),
         # 26 group photo wrong hour
         ("Ms Bellwether", "Lan, the group photo at the depot is scheduled for six in the morning, though your cars don't leave until nine.", "Chị Lan, buổi chụp ảnh nhóm tại trạm được xếp lịch lúc sáu giờ sáng, dù xe của chị mãi chín giờ mới khởi hành."),
-        ("Ms Lan", "You're right, actually, I meant to book it for eight thirty, not six in the morning.", "Chị nói đúng đấy, tôi định đặt lúc tám giờ rưỡi, không phải sáu giờ sáng."),
-        ("Ms Bellwether", "Understood, I'll move that photo session to eight thirty for you right away.", "Tôi hiểu rồi, tôi dời buổi chụp ảnh đó sang tám giờ rưỡi cho chị ngay."),
+        ("Ms Lan", "You're right, actually, eight thirty was what I meant to book, not six in the morning.", "Chị nói đúng đấy, tám giờ rưỡi mới là giờ tôi định đặt, không phải sáu giờ sáng."),
+        ("Ms Bellwether", "Understood, I'll push that photo session to eight thirty for you right away.", "Tôi hiểu rồi, tôi dời buổi chụp ảnh đó sang tám giờ rưỡi cho chị ngay."),
         # 27 volunteer's name misspelled
         ("Ms Lan", "Bellwether, my volunteer's name is spelled wrong on every one of her rental agreements, it should read 'Hoang,' not 'Hoan.'", "Chị Bellwether, tên tình nguyện viên tôi bị viết sai trên mọi hợp đồng thuê xe của cô ấy, phải ghi 'Hoang,' không phải 'Hoan.'"),
-        ("Ms Bellwether", "Let me check the spelling — you're right, that extra letter is missing from her entire file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ trong toàn bộ hồ sơ của cô ấy."),
+        ("Ms Bellwether", "Let me check the spelling — you're right, that extra letter is missing everywhere in her file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ ở khắp mọi nơi trong hồ sơ của cô ấy."),
         ("Ms Lan", "Thank you for confirming, correcting it now will fix every one of her agreements at once.", "Cảm ơn chị đã xác nhận, sửa lại ngay bây giờ sẽ sửa hết mọi hợp đồng của cô ấy cùng lúc."),
         # 28 welcome instructions packet missing
         ("Ms Bellwether", "Lan, I think the welcome instructions packet only reached about half of your drivers.", "Chị Lan, tôi nghĩ gói hướng dẫn chào mừng chỉ đến được khoảng nửa số tài xế của chị."),
-        ("Ms Lan", "You're right, Marcus and Dahlia both mentioned never receiving one.", "Chị nói đúng, cả Marcus và Dahlia đều nói chưa hề nhận được."),
+        ("Ms Lan", "You're right, both Marcus and Dahlia said theirs never showed up at all.", "Chị nói đúng, cả Marcus và Dahlia đều nói phần của họ hoàn toàn không thấy đâu."),
         ("Ms Bellwether", "My apologies, I'll have the remaining packets handed out before everyone drives off.", "Tôi xin lỗi, tôi cho phát nốt số gói còn lại trước khi mọi người lái đi."),
         # 29 cancelled car refund not processed
         ("Ms Lan", "Bellwether, wasn't a refund supposed to be processed for the car Owen cancelled last week?", "Chị Bellwether, không phải một khoản hoàn tiền đáng lẽ phải được xử lý cho xe Owen hủy tuần trước sao?"),
-        ("Ms Bellwether", "It was, and you're right, I don't see that refund reflected in the system yet.", "Đúng vậy, và chị nói đúng, tôi chưa thấy khoản hoàn tiền đó được phản ánh trong hệ thống."),
-        ("Ms Lan", "Thank you for checking, processing it today will keep him from waiting any longer.", "Cảm ơn chị đã kiểm tra, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
+        ("Ms Bellwether", "It was, and you're right, that refund hasn't shown up in the system yet.", "Đúng vậy, và chị nói đúng, khoản hoàn tiền đó vẫn chưa xuất hiện trong hệ thống."),
+        ("Ms Lan", "Thanks for looking into it, processing it today will stop him from waiting any longer.", "Cảm ơn chị đã kiểm tra giúp, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
         # 30 fuel included confusion
         ("Ms Lan", "Bellwether, I'm not sure whether fuel is actually included in our group's rental rate.", "Chị Bellwether, tôi không chắc xăng có thật sự gộp trong giá thuê nhóm tôi không."),
         ("Ms Bellwether", "Let me check the contract — actually, a full tank is included for each of the eight cars.", "Để tôi xem hợp đồng — thật ra một bình đầy được gộp sẵn cho mỗi trong tám xe."),
         ("Ms Lan", "Good to know, I'll let the whole team know they don't need to pay extra then.", "Hay biết vậy, tôi báo lại cả đội biết là không cần trả thêm."),
         # 31 wrong currency on visiting volunteer's receipt
         ("Ms Bellwether", "Lan, this visiting volunteer's receipt seems to be showing charges in the wrong currency entirely.", "Chị Lan, biên lai của tình nguyện viên đến từ nơi khác này có vẻ hiện các khoản phí hoàn toàn sai loại tiền tệ."),
-        ("Ms Lan", "You're right, actually, he mentioned his receipt looked strange when we spoke this morning.", "Chị nói đúng đấy, sáng nay anh ấy có nhắc biên lai trông lạ khi bọn tôi nói chuyện."),
-        ("Ms Bellwether", "I'll correct that setting now and reissue his receipt in the right currency.", "Tôi sửa lại cài đặt đó ngay bây giờ và cấp lại biên lai của anh ấy theo đúng loại tiền tệ."),
+        ("Ms Lan", "You're right, actually, he said his receipt seemed off when we spoke this morning.", "Chị nói đúng đấy, sáng nay anh ấy có nói biên lai có vẻ không đúng khi bọn tôi nói chuyện."),
+        ("Ms Bellwether", "I'll switch that setting now and print his receipt again in the correct currency.", "Tôi đổi lại cài đặt đó ngay bây giờ và in lại biên lai của anh ấy theo đúng loại tiền tệ."),
         # 32 priority pickup lane not assigned
         ("Ms Lan", "Bellwether, wasn't a priority-pickup lane requested for Priya, though her slip still shows the regular line?", "Chị Bellwether, không phải một làn đón ưu tiên đã được yêu cầu cho Priya, dù phiếu của cô ấy lại ghi hàng thường sao?"),
         ("Ms Bellwether", "It was, and you're right, that request never got attached to her final slip.", "Đúng vậy, và chị nói đúng, yêu cầu đó chưa hề được gắn vào phiếu cuối cùng của cô ấy."),
@@ -206,7 +206,7 @@ LESSON_0424 = {
         # 33 briefing room double-booked
         ("Ms Bellwether", "Lan, I think your group's shared briefing room at the depot was accidentally double-booked for another event.", "Chị Lan, tôi nghĩ phòng họp dùng chung của nhóm chị tại trạm bị đặt trùng cho một sự kiện khác."),
         ("Ms Lan", "That would explain why another group's name appeared on the room screen earlier.", "Vậy là hợp lý, tại sao tên một nhóm khác lại xuất hiện trên màn hình phòng lúc nãy."),
-        ("Ms Bellwether", "Exactly, I've already moved the other event to a second room, so yours is fully yours again.", "Đúng vậy đấy, tôi đã chuyển sự kiện kia sang phòng khác rồi, giờ phòng của nhóm chị hoàn toàn của mình."),
+        ("Ms Bellwether", "Exactly, I've already shifted the other event into a second room, so yours is fully yours again.", "Đúng vậy đấy, tôi đã chuyển sự kiện kia sang phòng khác rồi, giờ phòng của nhóm chị hoàn toàn của mình."),
         # 34 cooler placement note mixed up
         ("Ms Lan", "Bellwether, I think the cooler placement note for Marcus's van got mixed up with Owen's van.", "Chị Bellwether, tôi nghĩ ghi chú vị trí đặt thùng giữ lạnh cho xe van của Marcus bị lẫn với xe van của Owen."),
         ("Ms Bellwether", "Let me check the loading tickets — you're right, the two names are attached to the wrong notes.", "Để tôi xem phiếu chất hàng — chị nói đúng, hai tên bị gắn nhầm ghi chú."),
@@ -234,7 +234,7 @@ LESSON_0424 = {
         # 40 pickup time mistakenly moved earlier
         ("Ms Lan", "Bellwether, I think the whole group's pickup time was mistakenly moved to eight instead of nine.", "Chị Bellwether, tôi nghĩ giờ đón của cả nhóm bị lỡ dời sang tám giờ thay vì chín giờ."),
         ("Ms Bellwether", "Let me check the schedule — you're right, nine was the time we all agreed on originally.", "Để tôi xem lịch trình — chị nói đúng, chín giờ mới là giờ mọi người đã thống nhất ban đầu."),
-        ("Ms Lan", "Thank you for confirming, I'll correct the whole group's booking back to nine right away.", "Cảm ơn chị đã xác nhận, tôi sửa lại cả lượt đặt nhóm về chín giờ ngay."),
+        ("Ms Lan", "Thank you for confirming, I'll let the whole team know nine is correct right away.", "Cảm ơn chị đã xác nhận, tôi báo lại cả đội biết chín giờ mới đúng ngay."),
         # 41 return time miscommunication
         ("Ms Bellwether", "Lan, I think your drivers were told the cars are due back at six, though the agreement actually says five.", "Chị Lan, tôi nghĩ tài xế của chị được báo xe cần trả lại lúc sáu giờ, dù hợp đồng thật ra ghi năm giờ."),
         ("Ms Lan", "You're right, actually, that message must have gone out before you updated the return time.", "Chị nói đúng đấy, chắc tin nhắn đó gửi đi trước khi anh cập nhật giờ trả xe."),

@@ -169,32 +169,32 @@ LESSON_0422 = {
         ("Ms Montrose", "Thank you for letting me know, I'll hold her seat and flag it for a late arrival now.", "Cảm ơn chị đã báo, tôi giữ ghế cho cô ấy và ghi chú đến trễ ngay bây giờ."),
         # 25 wrong emergency contact number
         ("Ms Lan", "Montrose, the emergency contact listed for our group still shows my old phone number.", "Chị Montrose, người liên hệ khẩn cấp ghi cho nhóm tôi vẫn hiện số điện thoại cũ của tôi."),
-        ("Ms Montrose", "Let me check the file — you're right, that number hasn't worked since you changed carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó không dùng được nữa từ khi chị đổi nhà mạng."),
+        ("Ms Montrose", "Let me look at the file — you're right, that number stopped working once you changed carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó ngừng dùng được ngay khi chị đổi nhà mạng."),
         ("Ms Lan", "Thank you, updating it to my current number now will keep the airline able to reach us.", "Cảm ơn chị, cập nhật số hiện tại ngay bây giờ sẽ giúp hãng bay liên lạc được với bọn tôi."),
         # 26 group photo wrong hour
         ("Ms Montrose", "Lan, the group photo at the gate is scheduled for six in the morning, though your flight doesn't board until nine.", "Chị Lan, buổi chụp ảnh nhóm tại cổng được xếp lịch lúc sáu giờ sáng, dù chuyến bay của chị mãi chín giờ mới lên."),
-        ("Ms Lan", "You're right, actually, I meant to book it for eight thirty, not six in the morning.", "Chị nói đúng đấy, tôi định đặt lúc tám giờ rưỡi, không phải sáu giờ sáng."),
-        ("Ms Montrose", "Understood, I'll move that photo session to eight thirty for you right away.", "Tôi hiểu rồi, tôi dời buổi chụp ảnh đó sang tám giờ rưỡi cho chị ngay."),
+        ("Ms Lan", "You're right, actually, eight thirty was the time I meant to book, not six in the morning.", "Chị nói đúng đấy, tám giờ rưỡi mới là giờ tôi định đặt, không phải sáu giờ sáng."),
+        ("Ms Montrose", "Understood, I'll shift that photo session to eight thirty for you right away.", "Tôi hiểu rồi, tôi chuyển buổi chụp ảnh đó sang tám giờ rưỡi cho chị ngay."),
         # 27 colleague's name misspelled
         ("Ms Lan", "Montrose, my colleague's name is spelled wrong on every one of her boarding passes, it should read 'Hoang,' not 'Hoan.'", "Chị Montrose, tên đồng nghiệp tôi bị viết sai trên mọi thẻ lên máy bay của cô ấy, phải ghi 'Hoang,' không phải 'Hoan.'"),
-        ("Ms Montrose", "Let me check the spelling — you're right, that extra letter is missing from her entire file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ trong toàn bộ hồ sơ của cô ấy."),
+        ("Ms Montrose", "Let me check the spelling — you're right, that extra letter is missing across her whole file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ khắp toàn bộ hồ sơ của cô ấy."),
         ("Ms Lan", "Thank you for confirming, correcting it now will fix every one of her passes at once.", "Cảm ơn chị đã xác nhận, sửa lại ngay bây giờ sẽ sửa hết mọi thẻ của cô ấy cùng lúc."),
         # 28 welcome email missing for half
         ("Ms Montrose", "Lan, I think the airline's welcome email only reached about half of your travelling colleagues.", "Chị Lan, tôi nghĩ email chào mừng của hãng bay chỉ đến được khoảng nửa số đồng nghiệp tham gia chuyến đi."),
-        ("Ms Lan", "You're right, Marcus and Dahlia both mentioned never receiving one.", "Chị nói đúng, cả Marcus và Dahlia đều nói chưa hề nhận được."),
+        ("Ms Lan", "You're right, both Marcus and Dahlia said they never received one at all.", "Chị nói đúng, cả Marcus và Dahlia đều nói hoàn toàn chưa hề nhận được."),
         ("Ms Montrose", "My apologies, I'll resend the welcome email to the whole group right now.", "Tôi xin lỗi, tôi gửi lại email chào mừng cho cả nhóm ngay bây giờ."),
         # 29 cancelled seat refund not processed
         ("Ms Lan", "Montrose, wasn't a refund supposed to be processed for the seat Owen cancelled last week?", "Chị Montrose, không phải một khoản hoàn tiền đáng lẽ phải được xử lý cho ghế Owen hủy tuần trước sao?"),
-        ("Ms Montrose", "It was, and you're right, I don't see that refund reflected in the system yet.", "Đúng vậy, và chị nói đúng, tôi chưa thấy khoản hoàn tiền đó được phản ánh trong hệ thống."),
-        ("Ms Lan", "Thank you for checking, processing it today will keep him from waiting any longer.", "Cảm ơn chị đã kiểm tra, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
+        ("Ms Montrose", "It was, and you're right, that refund isn't showing up in the system yet.", "Đúng vậy, và chị nói đúng, khoản hoàn tiền đó vẫn chưa hiện trong hệ thống."),
+        ("Ms Lan", "I appreciate you checking, processing it today will stop him from waiting any longer.", "Tôi cảm kích vì chị đã kiểm tra, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
         # 30 checked bags included confusion
         ("Ms Lan", "Montrose, I'm not sure whether checked bags are actually included in our group's fare.", "Chị Montrose, tôi không chắc hành lý ký gửi có thật sự gộp trong giá vé nhóm tôi không."),
         ("Ms Montrose", "Let me check the contract — actually, one checked bag is included for each of the twelve tickets.", "Để tôi xem hợp đồng — thật ra một kiện ký gửi được gộp sẵn cho mỗi trong mười hai vé."),
         ("Ms Lan", "Good to know, I'll let the whole group know they don't need to pay extra then.", "Hay biết vậy, tôi báo lại cả nhóm biết là không cần trả thêm."),
         # 31 wrong currency on receipt
         ("Ms Montrose", "Lan, Owen's receipt seems to be showing charges in the wrong currency entirely.", "Chị Lan, biên lai của Owen có vẻ hiện các khoản phí hoàn toàn sai loại tiền tệ."),
-        ("Ms Lan", "You're right, actually, he mentioned his receipt looked strange when we spoke this morning.", "Chị nói đúng đấy, sáng nay anh ấy có nhắc biên lai trông lạ khi bọn tôi nói chuyện."),
-        ("Ms Montrose", "I'll correct that setting now and reissue his receipt in the right currency.", "Tôi sửa lại cài đặt đó ngay bây giờ và cấp lại biên lai của anh ấy theo đúng loại tiền tệ."),
+        ("Ms Lan", "You're right, actually, he said his receipt looked odd when we spoke this morning.", "Chị nói đúng đấy, sáng nay anh ấy có nói biên lai trông kỳ lạ khi bọn tôi nói chuyện."),
+        ("Ms Montrose", "I'll fix that setting now and print his receipt again in the correct currency.", "Tôi sửa lại cài đặt đó ngay bây giờ và in lại biên lai của anh ấy theo đúng loại tiền tệ."),
         # 32 priority boarding not assigned
         ("Ms Lan", "Montrose, wasn't priority boarding requested for Priya, though her pass shows group four?", "Chị Montrose, không phải lên máy bay ưu tiên đã được yêu cầu cho Priya, dù vé của cô ấy lại ghi nhóm bốn sao?"),
         ("Ms Montrose", "It was, and you're right, that request never got attached to her final boarding pass.", "Đúng vậy, và chị nói đúng, yêu cầu đó chưa hề được gắn vào thẻ lên máy bay cuối cùng của cô ấy."),
@@ -206,19 +206,19 @@ LESSON_0422 = {
         # 34 allergy card mixed up between colleagues
         ("Ms Lan", "Montrose, I think Marcus's allergy card got mixed up with Owen's allergy card at the meal counter.", "Chị Montrose, tôi nghĩ thẻ dị ứng của Marcus bị lẫn với thẻ dị ứng của Owen tại quầy suất ăn."),
         ("Ms Montrose", "Let me check the meal tickets — you're right, the two names are attached to the wrong cards.", "Để tôi xem phiếu suất ăn — chị nói đúng, hai tên bị gắn nhầm thẻ."),
-        ("Ms Lan", "Thank you for checking, fixing that now will keep both of their meals completely safe.", "Cảm ơn chị đã kiểm tra, sửa lại ngay bây giờ sẽ giữ bữa ăn của cả hai người hoàn toàn an toàn."),
+        ("Ms Lan", "Thank you for flagging that, fixing it now will keep both of their meals completely safe.", "Cảm ơn chị đã phát hiện, sửa lại ngay bây giờ sẽ giữ bữa ăn của cả hai người hoàn toàn an toàn."),
         # 35 final headcount missing two names
         ("Ms Montrose", "Lan, the final headcount you sent last week seems to be missing two names from the group list.", "Chị Lan, số khách cuối cùng chị gửi tuần trước có vẻ thiếu hai tên khỏi danh sách nhóm."),
         ("Ms Lan", "You're right, two interns from the marketing team must have been left off when I updated the list in a hurry.", "Chị nói đúng, chắc hai thực tập sinh từ đội marketing bị bỏ sót khi tôi cập nhật danh sách vội vàng."),
-        ("Ms Montrose", "No trouble, I'll add their two seats to the group booking right now.", "Không sao cả, tôi thêm hai chỗ của hai bạn ấy vào lượt đặt nhóm ngay bây giờ."),
+        ("Ms Montrose", "No trouble, I'll slot their two seats into the group booking right now.", "Không sao cả, tôi thêm hai chỗ của hai bạn ấy vào lượt đặt nhóm ngay bây giờ."),
         # 36 confusion which colleagues paid upgrade fee
         ("Ms Lan", "Montrose, I'm not sure which of our colleagues have already paid their seat-upgrade fee.", "Chị Montrose, tôi không chắc đồng nghiệp nào của tôi đã trả xong phí nâng hạng ghế."),
         ("Ms Montrose", "Let me check the ledger — actually, only three colleagues are still showing an unpaid upgrade.", "Để tôi xem sổ ghi — thật ra chỉ còn ba đồng nghiệp đang có khoản nâng hạng chưa thanh toán."),
         ("Ms Lan", "Good to know, I'll remind those three before we head through security.", "Hay biết vậy, tôi nhắc ba người đó trước khi cả nhóm qua khu an ninh."),
         # 37 boarding time mistakenly moved earlier
         ("Ms Montrose", "Lan, I think the whole group's boarding time was mistakenly moved to eight instead of nine.", "Chị Lan, tôi nghĩ giờ lên máy bay của cả nhóm bị lỡ dời sang tám giờ thay vì chín giờ."),
-        ("Ms Lan", "Let me check the itinerary — you're right, nine was the time we all agreed on originally.", "Để tôi xem lịch trình — chị nói đúng, chín giờ mới là giờ mọi người đã thống nhất ban đầu."),
-        ("Ms Montrose", "Thank you for confirming, I'll correct the whole group's booking back to nine right away.", "Cảm ơn chị đã xác nhận, tôi sửa lại cả lượt đặt nhóm về chín giờ ngay."),
+        ("Ms Lan", "Let me check the itinerary — you're right, nine o'clock was the time we all agreed on originally.", "Để tôi xem lịch trình — chị nói đúng, chín giờ mới là giờ mọi người đã thống nhất ban đầu."),
+        ("Ms Montrose", "Thank you for confirming, I'll set the whole group's booking back to nine right away.", "Cảm ơn chị đã xác nhận, tôi chỉnh lại cả lượt đặt nhóm về chín giờ ngay."),
         # 38 welcome basket at hotel mentioned; skip to keep domain-specific: seat count mismatch business class
         ("Ms Lan", "Montrose, I count only two business-class seats booked, though three of our colleagues were meant to upgrade.", "Chị Montrose, tôi chỉ đếm được hai ghế hạng thương gia được đặt, dù ba đồng nghiệp lẽ ra phải được nâng hạng."),
         ("Ms Montrose", "Let me check the upgrade list — you're right, one of the three upgrades never went through.", "Để tôi xem danh sách nâng hạng — chị nói đúng, một trong ba lượt nâng hạng chưa hề được xử lý."),
@@ -229,12 +229,12 @@ LESSON_0422 = {
         ("Ms Montrose", "My mistake, I'll reprint that pass with Marcus's name right away.", "Lỗi của tôi, tôi in lại vé đó với tên Marcus ngay."),
         # 40 gate agent's seating chart shows wrong group size
         ("Ms Lan", "Montrose, the gate agent's chart still shows our group as ten, though it's actually twelve now.", "Chị Montrose, sơ đồ của nhân viên cổng vẫn hiện nhóm tôi là mười người, dù thật ra giờ là mười hai."),
-        ("Ms Montrose", "Let me update that now — you're right, the chart never picked up the last two additions.", "Để tôi cập nhật ngay — chị nói đúng, sơ đồ chưa hề cập nhật hai người thêm gần đây nhất."),
+        ("Ms Montrose", "Let me fix that now — you're right, the chart never picked up the last two additions we made.", "Để tôi sửa lại ngay — chị nói đúng, sơ đồ chưa hề cập nhật hai người thêm gần đây nhất."),
         ("Ms Lan", "Thank you, correcting it before boarding will keep the gate agent from being confused.", "Cảm ơn chị, sửa lại trước khi lên máy bay sẽ tránh làm nhân viên cổng bị nhầm lẫn."),
         # 41 luggage allowance total wrong on invoice
         ("Ms Montrose", "Lan, I think the final invoice lists eleven checked bags, though your group actually checked twelve.", "Chị Lan, tôi nghĩ hóa đơn cuối ghi mười một kiện hành lý ký gửi, dù nhóm chị thật ra đã ký gửi mười hai kiện."),
         ("Ms Lan", "You're right, Priya's second bag must have been left off the count somehow.", "Chị nói đúng, chắc kiện thứ hai của Priya bị bỏ sót khỏi số lượng đâu đó."),
-        ("Ms Montrose", "Thank you for confirming, adding that twelfth bag now will make the invoice accurate.", "Cảm ơn chị đã xác nhận, thêm kiện thứ mười hai đó ngay bây giờ sẽ giúp hóa đơn chính xác."),
+        ("Ms Montrose", "Thank you for confirming, adding that twelfth bag now will make the invoice correct.", "Cảm ơn chị đã xác nhận, thêm kiện thứ mười hai đó ngay bây giờ sẽ giúp hóa đơn đúng lại."),
         # 42 closing
         ("Ms Montrose", "Lan, why does sorting out a small misunderstanding or problem with airports and flights matter so much?", "Chị Lan, vậy vì sao có thể giải quyết một hiểu lầm hoặc vấn đề nhỏ về sân bay và chuyến bay lại quan trọng đến vậy?"),
         ("Ms Lan", "Because catching the exact wrong detail, like a swapped seat or a missing allergy note, keeps the whole trip running smoothly for every colleague.", "Vì phát hiện đúng chi tiết bị sai, như ghế bị đổi lẫn hay ghi chú dị ứng bị thiếu, giúp cả chuyến đi diễn ra suôn sẻ cho mọi đồng nghiệp."),

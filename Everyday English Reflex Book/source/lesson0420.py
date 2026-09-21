@@ -173,7 +173,7 @@ LESSON_0420 = {
         # 26 steak overcooked
         ("Ms Amberley", "Lan, is Marcus's steak actually well-done? He noted medium-rare on the order.", "Chị Lan, bít tết của Marcus có thật sự chín kỹ không? Anh ấy ghi chú tái vừa trên đơn."),
         ("Ms Lan", "You're right, this one is quite grey all the way through, definitely not medium-rare.", "Chị nói đúng, miếng này xám hết cả bên trong, chắc chắn không phải tái vừa."),
-        ("Ms Amberley", "I'm so sorry about that, let me have the kitchen fire a fresh one right away.", "Tôi rất xin lỗi về chuyện đó, để tôi nhờ bếp làm lại một miếng mới ngay."),
+        ("Ms Amberley", "I'm terribly sorry about that, I'll have the kitchen remake his steak right this minute.", "Tôi thật sự xin lỗi về chuyện đó, tôi nhờ bếp làm lại miếng bít tết của anh ấy ngay bây giờ."),
         # 27 two Priyas mixed on phone booking
         ("Ms Lan", "Amberley, I wonder if the phone booking mixed up our Priya with a different Priya entirely.", "Chị Amberley, tôi tự hỏi liệu lượt đặt bàn qua điện thoại có nhầm Priya của bọn tôi với một Priya hoàn toàn khác không."),
         ("Ms Amberley", "Let me check the number on file — you're right, this Priya's number doesn't match your list at all.", "Để tôi xem số lưu lại — chị nói đúng, số của Priya này không khớp chút nào với danh sách của chị."),

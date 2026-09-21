@@ -72,8 +72,8 @@ LESSON_0423 = {
     'turns': [
         # 1 group name confused with similar choir
         ("Ms Lan", "Wickersley, I think our block booked under 'Riverside Voices' got mixed up with a similar group's name.", "Anh Wickersley, tôi nghĩ khối vé của tôi đặt dưới tên 'Riverside Voices' bị nhầm với tên một nhóm khác gần giống."),
-        ("Mr Wickersley", "Let me check the system — you're right, those two names sit right next to each other on the list.", "Để tôi xem hệ thống — chị nói đúng, hai tên đó nằm ngay cạnh nhau trên danh sách."),
-        ("Ms Lan", "Thank you for catching that, separating the two bookings now will keep everyone's seats correct.", "Cảm ơn anh đã phát hiện, tách riêng hai lượt đặt ngay bây giờ sẽ giữ đúng ghế cho mọi người."),
+        ("Mr Wickersley", "Let me have a look — you're right, those two names sit right next to each other in our system.", "Để tôi xem qua — chị nói đúng, hai tên đó nằm ngay cạnh nhau trong hệ thống của chúng tôi."),
+        ("Ms Lan", "Thanks for spotting that, separating the two bookings now will keep every seat correct.", "Cảm ơn anh đã phát hiện, tách riêng hai lượt đặt ngay bây giờ sẽ giữ đúng ghế cho mọi người."),
         # 2 ten seats vs twelve
         ("Mr Wickersley", "Lan, only ten seats were reserved, but I count twelve names on your choir's list.", "Chị Lan, chỉ có mười ghế được đặt trước, nhưng tôi đếm được mười hai tên trên danh sách dàn hợp xướng của chị."),
         ("Ms Lan", "You're right, two more members confirmed late last week and I forgot to tell you.", "Anh nói đúng, hai thành viên xác nhận trễ tuần trước và tôi quên báo anh."),
@@ -104,8 +104,8 @@ LESSON_0423 = {
         ("Mr Wickersley", "My mistake, I'll reprint the ticket with her correct surname before boarding.", "Lỗi của tôi, tôi in lại vé với đúng họ của cô ấy trước khi lên tàu."),
         # 9 card charged twice for upgrade
         ("Ms Lan", "Wickersley, I think the choir's card was actually charged twice for Owen's seat upgrade.", "Anh Wickersley, tôi nghĩ thẻ của dàn hợp xướng thật ra đã bị tính khoản nâng hạng ghế của Owen hai lần."),
-        ("Mr Wickersley", "Let me check the statement — you're right, there are two identical charges from this morning.", "Để tôi xem sao kê — chị nói đúng, có hai khoản giống hệt nhau từ sáng nay."),
-        ("Ms Lan", "Thank you for checking, refunding the extra charge now will make the total correct again.", "Cảm ơn anh đã kiểm tra, hoàn lại khoản dư ngay bây giờ sẽ giúp tổng tiền đúng lại."),
+        ("Mr Wickersley", "Let me look at the statement — you're right, two identical charges show up from this morning.", "Để tôi xem sao kê — chị nói đúng, có hai khoản giống hệt nhau hiện lên từ sáng nay."),
+        ("Ms Lan", "Thanks for catching that, refunding the extra charge now will put the total right again.", "Cảm ơn anh đã phát hiện, hoàn lại khoản dư ngay bây giờ sẽ giúp tổng tiền đúng lại."),
         # 10 quiet carriage wrong recipient
         ("Mr Wickersley", "Lan, the quiet-carriage seat appears to have gone to a different member, not your conductor.", "Chị Lan, ghế toa yên tĩnh có vẻ đã đưa nhầm cho một thành viên khác, không phải nhạc trưởng của chị."),
         ("Ms Lan", "You're right, actually, that seat was booked specifically for our conductor to review the score.", "Anh nói đúng đấy, ghế đó thật ra được đặt riêng cho nhạc trưởng để xem lại bản nhạc."),
@@ -128,11 +128,11 @@ LESSON_0423 = {
         ("Mr Wickersley", "My apologies, I'll have the announcer correct that over the speaker right away.", "Tôi xin lỗi, tôi cho người thông báo sửa lại ngay qua loa."),
         # 15 luggage tags swapped at bay
         ("Ms Lan", "Wickersley, I think Priya and Dahlia's luggage tags got swapped at the coach bay this morning.", "Anh Wickersley, tôi nghĩ thẻ hành lý của Priya và Dahlia bị đổi lẫn tại bến xe khách sáng nay."),
-        ("Mr Wickersley", "Let me check the tags — you're right, both bags list the wrong traveller's name.", "Để tôi xem thẻ — chị nói đúng, cả hai kiện đều ghi sai tên hành khách."),
+        ("Mr Wickersley", "Let me have a look at the tags — you're right, both bags carry the wrong traveller's name.", "Để tôi xem qua thẻ — chị nói đúng, cả hai kiện đều ghi sai tên hành khách."),
         ("Ms Lan", "Thank you, reprinting the correct tags now will save them some confusion at the other end.", "Cảm ơn anh, in lại đúng thẻ ngay bây giờ sẽ đỡ nhầm lẫn cho họ khi đến nơi."),
         # 16 group discount not applied
         ("Mr Wickersley", "Lan, I don't see your group discount reflected anywhere on this final fare.", "Chị Lan, tôi không thấy giảm giá nhóm được phản ánh ở đâu trên giá vé cuối này."),
-        ("Ms Lan", "You're right, actually, that ten percent should have applied to all twelve tickets.", "Anh nói đúng đấy, mười phần trăm đó lẽ ra phải áp dụng cho cả mười hai vé."),
+        ("Ms Lan", "You're right, actually, that ten percent was meant to cover every one of the twelve tickets.", "Anh nói đúng đấy, mười phần trăm đó lẽ ra phải bao phủ cả mười hai vé."),
         ("Mr Wickersley", "Good catch, applying it now will make quite a difference to your choir's total.", "Phát hiện tốt đấy, áp dụng ngay bây giờ sẽ tạo khác biệt lớn cho tổng chi phí dàn hợp xướng."),
         # 17 table seat never assigned
         ("Ms Lan", "Wickersley, wasn't a table seat supposed to be assigned to Marcus, since he's carrying all the sheet music?", "Anh Wickersley, không phải một ghế có bàn đáng lẽ phải được xếp cho Marcus, vì anh ấy mang theo hết tập nhạc sao?"),
@@ -147,12 +147,12 @@ LESSON_0423 = {
         ("Mr Wickersley", "Let me check with the coach company — you're right, that note stopped at the group booking form.", "Để tôi hỏi công ty xe khách — chị nói đúng, ghi chú đó bị kẹt lại ở tờ đơn đặt nhóm."),
         ("Ms Lan", "Thank you for confirming, updating her order right now will keep her snack completely safe.", "Cảm ơn anh đã xác nhận, cập nhật đơn của cô ấy ngay bây giờ sẽ giữ đồ ăn nhẹ hoàn toàn an toàn."),
         # 20 aisle seat wrong recipient
-        ("Mr Wickersley", "Lan, the aisle seat meant for Priya seems to have gone to a different member instead.", "Chị Lan, ghế lối đi dành cho Priya có vẻ đã đưa nhầm cho một thành viên khác."),
-        ("Ms Lan", "You're right, actually, Priya specifically asked for the aisle because of her knee.", "Anh nói đúng đấy, Priya đã xin riêng ghế lối đi vì đầu gối của cô ấy."),
-        ("Mr Wickersley", "Understood, I'll swap those two seats so Priya gets the aisle as she requested.", "Tôi hiểu rồi, tôi đổi lại hai ghế đó để Priya được ngồi ghế lối đi như đã yêu cầu."),
+        ("Mr Wickersley", "Lan, the aisle seat meant for Dahlia seems to have gone to a different member instead.", "Chị Lan, ghế lối đi dành cho Dahlia có vẻ đã đưa nhầm cho một thành viên khác."),
+        ("Ms Lan", "You're right, actually, Dahlia asked specifically for the aisle because of her ankle.", "Anh nói đúng đấy, Dahlia đã xin riêng ghế lối đi vì mắt cá chân của cô ấy."),
+        ("Mr Wickersley", "Understood, I'll switch those two seats so Dahlia ends up with the aisle as she asked.", "Tôi hiểu rồi, tôi đổi lại hai ghế đó để Dahlia có được ghế lối đi như đã yêu cầu."),
         # 21 printed itinerary last year's dates
         ("Ms Lan", "Wickersley, this printed itinerary still shows last year's festival dates instead of this weekend's.", "Anh Wickersley, lịch trình in sẵn này vẫn còn ghi ngày liên hoan của năm ngoái thay vì cuối tuần này."),
-        ("Mr Wickersley", "Let me check the batch — you're right, these were leftover from last year's welcome packets.", "Để tôi xem lô đó — chị nói đúng, đây là bản còn dư từ gói chào mừng năm ngoái."),
+        ("Mr Wickersley", "Let me check the batch — you're right, these are leftover from last year's welcome packs.", "Để tôi xem lô đó — chị nói đúng, đây là bản còn dư từ gói chào mừng năm ngoái."),
         ("Ms Lan", "Good, reprinting a fresh set now will keep the whole choir on the correct schedule.", "Tốt, in lại một bộ mới ngay bây giờ sẽ giữ cả dàn hợp xướng đúng theo lịch."),
         # 22 connecting coach confused with different service
         ("Mr Wickersley", "Lan, I think Owen's connecting coach got confused with a different service on the board just now.", "Chị Lan, tôi nghĩ chuyến xe khách nối tiếp của Owen vừa bị nhầm với một chuyến khác trên bảng."),
@@ -163,37 +163,37 @@ LESSON_0423 = {
         ("Mr Wickersley", "Let me check the seat map — actually, it's ten and twelve that sit together on this carriage.", "Để tôi xem sơ đồ ghế — thật ra mười và mười hai mới là hai ghế ngồi cạnh nhau trên toa này."),
         ("Ms Lan", "Thank you, I'll make sure Marcus and Owen get ten and twelve then, not nine.", "Cảm ơn anh, vậy tôi sẽ đảm bảo Marcus và Owen được ngồi mười và mười hai, không phải chín."),
         # 24 late member's seat released
-        ("Mr Wickersley", "Lan, I believe Dahlia's seat may have been released since she hadn't checked in by the cutoff time.", "Chị Lan, tôi nghĩ ghế của Dahlia có thể đã bị nhả ra vì cô ấy chưa làm thủ tục trước giờ cắt."),
-        ("Ms Lan", "You're right to check, she's actually stuck in traffic and will be here in five minutes.", "Anh kiểm tra đúng lúc, cô ấy thật ra đang kẹt xe và sẽ đến trong năm phút."),
-        ("Mr Wickersley", "Thank you for letting me know, I'll hold her seat and flag it for a late arrival now.", "Cảm ơn chị đã báo, tôi giữ ghế cho cô ấy và ghi chú đến trễ ngay bây giờ."),
+        ("Mr Wickersley", "Lan, I believe Owen's seat may have been released since he hadn't checked in by the cutoff time.", "Chị Lan, tôi nghĩ ghế của Owen có thể đã bị nhả ra vì anh ấy chưa làm thủ tục trước giờ cắt."),
+        ("Ms Lan", "You're right to check, he's actually stuck behind a delayed bus and will be here in five minutes.", "Anh kiểm tra đúng lúc, anh ấy thật ra đang kẹt sau một chuyến xe buýt bị trễ và sẽ đến trong năm phút."),
+        ("Mr Wickersley", "Thank you for letting me know, I'll hold his seat and flag it for a late arrival now.", "Cảm ơn chị đã báo, tôi giữ ghế cho anh ấy và ghi chú đến trễ ngay bây giờ."),
         # 25 wrong emergency contact number
         ("Ms Lan", "Wickersley, the emergency contact listed for our choir still shows my old phone number.", "Anh Wickersley, người liên hệ khẩn cấp ghi cho dàn hợp xướng tôi vẫn hiện số điện thoại cũ của tôi."),
-        ("Mr Wickersley", "Let me check the file — you're right, that number hasn't worked since you changed carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó không dùng được nữa từ khi chị đổi nhà mạng."),
+        ("Mr Wickersley", "Let me check the file — you're right, that number stopped working after you changed carriers.", "Để tôi xem hồ sơ — chị nói đúng, số đó ngừng dùng được sau khi chị đổi nhà mạng."),
         ("Ms Lan", "Thank you, updating it to my current number now will keep the coach company able to reach us.", "Cảm ơn anh, cập nhật số hiện tại ngay bây giờ sẽ giúp công ty xe khách liên lạc được với bọn tôi."),
         # 26 rehearsal call time wrong hour
         ("Mr Wickersley", "Lan, the rehearsal call time at the station is scheduled for six in the morning, though your train doesn't leave until nine.", "Chị Lan, giờ tập trung diễn tập tại nhà ga được xếp lịch lúc sáu giờ sáng, dù chuyến tàu của chị mãi chín giờ mới khởi hành."),
-        ("Ms Lan", "You're right, actually, I meant to book it for eight thirty, not six in the morning.", "Anh nói đúng đấy, tôi định đặt lúc tám giờ rưỡi, không phải sáu giờ sáng."),
+        ("Ms Lan", "You're right, actually, eight thirty is what I meant to book, not six in the morning.", "Anh nói đúng đấy, tám giờ rưỡi mới là giờ tôi định đặt, không phải sáu giờ sáng."),
         ("Mr Wickersley", "Understood, I'll move that call time to eight thirty for you right away.", "Tôi hiểu rồi, tôi dời giờ tập trung đó sang tám giờ rưỡi cho chị ngay."),
         # 27 member's name misspelled
         ("Ms Lan", "Wickersley, my member's name is spelled wrong on every one of her tickets, it should read 'Hoang,' not 'Hoan.'", "Anh Wickersley, tên thành viên tôi bị viết sai trên mọi vé của cô ấy, phải ghi 'Hoang,' không phải 'Hoan.'"),
-        ("Mr Wickersley", "Let me check the spelling — you're right, that extra letter is missing from her entire file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ trong toàn bộ hồ sơ của cô ấy."),
+        ("Mr Wickersley", "Let me check the spelling — you're right, that extra letter is missing throughout her file.", "Để tôi xem cách viết — chị nói đúng, thiếu mất một chữ khắp toàn bộ hồ sơ của cô ấy."),
         ("Ms Lan", "Thank you for confirming, correcting it now will fix every one of her tickets at once.", "Cảm ơn anh đã xác nhận, sửa lại ngay bây giờ sẽ sửa hết mọi vé của cô ấy cùng lúc."),
         # 28 welcome pack missing for half
         ("Mr Wickersley", "Lan, I think the festival's welcome pack only reached about half of your travelling members.", "Chị Lan, tôi nghĩ gói chào mừng của liên hoan chỉ đến được khoảng nửa số thành viên tham gia chuyến đi."),
-        ("Ms Lan", "You're right, Marcus and Dahlia both mentioned never receiving one.", "Anh nói đúng, cả Marcus và Dahlia đều nói chưa hề nhận được."),
+        ("Ms Lan", "You're right, both Marcus and Dahlia said theirs never arrived at all.", "Anh nói đúng, cả Marcus và Dahlia đều nói phần của họ hoàn toàn chưa đến."),
         ("Mr Wickersley", "My apologies, I'll have the remaining packs delivered before you board.", "Tôi xin lỗi, tôi cho giao nốt số gói còn lại trước khi cả nhóm lên tàu."),
         # 29 cancelled seat refund not processed
         ("Ms Lan", "Wickersley, wasn't a refund supposed to be processed for the seat Owen cancelled last week?", "Anh Wickersley, không phải một khoản hoàn tiền đáng lẽ phải được xử lý cho ghế Owen hủy tuần trước sao?"),
-        ("Mr Wickersley", "It was, and you're right, I don't see that refund reflected in the system yet.", "Đúng vậy, và chị nói đúng, tôi chưa thấy khoản hoàn tiền đó được phản ánh trong hệ thống."),
-        ("Ms Lan", "Thank you for checking, processing it today will keep him from waiting any longer.", "Cảm ơn anh đã kiểm tra, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
+        ("Mr Wickersley", "It was, and you're right, that refund still isn't showing up in the system.", "Đúng vậy, và chị nói đúng, khoản hoàn tiền đó vẫn chưa hiện trong hệ thống."),
+        ("Ms Lan", "Thanks for checking, processing it today will stop him from waiting any longer.", "Cảm ơn anh đã kiểm tra, xử lý hôm nay sẽ giúp anh ấy khỏi phải chờ lâu hơn."),
         # 30 luggage included confusion
         ("Ms Lan", "Wickersley, I'm not sure whether luggage is actually included in our choir's group fare.", "Anh Wickersley, tôi không chắc hành lý có thật sự gộp trong giá vé nhóm dàn hợp xướng tôi không."),
         ("Mr Wickersley", "Let me check the contract — actually, one bag is included for each of the twelve tickets.", "Để tôi xem hợp đồng — thật ra một kiện được gộp sẵn cho mỗi trong mười hai vé."),
         ("Ms Lan", "Good to know, I'll let the whole choir know they don't need to pay extra then.", "Hay biết vậy, tôi báo lại cả dàn hợp xướng biết là không cần trả thêm."),
         # 31 wrong currency on receipt
-        ("Mr Wickersley", "Lan, Owen's receipt seems to be showing charges in the wrong currency entirely.", "Chị Lan, biên lai của Owen có vẻ hiện các khoản phí hoàn toàn sai loại tiền tệ."),
-        ("Ms Lan", "You're right, actually, he mentioned his receipt looked strange when we spoke this morning.", "Anh nói đúng đấy, sáng nay anh ấy có nhắc biên lai trông lạ khi bọn tôi nói chuyện."),
-        ("Mr Wickersley", "I'll correct that setting now and reissue his receipt in the right currency.", "Tôi sửa lại cài đặt đó ngay bây giờ và cấp lại biên lai của anh ấy theo đúng loại tiền tệ."),
+        ("Mr Wickersley", "Lan, Owen's receipt appears to list every charge in the wrong currency.", "Chị Lan, biên lai của Owen có vẻ ghi mọi khoản phí hoàn toàn sai loại tiền tệ."),
+        ("Ms Lan", "You're right, actually, he said his receipt looked off when we spoke this morning.", "Anh nói đúng đấy, sáng nay anh ấy có nói biên lai trông kỳ lạ khi bọn tôi nói chuyện."),
+        ("Mr Wickersley", "I'll switch that setting now and reissue his receipt in the correct currency.", "Tôi đổi lại cài đặt đó ngay bây giờ và cấp lại biên lai của anh ấy theo đúng loại tiền tệ."),
         # 32 priority boarding not assigned
         ("Ms Lan", "Wickersley, wasn't priority boarding requested for Priya, though her ticket shows group four?", "Anh Wickersley, không phải lên xe ưu tiên đã được yêu cầu cho Priya, dù vé của cô ấy lại ghi nhóm bốn sao?"),
         ("Mr Wickersley", "It was, and you're right, that request never got attached to her final ticket.", "Đúng vậy, và chị nói đúng, yêu cầu đó chưa hề được gắn vào vé cuối cùng của cô ấy."),
@@ -209,14 +209,14 @@ LESSON_0423 = {
         # 35 final headcount missing two names
         ("Mr Wickersley", "Lan, the final headcount you sent last week seems to be missing two names from the choir list.", "Chị Lan, số thành viên cuối cùng chị gửi tuần trước có vẻ thiếu hai tên khỏi danh sách dàn hợp xướng."),
         ("Ms Lan", "You're right, two new tenors must have been left off when I updated the list in a hurry.", "Anh nói đúng, chắc hai giọng tenor mới bị bỏ sót khi tôi cập nhật danh sách vội vàng."),
-        ("Mr Wickersley", "No trouble, I'll add their two seats to the group booking right now.", "Không sao cả, tôi thêm hai chỗ của hai người đó vào lượt đặt nhóm ngay bây giờ."),
+        ("Mr Wickersley", "No trouble at all, I'll add their two seats into the group booking right now.", "Không sao cả, tôi thêm hai chỗ của hai người đó vào lượt đặt nhóm ngay bây giờ."),
         # 36 confusion which members paid upgrade fee
         ("Ms Lan", "Wickersley, I'm not sure which of our members have already paid their seat-upgrade fee.", "Anh Wickersley, tôi không chắc thành viên nào của tôi đã trả xong phí nâng hạng ghế."),
         ("Mr Wickersley", "Let me check the ledger — actually, only three members are still showing an unpaid upgrade.", "Để tôi xem sổ ghi — thật ra chỉ còn ba thành viên đang có khoản nâng hạng chưa thanh toán."),
         ("Ms Lan", "Good to know, I'll remind those three before we head to the platform.", "Hay biết vậy, tôi nhắc ba người đó trước khi cả nhóm ra sân ga."),
         # 37 departure time mistakenly moved earlier
         ("Mr Wickersley", "Lan, I think the whole choir's departure time was mistakenly moved to eight instead of nine.", "Chị Lan, tôi nghĩ giờ khởi hành của cả dàn hợp xướng bị lỡ dời sang tám giờ thay vì chín giờ."),
-        ("Ms Lan", "Let me check the itinerary — you're right, nine was the time we all agreed on originally.", "Để tôi xem lịch trình — anh nói đúng, chín giờ mới là giờ mọi người đã thống nhất ban đầu."),
+        ("Ms Lan", "Let me check the itinerary — you're right, nine o'clock was the time everyone agreed on originally.", "Để tôi xem lịch trình — anh nói đúng, chín giờ mới là giờ mọi người đã thống nhất ban đầu."),
         ("Mr Wickersley", "Thank you for confirming, I'll correct the whole booking back to nine right away.", "Cảm ơn chị đã xác nhận, tôi sửa lại cả lượt đặt về chín giờ ngay."),
         # 38 seat count mismatch reserved carriage
         ("Ms Lan", "Wickersley, I count only two reserved seats in the quiet carriage, though three members were meant to sit there.", "Anh Wickersley, tôi chỉ đếm được hai ghế đặt trước trong toa yên tĩnh, dù ba thành viên lẽ ra phải ngồi ở đó."),

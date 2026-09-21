@@ -669,6 +669,33 @@ pages (real Chrome render of the full cumulative HTML), FINAL
 CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
 duplicate lines, 0 blank pages, lesson order 0001→0419 verified).
 
+**Master book updated after Block 0420-0429:** the SIXTH appearance
+of the Eating Out/Travel/Driving/Health Services/Wellbeing/Services/
+Money domain family (five prior siblings apiece: 0270-0280, 0300-0310,
+0330-0340, 0360-0370, 0390-0400) — the deepest repetition density any
+domain family has reached — combined with "a misunderstanding or
+problem involving X," the book's historically most dangerous pattern.
+Both agents were briefed at maximum caution and used the
+distinct-organizing-context strategy proven in Block 0410-0419. The
+0425-0429 agent's whole-book check first surfaced 47 collisions, all
+internal to the sibling 0420-0424 batch (plus 1 against lesson0360);
+the 0420-0424 agent then found and fixed 46 internal batch collisions
+plus the 1 against lesson0360 on its own pass, also catching and
+fixing a stray speaker-attribution bug in lesson0424 along the way.
+Result: **0 cross-lesson duplicates** on the final whole-book check —
+the twenty-first fully clean block in a row (final state), confirming
+this domain family's scenario rotation (6 scenario types now used for
+every domain in this family) closes out cleanly even at maximum
+density. Every lesson confirmed at 5+ real English-only pages (2 of
+the 10 ran to 6 pages). Current cumulative state: Lessons 0001-0429,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0429.docx`
+(supersedes the 0001-0419 file), 734,018 total English learning words,
+2,160 total English-only A4 pages (429 lessons, at least 5 pages each,
+all real-rendered and verified), 2,629 actual rendered bilingual A4
+pages (real Chrome render of the full cumulative HTML), FINAL
+CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
+duplicate lines, 0 blank pages, lesson order 0001→0429 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1185,13 +1212,31 @@ duplicate lines, 0 blank pages, lesson order 0001→0419 verified).
   Next block: **0420-0429**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0419** (secondary character Mr Siddington).
-  Domain "Scheduling", CEFR A1, scenario "a misunderstanding or
-  problem involving appointments & schedules". Confirmed zero
-  duplicate lines against the whole book, 0001-0419, and 6 real
-  English-only pages.
-- **Next lesson to write on NEXT: 0420** (A1 — check the master
-  workbook row 421 for exact domain/scenario/title before writing;
+  **BLOCK 0420-0429 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0420-0424 and 0425-0429). This was the
+  sixth appearance of the Eating Out/Travel/Driving/Health Services/
+  Wellbeing/Services/Money domain family (five prior siblings apiece)
+  combined with "a misunderstanding or problem involving X" — the
+  deepest repetition density any domain family has reached, paired
+  with the book's most dangerous pattern. Both agents used the
+  distinct-organizing-context strategy from Block 0410-0419. The
+  0425-0429 agent's check first surfaced 47 collisions, all internal
+  to the 0420-0424 batch; that agent fixed all 47 (46 internal + 1
+  against lesson0360) plus a stray speaker-attribution bug. Result: 0
+  cross-lesson duplicates on the final whole-book check — the
+  twenty-first fully clean block in a row. This closes out the
+  6-scenario rotation for the Eating Out/Travel/Driving/Health/
+  Wellbeing/Services/Money domain family.
+  Next block: **0430-0439**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0429** (secondary character Mr Attlebridge).
+  Domain "Services", CEFR A1, scenario "a misunderstanding or problem
+  involving post, courier & deliveries". Confirmed zero duplicate
+  lines against the whole book, 0001-0429, and 5 real English-only
+  pages.
+- **Next lesson to write on NEXT: 0430** (A1 — check the master
+  workbook row 431 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1255,8 +1300,10 @@ duplicate lines, 0 blank pages, lesson order 0001→0419 verified).
   Fenwood, Oakleigh, Braithwaite, Sedgemoor, Whitmore, Aldermoor,
   Cavendish, Sherbourne, Kilbride, Thornfield, Brackendale, Wexcombe,
   Longmoor, Ellsmere, Barrowdale, Crestfield, Dunmore, Ashleigh,
-  Kingswood, Pendlebury, Northcote, Wrayburn, Siddington.
-  Pick a fresh name for Lesson 0420's secondary character and note the
+  Kingswood, Pendlebury, Northcote, Wrayburn, Siddington, Amberley,
+  Featherstone, Montrose, Wickersley, Bellwether, Hollowgate,
+  Stanwick, Farleigh, Crombie, Attlebridge.
+  Pick a fresh name for Lesson 0430's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
