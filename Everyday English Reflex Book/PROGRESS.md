@@ -643,6 +643,32 @@ pages (real Chrome render of the full cumulative HTML), FINAL
 CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
 duplicate lines, 0 blank pages, lesson order 0001→0409 verified).
 
+**Master book updated after Block 0410-0419:** the THIRD appearance
+of "a misunderstanding or problem involving X" for Transport, Mobility,
+Weather, Daily Life, Learning, Work, and Communication — literally the
+exact same domain set that produced this book's single worst incident
+(98 first-pass collisions) when this pattern was revisited at Lessons
+0200-0209. Lesson 0419 (Scheduling) was this scenario's first
+appearance for that domain. Both dispatching agents were briefed at
+extreme historical-collision caution and required to give every lesson
+a distinct organizing context so each problem/resolution scene hinges
+on one exact concrete detail. The 0410-0414 agent's own whole-book
+check caught 13 collisions against direct siblings (generic
+connector/closing phrases carried over too closely) and fixed them;
+0415-0419 was clean on the first draft. Result: **0 cross-lesson
+duplicates** on the final whole-book check — the twentieth fully
+clean block in a row (final state), confirming the defensive protocol
+now reliably handles the book's historically worst pattern. Every
+lesson confirmed at 5+ real English-only pages (5 of the 10 ran to 6
+pages). Current cumulative state: Lessons 0001-0419,
+`master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0419.docx`
+(supersedes the 0001-0409 file), 710,061 total English learning words,
+2,108 total English-only A4 pages (419 lessons, at least 5 pages each,
+all real-rendered and verified), 2,553 actual rendered bilingual A4
+pages (real Chrome render of the full cumulative HTML), FINAL
+CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
+duplicate lines, 0 blank pages, lesson order 0001→0419 verified).
+
 ## Status
 
 - **DELIVERY #1 CLOSED: Lessons 0001-0007**, file
@@ -1144,13 +1170,28 @@ duplicate lines, 0 blank pages, lesson order 0001→0409 verified).
   Next block: **0410-0419**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0409** (secondary character Mr Longmoor).
-  Domain "Neighbourhood", CEFR A1, scenario "a misunderstanding or
-  problem involving neighbourhood & directions". Confirmed zero
-  duplicate lines against the whole book, 0001-0409, and 6 real
+  **BLOCK 0410-0419 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0410-0414 and 0415-0419). This was the
+  third appearance of "a misunderstanding or problem involving X" for
+  the exact domain set (Transport, Mobility, Weather, Daily Life,
+  Learning, Work, Communication) where this book's worst incident (98
+  first-pass collisions) occurred at Lessons 0200-0209. Both agents
+  were briefed at extreme historical-collision caution and gave every
+  lesson a distinct organizing context. The 0410-0414 agent's own
+  check caught 13 collisions against direct siblings and fixed them;
+  0415-0419 was clean on the first draft. Result: 0 cross-lesson
+  duplicates on the final whole-book check — the twentieth fully clean
+  block in a row.
+  Next block: **0420-0429**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0419** (secondary character Mr Siddington).
+  Domain "Scheduling", CEFR A1, scenario "a misunderstanding or
+  problem involving appointments & schedules". Confirmed zero
+  duplicate lines against the whole book, 0001-0419, and 6 real
   English-only pages.
-- **Next lesson to write on NEXT: 0410** (A1 — check the master
-  workbook row 411 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0420** (A1 — check the master
+  workbook row 421 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1213,8 +1254,9 @@ duplicate lines, 0 blank pages, lesson order 0001→0409 verified).
   Faircloth, Blackmoor, Rosendale, Netherwood, Cranshaw, Marlborough,
   Fenwood, Oakleigh, Braithwaite, Sedgemoor, Whitmore, Aldermoor,
   Cavendish, Sherbourne, Kilbride, Thornfield, Brackendale, Wexcombe,
-  Longmoor.
-  Pick a fresh name for Lesson 0410's secondary character and note the
+  Longmoor, Ellsmere, Barrowdale, Crestfield, Dunmore, Ashleigh,
+  Kingswood, Pendlebury, Northcote, Wrayburn, Siddington.
+  Pick a fresh name for Lesson 0420's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
