@@ -1497,7 +1497,7 @@ blank pages, lesson order 0001→0459 verified).
   (supersedes the 0001-0499 file), 897,460 total English learning
   words, 2,545 total English-only A4 pages (509 lessons, average
   just over 5 pages each — several lessons rendered to 6 pages, all
-  real-rendered and verified), [PENDING] actual rendered bilingual A4
+  real-rendered and verified), 3,201 actual rendered bilingual A4
   pages (real Chrome render of the full cumulative HTML), FINAL
   CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0 cross-lesson
   duplicate lines, 0 blank pages, lesson order 0001-0509 verified).
