@@ -1390,13 +1390,45 @@ blank pages, lesson order 0001→0459 verified).
   Next block: **0470-0479**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0469** (secondary character Ms Ledbury).
-  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
-  about neighbourhood & directions" (22nd appearance of this topic).
-  Confirmed zero duplicate lines against the whole book, 0001-0469,
+  **BLOCK 0470-0479 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0470-0474 and 0475-0479). This block
+  continued the deepest topic-repetition territory in the book:
+  Lessons 0470-0476 were each 20-21st appearances of their topics
+  (Public Transport, Taxi & Ride Services, Walking & Getting Around,
+  Weather & Daily Plans, Daily Routines, School & Learning, Workplace
+  Communication — all going back to the original Lessons 0010-0016),
+  Lessons 0477-0478 were 20th appearances (Phone Calls, Messages &
+  Digital Communication), and Lesson 0479 (Appointments & Schedules)
+  was a more moderate 8th appearance. Both agents used the skim-3-most-
+  recent-siblings-plus-automated-check defensive strategy for the
+  extreme-repetition lessons, and a full-read-all-siblings approach for
+  0479. The 0470-0474 agent's own check caught and fixed 3 internal
+  collisions in lesson0472 against pre-existing siblings. The
+  0475-0479 agent's first drafts collided heavily against their own
+  siblings and against out-of-range lessons 0299/0447/0448 (127 dup
+  lines total from reused generic filler phrasing); it reworded all of
+  them within its own range only, without touching the out-of-range
+  files, and reached 0 duplicates. Result: 0 cross-lesson duplicates
+  on my own independent final whole-book check — the twenty-sixth
+  fully clean block in a row. Current cumulative state: Lessons
+  0001-0479, `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0479.docx`
+  (supersedes the 0001-0469 file), 831,651 total English learning
+  words, 2,395 total English-only A4 pages (479 lessons x 5 pages
+  each, all real-rendered and verified), [PENDING] actual rendered
+  bilingual A4 pages (real Chrome render of the full cumulative HTML),
+  FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0
+  cross-lesson duplicate lines, 0 blank pages, lesson order 0001-0479
+  verified).
+  Next block: **0480-0489**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0479** (secondary character Ms Stourbridge).
+  Domain "Scheduling", CEFR A1, scenario "Making a simple request
+  about appointments & schedules" (8th appearance of this topic).
+  Confirmed zero duplicate lines against the whole book, 0001-0479,
   and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0470** (A1 — check the master
-  workbook row 471 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0480** (A1 — check the master
+  workbook row 481 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1469,8 +1501,10 @@ blank pages, lesson order 0001→0459 verified).
   Rutherford, Winslet, Aldergate, Penhallow, Mortlake, Wickfield,
   Ellendale, Carrowmore, Fenchbury, Oldbridge, Thornquist, Ravenshaw,
   Elderbridge, Marrowdale, Whitcombe, Sedgeworth, Pemberly, Ashvale,
-  Cranmoor, Ledbury.
-  Pick a fresh name for Lesson 0470's secondary character and note the
+  Cranmoor, Ledbury, Fairholt, Blackwell, Ashendon, Carlingford,
+  Merryweather, Brackendon, Swinburne, Kennworth, Farthingale,
+  Stourbridge.
+  Pick a fresh name for Lesson 0480's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
