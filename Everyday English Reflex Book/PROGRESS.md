@@ -1449,14 +1449,42 @@ blank pages, lesson order 0001→0459 verified).
   Next block: **0490-0499**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0489** (secondary character Mr Aldercroft).
-  Domain "Services" (post, courier & deliveries), CEFR A1, scenario
-  "Making a simple request about a routine everyday need involving
-  post, courier & deliveries" (8th appearance of this topic).
-  Confirmed zero duplicate lines against the whole book, 0001-0489,
-  and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0490** (A1 — check the master
-  workbook row 491 for exact domain/scenario/title before writing;
+  **BLOCK 0490-0499 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0490-0494 and 0495-0499). Lesson 0490 was
+  the ninth appearance of Services — repairs & home services.
+  Lessons 0491-0496 revisited the original Lessons 0037-0042 topics
+  (Personal Identity, Social Basics, Numbers and Time, Home, Family,
+  Food) for their 4th appearance, a manageable 3 prior siblings each.
+  Lessons 0497-0499 (Shopping, Clothing, Neighbourhood) introduced a
+  brand-new COMPOUND scenario framing — "making a simple request about
+  checking an important detail about X" — combining two prior
+  scenario types, at their 23rd appearance (22 prior siblings each,
+  the deepest repetition yet). Both agents used the skim-3-most-
+  recent-siblings-plus-automated-check strategy for 0497-0499. Result:
+  0 cross-lesson duplicates on my own independent final whole-book
+  check — the twenty-eighth fully clean block in a row. Current
+  cumulative state: Lessons 0001-0499,
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0499.docx`
+  (supersedes the 0001-0489 file), 874,105 total English learning
+  words, 2,495 total English-only A4 pages (499 lessons x 5 pages
+  each, all real-rendered and verified), [PENDING] actual rendered
+  bilingual A4 pages (real Chrome render of the full cumulative HTML),
+  FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0
+  cross-lesson duplicate lines, 0 blank pages, lesson order 0001-0499
+  verified). The book is now at Lesson 0499/2000 (24.95%), still
+  entirely within the A1 CEFR band (0251-0600, 5-page target); the
+  next CEFR boundary (A2, 16-page target) starts at Lesson 0601.
+  Next block: **0500-0509**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0499** (secondary character Mr Featherby).
+  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
+  about checking an important detail about neighbourhood &
+  directions" (23rd appearance of this topic). Confirmed zero
+  duplicate lines against the whole book, 0001-0499, and 5 real
+  English-only pages.
+- **Next lesson to write on NEXT: 0500** (A1 — check the master
+  workbook row 501 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1532,8 +1560,10 @@ blank pages, lesson order 0001→0459 verified).
   Cranmoor, Ledbury, Fairholt, Blackwell, Ashendon, Carlingford,
   Merryweather, Brackendon, Swinburne, Kennworth, Farthingale,
   Stourbridge, Hazelmere, Corbington, Wrentham, Stanmoor, Langridge,
-  Beaumaris, Calloway, Dunbridge, Netherby, Aldercroft.
-  Pick a fresh name for Lesson 0490's secondary character and note the
+  Beaumaris, Calloway, Dunbridge, Netherby, Aldercroft, Ravensdale,
+  Thistleton, Cobblefield, Marchwood, Lindholt, Penrhyn, Castlebridge,
+  Abingworth, Hollowmere, Featherby.
+  Pick a fresh name for Lesson 0500's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
