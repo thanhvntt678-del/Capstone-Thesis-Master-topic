@@ -1382,7 +1382,7 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0469.docx`
   (supersedes the 0001-0459 file), 811,264 total English learning
   words, 2,345 total English-only A4 pages (469 lessons x 5 pages
-  each, all real-rendered and verified), [PENDING] actual rendered
+  each, all real-rendered and verified), 2,903 actual rendered
   bilingual A4 pages (real Chrome render of the full cumulative HTML),
   FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0
   cross-lesson duplicate lines, 0 blank pages, lesson order 0001-0469
