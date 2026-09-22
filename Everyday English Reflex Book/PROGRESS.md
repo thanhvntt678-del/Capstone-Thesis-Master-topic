@@ -1422,13 +1422,41 @@ blank pages, lesson order 0001→0459 verified).
   Next block: **0480-0489**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0479** (secondary character Ms Stourbridge).
-  Domain "Scheduling", CEFR A1, scenario "Making a simple request
-  about appointments & schedules" (8th appearance of this topic).
-  Confirmed zero duplicate lines against the whole book, 0001-0479,
+  **BLOCK 0480-0489 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0480-0484 and 0485-0489). This was the
+  eighth appearance of the Eating Out/Travel/Driving/Health
+  Services/Wellbeing/Services/Money domain family (7 prior siblings
+  apiece: 0270-0280, 0300-0310, 0330-0340, 0360-0370, 0390-0400,
+  0420-0430, 0450-0460), under the "Making a simple request about a
+  routine everyday need involving X" framing. Both agents full-read
+  all 7 siblings per lesson (a manageable count) before writing. The
+  0485-0489 agent's own whole-book check first surfaced 47 collisions
+  (lesson0489 vs. its sibling 0309, plus minor overlaps among
+  0485-0488 and against 0308) — all internal to its own range — and it
+  reworded them all, reaching 0. The 0480-0484 agent's check (run
+  after 0485-0489 already existed) confirmed 0 duplicates from the
+  start. Result: 0 cross-lesson duplicates on my own independent final
+  whole-book check — the twenty-seventh fully clean block in a row.
+  Current cumulative state: Lessons 0001-0489,
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0489.docx`
+  (supersedes the 0001-0479 file), 852,518 total English learning
+  words, 2,445 total English-only A4 pages (489 lessons x 5 pages
+  each, all real-rendered and verified), [PENDING] actual rendered
+  bilingual A4 pages (real Chrome render of the full cumulative HTML),
+  FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs, 0
+  cross-lesson duplicate lines, 0 blank pages, lesson order 0001-0489
+  verified).
+  Next block: **0490-0499**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0489** (secondary character Mr Aldercroft).
+  Domain "Services" (post, courier & deliveries), CEFR A1, scenario
+  "Making a simple request about a routine everyday need involving
+  post, courier & deliveries" (8th appearance of this topic).
+  Confirmed zero duplicate lines against the whole book, 0001-0489,
   and 5 real English-only pages.
-- **Next lesson to write on NEXT: 0480** (A1 — check the master
-  workbook row 481 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0490** (A1 — check the master
+  workbook row 491 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1503,8 +1531,9 @@ blank pages, lesson order 0001→0459 verified).
   Elderbridge, Marrowdale, Whitcombe, Sedgeworth, Pemberly, Ashvale,
   Cranmoor, Ledbury, Fairholt, Blackwell, Ashendon, Carlingford,
   Merryweather, Brackendon, Swinburne, Kennworth, Farthingale,
-  Stourbridge.
-  Pick a fresh name for Lesson 0480's secondary character and note the
+  Stourbridge, Hazelmere, Corbington, Wrentham, Stanmoor, Langridge,
+  Beaumaris, Calloway, Dunbridge, Netherby, Aldercroft.
+  Pick a fresh name for Lesson 0490's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
