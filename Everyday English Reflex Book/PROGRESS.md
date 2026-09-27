@@ -1642,13 +1642,39 @@ blank pages, lesson order 0001→0459 verified).
   Next block: **0560-0569**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0559** (secondary character Ms Zetlandmoor).
-  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
-  about a change or choice involving neighbourhood & directions" (25th
+  **BLOCK 0560-0569 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0560-0564 and 0565-0569). Lessons
+  0560-0568 continued the "a change or choice involving X" compound
+  framing at 23-24th appearance each (Transport x2, Mobility, Weather,
+  Daily Life, Learning, Work, Communication x2 — the original Lesson
+  0010-0018 topics). Lesson 0569 (Scheduling) was a more moderate
+  11th appearance (10 prior siblings, fully read). Both agents used
+  the skim-3-recent-siblings-plus-automated-check strategy for the
+  extreme-repetition lessons. The 0560-0564 agent's own check caught
+  and fixed 3 collisions (2 against pre-existing lessons, 1 internal).
+  The 0565-0569 agent's subsequent check (run after all 10 files
+  existed) confirmed 0 duplicates. Result: 0 cross-lesson duplicates
+  on my own independent final whole-book check — the thirty-fifth
+  fully clean block in a row. Current cumulative state: Lessons
+  0001-0569,
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0569.docx`
+  (supersedes the 0001-0559 file), 1,039,036 total English learning
+  words, 2,857 total English-only A4 pages (569 lessons, all rendered
+  to 6 pages, all real-rendered and verified), [PENDING] actual
+  rendered bilingual A4 pages (real Chrome render of the full
+  cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate
+  lesson IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson
+  order 0001-0569 verified).
+  Next block: **0570-0579**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0569** (secondary character Mr Jessopdale).
+  Domain "Scheduling", CEFR A1, scenario "Making a simple request
+  about a change or choice involving appointments & schedules" (11th
   appearance of this topic). Confirmed zero duplicate lines against
-  the whole book, 0001-0559, and 6 real English-only pages.
-- **Next lesson to write on NEXT: 0560** (A1 — check the master
-  workbook row 561 for exact domain/scenario/title before writing;
+  the whole book, 0001-0569, and 6 real English-only pages.
+- **Next lesson to write on NEXT: 0570** (A1 — check the master
+  workbook row 571 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1737,8 +1763,10 @@ blank pages, lesson order 0001→0459 verified).
   Hawksmoor, Islington, Juniperfield, Kingsmill, Lattimore,
   Moorcastle, Norbridge, Oldacre, Pemberdale, Quaintwood, Rushcliffe,
   Somersgate, Thackerston, Uppington, Villersby, Wexfordshire,
-  Yeatesbrook, Zetlandmoor.
-  Pick a fresh name for Lesson 0560's secondary character and note the
+  Yeatesbrook, Zetlandmoor, Ainsworthby, Blackfriars, Cresterfield,
+  Duxbury, Everlyshaw, Framptonhill, Gorswood, Halewick, Ivyhampton,
+  Jessopdale.
+  Pick a fresh name for Lesson 0570's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
