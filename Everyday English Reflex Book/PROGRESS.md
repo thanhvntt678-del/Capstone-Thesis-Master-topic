@@ -1857,8 +1857,32 @@ blank pages, lesson order 0001→0459 verified).
   — the agent added extra safety margin; this is fine (no upper page
   limit), but future lessons can target the leaner ~160-170-scene end
   of the range if a tighter, faster-to-verify lesson is preferred.
-- **Next lesson to write: 0604** (A2 — Domain "Home", scenario "a
-  room in the home", per master workbook row 605; write at the
+- **Lesson 0604 written and independently re-verified** (secondary
+  character Mr Brindlewood, facilities supervisor at the fictional
+  "Cedar Hollow Residences," where Ms Lan is the resident-services
+  coordinator). Domain "Home", CEFR A2, scenario "a room in the home"
+  (kitchen, bedrooms, bathroom, balcony, storage, laundry room, home
+  office, garage, community/amenity rooms, move-in/move-out
+  walkthroughs, etc. — ~26 room/space categories). 165 scenes, 495
+  turns, 8,818 English words, 0 duplicate lines/sentences within the
+  lesson, **18 real English-only A4 pages via render_check.py**
+  (target >= 16), 0 cross-lesson duplicates against the whole book
+  (604 lessons: Book 1's 0001-0600 + Book 2's 0601-0604). Written by
+  a background agent from the established calibration/house style
+  (explicitly briefed on the two failure modes caught in 0603's first
+  draft — repeated filler sentences and untranslated English leaking
+  into Vietnamese lines — neither recurred here), then independently
+  re-verified by me (qc_report, render_check.py, whole-book duplicate
+  check) — all three came back clean on my own re-run.
+  Book 2 rebuilt: `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0604.docx`
+  (supersedes the 0601-0603 file), 34,943 total English learning
+  words, FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs,
+  0 cross-lesson duplicate lines, lesson order 0601-0604 verified).
+  This lesson landed right in the target range (165 scenes/495
+  turns/18 pages) confirming ~160-170 scenes is a reliable A2
+  calibration going forward.
+- **Next lesson to write: 0605** (A2 — Domain "Family", scenario "who
+  a family member is", per master workbook row 606; write at the
   ~160-170-scene/~480-504-turn A2 calibration, verify with
   `render_check.py` against the real 16-page floor, and rebuild via
   `source/build_master_book2.py` after bumping its `LAST_LESSON`).
@@ -1956,8 +1980,9 @@ blank pages, lesson order 0001→0459 verified).
   Ambercroft, Brightwellby, Coldstreamer, Devonhollow, Elderfieldby,
   Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
-  Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere.
-  Pick a fresh name for Lesson 0604's secondary character and note
+  Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
+  Brindlewood.
+  Pick a fresh name for Lesson 0605's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
