@@ -1974,6 +1974,30 @@ blank pages, lesson order 0001→0459 verified).
   change. Also ran a full scan across all 608 lesson source files:
   every `lesson_id` matches its filename exactly, and no leftover
   `"???"` placeholders remain anywhere in the book.
+- **★ STANDING RULE for every lesson from here on (Book 2 and beyond),
+  per explicit user instruction to apply lessons learned from the
+  Book 1 audit ★**:
+  1. **Vietnamese pronouns must never use generic "bạn" as a direct
+     2nd-person address to the lesson's secondary character or to
+     "the listener" in general.** Use "anh" (Mr) or "chị" (Ms/Mrs)
+     matching that lesson's fixed secondary character's honorific,
+     exactly as Ms Lan's own lines already do. "Bạn" remains fine
+     ONLY as a genuine noun meaning "friend" (bạn thân, bạn học, bạn
+     của chị, một người bạn, bạn tập gym, etc.) referring to a THIRD
+     party, never as a stand-in for "you"/"your" addressed to the
+     person actually being spoken to.
+  2. **Check adjacent scenes for dialogue-logic contradictions** when
+     writing/reviewing a lesson — e.g. a scene establishing "paid by
+     card" immediately followed by a scene giving cash "change" reads
+     as broken if a reader assumes continuity between scenes, even
+     though the book's design is dozens of independent moments per
+     lesson. Read each new scene against the one immediately before
+     it and avoid this kind of surface contradiction.
+  Both of these should be added to future agent-dispatch prompts (in
+  the "Absolute mandatory rules" section) alongside the existing
+  intro-paraphrase-cycling warning from Lesson 0605, and personally
+  spot-checked by me (not just trusted from agent self-reports) during
+  independent verification of every future lesson.
 - **Book 1 full QA audit, per explicit user request** ("kiểm tra lỗi
   sai... không thể sai lỗi ngờ nghệch", "quá nhiều dịch theo từ chứ
   không phải ngữ cảnh"). Ran a systematic scripted audit across all
