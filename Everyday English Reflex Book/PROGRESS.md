@@ -1782,10 +1782,40 @@ blank pages, lesson order 0001→0459 verified).
   (12th appearance of this topic). Confirmed zero duplicate lines
   against the whole book, 0001-0600, and 6 real English-only pages.
   **THIS IS THE LAST LESSON OF BOOK 1.**
-- **Next lesson to write: 0601** (A2 — FIRST lesson of Book 2; 16-page
-  English-only target, not 5. Re-read the master workbook's A2-tier
-  guidance before drafting it, and set up a new build script / output
-  filename for Book 2 rather than appending to the 0001-0600 file).
+- **BOOK 2 STARTED.** Lesson 0601 (secondary character Mr Wickstaff)
+  written and verified: Domain "Personal Identity", CEFR A2, scenario
+  "Completing a routine exchange about your name" (1st lesson of the
+  A2 tier's "Completing a routine exchange about X" framing). Setting:
+  Ms Lan volunteers at the front desk of the Riverside Welcome Center;
+  Mr Wickstaff is the coordinator. 155 scenes, 480 turns, 7,734
+  English words, 0 duplicate lines/sentences, **17 real English-only
+  A4 pages via render_check.py (target >= 16)**.
+  **★ A2 CALIBRATION (established from Lesson 0601, use for all
+  future A2 lessons) ★**: real render density is ~455-470 English
+  words per A4 page with this exact CSS/format (matches the ~450-465
+  words/page already seen in the A1 tier — format-driven, not
+  CEFR-level-driven). To comfortably clear the 16-page floor, target
+  **~130-135 scenes / ~390-405 turns / ~7,700-8,200 English words**
+  per A2 lesson (roughly 3x the A1 tier's ~42-scene/126-turn size).
+  Always verify the REAL page count via `render_check.py` (ignore its
+  printed ">= 5" label — that threshold is hardcoded for the A1 tier;
+  compare the printed page number against 16 by eye) and add more
+  scenes if short, exactly as was done for Lesson 0601 (13 pages at
+  360 turns, 16 pages at 480 turns, added 8 more scenes to reach a
+  comfortable 17 pages).
+  **Book 2 infrastructure created**: `source/build_master_book2.py`
+  (fresh docx.Document() per lesson, page break between lessons, no
+  dependency on Book 1's approved Lesson 0001) builds
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_XXXX.docx`.
+  Bump `LAST_LESSON` in that script (not `build_master_book.py`,
+  which stays frozen at 600 for Book 1) after every new Book 2 lesson.
+  Cumulative QC for Book 2 so far: FINAL CUMULATIVE QC: PASS (1
+  lesson, 0 missing/duplicate IDs, 0 cross-lesson duplicate lines).
+- **Next lesson to write: 0602** (A2 — Domain "Social Basics",
+  scenario "saying hello", per master workbook row 603; write at the
+  ~130-135-scene/~390-405-turn A2 calibration above, verify with
+  `render_check.py` against the real 16-page floor, and rebuild via
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -1880,9 +1910,9 @@ blank pages, lesson order 0001→0459 verified).
   Ambercroft, Brightwellby, Coldstreamer, Devonhollow, Elderfieldby,
   Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
-  Ravensworthby, Featherwick.
-  Pick a fresh name for Lesson 0601's secondary character (first
-  lesson of Book 2) and note the substitution here when it's written.
+  Ravensworthby, Featherwick, Wickstaff.
+  Pick a fresh name for Lesson 0602's secondary character and note
+  the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
   the master workbook's suggested secondary-character names directly
