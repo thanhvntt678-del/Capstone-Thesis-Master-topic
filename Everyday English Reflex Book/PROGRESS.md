@@ -1974,6 +1974,43 @@ blank pages, lesson order 0001→0459 verified).
   change. Also ran a full scan across all 608 lesson source files:
   every `lesson_id` matches its filename exactly, and no leftover
   `"???"` placeholders remain anywhere in the book.
+- **Book 1 full QA audit, per explicit user request** ("kiểm tra lỗi
+  sai... không thể sai lỗi ngờ nghệch", "quá nhiều dịch theo từ chứ
+  không phải ngữ cảnh"). Ran a systematic scripted audit across all
+  610 lessons for: speaker-count/identity errors, secondary-name
+  reuse, structural anomalies, CEFR/domain mismatches vs. the master
+  workbook, and dialogue-logic contradictions between adjacent scenes
+  — all came back clean except two genuine, now-fixed issues:
+  1. **Lesson 0007 dialogue-logic bug**: a scene where the character
+     pays "by card" was immediately followed by a scene giving cash
+     "change" — a contradiction if read as continuous. Fixed by
+     changing the payment method to cash.
+  2. **Word-by-word Vietnamese pronoun translation ("bạn")**: found
+     71 genuine instances across 23 lessons (0126, 0128, 0140, 0142,
+     0143, 0144, 0146, 0147, 0149, 0150, 0158, 0161, 0162, 0163, 0167,
+     0168, 0170, 0171, 0172, 0195, 0196, 0197, 0278) where the generic
+     "bạn" (a literal calque of English "you"/"your") was used instead
+     of the context-appropriate "anh"/"chị" matching that lesson's
+     fixed secondary character. Built a 3-pass filter to separate
+     these from the ~300+ legitimate Vietnamese noun uses of "bạn"
+     (bạn thân, bạn học, bạn của chị, bạn tập gym, "một người bạn",
+     etc. — all correctly mean "friend", not "you", and were correctly
+     left untouched). Every fix re-verified individually (qc_report)
+     and via a full whole-book cross-lesson duplicate check (0
+     duplicates across all 610 lessons) before rebuilding.
+  Also directly verified (with real data, not assumption) two other
+  claims from the same feedback round that turned out NOT to be
+  issues: "Here you are/Here it is" is already translated naturally
+  everywhere it appears (20/20 instances checked, no literal
+  mistranslation found), and the comma-before-vocative-name convention
+  ("...jacket, Thomas?") was already used consistently throughout.
+  Declined one requested change (adding periods to "Mr./Ms.") because
+  it would break `find_exact_duplicate_sentences()`'s sentence-splitting
+  regex, which is depended on by every whole-book duplicate check run
+  so far — this was already independently discovered and reverted once
+  before, during Lesson 0605's construction.
+  Rebuilt `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`
+  after both fixes. FINAL CUMULATIVE QC: PASS.
 - **Next lesson to write: 0611** (A2 — Domain "Transport", scenario
   "the first practical exchange about taxi & ride services", per
   master workbook row 612; write at the ~160-170-scene/~480-510-turn
