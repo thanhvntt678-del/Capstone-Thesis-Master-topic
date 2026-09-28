@@ -77,7 +77,7 @@ LESSON_0143 = {
         # 4 if the daily voicemail greeting needs updating
         ("Mr Alaric", "Does the voicemail greeting need updating today?", "Lời chào hộp thư thoại hôm nay có cần cập nhật không vậy?"),
         ("Ms Lan", "Yes, it still mentions my old office hours.", "Có, nó vẫn ghi giờ làm việc cũ của tôi."),
-        ("Mr Alaric", "I will help you record a new one.", "Tôi giúp bạn thu âm lời chào mới."),
+        ("Mr Alaric", "I will help you record a new one.", "Tôi giúp anh thu âm lời chào mới."),
         # 5 if the weekly call to the bank needs making today
         ("Ms Lan", "Does the weekly call to the bank need making today?", "Cuộc gọi hằng tuần tới ngân hàng hôm nay có cần thực hiện không vậy?"),
         ("Mr Alaric", "Yes, the statement question is still unresolved.", "Có, câu hỏi về sao kê vẫn chưa giải quyết."),
@@ -131,9 +131,9 @@ LESSON_0143 = {
         ("Mr Alaric", "Yes, they usually call the day before.", "Có, họ thường gọi trước một ngày."),
         ("Ms Lan", "Good to know, I will watch for their call.", "Biết vậy tốt rồi, tôi để ý cuộc gọi của họ."),
         # 18 if the regular caller ID needs updating
-        ("Mr Alaric", "Does your caller ID need updating with your new last name?", "Tên hiển thị người gọi của bạn có cần cập nhật họ mới không vậy?"),
+        ("Mr Alaric", "Does your caller ID need updating with your new last name?", "Tên hiển thị người gọi của anh có cần cập nhật họ mới không vậy?"),
         ("Ms Lan", "Yes, it still shows my name from before the wedding.", "Có, nó vẫn ghi tên tôi trước khi cưới."),
-        ("Mr Alaric", "I will show you how to change it.", "Tôi chỉ cho bạn cách đổi nhé."),
+        ("Mr Alaric", "I will show you how to change it.", "Tôi chỉ cho anh cách đổi nhé."),
         # 19 if the daily call with the school needs returning
         ("Ms Lan", "Does the call from the school this morning need returning?", "Cuộc gọi từ trường học sáng nay có cần gọi lại không vậy?"),
         ("Mr Alaric", "Yes, it was about tomorrow's field trip.", "Có, gọi về chuyến dã ngoại ngày mai."),
@@ -155,9 +155,9 @@ LESSON_0143 = {
         ("Mr Alaric", "Yes, tax season is coming up soon.", "Có, mùa quyết toán thuế sắp tới rồi."),
         ("Ms Lan", "I will book a time this week.", "Tuần này tôi đặt lịch."),
         # 24 if the regular headset needs charging before the call
-        ("Mr Alaric", "Does the headset need charging before your next call?", "Tai nghe có cần sạc trước cuộc gọi tới của bạn không vậy?"),
+        ("Mr Alaric", "Does the headset need charging before your next call?", "Tai nghe có cần sạc trước cuộc gọi tới của anh không vậy?"),
         ("Ms Lan", "Yes, the light is already blinking red.", "Có, đèn đã nhấp nháy đỏ rồi."),
-        ("Mr Alaric", "I will plug it in for you now.", "Tôi cắm sạc giúp bạn ngay."),
+        ("Mr Alaric", "I will plug it in for you now.", "Tôi cắm sạc giúp anh ngay."),
         # 25 if the daily follow-up call needs making this afternoon
         ("Ms Lan", "Does the follow-up call from yesterday need making this afternoon?", "Cuộc gọi theo dõi từ hôm qua chiều nay có cần thực hiện không vậy?"),
         ("Mr Alaric", "Yes, they were expecting an update by two.", "Có, họ mong nhận cập nhật trước hai giờ."),
@@ -179,9 +179,9 @@ LESSON_0143 = {
         ("Mr Alaric", "Yes, the tickets need confirming by Friday.", "Có, vé cần xác nhận trước thứ Sáu."),
         ("Ms Lan", "Good, I will confirm the tickets by Friday then.", "Tốt, vậy tôi xác nhận vé trước thứ Sáu."),
         # 30 if the regular emergency contact needs updating
-        ("Mr Alaric", "Does the emergency contact number need updating on your phone?", "Số liên lạc khẩn cấp trên điện thoại của bạn có cần cập nhật không vậy?"),
+        ("Mr Alaric", "Does the emergency contact number need updating on your phone?", "Số liên lạc khẩn cấp trên điện thoại của anh có cần cập nhật không vậy?"),
         ("Ms Lan", "Yes, I still have our old address listed.", "Có, tôi vẫn còn ghi địa chỉ cũ của mình."),
-        ("Mr Alaric", "I will help you update it right now.", "Tôi giúp bạn cập nhật ngay bây giờ."),
+        ("Mr Alaric", "I will help you update it right now.", "Tôi giúp anh cập nhật ngay bây giờ."),
         # 31 if the daily wrong number needs blocking
         ("Ms Lan", "Does that wrong number from this morning need blocking?", "Số gọi nhầm sáng nay có cần chặn không vậy?"),
         ("Mr Alaric", "Yes, it has called three times already.", "Có, nó gọi đã ba lần rồi."),

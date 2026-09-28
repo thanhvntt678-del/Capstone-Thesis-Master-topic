@@ -64,11 +64,11 @@ LESSON_0195 = {
         ("Ms Lan", "Good, I really need that extra time.", "Tốt, tôi rất cần thêm thời gian đó."),
         # 6 changing a classroom seat
         ("Ms Ottilie", "Actually, could I sit at the front instead of the back this term?", "Thật ra, kỳ này tôi ngồi bàn đầu thay vì bàn cuối được không?"),
-        ("Ms Lan", "Yes, the front row helps you see the board better.", "Được, ngồi bàn đầu giúp bạn nhìn bảng rõ hơn."),
+        ("Ms Lan", "Yes, the front row helps you see the board better.", "Được, ngồi bàn đầu giúp chị nhìn bảng rõ hơn."),
         ("Ms Ottilie", "Great, I will move my things there now.", "Tuyệt, tôi sẽ chuyển đồ ra đó ngay."),
         # 7 changing a college major
         ("Ms Lan", "Actually, could I switch my major to biology instead of economics?", "Thật ra, tôi đổi ngành sang sinh học thay vì kinh tế được không?"),
-        ("Ms Ottilie", "Yes, biology really does suit your interests more.", "Được, sinh học hợp với sở thích của bạn hơn nhiều."),
+        ("Ms Ottilie", "Yes, biology really does suit your interests more.", "Được, sinh học hợp với sở thích của chị hơn nhiều."),
         ("Ms Lan", "Good, I will speak with my advisor this week.", "Tốt, tuần này tôi sẽ nói chuyện với cố vấn học tập."),
         # 8 changing a school project topic
         ("Ms Ottilie", "Actually, could we write our project about volcanoes instead of rivers?", "Thật ra, mình viết dự án về núi lửa thay vì sông ngòi được không?"),
@@ -92,7 +92,7 @@ LESSON_0195 = {
         ("Ms Ottilie", "Good, I will tell the other students the change.", "Tốt, tôi sẽ báo các bạn khác về sự thay đổi này."),
         # 13 changing a club to join
         ("Ms Lan", "Actually, could I join the art club instead of the chess club?", "Thật ra, tôi tham gia câu lạc bộ mỹ thuật thay vì câu lạc bộ cờ vua được không?"),
-        ("Ms Ottilie", "Yes, the art club meets right after your classes too.", "Được, câu lạc bộ mỹ thuật cũng họp ngay sau giờ học của bạn."),
+        ("Ms Ottilie", "Yes, the art club meets right after your classes too.", "Được, câu lạc bộ mỹ thuật cũng họp ngay sau giờ học của chị."),
         ("Ms Lan", "Perfect, I will sign up for it today.", "Tuyệt vời, hôm nay tôi sẽ đăng ký ngay."),
         # 14 changing a lesson time
         ("Ms Ottilie", "Actually, could we take the evening class instead of the morning one?", "Thật ra, mình học lớp buổi tối thay vì buổi sáng được không?"),
@@ -100,7 +100,7 @@ LESSON_0195 = {
         ("Ms Ottilie", "Good, let us register for the evening class then.", "Tốt, vậy mình đăng ký lớp buổi tối nhé."),
         # 15 changing a foreign language class
         ("Ms Lan", "Actually, could I study Spanish instead of French this year?", "Thật ra, năm nay tôi học tiếng Tây Ban Nha thay vì tiếng Pháp được không?"),
-        ("Ms Ottilie", "Yes, Spanish will help you more for your travel plans.", "Được, tiếng Tây Ban Nha sẽ giúp bạn nhiều hơn cho kế hoạch đi du lịch."),
+        ("Ms Ottilie", "Yes, Spanish will help you more for your travel plans.", "Được, tiếng Tây Ban Nha sẽ giúp chị nhiều hơn cho kế hoạch đi du lịch."),
         ("Ms Lan", "Good, I will switch classes this afternoon.", "Tốt, chiều nay tôi sẽ đổi lớp."),
         # 16 changing a research topic
         ("Ms Ottilie", "Actually, could I write my research paper about bees instead of birds?", "Thật ra, tôi viết bài nghiên cứu về ong thay vì chim được không?"),
@@ -172,11 +172,11 @@ LESSON_0195 = {
         ("Ms Ottilie", "Perfect, let us ask to sit there together.", "Tuyệt vời, mình xin ngồi cùng nhau ở đó nhé."),
         # 33 changing a scholarship essay topic
         ("Ms Lan", "Actually, could I write my scholarship essay about volunteering instead of travel?", "Thật ra, tôi viết bài luận xin học bổng về tình nguyện thay vì du lịch được không?"),
-        ("Ms Ottilie", "Yes, your volunteering story is much more personal.", "Được, câu chuyện tình nguyện của bạn cá nhân hơn nhiều."),
+        ("Ms Ottilie", "Yes, your volunteering story is much more personal.", "Được, câu chuyện tình nguyện của chị cá nhân hơn nhiều."),
         ("Ms Lan", "Good, I will start writing it tonight.", "Tốt, tối nay tôi sẽ bắt đầu viết."),
         # 34 changing a study abroad destination
         ("Ms Ottilie", "Actually, could I apply to study in Japan instead of Germany?", "Thật ra, tôi nộp đơn du học Nhật Bản thay vì Đức được không?"),
-        ("Ms Lan", "Yes, Japan really matches your career plans better.", "Được, Nhật Bản hợp với kế hoạch sự nghiệp của bạn hơn."),
+        ("Ms Lan", "Yes, Japan really matches your career plans better.", "Được, Nhật Bản hợp với kế hoạch sự nghiệp của chị hơn."),
         ("Ms Ottilie", "Good, I will start the application this weekend.", "Tốt, cuối tuần này tôi sẽ bắt đầu nộp đơn."),
         # 35 changing a project group size
         ("Ms Lan", "Actually, could our project group have three members instead of two?", "Thật ra, nhóm dự án mình có ba thành viên thay vì hai được không?"),
@@ -192,7 +192,7 @@ LESSON_0195 = {
         ("Ms Lan", "Good, I will book my seat there today.", "Tốt, hôm nay tôi sẽ đặt chỗ thi ở đó."),
         # 38 changing a semester course load
         ("Ms Ottilie", "Actually, could I take four classes instead of five this semester?", "Thật ra, học kỳ này tôi học bốn môn thay vì năm môn được không?"),
-        ("Ms Lan", "Yes, a lighter load should help you rest more.", "Được, học ít môn hơn sẽ giúp bạn nghỉ ngơi nhiều hơn."),
+        ("Ms Lan", "Yes, a lighter load should help you rest more.", "Được, học ít môn hơn sẽ giúp chị nghỉ ngơi nhiều hơn."),
         ("Ms Ottilie", "Good, I will drop one class this week.", "Tốt, tuần này tôi sẽ hủy bớt một môn."),
         # 39 changing a chapter to review before a test
         ("Ms Lan", "Actually, could we review chapter three instead of chapter two tonight?", "Thật ra, tối nay mình ôn chương ba thay vì chương hai được không?"),

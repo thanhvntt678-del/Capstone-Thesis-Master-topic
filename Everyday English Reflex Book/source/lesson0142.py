@@ -105,7 +105,7 @@ LESSON_0142 = {
         # 12 if the regular parking pass needs renewing
         ("Ms Cressida", "Does the regular parking pass need renewing this month?", "Thẻ gửi xe thường lệ tháng này có cần gia hạn không vậy?"),
         ("Ms Lan", "Yes, mine actually expires this Friday.", "Có, thẻ tôi thật ra hết hạn thứ Sáu này."),
-        ("Ms Cressida", "I will remind the front desk for you.", "Tôi sẽ nhắc lễ tân giúp bạn."),
+        ("Ms Cressida", "I will remind the front desk for you.", "Tôi sẽ nhắc lễ tân giúp chị."),
         # 13 if the daily voicemail needs checking
         ("Ms Lan", "Does the daily voicemail need checking this morning?", "Hộp thư thoại hằng ngày sáng nay có cần kiểm tra không vậy?"),
         ("Ms Cressida", "Yes, the light has been blinking since yesterday.", "Có, đèn báo nhấp nháy từ hôm qua."),
@@ -141,11 +141,11 @@ LESSON_0142 = {
         # 21 if the regular ID card needs the photo updated
         ("Ms Lan", "Does the regular ID card need the photo updated?", "Thẻ ra vào thường lệ có cần cập nhật ảnh không vậy?"),
         ("Ms Cressida", "Yes, mine is from several years ago.", "Có, ảnh của tôi chụp từ mấy năm trước."),
-        ("Ms Lan", "I will book you a slot with HR.", "Tôi đặt lịch giúp bạn với phòng nhân sự."),
+        ("Ms Lan", "I will book you a slot with HR.", "Tôi đặt lịch giúp chị với phòng nhân sự."),
         # 22 if the daily out-of-office message needs setting
         ("Ms Cressida", "Does the daily out-of-office message need setting for tomorrow?", "Tin nhắn vắng mặt hằng ngày cho mai có cần cài đặt không vậy?"),
         ("Ms Lan", "Yes, I will be at the conference all day.", "Có, cả ngày tôi sẽ dự hội nghị."),
-        ("Ms Cressida", "I will set it up for you right now.", "Tôi cài đặt giúp bạn ngay bây giờ."),
+        ("Ms Cressida", "I will set it up for you right now.", "Tôi cài đặt giúp chị ngay bây giờ."),
         # 23 if the weekly newsletter needs proofreading
         ("Ms Lan", "Does the weekly newsletter still need proofreading?", "Bản tin hằng tuần có còn cần đọc soát lỗi không vậy?"),
         ("Ms Cressida", "Yes, the second paragraph reads a bit odd.", "Có, đoạn thứ hai đọc hơi lạ."),
@@ -155,7 +155,7 @@ LESSON_0142 = {
         ("Ms Lan", "Yes, we are almost out of sticky notes.", "Có, giấy nhớ sắp hết rồi."),
         ("Ms Cressida", "I will place the order this afternoon.", "Chiều nay tôi đặt hàng."),
         # 25 if the daily handover notes need writing
-        ("Ms Lan", "Do the daily handover notes need writing before you leave?", "Ghi chú bàn giao hằng ngày có cần viết trước khi bạn về không vậy?"),
+        ("Ms Lan", "Do the daily handover notes need writing before you leave?", "Ghi chú bàn giao hằng ngày có cần viết trước khi chị về không vậy?"),
         ("Ms Cressida", "Yes, the evening shift needs the latest update.", "Có, ca tối cần bản cập nhật mới nhất."),
         ("Ms Lan", "I will write them up before five.", "Tôi viết xong trước năm giờ."),
         # 26 if the weekly training session needs confirming
@@ -189,7 +189,7 @@ LESSON_0142 = {
         # 33 if the regular signature needs updating on emails
         ("Ms Lan", "Does the regular email signature need updating with the new title?", "Chữ ký thường lệ trên email có cần cập nhật chức danh mới không vậy?"),
         ("Ms Cressida", "Yes, it still shows my old position.", "Có, chữ ký vẫn còn ghi chức danh cũ."),
-        ("Ms Lan", "I will help you update it now.", "Tôi giúp bạn cập nhật ngay."),
+        ("Ms Lan", "I will help you update it now.", "Tôi giúp chị cập nhật ngay."),
         # 34 if the daily reminder needs setting for the call
         ("Ms Cressida", "Does the daily reminder need setting for this afternoon's call?", "Lời nhắc hằng ngày có cần cài đặt cho cuộc gọi chiều nay không vậy?"),
         ("Ms Lan", "Yes, it is easy to lose track of time.", "Có, dễ quên giờ giấc lắm."),

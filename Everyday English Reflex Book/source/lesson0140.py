@@ -75,7 +75,7 @@ LESSON_0140 = {
         # 4 if the regular gym bag needs packing tonight
         ("Ms Eulalia", "Does the regular gym bag need packing tonight?", "Túi tập gym thường lệ tối nay có cần soạn không vậy?"),
         ("Ms Lan", "Yes, my class starts early tomorrow.", "Có, lớp của tôi mai bắt đầu sớm."),
-        ("Ms Eulalia", "Good, I will help you find your shoes.", "Tốt, tôi giúp tìm giày cho bạn."),
+        ("Ms Eulalia", "Good, I will help you find your shoes.", "Tốt, tôi giúp tìm giày cho chị."),
         # 5 if the daily lunch box needs washing
         ("Ms Lan", "Does the daily lunch box need washing before bed?", "Hộp cơm trưa hằng ngày có cần rửa trước khi ngủ không vậy?"),
         ("Ms Eulalia", "Yes, there is still some sauce inside it.", "Có, bên trong vẫn còn ít nước sốt."),

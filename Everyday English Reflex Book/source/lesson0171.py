@@ -101,7 +101,7 @@ LESSON_0171 = {
         ("Ms Lan", "Great, let us try that one tonight.", "Tuyệt, tối nay mình thử quán đó."),
         # 14 carrying trash to the curb
         ("Mr Emrys", "Could you help me carry this trash to the curb?", "Bạn giúp tôi mang rác này ra lề đường được không?"),
-        ("Ms Lan", "Yes, I will grab the other bag for you.", "Được, tôi mang giúp túi kia cho bạn."),
+        ("Ms Lan", "Yes, I will grab the other bag for you.", "Được, tôi mang giúp túi kia cho anh."),
         ("Mr Emrys", "Thank you, that saves me a second trip.", "Cảm ơn bạn, vậy tôi khỏi phải đi thêm chuyến nữa."),
         # 15 finding the building's fire exit
         ("Ms Lan", "Could you help me find the building's fire exit?", "Anh giúp tôi tìm lối thoát hiểm của tòa nhà được không?"),
@@ -192,7 +192,7 @@ LESSON_0171 = {
         ("Mr Emrys", "Yes, the building directory in the lobby lists it as 4C.", "Được, bảng danh sách ở sảnh ghi là căn 4C."),
         ("Ms Lan", "Good, I will drop off a welcome card there today.", "Tốt, hôm nay tôi ghé để lại thiệp chào mừng."),
         # 37 reciprocal - offering help around the building
-        ("Mr Emrys", "Is there anything around the building you need a hand with today?", "Hôm nay bạn có cần tôi giúp gì quanh tòa nhà không?"),
+        ("Mr Emrys", "Is there anything around the building you need a hand with today?", "Hôm nay anh có cần tôi giúp gì quanh tòa nhà không?"),
         ("Ms Lan", "Actually yes, my porch light bulb burned out last night.", "Thật ra là có, bóng đèn hiên nhà tôi cháy tối qua rồi."),
         ("Mr Emrys", "I have a spare bulb, let me bring it over now.", "Tôi có bóng dự phòng, để tôi mang qua ngay."),
         # 38 remembering the trash pickup schedule

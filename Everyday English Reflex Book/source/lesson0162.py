@@ -66,7 +66,7 @@ LESSON_0162 = {
         ("Ms Delphine", "Yes, the file is attached properly now.", "Có, giờ tệp đã đính kèm đầy đủ."),
         ("Ms Lan", "Great, I will send it right away then.", "Tuyệt, vậy tôi gửi ngay."),
         # 4 if the email went to spam
-        ("Ms Delphine", "Can you check if my email went to your spam folder?", "Bạn kiểm tra giúp email của tôi có rơi vào thư rác của bạn không được không?"),
+        ("Ms Delphine", "Can you check if my email went to your spam folder?", "Chị kiểm tra giúp email của tôi có rơi vào thư rác của chị không được không?"),
         ("Ms Lan", "Yes, I found it sitting in there.", "Có, tôi thấy nó nằm trong đó."),
         ("Ms Delphine", "Good thing you checked, sorry about that.", "May mà bạn kiểm tra, xin lỗi vì chuyện đó nhé."),
         # 5 if the group message reached everyone
@@ -115,7 +115,7 @@ LESSON_0162 = {
         ("Ms Lan", "Good, I will finish it later then.", "Tốt, vậy lát nữa tôi hoàn thành."),
         # 16 if the contact information is up to date
         ("Ms Delphine", "Can you check if my contact information is up to date?", "Bạn kiểm tra giúp thông tin liên hệ của tôi có cập nhật không được không?"),
-        ("Ms Lan", "Yes, it still shows your old office number.", "Không, vẫn còn hiện số văn phòng cũ của bạn."),
+        ("Ms Lan", "Yes, it still shows your old office number.", "Không, vẫn còn hiện số văn phòng cũ của chị."),
         ("Ms Delphine", "Good thing you checked, I will update it now.", "May mà bạn kiểm tra, tôi cập nhật ngay."),
         # 17 if the message was scheduled correctly
         ("Ms Lan", "Can you check if the message was scheduled for the right time?", "Chị kiểm tra giúp tin nhắn đã đặt lịch gửi đúng giờ chưa được không?"),

@@ -82,7 +82,7 @@ LESSON_0278 = {
         ("Ms Lan", "Yes, I would, so how much does a new checkbook cost?", "Có chứ, vậy một cuốn séc mới giá bao nhiêu vậy?"),
         ("Ms Callaway", "It's five dollars, and it arrives within one week.", "Nó giá năm đô la, và sẽ có trong vòng một tuần."),
         # 7 transfer fee for sending money to a friend
-        ("Ms Lan", "Callaway, is there a fee for sending money to a friend's account?", "Chị Callaway, chuyển tiền vào tài khoản bạn có mất phí không vậy?"),
+        ("Ms Lan", "Callaway, is there a fee for sending money to a friend's account?", "Chị Callaway, chuyển tiền vào tài khoản chị có mất phí không vậy?"),
         ("Ms Callaway", "No, there isn't, transfers within our bank are free.", "Không có phí đâu, chuyển tiền trong cùng ngân hàng là miễn phí."),
         ("Ms Lan", "Free within the bank, wonderful, I will send it right now.", "Miễn phí trong cùng ngân hàng, tuyệt, tôi chuyển ngay bây giờ."),
         # 8 exchange rate for changing dollars into local currency

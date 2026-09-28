@@ -198,7 +198,7 @@ LESSON_0146 = {
         ("Ms Lan", "Just type, talk later, take care, with a small heart.", "Chỉ cần gõ nói chuyện sau nhé, giữ sức khỏe, kèm một trái tim nhỏ."),
         ("Ms Amabel", "Good, that is a sweet way to end a text.", "Tốt, đó là cách kết thúc tin nhắn dễ thương thật."),
         # 39 using a casual bye between close friends
-        ("Ms Lan", "Since we are such close friends, is it fine if I just say bye to you?", "Vì mình thân nhau vậy, tôi chỉ nói bye với bạn có được không?"),
+        ("Ms Lan", "Since we are such close friends, is it fine if I just say bye to you?", "Vì mình thân nhau vậy, tôi chỉ nói bye với chị có được không?"),
         ("Ms Amabel", "Yes, of course, a simple bye is perfectly fine between us.", "Được chứ, giữa mình chỉ cần nói bye đơn giản là được rồi."),
         ("Ms Lan", "Good, that feels much more natural for us.", "Tốt, nghe tự nhiên hơn nhiều với mình."),
         # 40 choosing a wave or a handshake for the goodbye gesture

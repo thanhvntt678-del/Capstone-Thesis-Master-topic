@@ -52,7 +52,7 @@ LESSON_0163 = {
         ("Mr Tobias", "Yes, she lives near the central market.", "Có, cô ấy sống gần chợ trung tâm."),
         ("Ms Lan", "Near the market, that is a lively spot.", "Gần chợ, chỗ đó nhộn nhịp thật."),
         # 2 the gym buddy
-        ("Mr Tobias", "Do you know where your gym buddy lives?", "Bạn có biết bạn tập gym của bạn sống ở đâu không vậy?"),
+        ("Mr Tobias", "Do you know where your gym buddy lives?", "Anh có biết bạn tập gym của anh sống ở đâu không vậy?"),
         ("Ms Lan", "Yes, he lives on Le Loi street.", "Có, anh ấy sống trên đường Lê Lợi."),
         ("Mr Tobias", "Le Loi street, not too far from the gym then.", "Đường Lê Lợi, vậy cũng không xa phòng gym."),
         # 3 the postman

@@ -93,7 +93,7 @@ LESSON_0167 = {
         ("Mr Lucian", "Yes, that is his wife joining the celebration.", "Có, đó là vợ anh ấy tham gia buổi tiệc."),
         ("Ms Lan", "His wife, lovely that she could join.", "Vợ anh ấy, hay quá là chị ấy tham gia được."),
         # 8 gym buddy's companion - sister
-        ("Mr Lucian", "Do you know how that companion is related to your gym buddy?", "Bạn có biết người đi cùng đó có quan hệ gì với bạn tập gym của bạn không vậy?"),
+        ("Mr Lucian", "Do you know how that companion is related to your gym buddy?", "Anh có biết người đi cùng đó có quan hệ gì với bạn tập gym của anh không vậy?"),
         ("Ms Lan", "Yes, that is his older sister training with him.", "Có, đó là chị gái anh ấy đang tập cùng."),
         ("Mr Lucian", "His older sister, good motivation to train together.", "Chị gái anh ấy, động lực tốt để tập cùng nhau."),
         # 9 doctor's companion at the clinic - son

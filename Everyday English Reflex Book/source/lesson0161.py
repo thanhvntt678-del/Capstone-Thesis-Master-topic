@@ -96,7 +96,7 @@ LESSON_0161 = {
         ("Mr Corwin", "Good, no interruptions then.", "Tốt, vậy không bị làm phiền."),
         # 11 if the caller ID showed correctly
         ("Ms Lan", "Can you check if the caller ID showed correctly on your phone?", "Anh kiểm tra giúp tên hiển thị người gọi trên máy anh có đúng không được không?"),
-        ("Mr Corwin", "Yes, it showed your name and number clearly.", "Được, hiện đúng tên và số của bạn rõ ràng."),
+        ("Mr Corwin", "Yes, it showed your name and number clearly.", "Được, hiện đúng tên và số của anh rõ ràng."),
         ("Ms Lan", "Good, that is working correctly then.", "Tốt, vậy đang hoạt động đúng rồi."),
         # 12 if the call transferred successfully
         ("Mr Corwin", "Can you check if the call transferred successfully?", "Bạn kiểm tra giúp cuộc gọi có chuyển tiếp thành công không được không?"),

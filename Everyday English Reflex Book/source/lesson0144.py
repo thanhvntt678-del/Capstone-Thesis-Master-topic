@@ -66,15 +66,15 @@ LESSON_0144 = {
         # 2 if the weekly email newsletter needs unsubscribing from
         ("Ms Dorothea", "Does the weekly email newsletter need unsubscribing from?", "Bản tin email hằng tuần có cần hủy đăng ký không vậy?"),
         ("Ms Lan", "Yes, I never actually read it anymore.", "Có, giờ tôi cũng chẳng đọc nó nữa."),
-        ("Ms Dorothea", "I will click unsubscribe for you now.", "Tôi bấm hủy đăng ký giúp bạn ngay."),
+        ("Ms Dorothea", "I will click unsubscribe for you now.", "Tôi bấm hủy đăng ký giúp chị ngay."),
         # 3 if the regular message notification needs muting tonight
         ("Ms Lan", "Does the message notification need muting tonight?", "Thông báo tin nhắn tối nay có cần tắt không vậy?"),
         ("Ms Dorothea", "Yes, the chat has been very active lately.", "Có, dạo này nhóm chat hoạt động sôi nổi lắm."),
         ("Ms Lan", "I will mute it before I go to bed.", "Tôi tắt trước khi đi ngủ."),
         # 4 if the daily unread message needs replying to
-        ("Ms Dorothea", "Does the unread message from your sister need replying to?", "Tin nhắn chưa đọc của em gái bạn có cần trả lời không vậy?"),
+        ("Ms Dorothea", "Does the unread message from your sister need replying to?", "Tin nhắn chưa đọc của em gái chị có cần trả lời không vậy?"),
         ("Ms Lan", "Yes, it came in early this morning.", "Có, tin đó nhắn từ sáng sớm."),
-        ("Ms Dorothea", "I will remind you again after lunch.", "Sau bữa trưa tôi nhắc bạn lại nhé."),
+        ("Ms Dorothea", "I will remind you again after lunch.", "Sau bữa trưa tôi nhắc chị lại nhé."),
         # 5 if the weekly online form needs submitting today
         ("Ms Lan", "Does the weekly online form need submitting today?", "Biểu mẫu trực tuyến hằng tuần hôm nay có cần nộp không vậy?"),
         ("Ms Dorothea", "Yes, the deadline closes at midnight.", "Có, hạn nộp đóng lúc nửa đêm."),
@@ -122,7 +122,7 @@ LESSON_0144 = {
         # 16 if the daily typing autocorrect needs turning off
         ("Ms Dorothea", "Does the typing autocorrect need turning off for names?", "Tính năng tự sửa lỗi gõ có cần tắt cho tên riêng không vậy?"),
         ("Ms Lan", "Yes, it keeps changing my colleague's name.", "Có, nó cứ đổi tên đồng nghiệp của tôi."),
-        ("Ms Dorothea", "That is annoying, I will show you how.", "Nghe khó chịu thật, tôi chỉ cho bạn cách tắt."),
+        ("Ms Dorothea", "That is annoying, I will show you how.", "Nghe khó chịu thật, tôi chỉ cho chị cách tắt."),
         # 17 if the weekly online meeting invite needs sending
         ("Ms Lan", "Does the online meeting invite need sending for Wednesday?", "Lời mời họp trực tuyến cho thứ Tư có cần gửi không vậy?"),
         ("Ms Dorothea", "Yes, the whole team should get it today.", "Có, cả nhóm nên nhận được hôm nay."),
@@ -152,11 +152,11 @@ LESSON_0144 = {
         ("Ms Dorothea", "Yes, the free trial ends tonight at midnight.", "Có, bản dùng thử miễn phí kết thúc lúc nửa đêm."),
         ("Ms Lan", "Good to know, I will cancel it now.", "Biết vậy tốt rồi, tôi hủy ngay."),
         # 24 if the regular chat backup needs restoring
-        ("Ms Dorothea", "Does the chat backup need restoring on your new phone?", "Bản sao lưu trò chuyện có cần khôi phục trên điện thoại mới của bạn không vậy?"),
+        ("Ms Dorothea", "Does the chat backup need restoring on your new phone?", "Bản sao lưu trò chuyện có cần khôi phục trên điện thoại mới của chị không vậy?"),
         ("Ms Lan", "Yes, all my old messages disappeared.", "Có, hết tin nhắn cũ của tôi biến mất rồi."),
-        ("Ms Dorothea", "I will help you restore it now.", "Tôi giúp bạn khôi phục ngay."),
+        ("Ms Dorothea", "I will help you restore it now.", "Tôi giúp chị khôi phục ngay."),
         # 25 if the daily typo in a message needs correcting
-        ("Ms Lan", "Does that typo in your last message need correcting?", "Lỗi gõ trong tin nhắn vừa rồi của bạn có cần sửa không vậy?"),
+        ("Ms Lan", "Does that typo in your last message need correcting?", "Lỗi gõ trong tin nhắn vừa rồi của chị có cần sửa không vậy?"),
         ("Ms Dorothea", "Yes, I meant to type Saturday, not Sunday.", "Có, tôi định gõ thứ Bảy chứ không phải Chủ Nhật."),
         ("Ms Lan", "I will send a quick correction now.", "Tôi gửi sửa lại nhanh ngay."),
         # 26 if the weekly online survey needs completing
@@ -182,7 +182,7 @@ LESSON_0144 = {
         # 31 if the daily screenshot needs sending
         ("Ms Lan", "Does that screenshot from earlier still need sending?", "Ảnh chụp màn hình lúc nãy có còn cần gửi không vậy?"),
         ("Ms Dorothea", "Yes, I still have not seen the error message.", "Có, tôi vẫn chưa xem tin nhắn lỗi đó."),
-        ("Ms Lan", "I will send it to you right away.", "Tôi gửi cho bạn ngay bây giờ."),
+        ("Ms Lan", "I will send it to you right away.", "Tôi gửi cho chị ngay bây giờ."),
         # 32 if the weekly online payment confirmation needs checking
         ("Ms Dorothea", "Does the online payment confirmation need checking this week?", "Xác nhận thanh toán trực tuyến tuần này có cần kiểm tra không vậy?"),
         ("Ms Lan", "Yes, the amount looked slightly off to me.", "Có, số tiền trông có vẻ hơi sai."),
@@ -190,11 +190,11 @@ LESSON_0144 = {
         # 33 if the regular profile picture needs updating
         ("Ms Lan", "Does the profile picture need updating on the app?", "Ảnh đại diện trên ứng dụng có cần cập nhật không vậy?"),
         ("Ms Dorothea", "Yes, mine is from several years back.", "Có, ảnh của tôi chụp từ mấy năm trước."),
-        ("Ms Lan", "I will help you pick a new one.", "Tôi giúp bạn chọn ảnh mới."),
+        ("Ms Lan", "I will help you pick a new one.", "Tôi giúp chị chọn ảnh mới."),
         # 34 if the daily notification sound needs changing
         ("Ms Dorothea", "Does the notification sound need changing for the group chat?", "Âm thanh thông báo có cần đổi cho nhóm chat không vậy?"),
         ("Ms Lan", "Yes, it is too similar to my alarm sound.", "Có, nó nghe giống báo thức của tôi quá."),
-        ("Ms Dorothea", "I will help you pick a different tone.", "Tôi giúp bạn chọn âm khác."),
+        ("Ms Dorothea", "I will help you pick a different tone.", "Tôi giúp chị chọn âm khác."),
         # 35 if the usual weekend digital declutter needs starting today
         ("Ms Lan", "Does the usual weekend digital declutter need starting today?", "Việc dọn dẹp thiết bị số cuối tuần quen hôm nay có cần bắt đầu không vậy?"),
         ("Ms Dorothea", "Yes, both our phones are quite cluttered now.", "Có, điện thoại của cả hai đều khá lộn xộn rồi."),
@@ -204,7 +204,7 @@ LESSON_0144 = {
         ("Ms Dorothea", "Yes, everyone is waiting to see the wedding photos.", "Có, mọi người đang đợi xem ảnh đám cưới."),
         ("Ms Lan", "I will send the invite link right now.", "Tôi gửi liên kết mời ngay bây giờ."),
         # 37 if a quick voice message needs recording for a friend
-        ("Ms Dorothea", "Does a quick voice message need recording for your friend?", "Có cần thu một tin nhắn thoại ngắn cho bạn của bạn không vậy?"),
+        ("Ms Dorothea", "Does a quick voice message need recording for your friend?", "Có cần thu một tin nhắn thoại ngắn cho bạn của chị không vậy?"),
         ("Ms Lan", "Yes, it is faster than typing everything out.", "Có, thu âm nhanh hơn gõ hết ra."),
         ("Ms Dorothea", "Good idea, I will record mine too.", "Ý hay, tôi cũng thu một cái nhé."),
         # 38 if the group chat pinned message needs updating
@@ -212,9 +212,9 @@ LESSON_0144 = {
         ("Ms Dorothea", "Yes, the event time in it is now wrong.", "Có, giờ tổ chức trong đó giờ sai rồi."),
         ("Ms Lan", "I will pin the correct time right away.", "Tôi ghim lại giờ đúng ngay đây."),
         # 39 if the auto-reply message needs setting before the trip
-        ("Ms Dorothea", "Does the auto-reply message need setting before your trip?", "Tin nhắn tự động có cần đặt trước chuyến đi của bạn không vậy?"),
+        ("Ms Dorothea", "Does the auto-reply message need setting before your trip?", "Tin nhắn tự động có cần đặt trước chuyến đi của chị không vậy?"),
         ("Ms Lan", "Yes, I will be away with no signal for days.", "Có, tôi sẽ đi xa và mất sóng vài ngày."),
-        ("Ms Dorothea", "Good thinking, I will help you write it.", "Nghĩ hay đấy, tôi giúp bạn soạn nội dung."),
+        ("Ms Dorothea", "Good thinking, I will help you write it.", "Nghĩ hay đấy, tôi giúp chị soạn nội dung."),
         # 36 closing on why routine messaging needs matter
         ("Ms Dorothea", "Why does keeping up with these small messaging routine needs matter so much anyway?", "Vậy vì sao theo kịp những nhu cầu nhắn tin nhỏ thường lệ như vậy lại quan trọng đến thế?"),
         ("Ms Lan", "It keeps us organized and connected without important messages getting buried.", "Nó giúp mình gọn gàng và giữ liên lạc mà không để tin nhắn quan trọng bị vùi lấp."),

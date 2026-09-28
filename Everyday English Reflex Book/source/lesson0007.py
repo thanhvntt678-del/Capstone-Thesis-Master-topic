@@ -40,10 +40,10 @@ LESSON_0007 = {
         ("Ms Lan", "How much is this jacket, Thomas?", "Cái áo khoác này giá bao nhiêu vậy, anh Thomas?"),
         ("Mr Thomas", "It is forty-five dollars.", "Giá bốn mươi lăm đô la."),
         ("Ms Lan", "That sounds fair. I will take it.", "Vậy hợp lý đấy. Tôi lấy cái này."),
-        # 4 paying by card
+        # 4 paying by cash
         ("Mr Thomas", "Would you like to pay by card or cash, Lan?", "Chị muốn trả bằng thẻ hay tiền mặt vậy, chị Lan?"),
-        ("Ms Lan", "By card, please.", "Bằng thẻ nhé, cảm ơn anh."),
-        ("Mr Thomas", "Sure, just tap here.", "Được, chị chạm vào đây thôi."),
+        ("Ms Lan", "In cash, please.", "Tiền mặt nhé, cảm ơn anh."),
+        ("Mr Thomas", "Sure, that works fine.", "Được, vậy cũng ổn thôi."),
         # 5 getting change
         ("Mr Thomas", "Here is your change, Lan. Five dollars back.", "Đây là tiền thối của chị, chị Lan. Năm đô la nhé."),
         ("Ms Lan", "Thank you, let me count it.", "Cảm ơn anh, để tôi đếm lại."),

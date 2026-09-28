@@ -54,7 +54,7 @@ LESSON_0170 = {
         ("Ms Florentine", "Great, I will wear that combination then.", "Tuyệt, vậy tôi mặc bộ đó."),
         # 3 hemming a pair of pants
         ("Ms Lan", "Could you help me hem these pants? They are too long.", "Chị giúp tôi lên lai quần này được không? Nó dài quá."),
-        ("Ms Florentine", "Yes, I can pin them up for you now.", "Được, tôi ghim lại cho bạn ngay."),
+        ("Ms Florentine", "Yes, I can pin them up for you now.", "Được, tôi ghim lại cho chị ngay."),
         ("Ms Lan", "Thank you, that would be a big help.", "Cảm ơn chị, vậy giúp tôi nhiều lắm."),
         # 4 picking out a tie
         ("Ms Florentine", "Could you help me pick out a tie for the interview?", "Bạn giúp tôi chọn cà vạt cho buổi phỏng vấn được không?"),

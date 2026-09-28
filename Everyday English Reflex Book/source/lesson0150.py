@@ -86,7 +86,7 @@ LESSON_0150 = {
         # 14 congee
         ("Ms Isolde", "Should we choose congee since you are feeling unwell?", "Vì bạn không khỏe, mình chọn cháo nhé?"),
         ("Ms Lan", "Yes, congee sounds gentle on my stomach.", "Có, cháo nghe nhẹ nhàng cho bụng tôi."),
-        ("Ms Isolde", "Good, I will cook a small pot for you.", "Tốt, tôi nấu một nồi nhỏ cho bạn."),
+        ("Ms Isolde", "Good, I will cook a small pot for you.", "Tốt, tôi nấu một nồi nhỏ cho chị."),
         # 15 sticky rice
         ("Ms Lan", "Should we choose sticky rice for the morning market?", "Mình chọn xôi cho buổi chợ sáng nhé?"),
         ("Ms Isolde", "Yes, sticky rice keeps us full for hours.", "Có, xôi giúp mình no lâu."),
@@ -180,7 +180,7 @@ LESSON_0150 = {
         ("Ms Isolde", "We could make fried rice with a fried egg on top.", "Mình có thể làm cơm chiên với một quả trứng chiên ở trên."),
         ("Ms Lan", "Good idea, that sounds easy enough to make.", "Ý hay đấy, nghe đơn giản để làm."),
         # 38 asking about someone's own preference, not proposing
-        ("Ms Isolde", "What simple food would you like to eat tonight?", "Tối nay bạn muốn ăn món gì đơn giản vậy?"),
+        ("Ms Isolde", "What simple food would you like to eat tonight?", "Tối nay chị muốn ăn món gì đơn giản vậy?"),
         ("Ms Lan", "I would really like some grilled fish, if that is okay.", "Tôi thật sự muốn ăn cá nướng, nếu được thì tốt."),
         ("Ms Isolde", "Perfect, grilled fish sounds great to me too.", "Tuyệt, cá nướng tôi cũng thích luôn."),
         # 39 agreeing on what to order together at a food stall

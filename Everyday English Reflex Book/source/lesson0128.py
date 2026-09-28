@@ -108,7 +108,7 @@ LESSON_0128 = {
         ("Ms Lan", "That works well across a distance.", "Vậy hiệu quả khi cách xa."),
         # 14 how to respond to a greeting with a hug
         ("Ms Seraphina", "How do I respond to a greeting that comes with a hug?", "Tôi đáp lại lời chào kèm cái ôm thế nào?"),
-        ("Ms Lan", "Hug them back warmly, if you feel comfortable.", "Ôm lại họ ấm áp, nếu bạn thấy thoải mái."),
+        ("Ms Lan", "Hug them back warmly, if you feel comfortable.", "Ôm lại họ ấm áp, nếu chị thấy thoải mái."),
         ("Ms Seraphina", "That feels natural between close friends.", "Vậy tự nhiên giữa bạn bè thân thiết."),
         # 15 how to respond to a greeting while eating
         ("Ms Lan", "How should I respond to a greeting while I am eating?", "Tôi nên đáp lại lời chào khi đang ăn thế nào?"),

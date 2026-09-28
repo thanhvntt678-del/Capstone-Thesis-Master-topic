@@ -183,7 +183,7 @@ LESSON_0147 = {
         ("Mr Gideon", "Yes, it is six dollars for a nicely wrapped one.", "Có, hộp gói đẹp giá sáu đô la."),
         ("Ms Lan", "Six dollars, perfect for tomorrow's gift.", "Sáu đô la, hợp để tặng quà mai đấy."),
         # 36 reacting when a price feels too high
-        ("Mr Gideon", "The price of that jacket seems quite high, do you think so too?", "Giá cái áo khoác đó có vẻ cao, bạn thấy vậy không?"),
+        ("Mr Gideon", "The price of that jacket seems quite high, do you think so too?", "Giá cái áo khoác đó có vẻ cao, anh thấy vậy không?"),
         ("Ms Lan", "Yes, forty dollars is too expensive for me right now.", "Đúng vậy, bốn mươi đô la hơi đắt với tôi lúc này."),
         ("Mr Gideon", "I agree, let us wait for it to go on sale.", "Tôi cũng nghĩ vậy, mình chờ khi nào giảm giá đã."),
         # 37 asking whether a price already includes tax

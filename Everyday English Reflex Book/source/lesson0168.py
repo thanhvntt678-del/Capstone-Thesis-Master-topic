@@ -52,7 +52,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, I will grab my lunch bag now.", "Tốt, tôi lấy túi cơm ngay."),
         # 2 thirsty after a jog
         ("Ms Miranda", "I am so thirsty after that jog.", "Chạy xong tôi khát nước quá."),
-        ("Ms Lan", "Yes, here is a bottle of water for you.", "Ừ, đây là chai nước cho bạn."),
+        ("Ms Lan", "Yes, here is a bottle of water for you.", "Ừ, đây là chai nước cho chị."),
         ("Ms Miranda", "Thank you, I really needed that.", "Cảm ơn, tôi đang cần lắm."),
         # 3 hungry during a long meeting
         ("Ms Lan", "I am getting hungry, this meeting is running long.", "Tôi thấy đói rồi, buổi họp này kéo dài quá."),
@@ -60,7 +60,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, I can hold on until then.", "Tốt, vậy tôi ráng chờ tới lúc đó."),
         # 4 thirsty while gardening
         ("Ms Miranda", "I am getting thirsty from all this gardening.", "Làm vườn nhiều khiến tôi khát nước quá."),
-        ("Ms Lan", "Yes, let me bring you some water.", "Ừ, để tôi mang nước cho bạn."),
+        ("Ms Lan", "Yes, let me bring you some water.", "Ừ, để tôi mang nước cho chị."),
         ("Ms Miranda", "Thank you, my throat was getting quite dry.", "Cảm ơn, cổ họng tôi đang khô lắm."),
         # 5 hungry on a road trip
         ("Ms Lan", "I am starting to feel hungry on this road trip.", "Trên chuyến đi này tôi bắt đầu thấy đói rồi."),
@@ -72,7 +72,7 @@ LESSON_0168 = {
         ("Ms Miranda", "Good, I will pour a glass right now.", "Tốt, tôi rót một ly ngay."),
         # 7 hungry waiting for a delayed bus
         ("Ms Lan", "I am getting hungry waiting for this delayed bus.", "Chờ xe buýt trễ khiến tôi thấy đói rồi."),
-        ("Ms Miranda", "Yes, I have a snack in my bag if you want.", "Ừ, tôi có đồ ăn nhẹ trong túi nếu bạn muốn."),
+        ("Ms Miranda", "Yes, I have a snack in my bag if you want.", "Ừ, tôi có đồ ăn nhẹ trong túi nếu chị muốn."),
         ("Ms Lan", "That would really hit the spot right now.", "Vậy thì đúng lúc tôi cần luôn."),
         # 8 thirsty during a hot afternoon
         ("Ms Miranda", "I am so thirsty in this hot afternoon sun.", "Trời nắng chiều nóng thế này tôi khát nước quá."),
@@ -84,7 +84,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, that should be light enough.", "Tốt, ăn vậy chắc cũng nhẹ bụng."),
         # 10 thirsty after a spicy meal
         ("Ms Miranda", "I am extremely thirsty after that spicy meal.", "Ăn món cay xong tôi khát nước kinh khủng."),
-        ("Ms Lan", "Yes, here is some cold water for you.", "Ừ, đây là nước lạnh cho bạn."),
+        ("Ms Lan", "Yes, here is some cold water for you.", "Ừ, đây là nước lạnh cho chị."),
         ("Ms Miranda", "Thank you, that spice really got to me.", "Cảm ơn, món cay đó làm tôi thấm thật."),
         # 11 hungry during a movie
         ("Ms Lan", "I am feeling hungry halfway through this movie.", "Xem phim tới giữa tôi thấy đói rồi."),
@@ -92,7 +92,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good idea, I will get it now.", "Ý hay, tôi lấy ngay."),
         # 12 thirsty while cooking
         ("Ms Miranda", "I am getting thirsty standing over this hot stove.", "Đứng bên bếp nóng khiến tôi khát nước."),
-        ("Ms Lan", "Yes, I will pour you some water now.", "Ừ, tôi rót nước cho bạn ngay."),
+        ("Ms Lan", "Yes, I will pour you some water now.", "Ừ, tôi rót nước cho chị ngay."),
         ("Ms Miranda", "Thank you, I really need a break.", "Cảm ơn, tôi cần nghỉ chút thật."),
         # 13 hungry after a workout
         ("Ms Lan", "I am very hungry after that workout.", "Tập xong tôi đói bụng lắm."),
@@ -108,7 +108,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, that should help me focus again.", "Tốt, vậy sẽ giúp tôi tập trung lại."),
         # 16 thirsty after laughing a lot
         ("Ms Miranda", "I am so thirsty from laughing so much.", "Cười nhiều quá khiến tôi khát nước."),
-        ("Ms Lan", "Yes, let me get you a drink right away.", "Ừ, để tôi lấy nước cho bạn ngay."),
+        ("Ms Lan", "Yes, let me get you a drink right away.", "Ừ, để tôi lấy nước cho chị ngay."),
         ("Ms Miranda", "Thank you, my throat really needs it.", "Cảm ơn, cổ họng tôi đang cần lắm."),
         # 17 hungry during a long flight
         ("Ms Lan", "I am feeling hungry on this long flight.", "Trên chuyến bay dài này tôi thấy đói."),
@@ -132,7 +132,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, I will keep an eye on the door.", "Tốt, tôi để ý cửa ngay."),
         # 22 thirsty after a long phone call
         ("Ms Miranda", "I am quite thirsty after that long phone call.", "Nói chuyện điện thoại lâu khiến tôi khát nước."),
-        ("Ms Lan", "Yes, here is a glass of water for you.", "Ừ, đây là ly nước cho bạn."),
+        ("Ms Lan", "Yes, here is a glass of water for you.", "Ừ, đây là ly nước cho chị."),
         ("Ms Miranda", "Thank you, my throat is quite dry.", "Cảm ơn, cổ họng tôi khô quá."),
         # 23 hungry during a car ride
         ("Ms Lan", "I am getting hungry on this long car ride.", "Trên chuyến xe dài này tôi thấy đói."),
@@ -140,7 +140,7 @@ LESSON_0168 = {
         ("Ms Lan", "Good, I will grab some now.", "Tốt, tôi lấy ngay."),
         # 24 thirsty while doing yoga
         ("Ms Miranda", "I am getting thirsty during this yoga session.", "Buổi tập yoga này khiến tôi khát nước."),
-        ("Ms Lan", "Yes, your water bottle is right beside your mat.", "Ừ, bình nước của bạn ngay cạnh thảm tập đó."),
+        ("Ms Lan", "Yes, your water bottle is right beside your mat.", "Ừ, bình nước của chị ngay cạnh thảm tập đó."),
         ("Ms Miranda", "Good, I will take a quick sip now.", "Tốt, tôi uống một ngụm ngay."),
         # 25 hungry before a big test
         ("Ms Lan", "I am feeling hungry right before this big test.", "Trước bài kiểm tra lớn này tôi thấy đói."),

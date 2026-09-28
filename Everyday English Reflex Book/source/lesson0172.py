@@ -60,7 +60,7 @@ LESSON_0172 = {
         ("Ms Hepzibah", "Good, we still have time to wait.", "Tốt, vậy mình vẫn còn thời gian chờ."),
         # 3 buying a ticket from the machine
         ("Ms Lan", "Could you help me buy a ticket from this machine?", "Chị giúp tôi mua vé từ máy này được không?"),
-        ("Ms Hepzibah", "Yes, just tap the screen and select your stop.", "Được, chỉ cần chạm màn hình và chọn trạm của bạn."),
+        ("Ms Hepzibah", "Yes, just tap the screen and select your stop.", "Được, chỉ cần chạm màn hình và chọn trạm của chị."),
         ("Ms Lan", "Good, that worked, thank you for showing me.", "Tốt, được rồi, cảm ơn chị đã chỉ."),
         # 4 finding a seat with luggage
         ("Ms Hepzibah", "Could you help me find a seat? I have this big suitcase.", "Bạn giúp tôi tìm chỗ ngồi được không? Tôi mang vali to này."),
@@ -80,7 +80,7 @@ LESSON_0172 = {
         ("Ms Lan", "Good, I will follow that exit then.", "Tốt, tôi đi lối ra đó."),
         # 8 carrying a stroller onto the train
         ("Ms Hepzibah", "Could you help me carry this stroller onto the train?", "Bạn giúp tôi mang xe đẩy này lên tàu được không?"),
-        ("Ms Lan", "Yes, let me hold one end for you.", "Được, để tôi giữ một đầu cho bạn."),
+        ("Ms Lan", "Yes, let me hold one end for you.", "Được, để tôi giữ một đầu cho chị."),
         ("Ms Hepzibah", "Thank you, that is much easier with two.", "Cảm ơn bạn, có hai người dễ hơn nhiều."),
         # 9 figuring out the fare
         ("Ms Lan", "Could you help me figure out the fare to the last stop?", "Chị giúp tôi tính giá vé tới trạm cuối được không?"),

@@ -59,7 +59,7 @@ LESSON_0197 = {
         ("Ms Lan", "Perfect, I will set it up right now.", "Tuyệt vời, tôi sẽ đặt ngay bây giờ."),
         # 4 changing a phone number to call
         ("Ms Persephone", "Actually, could you call my new number instead of the old one?", "Thật ra, bạn gọi số mới của tôi thay vì số cũ được không?"),
-        ("Ms Lan", "Yes, I will save your new number right away.", "Được, tôi sẽ lưu số mới của bạn ngay."),
+        ("Ms Lan", "Yes, I will save your new number right away.", "Được, tôi sẽ lưu số mới của chị ngay."),
         ("Ms Persephone", "Good, that number is active starting today.", "Tốt, số đó bắt đầu hoạt động từ hôm nay."),
         # 5 changing a call duration
         ("Ms Lan", "Actually, could we keep the call to twenty minutes instead of an hour today?", "Thật ra, hôm nay mình rút cuộc gọi xuống hai mươi phút thay vì một tiếng được không?"),
@@ -84,7 +84,7 @@ LESSON_0197 = {
         # 10 changing a call location for privacy
         ("Ms Persephone", "Actually, could I step outside to take this call instead of staying in the office?", "Thật ra, tôi ra ngoài nghe cuộc gọi này thay vì ở trong văn phòng được không?"),
         ("Ms Lan", "Yes, it is much quieter for a private talk out there.", "Được, ra ngoài yên tĩnh hơn nhiều để nói chuyện riêng."),
-        ("Ms Persephone", "Good, I will step out and call you right back.", "Tốt, tôi ra ngoài rồi gọi lại cho bạn ngay."),
+        ("Ms Persephone", "Good, I will step out and call you right back.", "Tốt, tôi ra ngoài rồi gọi lại cho chị ngay."),
         # 11 changing a phone volume setting
         ("Ms Lan", "Actually, could you turn the volume up a little? I can barely hear you.", "Thật ra, bạn tăng âm lượng lên chút được không? Tôi gần như không nghe rõ."),
         ("Ms Persephone", "Yes, sorry, let me turn it up right now.", "Được, xin lỗi, để tôi tăng lên ngay."),
@@ -95,7 +95,7 @@ LESSON_0197 = {
         ("Ms Persephone", "Great, let us start with the guest list then.", "Tuyệt, vậy mình bắt đầu với danh sách khách mời nhé."),
         # 13 changing a callback time
         ("Ms Lan", "Actually, could you call me back after lunch instead of right now?", "Thật ra, bạn gọi lại cho tôi sau bữa trưa thay vì ngay bây giờ được không?"),
-        ("Ms Persephone", "Yes, I will call you back around one o'clock.", "Được, tôi sẽ gọi lại cho bạn khoảng một giờ."),
+        ("Ms Persephone", "Yes, I will call you back around one o'clock.", "Được, tôi sẽ gọi lại cho chị khoảng một giờ."),
         ("Ms Lan", "Good, I will be free by then.", "Tốt, lúc đó tôi rảnh rồi."),
         # 14 changing a voicemail greeting
         ("Ms Persephone", "Actually, could I record a new voicemail greeting? Mine sounds so outdated.", "Thật ra, tôi ghi lời chào hộp thư thoại mới được không? Lời cũ nghe lỗi thời quá."),
@@ -115,7 +115,7 @@ LESSON_0197 = {
         ("Ms Lan", "Good, evenings work well for me too.", "Tốt, buổi tối cũng hợp với tôi."),
         # 18 changing a phone case colour
         ("Ms Persephone", "Actually, could you help me pick a blue phone case instead of the pink one?", "Thật ra, bạn giúp tôi chọn ốp điện thoại màu xanh thay vì màu hồng được không?"),
-        ("Ms Lan", "Yes, blue really does suit your style more.", "Được, màu xanh hợp phong cách của bạn hơn."),
+        ("Ms Lan", "Yes, blue really does suit your style more.", "Được, màu xanh hợp phong cách của chị hơn."),
         ("Ms Persephone", "Perfect, let us order the blue one then.", "Tuyệt vời, vậy mình đặt cái màu xanh nhé."),
         # 19 changing a call script for work
         ("Ms Lan", "Actually, could we shorten the greeting script for customer calls?", "Thật ra, mình rút ngắn kịch bản chào hỏi khi gọi cho khách hàng được không?"),
@@ -127,7 +127,7 @@ LESSON_0197 = {
         ("Ms Persephone", "Good, I will set that alarm now.", "Tốt, tôi sẽ đặt báo thức đó ngay."),
         # 21 changing a phone plan
         ("Ms Lan", "Actually, could I switch to the plan with more call minutes?", "Thật ra, tôi đổi sang gói cước có nhiều phút gọi hơn được không?"),
-        ("Ms Persephone", "Yes, that plan really fits your calling habits better.", "Được, gói đó hợp với thói quen gọi điện của bạn hơn."),
+        ("Ms Persephone", "Yes, that plan really fits your calling habits better.", "Được, gói đó hợp với thói quen gọi điện của chị hơn."),
         ("Ms Lan", "Good, I will change my plan this weekend.", "Tốt, cuối tuần này tôi sẽ đổi gói cước."),
         # 22 changing a call language
         ("Ms Persephone", "Actually, could we practice our English during our next call instead of just chatting?", "Thật ra, cuộc gọi tới mình luyện tiếng Anh thay vì chỉ tán gẫu được không?"),
@@ -135,7 +135,7 @@ LESSON_0197 = {
         ("Ms Persephone", "Great, let us start with simple sentences then.", "Tuyệt, vậy mình bắt đầu với câu đơn giản nhé."),
         # 23 changing a roaming setting before a trip
         ("Ms Lan", "Actually, could I turn on roaming before I fly instead of after landing?", "Thật ra, tôi bật chuyển vùng trước khi bay thay vì sau khi hạ cánh được không?"),
-        ("Ms Persephone", "Yes, that way you can call me the moment you land.", "Được, vậy bạn có thể gọi cho tôi ngay khi vừa hạ cánh."),
+        ("Ms Persephone", "Yes, that way you can call me the moment you land.", "Được, vậy chị có thể gọi cho tôi ngay khi vừa hạ cánh."),
         ("Ms Lan", "Good, I will turn it on at the airport.", "Tốt, tôi sẽ bật ở sân bay."),
         # 24 changing a call background noise plan
         ("Ms Persephone", "Actually, could we call after the kids go to bed instead of now?", "Thật ra, mình gọi sau khi các con đi ngủ thay vì bây giờ được không?"),
@@ -206,7 +206,7 @@ LESSON_0197 = {
         ("Ms Lan", "Yes, that makes much more sense for a personal talk.", "Được, vậy hợp lý hơn nhiều cho chuyện trò cá nhân."),
         ("Ms Persephone", "Good, turning off the recording now.", "Tốt, tôi tắt ghi âm ngay."),
         # 41 changing a phone contact photo
-        ("Ms Lan", "Actually, could I update your contact photo with a newer picture?", "Thật ra, tôi cập nhật ảnh danh bạ của bạn bằng ảnh mới hơn được không?"),
+        ("Ms Lan", "Actually, could I update your contact photo with a newer picture?", "Thật ra, tôi cập nhật ảnh danh bạ của chị bằng ảnh mới hơn được không?"),
         ("Ms Persephone", "Yes, that old photo really is quite outdated now.", "Được, ảnh cũ đó giờ khá lỗi thời rồi."),
         ("Ms Lan", "Wonderful, I will update it right now.", "Tuyệt vời, tôi sẽ cập nhật ngay bây giờ."),
         # 42 closing on why being able to change a phone call choice matters

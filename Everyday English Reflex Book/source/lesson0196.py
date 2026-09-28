@@ -88,7 +88,7 @@ LESSON_0196 = {
         ("Mr Sylvanus", "Good, I will send the new link shortly.", "Tốt, tôi sẽ gửi liên kết mới sớm thôi."),
         # 11 changing a feedback delivery method
         ("Ms Lan", "Actually, could I give my feedback in writing instead of out loud today?", "Thật ra, hôm nay tôi góp ý bằng văn bản thay vì nói trực tiếp được không?"),
-        ("Mr Sylvanus", "Yes, that gives you time to word it carefully.", "Được, vậy bạn có thời gian diễn đạt cẩn thận hơn."),
+        ("Mr Sylvanus", "Yes, that gives you time to word it carefully.", "Được, vậy anh có thời gian diễn đạt cẩn thận hơn."),
         ("Ms Lan", "Good, I will send it over this afternoon.", "Tốt, chiều nay tôi sẽ gửi qua."),
         # 12 changing a status update time
         ("Mr Sylvanus", "Actually, could we send status updates at four instead of five each day?", "Thật ra, mỗi ngày mình gửi cập nhật tình hình lúc bốn giờ thay vì năm giờ được không?"),
@@ -125,7 +125,7 @@ LESSON_0196 = {
         # 20 changing a phone versus email preference
         ("Mr Sylvanus", "Actually, could you call me instead of emailing for urgent issues?", "Thật ra, khi có việc gấp bạn gọi điện cho tôi thay vì gửi email được không?"),
         ("Ms Lan", "Yes, calling really is much faster for urgent things.", "Được, gọi điện nhanh hơn nhiều với việc gấp."),
-        ("Mr Sylvanus", "Good, I will call you directly from now on.", "Tốt, từ giờ tôi sẽ gọi thẳng cho bạn."),
+        ("Mr Sylvanus", "Good, I will call you directly from now on.", "Tốt, từ giờ tôi sẽ gọi thẳng cho anh."),
         # 21 changing a client update schedule
         ("Ms Lan", "Actually, could we send the client an update every Monday instead of every Friday?", "Thật ra, mình gửi cập nhật cho khách hàng vào thứ Hai thay vì thứ Sáu được không?"),
         ("Mr Sylvanus", "Yes, Monday lets them plan their week better.", "Được, thứ Hai giúp khách hàng sắp xếp tuần làm việc tốt hơn."),
@@ -201,7 +201,7 @@ LESSON_0196 = {
         # 39 changing a conference call dial-in method
         ("Ms Lan", "Actually, could we dial in by phone instead of joining by video today?", "Thật ra, hôm nay mình gọi vào bằng điện thoại thay vì tham gia bằng video được không?"),
         ("Mr Sylvanus", "Yes, my internet has been quite unstable this morning.", "Được, sáng nay mạng của tôi khá chập chờn."),
-        ("Ms Lan", "Good, I will send you the dial-in number.", "Tốt, tôi sẽ gửi số điện thoại gọi vào cho bạn."),
+        ("Ms Lan", "Good, I will send you the dial-in number.", "Tốt, tôi sẽ gửi số điện thoại gọi vào cho anh."),
         # 40 changing a bulletin board notice
         ("Mr Sylvanus", "Actually, could we pin the new schedule to the bulletin board instead of the old one?", "Thật ra, mình dán lịch mới lên bảng tin thay vì cái cũ được không?"),
         ("Ms Lan", "Yes, the old notice is quite out of date now.", "Được, thông báo cũ giờ đã lỗi thời rồi."),

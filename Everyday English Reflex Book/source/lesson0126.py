@@ -63,7 +63,7 @@ LESSON_0126 = {
         ("Ms Lan", "The paperclip icon, thank you, attaching now.", "Biểu tượng kẹp giấy, cảm ơn chị, tôi đính kèm ngay."),
         # 4 how to start a new group chat
         ("Ms Philippa", "How do I start a new group chat for our friends?", "Tôi tạo nhóm chat mới cho nhóm bạn thế nào?"),
-        ("Ms Lan", "Tap new chat, then select everyone you want.", "Chạm vào tin nhắn mới, rồi chọn những người bạn muốn."),
+        ("Ms Lan", "Tap new chat, then select everyone you want.", "Chạm vào tin nhắn mới, rồi chọn những người chị muốn."),
         ("Ms Philippa", "Got it, I will set that up now.", "Được rồi, tôi sẽ tạo ngay."),
         # 5 how to mute a noisy group chat
         ("Ms Lan", "How do I mute this noisy group chat for a while?", "Tôi tắt thông báo nhóm chat ồn ào này một thời gian thế nào?"),

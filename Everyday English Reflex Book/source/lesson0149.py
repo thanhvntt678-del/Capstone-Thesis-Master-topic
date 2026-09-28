@@ -64,7 +64,7 @@ LESSON_0149 = {
         ("Mr Oswin", "Yes, there are five of them, parents and three kids.", "Có, nhà họ có năm người, ba mẹ và ba đứa con."),
         ("Ms Lan", "Five, that must be a lively household.", "Năm người, chắc nhà lúc nào cũng rộn ràng lắm."),
         # 2 colleague
-        ("Mr Oswin", "Do you know how many people are in your colleague's family?", "Bạn có biết gia đình đồng nghiệp của bạn có bao nhiêu người không vậy?"),
+        ("Mr Oswin", "Do you know how many people are in your colleague's family?", "Anh có biết gia đình đồng nghiệp của anh có bao nhiêu người không vậy?"),
         ("Ms Lan", "Yes, there are four, her, her husband, and two kids.", "Có, nhà có bốn người, chị ấy, chồng chị ấy, và hai đứa con."),
         ("Mr Oswin", "Four, a nice small family then.", "Bốn người, gia đình nhỏ gọn đấy."),
         # 3 gym buddy
@@ -72,7 +72,7 @@ LESSON_0149 = {
         ("Mr Oswin", "Yes, there are three, him, his wife, and one son.", "Có, nhà có ba người, anh ấy, vợ, và một đứa con trai."),
         ("Ms Lan", "Three, that sounds cosy and close-knit.", "Ba người, nghe ấm cúng và gắn bó thật."),
         # 4 classmate
-        ("Mr Oswin", "Do you know how many people are in your classmate's family?", "Bạn có biết gia đình bạn học của bạn có bao nhiêu người không vậy?"),
+        ("Mr Oswin", "Do you know how many people are in your classmate's family?", "Anh có biết gia đình bạn học của anh có bao nhiêu người không vậy?"),
         ("Ms Lan", "Yes, there are six, parents, grandma, and three kids.", "Có, nhà có sáu người, ba mẹ, bà, và ba đứa con."),
         ("Mr Oswin", "Six, three generations under one roof then.", "Sáu người, vậy ba thế hệ sống chung một nhà."),
         # 5 yoga instructor

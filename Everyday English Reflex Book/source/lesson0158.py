@@ -111,7 +111,7 @@ LESSON_0158 = {
         ("Ms Marcella", "No, it is getting a bit low actually.", "Chưa, thật ra xăng cũng gần hết rồi."),
         ("Ms Lan", "Good thing you checked, I will fill it up.", "May mà chị kiểm tra, tôi đi đổ xăng."),
         # 16 if the phone is charged
-        ("Ms Marcella", "Can you check if your phone is charged for tomorrow?", "Bạn kiểm tra giúp điện thoại của bạn mai có đủ pin không được không?"),
+        ("Ms Marcella", "Can you check if your phone is charged for tomorrow?", "Chị kiểm tra giúp điện thoại của chị mai có đủ pin không được không?"),
         ("Ms Lan", "Yes, it sits at one hundred percent now.", "Rồi, giờ pin đầy một trăm phần trăm."),
         ("Ms Marcella", "Good, all set for tomorrow then.", "Tốt, vậy sẵn sàng cho mai rồi."),
         # 17 if the bills were paid
