@@ -1927,11 +1927,59 @@ blank pages, lesson order 0001→0459 verified).
   (supersedes the 0601-0604 file), 42,298 total English learning
   words, FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs,
   0 cross-lesson duplicate lines, lesson order 0601-0605 verified).
-- **Next lesson to write: 0606** (A2 — Domain "Food", scenario
-  "asking for water", per master workbook row 607; write at the
-  ~160-170-scene/~480-504-turn A2 calibration, verify with
-  `render_check.py` against the real 16-page floor, and rebuild via
-  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
+- **BLOCK 0606-0610 COMPLETE** (first full 10-lesson block of Book 2,
+  written via 5 parallel background agents, each independently
+  re-verified by me before being trusted — qc_report, render_check.py,
+  and a whole-book cross-lesson duplicate check for every lesson):
+  - **0606** Mr Thistlewaite, Hazel & Rye Café ("Food", asking for
+    water). 168 scenes, 504 turns, 8,901 words, 19 real pages.
+  - **0607** Mr Farrowmere, Briarwood General Store ("Shopping",
+    shopping & payments). 165 scenes, 495 turns, 9,147 words, 20 real
+    pages.
+  - **0608** Mr Kingscote, Brambleford Clothing & Alterations
+    ("Clothing", clothing & personal items). 173 scenes, 519 turns,
+    8,498 words, 18 real pages.
+  - **0609** Mr Ashenford, Bellhaven Local Rides & Deliveries
+    ("Neighbourhood", neighbourhood & directions). 168 scenes, 504
+    turns, 9,384 words, 20 real pages.
+  - **0610** Mr Wrenholt, Thornbury Central Station Travel Help Desk
+    ("Transport", public transport). 168 scenes, 504 turns, 9,440
+    words, 19 real pages. (First dispatch hit a session rate limit
+    with 0 files written; confirmed via on-disk check, re-dispatched
+    once tools recovered, succeeded cleanly on retry.)
+  All five: 0 duplicate lines/sentences within their own lesson, 0
+  cross-lesson duplicates against the full whole-book check (610
+  lessons total: Book 1's 0001-0600 + Book 2's 0601-0610). Every
+  intro paragraph personally spot-read (start/middle/end) to confirm
+  no paraphrase-cycling repetition (the failure mode caught in Lesson
+  0605) — none found in any of the five.
+  Book 2 rebuilt: `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0610.docx`
+  (supersedes the 0601-0605 file), 87,668 total English learning
+  words, FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs,
+  0 cross-lesson duplicate lines, lesson order 0601-0610 verified).
+  **★ Also applied in this pass: justified text alignment (both left
+  and right margins) across the ENTIRE book** — see the Book 1 update
+  below; `lesson_builder.py`'s `add_intro_paragraph`/`add_dialogue_line`
+  now set `WD_ALIGN_PARAGRAPH.JUSTIFY`, so every Book 2 lesson from
+  0601 onward already has this applied by construction.
+- **Book 1 (Lessons 0001-0600) formatting fix**: per user report of
+  ragged-right-edge text, added justified (both-edges-aligned) text
+  to `lesson_builder.py` (`add_intro_paragraph`, `add_dialogue_line`)
+  and to `build_master_book.py` (a formatting-only pass that justifies
+  Lesson 0001's existing approved paragraphs without touching their
+  text). Rebuilt `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`,
+  FINAL CUMULATIVE QC: PASS, word count unchanged (1,117,492 — this
+  was a formatting-only change). Re-verified Lessons 0001 and 0600
+  still render at their expected page counts (5 and 6) after the
+  change. Also ran a full scan across all 608 lesson source files:
+  every `lesson_id` matches its filename exactly, and no leftover
+  `"???"` placeholders remain anywhere in the book.
+- **Next lesson to write: 0611** (A2 — Domain "Transport", scenario
+  "the first practical exchange about taxi & ride services", per
+  master workbook row 612; write at the ~160-170-scene/~480-510-turn
+  A2 calibration, verify with `render_check.py` against the real
+  16-page floor, and rebuild via `source/build_master_book2.py` after
+  bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2027,8 +2075,9 @@ blank pages, lesson order 0001→0459 verified).
   Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
-  Brindlewood, Stonebridge.
-  Pick a fresh name for Lesson 0606's secondary character and note
+  Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
+  Ashenford, Wrenholt.
+  Pick a fresh name for Lesson 0611's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
