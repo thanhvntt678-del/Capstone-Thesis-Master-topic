@@ -1692,14 +1692,55 @@ blank pages, lesson order 0001→0459 verified).
   Next block: **0580-0589**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
   feedback is applied first).
-- **Last completed lesson: 0579** (secondary character Mr Uxbridgeham).
-  Domain "Services" (post, courier & deliveries), CEFR A1, scenario
-  "Making a simple request about a change or choice involving post,
-  courier & deliveries" (11th appearance of this topic). Confirmed
-  zero duplicate lines against the whole book, 0001-0579, and 5 real
+  **BLOCK 0580-0589 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0580-0584 and 0585-0589 — both agents
+  hit a session rate limit before finishing; 6 files (0580-0582,
+  0585-0587) had already been written when the limit hit, and I
+  independently verified them and found + fixed 10 cross-lesson
+  collisions myself (3 in lesson0580 vs. pre-existing lesson0400, 1
+  in lesson0582 vs. lesson0074, 6 in lesson0585 vs. lesson0405); the
+  remaining 4 lessons (0583, 0584, 0588, 0589) were then written
+  cleanly by a fresh single-agent dispatch once the limit cleared).
+  Lesson 0580 was the 12th appearance of Services — repairs & home
+  services. Lessons 0581-0586 revisited the original Lessons
+  0091-0096 topics (Personal Identity, Social Basics, Numbers and
+  Time, Home, Family, Food) for their 4th appearance. Lessons
+  0587-0589 (Shopping, Clothing, Neighbourhood) introduced the
+  "misunderstanding or problem involving X" framing at its 26th
+  appearance — this exact pattern caused the book's worst-ever
+  collision incident (98 duplicates) on its first broad appearance at
+  Lessons 0200-0209, so the dispatching agent was given the full
+  incident history and required to apply the proven "distinct,
+  concrete organizing context per lesson" discipline; the fresh-agent
+  dispatch that wrote 0588-0589 applied this discipline correctly
+  (checked via the mandatory automated check) and confirmed no
+  generic-collision risk between 0588/0589 themselves. Result: 0
+  cross-lesson duplicates on my own independent final whole-book
+  check — the thirty-seventh fully clean block in a row, including a
+  clean pass through the book's historically most dangerous pattern.
+  Current cumulative state: Lessons 0001-0589,
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0589.docx`
+  (supersedes the 0001-0579 file), 1,086,710 total English learning
+  words, 2,957 total English-only A4 pages (589 lessons, most
+  rendered to 6 pages, all real-rendered and verified), [PENDING]
+  actual rendered bilingual A4 pages (real Chrome render of the full
+  cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate
+  lesson IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson
+  order 0001-0589 verified).
+  Next block: **0590-0599**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first). Note: Lesson 0600 is the final A1-tier
+  lesson (5-page target); Lesson 0601 begins the A2 tier (16-page
+  target) — watch for this CEFR/format boundary at the start of the
+  block after next.
+- **Last completed lesson: 0589** (secondary character Ms Fenwickshire).
+  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
+  about a misunderstanding or problem involving neighbourhood &
+  directions" (26th appearance of this topic). Confirmed zero
+  duplicate lines against the whole book, 0001-0589, and 6 real
   English-only pages.
-- **Next lesson to write on NEXT: 0580** (A1 — check the master
-  workbook row 581 for exact domain/scenario/title before writing;
+- **Next lesson to write on NEXT: 0590** (A1 — check the master
+  workbook row 591 for exact domain/scenario/title before writing;
   write at ~42 scenes / 126 turns from the first draft and verify with
   `source/render_check.py` immediately — do not assume word count alone
   reaches 5 real pages). The full cumulative names-used list for
@@ -1792,8 +1833,10 @@ blank pages, lesson order 0001→0459 verified).
   Duxbury, Everlyshaw, Framptonhill, Gorswood, Halewick, Ivyhampton,
   Jessopdale, Kettleworthy, Larchington, Marchfording, Northgate,
   Osbournbury, Prestcombe, Quennelford, Rackhamdale, Stanwickshire,
-  Uxbridgeham.
-  Pick a fresh name for Lesson 0580's secondary character and note the
+  Uxbridgeham, Vexingham, Winterhollow, Yardleycross, Zephyrfield,
+  Ambercroft, Brightwellby, Coldstreamer, Devonhollow, Elderfieldby,
+  Fenwickshire.
+  Pick a fresh name for Lesson 0590's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
