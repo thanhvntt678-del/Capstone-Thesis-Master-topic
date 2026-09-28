@@ -49,6 +49,17 @@ def main():
     doc = docx.Document(base_path)
     lesson_0001 = load_lesson0001_as_dict(base_path)
 
+    # Formatting-only fix (no text/content change): justify Lesson 0001's
+    # existing body paragraphs so both the left and right edges line up,
+    # matching the justified alignment now used for every later lesson's
+    # intro/dialogue paragraphs (see add_intro_paragraph/add_dialogue_line
+    # in lesson_builder.py). Title/header/table paragraphs are left as-is.
+    from docx.enum.text import WD_ALIGN_PARAGRAPH as _WAP
+    for _p in doc.paragraphs:
+        _t = _p.text.strip()
+        if _t and (':' in _t or len(_t) > 80):
+            _p.alignment = _WAP.JUSTIFY
+
     all_lessons = [lesson_0001]
     for n in range(2, LAST_LESSON + 1):
         all_lessons.append(load_lesson(n))

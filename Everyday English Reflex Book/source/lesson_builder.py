@@ -120,6 +120,7 @@ def add_blank_spacer(doc):
 
 def add_intro_paragraph(doc, en_text, vi_text):
     p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     p.paragraph_format.space_after = Pt(8)
     r1 = p.add_run(en_text)
     r1.font.name = "Calibri"; r1.font.size = Pt(9.5); r1.font.italic = True
@@ -129,6 +130,7 @@ def add_intro_paragraph(doc, en_text, vi_text):
 
 def add_dialogue_line(doc, speaker, en_text, vi_text):
     p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     p.paragraph_format.space_after = Pt(8)
     p.paragraph_format.line_spacing = 1.3
     r_sp = p.add_run(f"{speaker}: ")
