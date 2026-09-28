@@ -1729,21 +1729,68 @@ blank pages, lesson order 0001→0459 verified).
   order 0001-0589 verified).
   Next block: **0590-0599**, to start only after the user responds
   (any reply, including "NEXT" or "next", authorizes it; specific
-  feedback is applied first). Note: Lesson 0600 is the final A1-tier
-  lesson (5-page target); Lesson 0601 begins the A2 tier (16-page
-  target) — watch for this CEFR/format boundary at the start of the
-  block after next.
-- **Last completed lesson: 0589** (secondary character Ms Fenwickshire).
-  Domain "Neighbourhood", CEFR A1, scenario "Making a simple request
-  about a misunderstanding or problem involving neighbourhood &
-  directions" (26th appearance of this topic). Confirmed zero
-  duplicate lines against the whole book, 0001-0589, and 6 real
+  feedback is applied first).
+  **BLOCK 0590-0599 is now COMPLETE** (10/10 lessons; two parallel
+  background agents, 5 each, 0590-0594 and 0595-0599). This was the
+  highest-risk block in the book's history: ALL 10 lessons used "a
+  misunderstanding or problem involving X" — the single most
+  collision-prone pattern, which caused the book's worst-ever incident
+  (98 duplicates) on its first broad appearance at Lessons 0200-0209.
+  9 of the 10 lessons were at 24-25th appearance (extreme repetition);
+  Lesson 0599 (Scheduling) was a more moderate 12th appearance (11
+  prior siblings, fully read). Both agents were briefed on the full
+  incident history and required to apply the "distinct concrete
+  organizing context per lesson" discipline to every scene in every
+  lesson, and to explicitly guard against within-batch cross-
+  contamination (reusing the same generic "sorry for the mix-up"
+  phrasing across their own 5 lessons), since this was the specific
+  failure mode in the historic incident. The 0590-0594 agent caught
+  and fixed 16 within-batch collisions and 1 cross-batch collision
+  (lesson0592 vs. pre-existing lesson0532, flagged by the other
+  agent); the 0595-0599 agent's own batch came back clean. Result: 0
+  cross-lesson duplicates on my own independent final whole-book
+  check — the thirty-eighth fully clean block in a row, and by far
+  the riskiest one navigated cleanly. Current cumulative state:
+  Lessons 0001-0599,
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0599.docx`
+  (supersedes the 0001-0589 file), 1,114,805 total English learning
+  words, 3,020 total English-only A4 pages (599 lessons, several
+  rendered to 7 pages, all real-rendered and verified), [PENDING]
+  actual rendered bilingual A4 pages (real Chrome render of the full
+  cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate
+  lesson IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson
+  order 0001-0599 verified).
+  **★ MAJOR FORMAT BOUNDARY AHEAD ★**: Verified directly against the
+  master workbook (rows 601-612): Lesson 0600 is the FINAL A1-tier
+  lesson (5-page English-only target, same format as everything so
+  far). Lesson 0601 begins the A2 tier — 16 full A4 English-only
+  pages per lesson (roughly 3x the current density). The next block
+  (0600-0609) therefore straddles this boundary: Lesson 0600 stays at
+  the current ~42-scene/126-turn/5-page format, but Lessons 0601-0609
+  must be written at the new, much larger A2 depth. Before dispatching
+  that block, re-read the master workbook's A2 guidance (word/page
+  targets, any format notes) and plan scene/turn counts accordingly —
+  do not assume the current A1 scene density scales linearly; verify
+  the real per-lesson word/turn target for A2 before writing, and
+  render_check.py every A2 lesson against the 16-page target (not 5)
+  before treating it as done.
+  Next block: **0600-0609**, to start only after the user responds
+  (any reply, including "NEXT" or "next", authorizes it; specific
+  feedback is applied first).
+- **Last completed lesson: 0599** (secondary character Mr Ravensworthby).
+  Domain "Scheduling", CEFR A1, scenario "Making a simple request
+  about a misunderstanding or problem involving appointments &
+  schedules" (12th appearance of this topic). Confirmed zero
+  duplicate lines against the whole book, 0001-0599, and 6 real
   English-only pages.
-- **Next lesson to write on NEXT: 0590** (A1 — check the master
-  workbook row 591 for exact domain/scenario/title before writing;
-  write at ~42 scenes / 126 turns from the first draft and verify with
-  `source/render_check.py` immediately — do not assume word count alone
-  reaches 5 real pages). The full cumulative names-used list for
+- **Next lesson to write on NEXT: 0600** (A1 — LAST A1-tier lesson;
+  check the master workbook row 601 for exact domain/scenario/title
+  before writing; write at ~42 scenes / 126 turns from the first
+  draft and verify with `source/render_check.py` immediately — do not
+  assume word count alone reaches 5 real pages). **Lesson 0601 is the
+  FIRST A2-tier lesson — 16-page target, not 5. Re-read the master
+  workbook's A2-tier guidance before drafting it.**
+  The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
   Robert, Natalie, Simon, Diana, George, Laura, Edward, Claire, Nathan,
@@ -1835,8 +1882,10 @@ blank pages, lesson order 0001→0459 verified).
   Osbournbury, Prestcombe, Quennelford, Rackhamdale, Stanwickshire,
   Uxbridgeham, Vexingham, Winterhollow, Yardleycross, Zephyrfield,
   Ambercroft, Brightwellby, Coldstreamer, Devonhollow, Elderfieldby,
-  Fenwickshire.
-  Pick a fresh name for Lesson 0590's secondary character and note the
+  Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
+  Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
+  Ravensworthby.
+  Pick a fresh name for Lesson 0600's secondary character and note the
   substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
