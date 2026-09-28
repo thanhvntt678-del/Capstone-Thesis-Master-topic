@@ -2035,12 +2035,35 @@ blank pages, lesson order 0001→0459 verified).
   before, during Lesson 0605's construction.
   Rebuilt `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`
   after both fixes. FINAL CUMULATIVE QC: PASS.
-- **Next lesson to write: 0611** (A2 — Domain "Transport", scenario
-  "the first practical exchange about taxi & ride services", per
-  master workbook row 612; write at the ~160-170-scene/~480-510-turn
-  A2 calibration, verify with `render_check.py` against the real
-  16-page floor, and rebuild via `source/build_master_book2.py` after
-  bumping its `LAST_LESSON`).
+- **Lesson 0611 written and independently re-verified** (secondary
+  character Mr Blackmore, guest transport coordinator at the
+  fictional "Hartwell Grand Hotel," where Ms Lan is the lead
+  concierge). Domain "Transport", CEFR A2, scenario "the first
+  practical exchange about taxi & ride services" (airport transfers,
+  fare estimates, cancellations, car seats, accessibility, lost
+  items, payment-to-room-bill, etc.). 168 scenes, 504 turns, 9,037
+  English words, 0 duplicate lines/sentences within the lesson, 18
+  real English-only A4 pages via render_check.py (target >= 16), 0
+  cross-lesson duplicates against the whole book (611 lessons total).
+  **First test of the two new standing rules from the Book 1 audit**:
+  the agent reported zero uses of "bạn" anywhere in the file (grep
+  confirmed independently), and a programmatic check found only 3
+  reused guest surnames across the whole lesson, none adjacent —
+  clean on both counts. Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0611.docx`
+  (supersedes 0601-0610), 96,705 total English words, FINAL
+  CUMULATIVE QC: PASS.
+  (Note: the first dispatch attempt for this lesson was killed by a
+  transient server-side infrastructure outage with 0 files written;
+  confirmed via on-disk check, re-dispatched once the outage cleared,
+  succeeded cleanly on the second attempt.)
+- **Next lesson to write: 0612** (A2 — Domain "Mobility", scenario
+  "the first practical exchange about walking & getting around", per
+  master workbook row 613; write at the ~165-170-scene/~495-510-turn
+  A2 calibration, apply the two standing rules above (no generic
+  "bạn", check adjacent-scene logic), verify with `render_check.py`
+  against the real 16-page floor, and rebuild via
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2137,8 +2160,8 @@ blank pages, lesson order 0001→0459 verified).
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
-  Ashenford, Wrenholt.
-  Pick a fresh name for Lesson 0611's secondary character and note
+  Ashenford, Wrenholt, Blackmore.
+  Pick a fresh name for Lesson 0612's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
