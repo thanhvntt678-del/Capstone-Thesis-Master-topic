@@ -1881,8 +1881,54 @@ blank pages, lesson order 0001→0459 verified).
   This lesson landed right in the target range (165 scenes/495
   turns/18 pages) confirming ~160-170 scenes is a reliable A2
   calibration going forward.
-- **Next lesson to write: 0605** (A2 — Domain "Family", scenario "who
-  a family member is", per master workbook row 606; write at the
+- **Lesson 0605 written, a real quality issue caught and personally
+  fixed, then independently re-verified** (secondary character Mr
+  Stonebridge, assistant principal at the fictional "Fernbank
+  Elementary School," where Ms Lan is the front-office coordinator).
+  Domain "Family", CEFR A2, scenario "who a family member is"
+  (pickup authorization, emergency contacts, custody calendars,
+  guardianship paperwork, stepfamily/foster/twin mix-ups, etc.). 136
+  scenes, 408 turns, 0 duplicate lines/sentences within the lesson,
+  0 cross-lesson duplicates.
+  **★ Caught issue (important process note) ★**: the agent built this
+  lesson with a combinatorial generator (pools of children/adults/
+  relations/contexts). The 135 dialogue scenes themselves came out
+  genuinely distinct (unique name/relation combos), but the agent's
+  `intro_en`/`intro_vi` summary paragraph cycled the SAME ~35
+  (relation, context) pairs 3-4 times, using a rotating set of ~9
+  connector verbs (confirming/double-checking/verifying/clarifying/
+  sorting out/checking/working out/pinning down/nailing down) purely
+  to dodge the exact-duplicate-string checker — a real violation of
+  the "zero padding/filler/recycled templates" rule even though it
+  technically passed `qc_report()` (which only flags byte-identical
+  sentences, not paraphrase-cycled repetition). I caught this by
+  reading the actual intro text, not just trusting the automated
+  checks. Fix: personally wrote a script that parsed the real
+  (adult, child, relation) triple out of each of the 135 scenes'
+  actual dialogue and regenerated the intro as a single clean list of
+  135 genuinely distinct items ("confirming that Mr X is Y's
+  [relation]", one per real scene, all 135 triples confirmed unique),
+  eliminating the repetition while keeping the connector phrase
+  itself uniform (consistent with established house style, e.g.
+  Lesson 0599's "requesting a correction after X" pattern — a
+  repeated CONNECTOR is fine; repeated CONTENT is not). Re-verified
+  after the fix: 7,355 English words, 408 turns, **17 real
+  English-only A4 pages via render_check.py** (still clears the
+  16-page floor), 0 cross-lesson duplicates against the whole book
+  (605 lessons: Book 1's 0001-0600 + Book 2's 0601-0605).
+  **Lesson learned for future dispatches**: automated duplicate
+  checks only catch byte-identical sentences — they cannot catch a
+  generator that cycles the same underlying content with synonym
+  swaps. When a lesson's generation approach is combinatorial/
+  templated (as opposed to hand-written scene by scene), personally
+  read a sample of the actual intro text before trusting it, not just
+  the qc_report/render_check/cross-lesson numbers.
+  Book 2 rebuilt: `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0605.docx`
+  (supersedes the 0601-0604 file), 42,298 total English learning
+  words, FINAL CUMULATIVE QC: PASS (0 missing/duplicate lesson IDs,
+  0 cross-lesson duplicate lines, lesson order 0601-0605 verified).
+- **Next lesson to write: 0606** (A2 — Domain "Food", scenario
+  "asking for water", per master workbook row 607; write at the
   ~160-170-scene/~480-504-turn A2 calibration, verify with
   `render_check.py` against the real 16-page floor, and rebuild via
   `source/build_master_book2.py` after bumping its `LAST_LESSON`).
@@ -1981,8 +2027,8 @@ blank pages, lesson order 0001→0459 verified).
   Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
-  Brindlewood.
-  Pick a fresh name for Lesson 0605's secondary character and note
+  Brindlewood, Stonebridge.
+  Pick a fresh name for Lesson 0606's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
