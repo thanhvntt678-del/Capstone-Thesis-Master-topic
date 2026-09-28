@@ -1754,10 +1754,10 @@ blank pages, lesson order 0001→0459 verified).
   Lessons 0001-0599,
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`
   (supersedes the 0001-0599 file), 1,117,492 total English learning
-  words, real-rendered bilingual A4 page count recorded below once
-  the render finishes, FINAL CUMULATIVE QC: PASS (0 missing/duplicate
-  lesson IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson
-  order 0001-0600 verified).
+  words, 3,918 actual rendered bilingual A4 pages (real Chrome render
+  of the full cumulative HTML, 600 lessons), FINAL CUMULATIVE QC: PASS
+  (0 missing/duplicate lesson IDs, 0 cross-lesson duplicate lines,
+  0 blank pages, lesson order 0001-0600 verified).
   **★ BOOK 1 COMPLETE — THIS IS THE FINAL LESSON OF BOOK 1 ★**: Per
   the user's explicit instruction on 2026-09-28, this cumulative book
   (`EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`) is now the
