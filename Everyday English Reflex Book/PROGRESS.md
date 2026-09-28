@@ -1752,44 +1752,40 @@ blank pages, lesson order 0001→0459 verified).
   check — the thirty-eighth fully clean block in a row, and by far
   the riskiest one navigated cleanly. Current cumulative state:
   Lessons 0001-0599,
-  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0599.docx`
-  (supersedes the 0001-0589 file), 1,114,805 total English learning
-  words, 3,020 total English-only A4 pages (599 lessons, several
-  rendered to 7 pages, all real-rendered and verified), 3,911 actual
-  rendered bilingual A4 pages (real Chrome render of the full
-  cumulative HTML), FINAL CUMULATIVE QC: PASS (0 missing/duplicate
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`
+  (supersedes the 0001-0599 file), 1,117,492 total English learning
+  words, real-rendered bilingual A4 page count recorded below once
+  the render finishes, FINAL CUMULATIVE QC: PASS (0 missing/duplicate
   lesson IDs, 0 cross-lesson duplicate lines, 0 blank pages, lesson
-  order 0001-0599 verified).
-  **★ MAJOR FORMAT BOUNDARY AHEAD ★**: Verified directly against the
-  master workbook (rows 601-612): Lesson 0600 is the FINAL A1-tier
-  lesson (5-page English-only target, same format as everything so
-  far). Lesson 0601 begins the A2 tier — 16 full A4 English-only
-  pages per lesson (roughly 3x the current density). The next block
-  (0600-0609) therefore straddles this boundary: Lesson 0600 stays at
-  the current ~42-scene/126-turn/5-page format, but Lessons 0601-0609
-  must be written at the new, much larger A2 depth. Before dispatching
-  that block, re-read the master workbook's A2 guidance (word/page
-  targets, any format notes) and plan scene/turn counts accordingly —
-  do not assume the current A1 scene density scales linearly; verify
-  the real per-lesson word/turn target for A2 before writing, and
-  render_check.py every A2 lesson against the 16-page target (not 5)
-  before treating it as done.
-  Next block: **0600-0609**, to start only after the user responds
-  (any reply, including "NEXT" or "next", authorizes it; specific
-  feedback is applied first).
-- **Last completed lesson: 0599** (secondary character Mr Ravensworthby).
-  Domain "Scheduling", CEFR A1, scenario "Making a simple request
-  about a misunderstanding or problem involving appointments &
-  schedules" (12th appearance of this topic). Confirmed zero
-  duplicate lines against the whole book, 0001-0599, and 6 real
-  English-only pages.
-- **Next lesson to write on NEXT: 0600** (A1 — LAST A1-tier lesson;
-  check the master workbook row 601 for exact domain/scenario/title
-  before writing; write at ~42 scenes / 126 turns from the first
-  draft and verify with `source/render_check.py` immediately — do not
-  assume word count alone reaches 5 real pages). **Lesson 0601 is the
-  FIRST A2-tier lesson — 16-page target, not 5. Re-read the master
-  workbook's A2-tier guidance before drafting it.**
+  order 0001-0600 verified).
+  **★ BOOK 1 COMPLETE — THIS IS THE FINAL LESSON OF BOOK 1 ★**: Per
+  the user's explicit instruction on 2026-09-28, this cumulative book
+  (`EVERYDAY_ENGLISH_REFLEX_BOOK_MASTER_0001_0600.docx`) is now the
+  FINAL delivered file for the A0/Pre-A1/A1 tier (Lessons 0001-0600).
+  Lesson 0600 was confirmed via direct master-workbook query to be
+  the last A1-tier lesson (5-page English-only target); it was
+  written at the established ~42-scene/126-turn format (Ms Lan +
+  Ms Featherwick, Eating Out domain, "misunderstanding or problem
+  with restaurants & cafés" framing, 12th appearance of this topic),
+  verified with 0 duplicate lines/sentences against the whole book
+  and 6 real English-only pages via render_check.py.
+  **Lessons 0601-2000 (the A2-B2 tier, 16-page-per-lesson format) will
+  be written as a SEPARATE second book**, not appended to this file.
+  A new source/build script and a new master_book output filename
+  (e.g. `EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_XXXX.docx`) should
+  be set up before writing Lesson 0601 — re-read the master workbook's
+  A2 guidance (word/page targets) at that time, since the current
+  A1 scene density does not scale linearly to the 16-page target.
+- **Last completed lesson: 0600** (secondary character Ms Featherwick).
+  Domain "Eating Out", CEFR A1, scenario "Making a simple request
+  about a misunderstanding or problem involving restaurants & cafés"
+  (12th appearance of this topic). Confirmed zero duplicate lines
+  against the whole book, 0001-0600, and 6 real English-only pages.
+  **THIS IS THE LAST LESSON OF BOOK 1.**
+- **Next lesson to write: 0601** (A2 — FIRST lesson of Book 2; 16-page
+  English-only target, not 5. Re-read the master workbook's A2-tier
+  guidance before drafting it, and set up a new build script / output
+  filename for Book 2 rather than appending to the 0001-0600 file).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -1884,9 +1880,9 @@ blank pages, lesson order 0001→0459 verified).
   Ambercroft, Brightwellby, Coldstreamer, Devonhollow, Elderfieldby,
   Fenwickshire, Goldenbrook, Hartswellby, Ingledene, Juniperbrook,
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
-  Ravensworthby.
-  Pick a fresh name for Lesson 0600's secondary character and note the
-  substitution here when it's written.
+  Ravensworthby, Featherwick.
+  Pick a fresh name for Lesson 0601's secondary character (first
+  lesson of Book 2) and note the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
   the master workbook's suggested secondary-character names directly
