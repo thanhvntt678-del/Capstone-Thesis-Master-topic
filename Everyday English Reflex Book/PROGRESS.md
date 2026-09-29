@@ -2057,8 +2057,26 @@ blank pages, lesson order 0001→0459 verified).
   transient server-side infrastructure outage with 0 files written;
   confirmed via on-disk check, re-dispatched once the outage cleared,
   succeeded cleanly on the second attempt.)
-- **Next lesson to write: 0612** (A2 — Domain "Mobility", scenario
-  "the first practical exchange about walking & getting around", per
+- **Lesson 0612 written and independently re-verified** (secondary
+  character Mr Ravenscourt, visitor-center staff member at the
+  fictional "Fernwood Regional Park," where Ms Lan is a regular
+  visitor). Domain "Mobility", CEFR A2, scenario "the first practical
+  exchange about walking & getting around" (trail difficulty, loop
+  vs out-and-back routes, distances/times, accessibility, wildlife
+  caution, weather-appropriate footwear, meeting points, etc.). 169
+  scenes, 507 turns, 9,994 English words, 0 duplicate lines/sentences
+  within the lesson, 21 real English-only A4 pages via
+  render_check.py (target >= 16), 0 cross-lesson duplicates against
+  the whole book (612 lessons total, independently re-run). Standing
+  rules re-checked independently: 3 uses of "bạn" found via grep, all
+  personally reviewed and confirmed legitimate "friend" noun usages
+  (not 2nd-person pronoun errors), and no adjacent-scene dialogue
+  contradictions found. Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0612.docx`
+  (supersedes 0601-0611), 106,699 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0613** (A2 — Domain "Weather", scenario
+  "the first practical exchange about weather & daily plans", per
   master workbook row 613; write at the ~165-170-scene/~495-510-turn
   A2 calibration, apply the two standing rules above (no generic
   "bạn", check adjacent-scene logic), verify with `render_check.py`
@@ -2160,8 +2178,8 @@ blank pages, lesson order 0001→0459 verified).
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
-  Ashenford, Wrenholt, Blackmore.
-  Pick a fresh name for Lesson 0612's secondary character and note
+  Ashenford, Wrenholt, Blackmore, Ravenscourt.
+  Pick a fresh name for Lesson 0613's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
