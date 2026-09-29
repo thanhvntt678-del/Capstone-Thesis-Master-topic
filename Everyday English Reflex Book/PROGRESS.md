@@ -2115,13 +2115,43 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0614.docx`
   (supersedes 0601-0613), 124,661 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0615** (A2 — Domain "Learning", scenario
-  "the first practical exchange about school & learning", per master
-  workbook row 615; write at the ~165-170-scene/~495-510-turn A2
-  calibration, apply the two standing rules above (no generic "bạn",
-  check adjacent-scene logic), verify with `render_check.py` against
-  the real 16-page floor, and rebuild via `source/build_master_book2.py`
-  after bumping its `LAST_LESSON`).
+- **Lesson 0615 written and independently re-verified** (secondary
+  character Mr Hallcroft, a fellow adult learner who works in
+  logistics and is Ms Lan's classmate/study-partner in the same
+  evening A2 English class at a small language centre). Domain
+  "Learning", CEFR A2, scenario "the first practical exchange about
+  school & learning" (class schedules, homework, assignments/
+  deadlines, exam prep, textbooks, vocabulary/grammar practice, study
+  habits, group projects, course registration, grades/feedback,
+  classroom logistics, apps, tutoring, library use, note-taking,
+  motivation/progress). 170 scenes, 510 turns, 8,989 English words, 0
+  duplicate lines/sentences within the lesson, 18 real English-only
+  A4 pages via render_check.py (target >= 16), 0 cross-lesson
+  duplicates against the whole book (615 lessons total, independently
+  re-run). Standing rules re-checked independently: 7 uses of "bạn"
+  found via grep, 6 already-legitimate compound-noun usages
+  ("bạn học", "bạn cùng lớp"); found and personally fixed one genuine
+  ambiguity at turn index 321 -- "tôi kiểm tra lại ghi chú với bạn"
+  (agent intended "with a friend," a third party, but with no
+  qualifier a reader would naturally read it as addressing Hallcroft
+  directly, the exact pronoun-misuse pattern the standing rule
+  targets) -- reworded to "với một người bạn khác" to remove the
+  ambiguity; re-verified 0 duplicate lines/sentences and page count
+  unaffected after the fix. Personally read the full intro and
+  sampled scenes from the start/middle/end — content covers a
+  genuinely broad, non-repetitive range of school/learning sub-topics
+  across 17 thematic categories, and no adjacent-scene dialogue
+  contradictions found. Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0615.docx`
+  (supersedes 0601-0614), 133,650 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0616** (A2 — Domain "Work", scenario "the
+  first practical exchange about workplace everyday communication",
+  per master workbook row 616; write at the ~165-170-scene/~495-510-
+  turn A2 calibration, apply the two standing rules above (no generic
+  "bạn", check adjacent-scene logic), verify with `render_check.py`
+  against the real 16-page floor, and rebuild via
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2218,8 +2248,9 @@ blank pages, lesson order 0001→0459 verified).
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
-  Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood.
-  Pick a fresh name for Lesson 0615's secondary character and note
+  Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
+  Hallcroft.
+  Pick a fresh name for Lesson 0616's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
