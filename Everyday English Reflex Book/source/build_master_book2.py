@@ -31,7 +31,7 @@ from lesson_builder import (
 from build_combined import cross_lesson_duplicate_check
 
 FIRST_LESSON = 601
-LAST_LESSON = 618  # bump this each time Book 2 grows
+LAST_LESSON = 619  # bump this each time Book 2 grows
 PAGE_TARGET = 16  # real English-only A4 pages per lesson, A2-B2 tier
 
 

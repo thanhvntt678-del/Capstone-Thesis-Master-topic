@@ -2220,9 +2220,34 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0618.docx`
   (supersedes 0601-0617), 160,662 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0619** (A2 — Domain "Scheduling", scenario
-  "the first practical exchange about appointments & schedules", per
-  master workbook row 619; write at the ~165-170-scene/~495-510-turn
+- **Lesson 0619 written and independently re-verified** (secondary
+  character Ms Ellacott, a scheduling coordinator at a small clinic
+  who also helps out at a neighbouring salon on busy afternoons).
+  Domain "Scheduling", CEFR A2, scenario "the first practical
+  exchange about appointments & schedules" (booking, confirming,
+  rescheduling, canceling, early/late arrivals, double-booking
+  conflicts, waiting lists, reminders, recurring appointments,
+  checking availability, fees/deposits, no-shows, follow-ups,
+  calendar syncing, booking for someone else, holiday/closure
+  scheduling, weather rescheduling, wheelchair access). 177 scenes,
+  531 turns, 9,019 English words, 0 duplicate lines/sentences within
+  the lesson, 19 real English-only A4 pages via render_check.py
+  (target >= 16), 0 cross-lesson duplicates against the whole book
+  (619 lessons total, independently re-run). Standing rules
+  re-checked independently: 2 uses of "bạn" found via grep, both
+  "bạn ấy" (anaphoric third-person "that friend," referring back to
+  an already-introduced "một người bạn thân của tôi" earlier in the
+  same sentence), confirmed unambiguous. Personally read the full
+  intro and sampled scenes from the start/middle/end — content covers
+  a genuinely broad, non-repetitive range of appointment/scheduling
+  sub-topics, and no adjacent-scene dialogue contradictions found.
+  Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0619.docx`
+  (supersedes 0601-0618), 169,681 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0620** (A2 — Domain "Eating Out", scenario
+  "the first practical exchange about restaurants & cafés", per
+  master workbook row 620; write at the ~165-170-scene/~495-510-turn
   A2 calibration, apply the two standing rules above (no generic
   "bạn", and when "bạn" is used as a legitimate third-party "friend"
   noun always attach an unambiguous qualifier so it can't read as
@@ -2326,8 +2351,8 @@ blank pages, lesson order 0001→0459 verified).
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
-  Hallcroft, Cresswood, Fenrow, Thornbeck.
-  Pick a fresh name for Lesson 0619's secondary character and note
+  Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott.
+  Pick a fresh name for Lesson 0620's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
