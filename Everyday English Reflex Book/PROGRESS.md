@@ -2245,9 +2245,39 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0619.docx`
   (supersedes 0601-0618), 169,681 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0620** (A2 — Domain "Eating Out", scenario
-  "the first practical exchange about restaurants & cafés", per
-  master workbook row 620; write at the ~165-170-scene/~495-510-turn
+- **Lesson 0620 written and independently re-verified** (secondary
+  character Mr Applecross, a warm café/restaurant owner). Domain
+  "Eating Out", CEFR A2, scenario "the first practical exchange
+  about restaurants & cafés" (getting a table, menu questions,
+  allergies/dietary needs, ordering, special requests, compliments/
+  complaints, bill/splitting, card/cash payment, tipping, takeaway,
+  delivery, reservations, kids' menu, water/napkins/utensils,
+  recommendations, coffee customization, café seating, loyalty
+  cards, waiting for a table, closing-time chat). 169 scenes, 507
+  turns, 9,048 English words, 0 duplicate lines/sentences within the
+  lesson, 19 real English-only A4 pages via render_check.py (target
+  >= 16), 0 cross-lesson duplicates against the whole book (620
+  lessons total, independently re-run). Standing rules re-checked
+  independently: 13 "bạn" hits, all qualified third-party "friend"
+  nouns ("bạn bè", "một người bạn", "bạn chị", "bạn tôi", "người bạn
+  ăn chay", etc.), confirmed unambiguous. The agent had also found
+  and fixed, during its own audit before self-reporting, 13 real
+  "các bạn"/"hai bạn" direct-address violations and one Lesson-0007-
+  style payment-logic contradiction (a card-payment scene followed
+  immediately by a cash scene reading as the same visit) -- verified
+  the fix personally by reading turns 194-211, confirming the cash
+  scene now reads as a separate visit ("For today's lunch..."), a
+  clean resolution. Personally read the full intro and sampled
+  scenes from the start/middle/end — content covers a genuinely
+  broad, non-repetitive range of restaurant/café sub-topics, and no
+  further adjacent-scene dialogue contradictions found. Book 2
+  rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0620.docx`
+  (supersedes 0601-0619), 178,729 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0621** (A2 — Domain "Travel", scenario
+  "the first practical exchange about hotels & accommodation", per
+  master workbook row 621; write at the ~165-170-scene/~495-510-turn
   A2 calibration, apply the two standing rules above (no generic
   "bạn", and when "bạn" is used as a legitimate third-party "friend"
   noun always attach an unambiguous qualifier so it can't read as
@@ -2351,8 +2381,8 @@ blank pages, lesson order 0001→0459 verified).
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
-  Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott.
-  Pick a fresh name for Lesson 0620's secondary character and note
+  Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross.
+  Pick a fresh name for Lesson 0621's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
