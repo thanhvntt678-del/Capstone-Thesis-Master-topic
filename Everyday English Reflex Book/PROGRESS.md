@@ -2094,9 +2094,30 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0613.docx`
   (supersedes 0601-0612), 115,709 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0614** (A2 — Domain "Daily Life", scenario
-  "the first practical exchange about daily routines", per master
-  workbook row 614; write at the ~165-170-scene/~495-510-turn A2
+- **Lesson 0614 written and independently re-verified** (secondary
+  character Mr Larkwood, Ms Lan's flatmate sharing a two-bedroom
+  apartment near the city centre). Domain "Daily Life", CEFR A2,
+  scenario "the first practical exchange about daily routines" (wake
+  times, bathroom/shower turns, coffee habits, meal planning, grocery
+  lists, commute/WFH, exercise, bedtime wind-down, weekly chore
+  rotas, scheduling conflicts, deliberate routine changes, routine
+  comparisons). 188 scenes, 564 turns, 8,952 English words, 0
+  duplicate lines/sentences within the lesson, 19 real English-only
+  A4 pages via render_check.py (target >= 16), 0 cross-lesson
+  duplicates against the whole book (614 lessons total, independently
+  re-run). Standing rules re-checked independently: 2 uses of "bạn"
+  found via grep ("bạn cùng nhà" = flatmate noun, "bạn bè" = friends
+  noun), both confirmed legitimate; personally read the full intro
+  and sampled scenes from the start/middle/end — content covers a
+  genuinely broad, non-repetitive range of daily-routine sub-topics,
+  and no adjacent-scene dialogue contradictions found. Book 2
+  rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0614.docx`
+  (supersedes 0601-0613), 124,661 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0615** (A2 — Domain "Learning", scenario
+  "the first practical exchange about school & learning", per master
+  workbook row 615; write at the ~165-170-scene/~495-510-turn A2
   calibration, apply the two standing rules above (no generic "bạn",
   check adjacent-scene logic), verify with `render_check.py` against
   the real 16-page floor, and rebuild via `source/build_master_book2.py`
@@ -2197,8 +2218,8 @@ blank pages, lesson order 0001→0459 verified).
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
-  Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven.
-  Pick a fresh name for Lesson 0614's secondary character and note
+  Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood.
+  Pick a fresh name for Lesson 0615's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
