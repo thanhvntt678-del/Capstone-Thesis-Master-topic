@@ -2195,16 +2195,40 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0617.docx`
   (supersedes 0601-0616), 151,677 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0618** (A2 — Domain "Communication",
-  scenario "the first practical exchange about messages & everyday
-  digital communication", per master workbook row 618; write at the
-  ~165-170-scene/~495-510-turn A2 calibration, apply the two standing
-  rules above (no generic "bạn", and when "bạn" is used as a
-  legitimate third-party "friend" noun always attach an unambiguous
-  qualifier so it can't read as direct address; check adjacent-scene
-  logic), verify with `render_check.py` against the real 16-page
-  floor, and rebuild via `source/build_master_book2.py` after
-  bumping its `LAST_LESSON`).
+- **Lesson 0618 written and independently re-verified** (secondary
+  character Mr Thornbeck, Ms Lan's neighbour on the same apartment
+  floor and admin of the building's community group chat). Domain
+  "Communication", CEFR A2, scenario "the first practical exchange
+  about messages & everyday digital communication" (texting, group
+  chats, emojis, read receipts, typos, sending photos/links/files,
+  social media, email etiquette, notifications, spam/blocking, voice
+  notes, Wi-Fi/data issues, scheduling by message, message reactions,
+  forwarding, online shopping chats, calendar invites, 2FA codes,
+  location sharing). 175 scenes, 525 turns, 8,985 English words, 0
+  duplicate lines/sentences within the lesson (one duplicate "Really?"
+  opener fragment caught and fixed by the agent during authoring), 19
+  real English-only A4 pages via render_check.py (target >= 16), 0
+  cross-lesson duplicates against the whole book (618 lessons total,
+  independently re-run). Standing rules re-checked independently: 1
+  use of "bạn" found via grep ("bạn thân của chị" = "your close
+  friend," qualified and unambiguous), confirmed legitimate; the
+  agent had also caught and fixed a bare-pronoun "bạn" instance
+  before self-reporting. Personally read the full intro and sampled
+  scenes from the start/middle/end — content covers a genuinely
+  broad, non-repetitive range of messaging sub-topics, and no
+  adjacent-scene dialogue contradictions found. Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0618.docx`
+  (supersedes 0601-0617), 160,662 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0619** (A2 — Domain "Scheduling", scenario
+  "the first practical exchange about appointments & schedules", per
+  master workbook row 619; write at the ~165-170-scene/~495-510-turn
+  A2 calibration, apply the two standing rules above (no generic
+  "bạn", and when "bạn" is used as a legitimate third-party "friend"
+  noun always attach an unambiguous qualifier so it can't read as
+  direct address; check adjacent-scene logic), verify with
+  `render_check.py` against the real 16-page floor, and rebuild via
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2302,8 +2326,8 @@ blank pages, lesson order 0001→0459 verified).
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
-  Hallcroft, Cresswood, Fenrow.
-  Pick a fresh name for Lesson 0618's secondary character and note
+  Hallcroft, Cresswood, Fenrow, Thornbeck.
+  Pick a fresh name for Lesson 0619's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
