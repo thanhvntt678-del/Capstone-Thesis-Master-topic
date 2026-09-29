@@ -2075,13 +2075,32 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0612.docx`
   (supersedes 0601-0611), 106,699 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0613** (A2 — Domain "Weather", scenario
-  "the first practical exchange about weather & daily plans", per
-  master workbook row 613; write at the ~165-170-scene/~495-510-turn
-  A2 calibration, apply the two standing rules above (no generic
-  "bạn", check adjacent-scene logic), verify with `render_check.py`
-  against the real 16-page floor, and rebuild via
-  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
+- **Lesson 0613 written and independently re-verified** (secondary
+  character Mr Winterhaven, staff meteorologist at the fictional
+  "Riverbend Community FM," where Ms Lan is the morning show
+  producer). Domain "Weather", CEFR A2, scenario "the first practical
+  exchange about weather & daily plans" (forecast checks, temperature/
+  wind/UV/humidity readings, storm/frost/fog warnings, seasonal
+  transitions, dozens of distinct weather-dependent daily-plan
+  scenarios). 172 scenes, 516 turns, 9,010 English words, 0 duplicate
+  lines/sentences within the lesson, 22 real English-only A4 pages via
+  render_check.py (target >= 16), 0 cross-lesson duplicates against
+  the whole book (613 lessons total, independently re-run). Standing
+  rules re-checked independently: 0 uses of "bạn" anywhere in the file
+  (grep confirmed), personally read the full intro and sampled scenes
+  from the start/middle/end — content covers a genuinely broad,
+  non-repetitive range of weather sub-topics, and no adjacent-scene
+  dialogue contradictions found. Book 2 rebuilt:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0613.docx`
+  (supersedes 0601-0612), 115,709 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0614** (A2 — Domain "Daily Life", scenario
+  "the first practical exchange about daily routines", per master
+  workbook row 614; write at the ~165-170-scene/~495-510-turn A2
+  calibration, apply the two standing rules above (no generic "bạn",
+  check adjacent-scene logic), verify with `render_check.py` against
+  the real 16-page floor, and rebuild via `source/build_master_book2.py`
+  after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2178,8 +2197,8 @@ blank pages, lesson order 0001→0459 verified).
   Kestrelmoor, Lindenshire, Moorfieldby, Northcombe, Oakendale,
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
-  Ashenford, Wrenholt, Blackmore, Ravenscourt.
-  Pick a fresh name for Lesson 0613's secondary character and note
+  Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven.
+  Pick a fresh name for Lesson 0614's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
