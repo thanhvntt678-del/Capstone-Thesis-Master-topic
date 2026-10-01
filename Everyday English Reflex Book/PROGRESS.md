@@ -2275,10 +2275,59 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0620.docx`
   (supersedes 0601-0619), 178,729 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0621** (A2 — Domain "Travel", scenario
-  "the first practical exchange about hotels & accommodation", per
-  master workbook row 621; write at the ~165-170-scene/~495-510-turn
-  A2 calibration, apply the two standing rules above (no generic
+- **Lessons 0621-0625 written and independently re-verified as a
+  5-lesson parallel batch** (user asked to switch back to batched
+  parallel dispatch for Book 2, same pattern used for Block
+  0606-0610 in Book 1, with a pre-assigned distinct fresh surname per
+  agent to avoid collisions):
+  - **0621**: Mr Hartswell, hotel front-desk receptionist. Domain
+    "Travel", scenario "hotels & accommodation". 459 turns, 8,919
+    English words, 19 real pages. Found and personally fixed one
+    ambiguous "bạn" ("Tôi nghe bạn nói" -> "Tôi nghe một người bạn
+    nói") that survived a container restart which killed this
+    lesson's original background agent mid-task (the file itself was
+    salvaged complete from disk).
+  - **0622**: Mr Moorland, airport service agent. Domain "Travel",
+    scenario "airports & flights". 167 scenes, 501 turns, 9,595
+    English words, 21 real pages. Had to be rewritten from scratch
+    after the same container restart killed its first attempt at
+    only 5,743 words; the agent itself caught and fixed one bare
+    "cho bạn" instance during its own audit before self-reporting.
+  - **0623**: Mr Kestrelby, train/coach station travel assistant.
+    Domain "Travel", scenario "train & coach travel". 169 scenes,
+    507 turns, 9,589 English words, 20 real pages. Clean on first
+    attempt, 3 "bạn" hits all unambiguous.
+  - **0624**: Mr Dovecote, local garage/gas-station owner. Domain
+    "Driving", scenario "driving, parking & fuel". 162 scenes, 486
+    turns, 9,596 English words, 20 real pages. Its first attempt was
+    killed by a weekly API rate limit at only 6,607 words (112
+    scenes) but with a complete, coherent structure including a
+    proper closing wrap-up; rather than discard it, a follow-up agent
+    extended it in place with 50 new non-overlapping scenes inserted
+    before the existing closing, fixed one ambiguous "bạn" found
+    during review, and brought it to the full target range -- the
+    seam between old and new content was personally verified to read
+    naturally with no contradiction.
+  - **0625**: Mr Brambling, neighborhood pharmacist. Domain "Health
+    Services", scenario "health services & pharmacy". 507 turns,
+    8,877 English words, 19 real pages, 0 "bạn" occurrences. Its
+    writing agent was also killed by the same weekly rate limit, but
+    the file on disk was already complete and syntactically valid at
+    the point of interruption -- independently verified clean rather
+    than discarded.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book (625 lessons total,
+  independently re-run after all 5 were in place), all "bạn" hits
+  confirmed unambiguous, intros and sampled scenes personally read
+  for repetitiveness and adjacent-scene/payment-logic contradictions
+  (none remaining after fixes). Book 2 rebuilt in one pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0625.docx`
+  (supersedes 0601-0620), 225,305 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0626** (A2 — Domain "Wellbeing", scenario
+  "the first practical exchange about fitness & wellbeing routines",
+  per master workbook row 626; write at the ~165-170-scene/~495-510-
+  turn A2 calibration, apply the two standing rules above (no generic
   "bạn", and when "bạn" is used as a legitimate third-party "friend"
   noun always attach an unambiguous qualifier so it can't read as
   direct address; check adjacent-scene logic), verify with
@@ -2381,8 +2430,9 @@ blank pages, lesson order 0001→0459 verified).
   Ravensworthby, Featherwick, Wickstaff, Hollingsworth, Silvermere,
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
-  Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross.
-  Pick a fresh name for Lesson 0621's secondary character and note
+  Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross,
+  Hartswell, Moorland, Kestrelby, Dovecote, Brambling.
+  Pick a fresh name for Lesson 0626's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
