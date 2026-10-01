@@ -2366,16 +2366,70 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0630.docx`
   (supersedes 0601-0625), 273,811 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0631** (A2 — Domain "Customer Service",
-  scenario "the first practical exchange about customer service &
-  complaints", per master workbook row 631; write at the ~165-170-
+- **Lessons 0631-0635 written and independently re-verified as a
+  5-lesson parallel batch** (third batch using the restored
+  parallel-dispatch workflow):
+  - **0631**: Ms Hollowbrook, customer service rep (hotline + retail
+    service desk). Domain "Customer Service", scenario "customer
+    service & complaints". 164 scenes, 492 turns, 9,963 English
+    words, 23 real pages. 0 "bạn" occurrences. The agent's
+    word-trimming regex pass had mangled "Not at all," into "Not,"
+    in two places; the agent caught and fixed both itself before
+    self-reporting -- independently re-scanned the whole file for
+    double spaces, stray commas, and similar mechanical artifacts
+    and found none remaining.
+  - **0632**: Mr Aldercrest, owner of a small neighborhood
+    electronics shop. Domain "Technology", scenario "technology &
+    devices". 168 scenes, 504 turns, 9,474 English words (after
+    fix), 23 real pages. 0 "bạn" occurrences. **Found a genuine bug
+    during independent verification**: 3 lines were exact duplicates
+    of lines already in Lesson 0630 (both lessons independently
+    generated a near-identical "payment/receipt" closing cluster) --
+    confirmed by the whole-book cross-lesson duplicate checker, which
+    automated per-lesson self-checks cannot catch since they only
+    compare within one file. Reworded all 3 lines in 0632 to be
+    distinct; re-verified 0 duplicates against all 633 lessons after
+    the fix. This is the first real cross-lesson duplicate caught in
+    Book 2's parallel-batch era and confirms the whole-book check
+    step (not just each agent's own intra-lesson check) remains
+    essential even when lessons are written independently.
+  - **0633**: Mr Fenstone, neighborhood technology/internet support
+    technician. Domain "Technology", scenario "internet & online
+    accounts". 168 scenes, 504 turns, 9,873 English words, 23 real
+    pages. 2 "bạn" hits, both qualified and unambiguous.
+  - **0634**: Ms Wickmoor, staffer at "Greenfield Box Office"
+    (cinema/concert/museum/theme-park tickets). Domain "Leisure",
+    scenario "entertainment & events". 168 scenes, 504 turns, 9,591
+    English words, 22 real pages. 9 "bạn" hits, all qualified; the
+    agent caught and fixed two near-miss bare instances itself
+    during self-verification.
+  - **0635**: Mr Carrowfield, coordinator of a community leisure
+    center's sports & hobbies program. Domain "Leisure", scenario
+    "sports & hobbies". 168 scenes, 504 turns, 9,584 English words,
+    22 real pages. 7 "bạn" hits, all unambiguous compound nouns
+    ("bạn chơi đôi", "bạn nhảy", "bạn đấu") or qualified references.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book after the 0632 fix
+  (635 lessons total, independently re-run after all 5 were in
+  place), all "bạn" hits confirmed unambiguous, intros and sampled
+  scenes personally read for repetitiveness and adjacent-scene/
+  payment-logic contradictions. Book 2 rebuilt in one pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0635.docx`
+  (supersedes 0601-0630), 322,296 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0636** (A2 — Domain "Relationships",
+  scenario "the first practical exchange about friends & social
+  plans", per master workbook row 636; write at the ~165-170-
   scene/~495-510-turn A2 calibration, apply the two standing rules
   above (no generic "bạn", and when "bạn" is used as a legitimate
   third-party "friend" noun always attach an unambiguous qualifier so
-  it can't read as direct address; check adjacent-scene logic),
-  verify with `render_check.py` against the real 16-page floor, and
-  rebuild via `source/build_master_book2.py` after bumping its
-  `LAST_LESSON`).
+  it can't read as direct address; check adjacent-scene logic) --
+  NOTE: since this lesson's domain is literally about friends, expect
+  MANY more genuine third-party "bạn" (friend) references than usual;
+  each one still needs a clear qualifier so it can never be misread
+  as addressing the secondary character directly; verify with
+  `render_check.py` against the real 16-page floor, and rebuild via
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2475,8 +2529,9 @@ blank pages, lesson order 0001→0459 verified).
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
   Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross,
   Hartswell, Moorland, Kestrelby, Dovecote, Brambling, Marrowfield,
-  Tansley, Birchwood, Foxglen, Winterswick.
-  Pick a fresh name for Lesson 0631's secondary character and note
+  Tansley, Birchwood, Foxglen, Winterswick, Hollowbrook, Aldercrest,
+  Fenstone, Wickmoor, Carrowfield.
+  Pick a fresh name for Lesson 0636's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
