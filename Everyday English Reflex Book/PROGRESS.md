@@ -2324,15 +2324,58 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0625.docx`
   (supersedes 0601-0620), 225,305 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0626** (A2 — Domain "Wellbeing", scenario
-  "the first practical exchange about fitness & wellbeing routines",
-  per master workbook row 626; write at the ~165-170-scene/~495-510-
-  turn A2 calibration, apply the two standing rules above (no generic
-  "bạn", and when "bạn" is used as a legitimate third-party "friend"
-  noun always attach an unambiguous qualifier so it can't read as
-  direct address; check adjacent-scene logic), verify with
-  `render_check.py` against the real 16-page floor, and rebuild via
-  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
+- **Lessons 0626-0630 written and independently re-verified as a
+  5-lesson parallel batch** (second batch using the restored
+  parallel-dispatch workflow, same pre-assigned-fresh-surname
+  pattern as Block 0621-0625):
+  - **0626**: Mr Marrowfield, personal trainer / wellness coach at
+    Ms Lan's community gym. Domain "Wellbeing", scenario "fitness &
+    wellbeing routines". 170 scenes, 510 turns, 9,382 English words,
+    21 real pages. 3 "bạn" hits, all unambiguous ("một người bạn",
+    "bạn tập cùng").
+  - **0627**: Ms Tansley, lead stylist at "Willowbrook Salon and
+    Spa". Domain "Services", scenario "personal care services". 173
+    scenes, 519 turns, 9,397 English words, 20 real pages. 3 "bạn"
+    hits, all unambiguous ("một người bạn", "bạn bè"). One syntax
+    bug (an unescaped apostrophe in intro_en) was caught and fixed
+    by the agent itself during self-verification.
+  - **0628**: Mr Birchwood, bank customer service rep / teller.
+    Domain "Money", scenario "banking & everyday money". 170 scenes,
+    510 turns, 9,801 English words, 22 real pages. 2 "bạn" hits, both
+    unambiguous compound nouns ("bạn bè", "bạn cùng phòng").
+  - **0629**: Mr Foxglen, neighborhood post office / parcel counter
+    clerk. Domain "Services", scenario "post, courier & deliveries".
+    172 scenes, 516 turns, 9,948 English words, 22 real pages. 3
+    "bạn" hits, all unambiguous ("bạn bè đại học cũ", "một người bạn
+    cũ", "người bạn sống ở tỉnh khác").
+  - **0630**: Mr Winterswick, local home-repair technician (plumbing,
+    electrical, appliances, HVAC, pest control, painting, furniture
+    assembly, locksmith). Domain "Services", scenario "repairs & home
+    services". 169 scenes, 507 turns, 9,978 English words, 23 real
+    pages, 0 "bạn" occurrences. The agent trimmed its first draft
+    (10,136 words) with a programmatic filler-word removal pass;
+    independently re-checked for double spaces, stray commas, and
+    lowercase sentence starts the mechanical edit could have
+    introduced -- none found.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book (630 lessons total,
+  independently re-run after all 5 were in place), all "bạn" hits
+  confirmed unambiguous, intros and sampled scenes personally read
+  for repetitiveness and adjacent-scene/payment-logic contradictions
+  (none found). Book 2 rebuilt in one pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0630.docx`
+  (supersedes 0601-0625), 273,811 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0631** (A2 — Domain "Customer Service",
+  scenario "the first practical exchange about customer service &
+  complaints", per master workbook row 631; write at the ~165-170-
+  scene/~495-510-turn A2 calibration, apply the two standing rules
+  above (no generic "bạn", and when "bạn" is used as a legitimate
+  third-party "friend" noun always attach an unambiguous qualifier so
+  it can't read as direct address; check adjacent-scene logic),
+  verify with `render_check.py` against the real 16-page floor, and
+  rebuild via `source/build_master_book2.py` after bumping its
+  `LAST_LESSON`).
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2431,8 +2474,9 @@ blank pages, lesson order 0001→0459 verified).
   Brindlewood, Stonebridge, Thistlewaite, Farrowmere, Kingscote,
   Ashenford, Wrenholt, Blackmore, Ravenscourt, Winterhaven, Larkwood,
   Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross,
-  Hartswell, Moorland, Kestrelby, Dovecote, Brambling.
-  Pick a fresh name for Lesson 0626's secondary character and note
+  Hartswell, Moorland, Kestrelby, Dovecote, Brambling, Marrowfield,
+  Tansley, Birchwood, Foxglen, Winterswick.
+  Pick a fresh name for Lesson 0631's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
