@@ -2417,17 +2417,58 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0635.docx`
   (supersedes 0601-0630), 322,296 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0636** (A2 — Domain "Relationships",
-  scenario "the first practical exchange about friends & social
-  plans", per master workbook row 636; write at the ~165-170-
-  scene/~495-510-turn A2 calibration, apply the two standing rules
-  above (no generic "bạn", and when "bạn" is used as a legitimate
-  third-party "friend" noun always attach an unambiguous qualifier so
-  it can't read as direct address; check adjacent-scene logic) --
-  NOTE: since this lesson's domain is literally about friends, expect
-  MANY more genuine third-party "bạn" (friend) references than usual;
-  each one still needs a clear qualifier so it can never be misread
-  as addressing the secondary character directly; verify with
+- **Lessons 0636-0640 written and independently re-verified as a
+  5-lesson parallel batch** (fourth batch using the restored
+  parallel-dispatch workflow; hit a session-level API rate limit
+  mid-dispatch that killed all 5 agents simultaneously, with 0637 and
+  0638 salvaged intact/near-intact from disk and the other 3
+  re-dispatched after the limit cleared):
+  - **0636**: Ms Oakbridge, a close personal friend of Ms Lan's.
+    Domain "Relationships", scenario "friends & social plans". 169
+    scenes, 507 turns, 9,951 English words, 23 real pages. 36 "bạn"
+    hits (much higher than usual, matching the friends theme) --
+    personally reviewed every single one rather than a sample, given
+    the elevated risk; all compound nouns or qualified third-party
+    references, direct address always "chị" in both directions.
+  - **0637**: Mr Sorrelgate, Ms Lan's next-door neighbour (close
+    friendship built around invitations and visits). Domain "Social
+    Life", scenario "invitations & visits". 169 scenes, 507 turns,
+    9,906 English words, 22 real pages. 11 "bạn" hits, all
+    qualified. This lesson's first attempt was killed by the rate
+    limit at 6,432 words with a missing closing syntax (fixed
+    directly); extended in place with 62 new scenes to reach target.
+  - **0638**: Mr Penhollow, Ms Lan's next-door neighbour (a
+    different one, newly moved in). Domain "Community", scenario
+    "community & neighbours". 153 scenes, 459 turns, 9,014 English
+    words, 20 real pages, 2 "bạn" hits, both qualified. Salvaged
+    intact from disk after the same rate-limit event.
+  - **0639**: Ms Milbrooke, a travel consultant at Ms Lan's go-to
+    agency. Domain "Travel Problems", scenario "travel problems &
+    changes". 167 scenes, 501 turns, 9,950 English words, 22 real
+    pages. 3 "bạn" hits, all qualified.
+  - **0640**: Mr Thistlecombe, a clerk at the city's Central Lost
+    Property Office. Domain "Problems", scenario "lost property &
+    missing items". 168 scenes, 504 turns, 9,759 English words, 22
+    real pages. 5 "bạn" hits, all qualified; deliberately varied,
+    non-formulaic closing scenes (unresolved case, airline
+    compensation, coincidental cross-case connection) to avoid the
+    0630/0632-style closing-template duplication.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book (640 lessons total,
+  independently re-run after all 5 were in place), all "bạn" hits
+  confirmed unambiguous, intros and sampled scenes personally read
+  for repetitiveness and adjacent-scene logic. Book 2 rebuilt in one
+  pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0640.docx`
+  (supersedes 0601-0635), 370,876 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0641** (A2 — Domain "Emergencies", scenario
+  "the first practical exchange about emergencies & asking for help",
+  per master workbook row 641; write at the ~165-170-scene/~495-510-
+  turn A2 calibration, apply the two standing rules above (no generic
+  "bạn", and when "bạn" is used as a legitimate third-party "friend"
+  noun always attach an unambiguous qualifier so it can't read as
+  direct address; check adjacent-scene logic), verify with
   `render_check.py` against the real 16-page floor, and rebuild via
   `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
@@ -2530,8 +2571,9 @@ blank pages, lesson order 0001→0459 verified).
   Hallcroft, Cresswood, Fenrow, Thornbeck, Ellacott, Applecross,
   Hartswell, Moorland, Kestrelby, Dovecote, Brambling, Marrowfield,
   Tansley, Birchwood, Foxglen, Winterswick, Hollowbrook, Aldercrest,
-  Fenstone, Wickmoor, Carrowfield.
-  Pick a fresh name for Lesson 0636's secondary character and note
+  Fenstone, Wickmoor, Carrowfield, Oakbridge, Sorrelgate, Penhollow,
+  Milbrooke, Thistlecombe.
+  Pick a fresh name for Lesson 0641's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
