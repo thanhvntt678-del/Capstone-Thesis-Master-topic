@@ -2462,13 +2462,73 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0640.docx`
   (supersedes 0601-0635), 370,876 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0641** (A2 — Domain "Emergencies", scenario
-  "the first practical exchange about emergencies & asking for help",
-  per master workbook row 641; write at the ~165-170-scene/~495-510-
-  turn A2 calibration, apply the two standing rules above (no generic
-  "bạn", and when "bạn" is used as a legitimate third-party "friend"
-  noun always attach an unambiguous qualifier so it can't read as
-  direct address; check adjacent-scene logic), verify with
+- **Lessons 0641-0645 written and independently re-verified as a
+  5-lesson parallel batch** (fifth batch using the restored
+  parallel-dispatch workflow; hit a session-level API rate limit
+  mid-dispatch that killed all 5 agents a second time — 0642 and 0643
+  were stubs on disk at that point (0 and 30 turns respectively) and
+  were discarded; 0641, 0644, 0645 did not exist on disk at all. All 5
+  were re-dispatched fresh, with an added instruction to write the
+  complete file in one/few large tool calls rather than
+  piecemeal cluster-by-cluster drafting, to reduce vulnerability to
+  future mid-task rate-limit interruptions):
+  - **0641**: Mr Fairmont, the building security guard and trained
+    first-aid volunteer at Ms Lan's apartment complex (Larkwood
+    Apartments), who also staffs the neighbourhood's volunteer
+    emergency line. Domain "Emergencies", scenario "emergencies &
+    asking for help". 168 scenes, 504 turns, 9,576 English words, 21
+    real pages. 1 "bạn" hit ("bạn cùng phòng" = roommate), qualified
+    and unambiguous. During independent review, found and fixed one
+    genuine defect left over from the agent's own word-count trimming
+    pass: Mr Fairmont's line "That is exactly what I am here for."
+    had lost its second clause in English while the Vietnamese still
+    carried it, which also explains Ms Lan's following "I will"
+    reply — restored the missing English clause to match, then
+    re-verified (qc_report, duplicate check, mechanical
+    fragment/punctuation/double-space scan, and a comma-count
+    heuristic across all 504 turns).
+  - **0642**: Ms Castlewick, an officer at the City Public Spaces
+    Office. Domain "Rules & Permissions", scenario "rules, permission
+    & public places". 170 scenes, 504 turns, 9,424 English words, 21
+    real pages. 9 "bạn" hits, all qualified third-party references.
+    Closing deliberately tied to an earlier-established large-event
+    permit rather than a generic payment/confirmation template, per
+    the standing rule added after the 0630/0632 incident.
+  - **0643**: Ms Brindlecombe, a letting agent handling renting &
+    moving home. Domain "Housing", scenario "renting & moving home".
+    175 scenes, 525 turns, 9,462 English words, 22 real pages. 14
+    "bạn" hits, all qualified (compound nouns like "bạn cùng phòng",
+    qualified refs like "bạn tôi"/"bạn ấy"/"một người bạn tin cậy");
+    the agent itself caught and fixed two bare "bạn" instances during
+    its own self-verification before handing back.
+  - **0644**: Ms Wrenbury, a telephone booking agent. Domain
+    "Communication", scenario "how to spell your name" (an A2-tier
+    re-exploration of Book 1's much simpler A0 Lesson 0019 topic,
+    confirmed genuinely more advanced/varied rather than repeating the
+    basics). 165 scenes, 495 turns, 9,810 English words, 23 real
+    pages. 20 "bạn" hits, all qualified.
+  - **0645**: Mr Oakmere, an apartment-building doorman/concierge.
+    Domain "Communication", scenario "responding to a greeting" (an
+    A2-tier re-exploration of Book 1's A0 Lesson 0020 topic, likewise
+    confirmed more advanced). 167 scenes, 501 turns, 9,081 English
+    words, 21 real pages. 1 "bạn" hit, confirmed unambiguous.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book (645 lessons total,
+  independently re-run after all 5 were in place, and again after the
+  0641 in-review fix), all "bạn" hits personally confirmed
+  unambiguous, intros and sampled scenes (start/middle/end for 0641,
+  0642; full read-throughs reported by agents for the others and spot-
+  checked) personally read for repetitiveness and adjacent-scene
+  logic. Book 2 rebuilt in one pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0645.docx`
+  (supersedes 0601-0640), 418,229 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0646** (A2/B2 — next row per master
+  workbook; write at the ~165-170-scene/~495-510-turn A2-B2
+  calibration, apply the three standing rules — no generic "bạn" as
+  direct address; "bạn"-as-friend-noun always carries an unambiguous
+  qualifier; avoid generic/formulaic closing scenes that could
+  coincidentally duplicate another lesson's closing — verify with
   `render_check.py` against the real 16-page floor, and rebuild via
   `source/build_master_book2.py` after bumping its `LAST_LESSON`).
   The full cumulative names-used list for
@@ -2572,8 +2632,9 @@ blank pages, lesson order 0001→0459 verified).
   Hartswell, Moorland, Kestrelby, Dovecote, Brambling, Marrowfield,
   Tansley, Birchwood, Foxglen, Winterswick, Hollowbrook, Aldercrest,
   Fenstone, Wickmoor, Carrowfield, Oakbridge, Sorrelgate, Penhollow,
-  Milbrooke, Thistlecombe.
-  Pick a fresh name for Lesson 0641's secondary character and note
+  Milbrooke, Thistlecombe, Fairmont, Castlewick, Brindlecombe,
+  Wrenbury, Oakmere.
+  Pick a fresh name for Lesson 0646's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
