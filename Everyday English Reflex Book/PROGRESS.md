@@ -2523,14 +2523,74 @@ blank pages, lesson order 0001→0459 verified).
   `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0645.docx`
   (supersedes 0601-0640), 418,229 total English words, FINAL
   CUMULATIVE QC: PASS.
-- **Next lesson to write: 0646** (A2/B2 — next row per master
+- **Lessons 0646-0650 written and independently re-verified as a
+  5-lesson parallel batch** (sixth batch using the restored
+  parallel-dispatch workflow; hit a session-level rate limit that
+  killed all 5 agents before any of them wrote a single byte to disk
+  on the first attempt — all 5 redispatched fresh, which succeeded for
+  0647-0650, while 0646's agent then hit a *different* failure mode on
+  its first redispatch attempt: a single-Write-call output exceeded
+  the 64,000-token-per-tool-call API limit, so nothing was written
+  that time either. Redispatched 0646 a third time with instructions
+  to split the file into 2-3 large Write/Edit chunks instead of one
+  giant call, which succeeded):
+  - **0646**: Ms Mossgate, front-desk coordinator at Riverbend
+    Community Centre (a multi-service building routing a clinic,
+    repair workshop, library, daycare, sports hall, and volunteer
+    office through one desk). Domain "Numbers and Time", scenario "a
+    phone number" (A2-tier re-exploration of Book 1's much simpler A0
+    Lesson 0021, confirmed genuinely more advanced). 167 scenes, 501
+    turns, 9,020 English words, 20 real pages. 1 "bạn" hit ("bạn cùng
+    phòng" = roommate), qualified and unambiguous.
+  - **0647**: Mr Kirkwood, owner of Kirkwood's Home and Hardware (a
+    neighborhood household-goods shop who also does on-site repairs).
+    Domain "Home", scenario "a common household object" (A2-tier
+    re-exploration of Book 1's A0 Lesson 0022). 168 scenes, 504 turns,
+    9,888 English words, 23 real pages. 5 "bạn" hits, all qualified.
+  - **0648**: Ms Fenbridge, registration coordinator at the Maple
+    Street After-School Club (Ms Lan's daughter Mai attends; a
+    recurring family thread includes Quan, Danh, Hoa, Hanh, Tam,
+    "Uncle Ben"/James Rourke, Thanh Pham). Domain "Family", scenario
+    "a family member's name" (A2-tier re-exploration of Book 1's A0
+    Lesson 0023). 170 scenes, 510 turns, 9,126 English words, 21 real
+    pages. 24 "bạn" hits -- qualified "friend" noun uses or "hai
+    bạn"/"mỗi bạn" referring to two specific third-party children
+    (the lookalike-name girls, the twins), all unambiguous.
+  - **0649**: Mr Quillington, owner/barista of Juniper Lane Café (Ms
+    Lan's regular neighborhood café). Domain "Food", scenario
+    "choosing a drink" (A2-tier re-exploration of Book 1's A0 Lesson
+    0024). 167 scenes, 501 turns, 8,888 English words, 20 real pages.
+    11 "bạn" hits, all qualified.
+  - **0650**: Ms Blackstone, senior cashier/customer-service lead at
+    Rosedale Corner Market (Ms Lan's regular neighborhood store).
+    Domain "Shopping", scenario "a routine everyday need involving
+    shopping & payments" (A2-tier re-exploration of Book 1's A0 Lesson
+    0025). 168 scenes, 504 turns, 9,500 English words, 21 real pages.
+    11 "bạn" hits, all qualified.
+  All 5 lessons: 0 duplicate lines/sentences within each lesson, 0
+  cross-lesson duplicates against the whole book (650 lessons total,
+  independently re-run after each lesson landed), all "bạn" hits
+  personally confirmed unambiguous, intros and sampled scenes
+  personally read for repetitiveness and adjacent-scene logic; all 5
+  closings confirmed to reference specific details from earlier in
+  their own lesson rather than a generic template. Book 2 rebuilt in
+  one pass:
+  `master_book/EVERYDAY_ENGLISH_REFLEX_BOOK_2_MASTER_0601_0650.docx`
+  (supersedes 0601-0645), 464,651 total English words, FINAL
+  CUMULATIVE QC: PASS.
+- **Next lesson to write: 0651** (A2/B2 — next row per master
   workbook; write at the ~165-170-scene/~495-510-turn A2-B2
   calibration, apply the three standing rules — no generic "bạn" as
   direct address; "bạn"-as-friend-noun always carries an unambiguous
   qualifier; avoid generic/formulaic closing scenes that could
   coincidentally duplicate another lesson's closing — verify with
   `render_check.py` against the real 16-page floor, and rebuild via
-  `source/build_master_book2.py` after bumping its `LAST_LESSON`).
+  `source/build_master_book2.py` after bumping its `LAST_LESSON`). If
+  dispatching a background agent with an instruction to write the
+  whole file in one large tool call, warn it to split into 2-3 chunks
+  instead (Write + 1-2 Edit appends) to avoid exceeding the 64,000-
+  output-token-per-call API limit, which killed one 0646 redispatch
+  attempt outright.
   The full cumulative names-used list for
   secondary characters (do not reuse any of these): David, Emma, James, Sarah, Daniel, Olivia, Thomas,
   Sophie, Michael, Grace, Henry, Anna, Peter, Rachel, Kevin, Julia,
@@ -2633,8 +2693,9 @@ blank pages, lesson order 0001→0459 verified).
   Tansley, Birchwood, Foxglen, Winterswick, Hollowbrook, Aldercrest,
   Fenstone, Wickmoor, Carrowfield, Oakbridge, Sorrelgate, Penhollow,
   Milbrooke, Thistlecombe, Fairmont, Castlewick, Brindlecombe,
-  Wrenbury, Oakmere.
-  Pick a fresh name for Lesson 0646's secondary character and note
+  Wrenbury, Oakmere, Mossgate, Kirkwood, Fenbridge, Quillington,
+  Blackstone.
+  Pick a fresh name for Lesson 0651's secondary character and note
   the substitution here when it's written.
   **Lesson learned from Block 0160-0169 (important process fix):**
   four lessons in this block (0166, 0167, 0168, 0169) initially used
